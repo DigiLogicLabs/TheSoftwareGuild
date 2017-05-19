@@ -156,21 +156,27 @@ namespace Warmups.BLL
 
 
 
-        //Given a string, return a string length 1 from its front, unless front is false, in which case return a string length 1 from its back. The string will be non-empty. 
+        //Given a string, return a string length 1 from its front, unless front is false, 
+        //in which case return a string length 1 from its back. The string will be non-empty. 
 
         public string TakeOne(string str, bool fromFront)
         {
-            string suh = str.Substring(0, 1);
-            if (str.StartsWith(suh))
+            string newString = str.Substring(0, 1);
+
+            if (fromFront == true)
             {
-                return suh;
+                
+                return newString;
+
             }
             else
             {
-                return str.Substring(str.Length - 3, 1);
+               
             }
-            throw new NotImplementedException();
+            return str.Substring(str.Length-1,1);
+            
         }
+
 
 
 
@@ -207,12 +213,16 @@ namespace Warmups.BLL
 
 
 
-        //Given a string and an int n, return a string made of the first and last n chars from the string. The string length will be at least n. 
-
+        //Given a string and an int n, return a string made of the first and 
+        //last n chars from the string. The string length will be at least n. 
+                  
+            
         public string FrontAndBack(string str, int n)
         {
-            return str.Substring(0, n) + str.Substring(str.Length - n, str.Length);
-            throw new NotImplementedException();
+            int iThinkIGotit = str.Length;
+
+            return str.Substring(0, n) + str.Substring(iThinkIGotit - n);
+            
         }
 
 
@@ -241,7 +251,8 @@ namespace Warmups.BLL
 
 
 
-        //Given a string, return true if "bad" appears starting at index 0 or 1 in the string, such as with "badxxx" or "xbadxx" but not "xxbadxx". The string may be any length, including 0.
+        //Given a string, return true if "bad" appears starting at index 0 or 1 in the string, 
+        //such as with "badxxx" or "xbadxx" but not "xxbadxx". The string may be any length, including 0.
 
         public bool HasBad(string str)
         {
@@ -249,7 +260,7 @@ namespace Warmups.BLL
             if (str.Length >= 4)
             {
                 return str.Substring(0, 3).Equals("bad") ||
-                      str.Substring(1, 4).Equals("bad");
+                      str.Substring(1, 3).Equals("bad");
             }
 
             else if (str.Length == 3)
@@ -280,25 +291,22 @@ namespace Warmups.BLL
 
 
 
-        //Given 2 strings, a and b, return a new string made of the first char of a and the last char
-        // of b, so "yo" and "java" yields "ya". If either string is length 0, use '@' for its missing char. 
+        //Given 2 strings, a and b, return a new string made of the 
+        //first char of a and the last char
+        // of b, so "yo" and "java" yields "ya". If either string is length 0, 
+        //use '@' for its missing char. 
 
         public string LastChars(string a, string b)
         {
-            if(a.Length >=1 && b.Length >=1)
-            {
-                return a.Substring(0, 1) + b.Substring(b.Length - 1, 1);
-            }
-            else if (a.Length < 1 || b.Length < 1)
-            {
-                return a.Substring(0,1) + "@";
-                
-            }
-            else
-            {
-                return "@" + b.Substring(b.Length - 1, 1);
-            }
-            throw new NotImplementedException();
+
+            int lengthOfB = b.Length;
+            string combinedString = "";
+
+
+                combinedString += (a.Length >= 1) ? a[0] : '@';
+            combinedString += (lengthOfB >= 1) ? b[lengthOfB - 1] : '@';
+
+            return combinedString;
         }
 
 
@@ -309,23 +317,25 @@ namespace Warmups.BLL
         //then omit one of the chars, so "abc" and "cat" yields "abcat". 
 
 
-            //NOT DONE
+           
         public string ConCat(string a, string b)
         {
-            if (a.Length == 0 || b.Length == 0)
-                
-                 return a + b;
-            
-             if ((a.Substring(a.Length - 1, a.Length)).Equals(b.Substring(0, 1)))
-                
-                return a + b.Substring(1, b.Length);
-            
+            int ia = a.Length;
+            int ib = b.Length;
+
+            if (ia >= 1 && ib >= 1)
+            {
+                if (a[ia - 1] == b[0])
+                {
+                    return (a + b.Substring(1));
+                }
                 else
+                    return (a + b);
+            }
 
-                return a + b;
 
+            else return a += b;
 
-        
         }
 
 
@@ -401,29 +411,30 @@ namespace Warmups.BLL
 
         public string TweakFront(string str)
         {
-            if (str.StartsWith("a") && str.Substring(1, 1) == "b")
-            {
-                return str;
-            }
-            else if (str.Substring (1,1)== "b")
-            {
-                return str.Substring(1);
-            }
-            else if (str.Substring(0, 1) == "a")
-            {
-                return "a" + str.Substring(2);
-            }
-            else if (str.Length <= 0)
-            {
-                return "";
-            }
-            else
+            if (str == null || str.Length < 2) return "";
+
+            bool keepFirst = str[0] == 'a';
+            bool keepSecond = str[1] == 'b';
+            
+            if (!keepFirst && !keepSecond)
             {
                 return str.Substring(2);
             }
-            throw new NotImplementedException();
+            else if (!keepFirst && keepSecond)
+            {
+                return str.Substring(1);
+            }
+            else if (keepFirst && keepSecond)
+            {
+                return str.Substring(0);
+            }
+            else if (keepFirst && !keepSecond)
+            {
+                return str.Substring(0, 1) + str.Substring(2, str.Length - 2);
+            }
+            else return str;
         }
-
+        
 
 
 
@@ -432,24 +443,39 @@ namespace Warmups.BLL
         //Given a string, if the first or last chars are 'x', 
         //return the string without those 'x' chars, and otherwise 
         //return the string unchanged. 
+
         public string StripX(string str)
         {
-            string poo = str.Substring(0, 1);
-            string shoe = str.Substring(str.Length - 1, 0);
+            string toReturn = "";
 
-            if (poo == "x" || shoe == "x")
+            if (str.Length > 0)
             {
-                return str.Substring(1, str.Length - 1);
+                if (str.Length > 1)
+                {
+                   
+                    toReturn = str.Substring(1, str.Length - 2);
+
+                    if (str[0] != 'x')
+                    {
+                        toReturn = str[0] + toReturn;
+                    }
+                    if (str[str.Length-1] != 'x')
+                    {
+                        toReturn = toReturn + str[str.Length - 1];
+                    }
+
+               
+                }
+                else if (str != "x")
+                    
+                {
+                    toReturn = str;
+                }
             }
-            else if ( shoe == "x")
-            {
-                return str.Substring(0,2);
-            }
-            else if (str.Length == 0)
-            {
-                return str;
-            }
-            throw new NotImplementedException();
+
+            
+            return toReturn;
+                
         }
     }
 }

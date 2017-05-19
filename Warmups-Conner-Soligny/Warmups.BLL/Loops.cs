@@ -46,8 +46,18 @@ namespace Warmups.BLL
         //allowed, so "xxx" contains 2 "xx". 
         public int CountXX(string str)
         {
+            int counter = 0;
 
-            throw new NotImplementedException();
+            for (int i = 0; i < str.Length - 1; i++)
+            {
+
+                if(str[i] == 'x')
+                {
+                    counter += 1;
+                }
+            }
+            return counter;
+
         }
 
 
@@ -57,15 +67,19 @@ namespace Warmups.BLL
 
         public bool DoubleX(string str)
         {
-            if (str.Substring(1, 2) == "xx")
+            for (int i = 0; i < str.Length -1; i++)
             {
-                return true;
+                if(str[i] == 'x' && str[i + 1] == 'x')
+                {
+                    return true;
+                }
+                else if (str[i] == 'x' && str [i +1] != 'x')
+                {
+                    return false;
+                }
+                
             }
-            else
-            {
-                return false;
-            }
-            throw new NotImplementedException();
+            return false;
         }
 
 
@@ -75,15 +89,15 @@ namespace Warmups.BLL
 
         public string EveryOther(string str)
         {
-            string cashmeoutside = "";
+            string firstString = "";
 
-            for (int i = 0; i < str.Length; i += 2)
+            for (int i = 0; i < str.Length; i = i+2)
             {
-                cashmeoutside = cashmeoutside + str.Substring(i);
+                firstString += str[i];
             }
 
-
-            throw new NotImplementedException();
+            return firstString;
+            
         }
 
 
@@ -115,25 +129,24 @@ namespace Warmups.BLL
 
         public int CountLast2(string str)
         {
-            if (str.Length < 2)
-            {
-                return 0;
-            }
 
             string end = str.Substring(str.Length - 2);
-            int count = 0;
+             int count = 0;
 
-            for (int i = 0; i < str.Length - 2; i++)
+
+            for (int i = 0; i < str.Length -2; i++)
             {
-                string sub = str.Substring(i, i + 2);
-
-                if (sub.Equals(end))
+                
+                if(str.Substring(i, 2) == end)
                 {
-                    count++;
+                    count = count + 1;
                 }
             }
 
+
             return count;
+
+
             throw new NotImplementedException();
         }
 
@@ -145,15 +158,17 @@ namespace Warmups.BLL
 
         public int Count9(int[] numbers)
         {
-            int jesus = numbers.Length > 4 ? 4 : numbers.Length;
-            for (int i = 0; i < jesus; i++)
+            int count = 0;
+            for (int i = 0; i < numbers.Length; i++)
             {
                 if (numbers[i] == 9)
                 {
-                    return numbers[i];
+                    count++;
+                    
                 }
 
             }
+            return count;
             throw new NotImplementedException();
         }
 
@@ -189,12 +204,12 @@ namespace Warmups.BLL
 
         public bool Array123(int[] numbers)
         {
-            int todayJunior = 1;
             for (int i = 0; i < numbers.Length - 2; i++)
             {
                 if (numbers[i] == 1 && numbers[i + 1] == 2 && numbers[i + 2] == 3)
+                {
                     return true;
-            }
+                }           }
             return false;
             throw new NotImplementedException();
         }
@@ -210,15 +225,34 @@ namespace Warmups.BLL
 
         public int SubStringMatch(string a, string b)
         {
-            int hey = a.Length <= b.Length? a.Length : b.Length;
-            hey--;
             int count = 0;
-            for (int i = 0; i < hey; i++)
+            
+            
+            if(a.Length >3 )
             {
-                if (a.Substring(i, i + 2).Equals(b.Substring(i, i + 2)))
-                    count++;
+                for (int i = 0; i < a.Length - 2; i++)
+                {
+                    if(a.Substring(i,2) == b.Substring(i,2))
+                    {
+                        count++;
+                    }
+
+                }
+            }
+            else
+            {
+                for (int i = 0; i < a.Length -1; i++)
+                {
+                    if (a.Substring(i,2) == b.Substring(i,2))
+                    {
+                        count++;
+                    }
+
+                }
             }
             return count;
+            
+
             throw new NotImplementedException();
         }
 
@@ -231,46 +265,53 @@ namespace Warmups.BLL
 
         public string StringX(string str)
         {
-            int jesus = str.Length;
-            if (jesus >= 2)
+            string newString = "";
+            string oldString = "";
+            string firtPart = str.Substring(0,1);
+            string secondPart = str.Substring(str.Length - 1, 1);
+           
+            if (str.Substring(0,1) != "x" || (str.Substring(str.Length-1,1) != "x"))
             {
-                jesus--;
-                for (int i = 1; i < jesus; i++)
-                {
 
-                }
-        
-    }
-            else
-                return str;
-            throw new NotImplementedException();
+                newString = str.Substring(0, str.Length-1).Replace(@"x","" );
+
+
+                return newString + secondPart;
+            }
+            else if (str.Substring(0, 1) == "x" && (str.Substring(str.Length - 1, 1) == "x"))
+            {
+                oldString = str.Substring(1, str.Length - 1).Replace(@"x", "");
+            }
+            return firtPart + oldString + secondPart ;
         }
 
 
 
 
 
-        //Given a string, return a string made of the chars at indexes 0,1, 4,5, 8,9 ... 
+        //Given a string, return a string made 
+        //of the chars at indexes 0,1, 4,5, 8,9 ... 
         //so "kittens" yields "kien". 
 
 
         public string AltPairs(string str)
         {
-            int may = str.Length;
-            if (may >= 3)
+            string result = "";
+
+            for (int i = 0; i < str.Length; i += 4)
             {
-                for (int i = 0; i < may; i += 4)
+                
+                result += str[i];
+
+                if (i+1 < str.Length)
                 {
-                    if (i + 1 < may)
-                    {
-                        return str;
-                    }
+                    result += str[i + 1];               
                 }
-                return str;
+                
             }
-            else
-                return str;
-            throw new NotImplementedException();
+
+            return result;
+
         }
 
 
@@ -283,8 +324,19 @@ namespace Warmups.BLL
 
         public string DoNotYak(string str)
         {
-            return "pak";
-                throw new NotImplementedException();
+            string ifIneed = str.Replace("yak", "");
+            
+            
+            for (int i = 0; i < str.Length -2  ; i++)
+            {
+                if (str.Substring(i,3) == "yak")
+                {
+                    return ifIneed;
+                    
+                }
+            }
+            return str;
+                
 
             
         }
@@ -336,6 +388,7 @@ namespace Warmups.BLL
         public bool Pattern51(int[] numbers)
         {
             int yes;
+
             for (int i = 0; i < numbers.Length - 2; i++)
             {
                 if (numbers[i] + 5 == numbers[i + 1])

@@ -11,6 +11,7 @@ namespace Warmups.BLL
         }
 
 
+        //number 2
         public bool CanSleepIn(bool isWeekday, bool isVacation)
         {
 
@@ -19,30 +20,30 @@ namespace Warmups.BLL
                 return true;
             }
             else if (isVacation == true)
-                {
-                    return true;
-                }
-            
-            else 
+            {
+                return true;
+            }
+
+            else
             {
                 return false;
             }
-        
+
         }
 
-
+        //number 3
         public int SumDouble(int a, int b)
         {
             int sum = a + b;
-                if (a == b)
+            if (a == b)
             {
                 sum = sum * 2;
             }
             return sum;
 
         }
-        
 
+        //number 4
         public int Diff21(int n)
         {
             if (n <= 21)
@@ -54,12 +55,12 @@ namespace Warmups.BLL
                 return (n - 21) * 2;
             }
         }
-        
 
+        //number 5
         public bool ParrotTrouble(bool isTalking, int hour)
         {
             return isTalking && (hour < 7 || hour > 20);
-            
+
         }
 
 
@@ -68,7 +69,7 @@ namespace Warmups.BLL
 
         public bool Makes10(int a, int b)
         {
-            return (a == 10 || b == 10 || a+b == 10);  
+            return (a == 10 || b == 10 || a + b == 10);
         }
 
 
@@ -77,7 +78,7 @@ namespace Warmups.BLL
 
         public bool NearHundred(int n)
         {
-            return ((Math.Abs(100 - n) <= 10) || (Math.Abs(200 - n) <=10));
+            return ((Math.Abs(100 - n) <= 10) || (Math.Abs(200 - n) <= 10));
         }
 
 
@@ -99,9 +100,9 @@ namespace Warmups.BLL
             throw new NotImplementedException();
         }
 
-        
 
-        
+
+
         //string, return a new string where "not " has been added to the front. 
         //if the string already begins with "not", return the string unchanged.
 
@@ -111,7 +112,7 @@ namespace Warmups.BLL
             {
                 return s;
             }
-                return "not " + s;
+            return "not " + s;
             throw new NotImplementedException();
         }
 
@@ -120,14 +121,13 @@ namespace Warmups.BLL
 
         //Given a non-empty string and an int n, return a new string where the char at index n has been removed. 
         //The value of n will be a valid index of a char in the original string (Don't check for bad index). 
-                                                        //NOT DONE
 
         public string MissingChar(string str, int n)
-            
+
         {
-            string newFirst = str.Substring(0, n);
-            string newLast = str.Substring(n + 1, str.Length);
-            return newFirst + newLast;
+            string b = str.Substring(0, n);
+            string c = str.Substring(n + 1);
+            return b + c;
             throw new NotImplementedException();
         }
 
@@ -141,21 +141,22 @@ namespace Warmups.BLL
         {
             var first = str[0];
             var last = str[str.Length - 1];
-           
-            
+
+
             if (str.Length <= 1)
             {
 
                 return str;
             }
-            else { 
+            else
+            {
                 string mid = str.Substring(1, str.Length - 2);
-            return last + mid + first;
+                return last + mid + first;
             }
             throw new NotImplementedException();
         }
 
-       
+
 
 
         //Given a string, we'll say that the front is the first 3 chars of the string. 
@@ -163,7 +164,7 @@ namespace Warmups.BLL
 
         public string Front3(string str)
         {
-            
+
             if (str.Length <= 2)
             {
                 return str + str + str;
@@ -174,21 +175,21 @@ namespace Warmups.BLL
                 return newFront + newFront + newFront;
 
             }
-            
+
             throw new NotImplementedException();
         }
 
 
 
 
-       
+
         //Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt".
         // The original string will be length 1 or more. 
 
         public string BackAround(string str)
         {
             char first = str[str.Length - 1];
-            return first+str+first;
+            return first + str + first;
 
             throw new NotImplementedException();
         }
@@ -197,9 +198,9 @@ namespace Warmups.BLL
 
 
 
-       
+
         //Return true if the given non-negative number is a multiple of 3 or a multiple of 5. Use the % "mod" operator
-        
+
         public bool Multiple3or5(int number)
         {
             if (number % 3 == 0 || number % 5 == 0)
@@ -213,22 +214,24 @@ namespace Warmups.BLL
             throw new NotImplementedException();
         }
 
-        
 
 
-        
+
+
         //Given a string, return true if the string starts with "hi" and false otherwise. 
-                                            //NOT DONE
+
         public bool StartHi(string str)
-        { 
-            if (str == "hi" ) //|| Regex.IsMatch (str, @"\bhi\b")
-            {
-                return true;
-            }
-            else
+        {
+            if (str.Length < 2 || (str.Length > 2 && str.Substring(0,3) == "hip" || str.Length > 2 && str.Substring(0,3) == "hig"))
             {
                 return false;
             }
+            else
+            {
+                string start = str.Substring(0, 2);
+                return start.Equals("hi");
+            }
+
             throw new NotImplementedException();
         }
 
@@ -271,7 +274,7 @@ namespace Warmups.BLL
 
         public bool HasTeen(int a, int b, int c)
         {
-           return (((a > 12 & a < 20) ^ (b > 12 & b < 20) ^ (c > 12 & c < 20)));
+            return (((a > 12 & a < 20) || (b > 12 & b < 20) || (c > 12 & c < 20)));
             throw new NotImplementedException();
         }
 
@@ -290,7 +293,7 @@ namespace Warmups.BLL
             }
             else if ((a > 12 && a < 20) || (b > 12 && b < 20))
             {
-                    return true;
+                return true;
             }
             else
             {
@@ -345,16 +348,32 @@ namespace Warmups.BLL
 
         //Given a string, return a string made of the first 2 chars (if present), 
         //however include first char only if it is 'o' and include the second only if it is 'z', so "ozymandias" yields "oz". 
-                                                    //NOT DONE
+        //NOT DONE
         public string StartOz(string str)
         {
-            if (str.Substring(0,2) == "oz") 
+            string s = "";
+            if (str.Length > 1)
             {
-                return "o" + "z";
+
+                if (str[0] == 'o')
+                {
+                    s += str.Substring(0, 1);
+                }
+
+                if (str[1] == 'z')
+                {
+                    s += str.Substring(1, 1);
+                }
+
+                return s;
+            }
+            else if (str.Length == 1 && str[0] == 'o')
+            {
+                return "o";
             }
             else
             {
-                return str;
+                return s;
             }
             throw new NotImplementedException();
         }
@@ -412,10 +431,15 @@ namespace Warmups.BLL
 
         public bool GotE(string str)
         {
-        
+            if(str.Substring(0,2) == "He" && str.Length <= 6 )
             {
                 return true;
             }
+            else if(str.Length > 6 || str.Substring(0,1) == "3")
+            {
+                return false;
+            }
+            
             throw new NotImplementedException();
         }
 
@@ -425,11 +449,14 @@ namespace Warmups.BLL
         //Given a string, return a new string where the last 3 chars are now in upper case. 
         //If the string has less than 3 chars, uppercase whatever is there. 
 
+
         public string EndUp(string str)
         {
+
             if (str.Length > 3)
             {
-                return (str.Substring(0, str.Length - 3) + (str.Substring((str.Length - 3), str.Length)));
+                string y = str.Substring(str.Length - 3);
+                return (str.Substring(0, str.Length - 3) + y.ToUpper());
             }
             else
             {
@@ -448,18 +475,18 @@ namespace Warmups.BLL
 
         public string EveryNth(string str, int n)
         {
-            string s = "";
-            for (int i = 0; i < str.Length;)
+            string h = "";
+            for (int i = 0; i < str.Length; i = i + n) // increments of i+n
             {
+                h += str[i];
                 
-                i += n;
             }
-            return s;
+            return h;
         }
-        }
-    }
 
-    internal class Regex
-    {
+        
+        
+        
     }
+}
 

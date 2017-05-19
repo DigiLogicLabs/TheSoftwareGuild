@@ -93,15 +93,30 @@ namespace Warmups.BLL
 
         public int[] Reverse(int[] numbers)
         {
-            int[] rotated = { numbers[2], numbers[1], numbers[0] };
-            return rotated;
+            if (numbers.Length == 3)
+            {
+                int[] rotated = { numbers[2], numbers[1], numbers[0] };
+                return rotated;
+            }
+            else if (numbers.Length == 4)
+            {
+                int[] rotated2 = {numbers[3], numbers[2], numbers[1], numbers[0] };
+                return rotated2;
+            }
+            else if (numbers.Length == 1)
+            {
+                return numbers;
+            }
+
             throw new NotImplementedException();
         }
 
 
 
 
-        //Given an array of ints, figure out which is larger between the first and last elements in the array, and set all the other elements to be that value. Return the changed array. 
+        //Given an array of ints, figure out which is larger 
+        //between the first and last elements in the array, 
+        //and set all the other elements to be that value. Return the changed array. 
 
         public int[] HigherWins(int[] numbers)
         {
@@ -142,6 +157,11 @@ namespace Warmups.BLL
                 {
                     return true;
                 }
+                else if(numbers[0]==7)
+                {
+                   
+                    return false;
+                }
             }
             throw new NotImplementedException();
         }
@@ -149,7 +169,9 @@ namespace Warmups.BLL
 
 
 
-        //Given an int array, return a new array with double the length where its last element is the same as the original array, and all the other elements are 0. The original array will be length 1 or more. Note: by default, a new int array contains all 0's. 
+        //Given an int array, return a new array with double the length where its 
+        //last element is the same as the original array, and all the other elements are 0. 
+        //The original array will be length 1 or more. Note: by default, a new int array contains all 0's. 
 
         public int[] KeepLast(int[] numbers)
         {
@@ -170,16 +192,20 @@ namespace Warmups.BLL
         public bool Double23(int[] numbers)
         {
 
-            if (numbers[0] == 2 && (numbers[1] == 2) || (numbers[0] == 3 && (numbers[1] == 3)))
-                {
-                    return true;
+            int count2 = 0;
+            int count3 = 0;
 
-                }
-            else
+            for (int i = 0; i < numbers.Length; i++)
             {
-                return false;
+                if (numbers[i] == 2)
+                    count2++;
+
+                if (numbers[i] == 3)
+                    count3++;
             }
-            
+
+            return count2 == 2 || count3 == 2;
+
             throw new NotImplementedException();
         }
 
@@ -190,12 +216,17 @@ namespace Warmups.BLL
         public int[] Fix23(int[] numbers)
         {
             int[] fart = { numbers[0], numbers[1], numbers[2] };
+
             if (numbers[0] == 2 && numbers[1] == 3)
+
                 fart[1] = 0;
+
             if (numbers[1] == 2 && numbers[2] == 3)
+
                 fart[2] = 0;
+
             return fart;
-            throw new NotImplementedException();
+         
         }
 
 
@@ -226,22 +257,23 @@ namespace Warmups.BLL
         //elements available between the 2 arrays. 
         public int[] Make2(int[] a, int[] b)
         {
-            int[] lit = new int[a.Length + b.Length];
+            int[] fun = new int[a.Length + b.Length];
             int me = 0;
-            int[] tree = new int[2];
+            int[] answer = new int[2];
+
             while (me < a.Length)
             {
-                lit[me] = a[me];
+                fun[me] = a[me];
                 me++;
             }
             while (me < b.Length + a.Length)
             {
-                lit[me] = b[me - a.Length];
+                fun[me] = b[me - a.Length];
                 me++;
             }
-            tree[0] = lit[0];
-            tree[1] = lit[1];
-            return tree;
+            answer[0] = fun[0];
+            answer[1] = fun[1];
+            return answer;
 
             throw new NotImplementedException();
         }

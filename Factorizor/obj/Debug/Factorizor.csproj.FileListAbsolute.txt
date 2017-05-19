@@ -1,0 +1,7 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Factorizor\Start\Factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Factorizor\obj\Debug\Factorizor.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Factorizor\obj\Debug\Factorizor.pdb

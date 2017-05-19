@@ -17,9 +17,9 @@ namespace Warmups.BLL
         public bool GreatParty(int cigars, bool isWeekend)
         {
             bool partyIsSuccessfulAtWeekday = 39 < cigars && cigars < 61 && !isWeekend;
-            bool partyIsSuccessfulAtWeekend = 39 < cigars && isWeekend;
+            bool partyWeekend = 39 < cigars && isWeekend;
 
-            return partyIsSuccessfulAtWeekday || partyIsSuccessfulAtWeekend;
+            return partyIsSuccessfulAtWeekday || partyWeekend;
             throw new NotImplementedException();
         }
 

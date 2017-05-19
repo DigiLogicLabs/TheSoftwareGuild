@@ -1,0 +1,10 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\bin\Debug\Warmups.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\bin\Debug\Warmups.BLL.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\obj\Debug\Warmups.BLL.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\obj\Debug\Warmups.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\obj\Debug\Warmups.BLL.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Warmups-Conner-Soligny\Warmups.BLL\bin\Debug\Warmups.BLL.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Warmups-Conner-Soligny\Warmups.BLL\bin\Debug\Warmups.BLL.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Warmups-Conner-Soligny\Warmups.BLL\obj\Debug\Warmups.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Warmups-Conner-Soligny\Warmups.BLL\obj\Debug\Warmups.BLL.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\Warmups-Conner-Soligny\Warmups.BLL\obj\Debug\Warmups.BLL.pdb
