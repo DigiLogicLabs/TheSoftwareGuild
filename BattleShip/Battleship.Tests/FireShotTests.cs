@@ -10,6 +10,7 @@ namespace Battleship.Tests
     public class FireShotTests
     {
         #region "Board Setup"
+
         /// <summary>
         /// Let's set up a board as follows:
         /// Destroyer: (1,8) (2,8)
@@ -17,7 +18,7 @@ namespace Battleship.Tests
         /// Sub: (1,5) (2,5) (3,5)
         /// Battleship: (10,6) (10,7) (10,8) (10, 9)
         /// Carrier: (4,4) (5,4) (6,4) (7,4) (8,4)
-        /// 
+        ///
         ///    1 2 3 4 5 6 7 8 9 10
         ///  1     R
         ///  2     R
@@ -48,7 +49,7 @@ namespace Battleship.Tests
         {
             var request = new PlaceShipRequest()
             {
-                Coordinate = new Coordinate(4,4),
+                Coordinate = new Coordinate(4, 4),
                 Direction = ShipDirection.Right,
                 ShipType = ShipType.Carrier
             };
@@ -96,14 +97,15 @@ namespace Battleship.Tests
         {
             var request = new PlaceShipRequest()
             {
-                Coordinate = new Coordinate(8,1),
+                Coordinate = new Coordinate(8, 1),
                 Direction = ShipDirection.Right,
                 ShipType = ShipType.Destroyer
             };
 
             board.PlaceShip(request);
         }
-        #endregion
+
+        #endregion "Board Setup"
 
         [Test]
         public void CoordinateEquality()

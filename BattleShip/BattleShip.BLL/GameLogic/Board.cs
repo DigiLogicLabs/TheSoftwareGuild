@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using BattleShip.BLL.Requests;
+﻿using BattleShip.BLL.Requests;
 using BattleShip.BLL.Responses;
 using BattleShip.BLL.Ships;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace BattleShip.BLL.GameLogic
 {
@@ -42,12 +42,12 @@ namespace BattleShip.BLL.GameLogic
             CheckShipsForHit(coordinate, response);
             CheckForVictory(response);
 
-            return response;            
+            return response;
         }
 
         public ShotHistory CheckCoordinate(Coordinate coordinate)
         {
-            if(ShotHistory.ContainsKey(coordinate))
+            if (ShotHistory.ContainsKey(coordinate))
             {
                 return ShotHistory[coordinate];
             }
@@ -70,10 +70,13 @@ namespace BattleShip.BLL.GameLogic
             {
                 case ShipDirection.Down:
                     return PlaceShipDown(request.Coordinate, newShip);
+
                 case ShipDirection.Up:
                     return PlaceShipUp(request.Coordinate, newShip);
+
                 case ShipDirection.Left:
                     return PlaceShipLeft(request.Coordinate, newShip);
+
                 default:
                     return PlaceShipRight(request.Coordinate, newShip);
             }
@@ -108,6 +111,7 @@ namespace BattleShip.BLL.GameLogic
                         response.ShipImpacted = ship.ShipName;
                         ShotHistory.Add(coordinate, Responses.ShotHistory.Hit);
                         break;
+
                     case ShotStatus.Hit:
                         response.ShotStatus = ShotStatus.Hit;
                         response.ShipImpacted = ship.ShipName;

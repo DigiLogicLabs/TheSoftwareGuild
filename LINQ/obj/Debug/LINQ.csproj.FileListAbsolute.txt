@@ -1,0 +1,8 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\bin\Debug\Customers.xml
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\bin\Debug\LINQ.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\obj\Debug\LINQ.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\LINQ\obj\Debug\LINQ.pdb
