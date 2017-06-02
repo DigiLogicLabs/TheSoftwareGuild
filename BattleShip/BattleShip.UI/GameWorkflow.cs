@@ -2,9 +2,6 @@
 {
     public class GameWorkflow
     {
-        public GameWorkflow()
-        {
-            ConsoleOutput.SplashScreen();
-        }
+        
     }
 }

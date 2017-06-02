@@ -36,7 +36,7 @@ namespace LINQ
               //Exercise18();
             //Exercise19();
             //Exercise20();
-            //Exercise21();
+            Exercise21();
            // Exercise22();
             //Exercise23();
              // Exercise24();
@@ -47,7 +47,7 @@ namespace LINQ
             //Exercise29();
             //Exercise29();
             //Exercise30();
-            Exercise31();
+           // Exercise31();
 
 
             Console.WriteLine("Press any key to continue...");
@@ -123,7 +123,7 @@ namespace LINQ
         {
             List<Product> products = DataLoader.LoadProducts();
 
-            var filtered = products.Where(p => p.UnitsInStock == 0);
+            var filtered = products.Where(p => p.UnitsInStock <= 0);
             PrintProductInformation(filtered);
 
         }

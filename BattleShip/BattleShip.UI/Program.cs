@@ -1,14 +1,23 @@
-﻿using BattleShip.BLL.GameLogic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace BattleShip.UI
 {
-    public class Program
+    class Program
     {
         private static void Main(string[] args)
         {
-            SetupWorkflow start = new SetupWorkflow();
+            ConsoleOutput.SplashScreen();
+            Console.Clear();
 
-            ShipCreator playerShip = new ShipCreator();
+            ConsoleInput.PlayerNameSet();
+            Console.Clear();
+
+
+
         }
     }
 }

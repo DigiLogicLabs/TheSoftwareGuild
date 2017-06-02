@@ -47,5 +47,31 @@ namespace BattleShip.UI
             Console.ReadLine();
         }
 
+        //Board drawn -- needs physical border
+        public static void DrawingBoard()
+        {
+            throw new NotImplementedException();
+
+            string[,] playersBoardActually = new string[11, 11];
+            for (int i = 0; i < playersBoardActually.GetLength(0); i++)
+            {
+                for (int j = 0; j < playersBoardActually.GetLength(1); j++)
+                {
+                    if (playersBoardActually[i, j] == "H")
+                    {
+                    }
+                }
+            }
+        }
+
+        public static void ErrorNoSpace()
+        {
+            throw new NotImplementedException();
+        }
+
+        public static void ErrorOverLap()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

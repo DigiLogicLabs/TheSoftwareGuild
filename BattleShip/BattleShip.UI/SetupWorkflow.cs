@@ -1,5 +1,7 @@
 ﻿using BattleShip.BLL.GameLogic;
-using BattleShip.BLL.Players;
+using BattleShip.BLL.Requests;
+using BattleShip.BLL.Responses;
+using BattleShip.UI;
 using BattleShip.BLL.Ships;
 using System;
 
@@ -17,20 +19,12 @@ namespace BattleShip.UI
         public void Start()
 
         {
-            P1 = CreatePlayer(1);
-            P2 = CreatePlayer(2);
+            
             P1First = RNG.FlipCoin();
+           // P1.Name 
         }
 
-        private Player CreatePlayer(int playerNumb)
-        {
-            var name = PlayerInput.GetName();
-            var p = new Player(name);
-
-            PlaceShips(p.DisplayBoard);
-
-            return p;
-        }
+       
 
         private void PlaceShips(Board toSetUp)
         {
@@ -48,7 +42,7 @@ namespace BattleShip.UI
         //Each player takes a turn placing the ships on the board (starting pos, and direction to place)
         public void GetInfoFromPlayer()
         {
-            var name = PlayerInput.GetName();
+           // var name = PlayerInput.GetName();
         }
 
         //Ask the users for name inputs (2players(a,b)) & store those values for message references.

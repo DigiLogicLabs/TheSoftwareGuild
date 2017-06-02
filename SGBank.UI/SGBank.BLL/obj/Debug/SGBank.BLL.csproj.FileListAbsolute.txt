@@ -1,0 +1,9 @@
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Data.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Models.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csprojResolveAssemblyReference.cache
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.pdb

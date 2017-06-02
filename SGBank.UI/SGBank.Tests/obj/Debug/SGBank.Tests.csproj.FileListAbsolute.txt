@@ -1,0 +1,14 @@
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\nunit.framework.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Data.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Models.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\bin\Debug\nunit.framework.xml
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.csprojResolveAssemblyReference.cache
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Tests\obj\Debug\SGBank.Tests.pdb
