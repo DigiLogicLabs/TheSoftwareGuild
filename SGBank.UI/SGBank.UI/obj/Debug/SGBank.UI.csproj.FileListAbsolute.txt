@@ -10,3 +10,15 @@ c:\users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.UI\ob
 c:\users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.UI\obj\Debug\SGBank.UI.pdb
 c:\users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.UI\bin\Debug\SGBank.Data.dll
 c:\users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\obj\Debug\SGBank.UI.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.UI\bin\Debug\SGBank.UI.exe.config

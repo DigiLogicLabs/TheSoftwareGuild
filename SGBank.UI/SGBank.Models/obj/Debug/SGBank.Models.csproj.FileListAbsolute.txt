@@ -3,3 +3,8 @@ c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Model
 c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
 c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
 c:\Users\csharpener\documents\visual studio 2017\Projects\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb

@@ -48,12 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Workflows\AccountLookupWorkflow.cs" />
     <Compile Include="Workflows\DepositWorkflow.cs" />
-    <Compile Include="..\..\..\..\..\Desktop\Repos\conner-soligny-individual-work\SGBankSummative\WithdrawWorkflow.cs">
-      <Link>Workflows\WithdrawWorkflow.cs</Link>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\..\Desktop\Repos\conner-soligny-individual-work\SGBankSummative\SGBankApp.config" />
+    <Compile Include="Workflows\WithdrawWorkflow.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SGBank.BLL\SGBank.BLL.csproj">
@@ -64,6 +59,9 @@
       <Project>{029dc11a-2931-4ffc-aff7-f9101933ead7}</Project>
       <Name>SGBank.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

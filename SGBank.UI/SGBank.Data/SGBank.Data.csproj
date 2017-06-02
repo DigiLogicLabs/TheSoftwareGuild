@@ -40,8 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationLiveData\FileAccountRepository.cs" />
     <Compile Include="BasicAccountTestRepository.cs" />
-    <Compile Include="FileAccountRepository.cs" />
     <Compile Include="FreeAccountTestRepository.cs" />
     <Compile Include="PremiumAccountTestRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -52,5 +52,6 @@
       <Name>SGBank.Models</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
