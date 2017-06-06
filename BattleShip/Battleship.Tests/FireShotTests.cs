@@ -32,7 +32,7 @@ namespace Battleship.Tests
         /// 10
         /// </summary>
         /// <returns>A board that is ready to play</returns>
-        private Board SetupBoard()
+        private Board  SetupBoard()
         {
             Board board = new Board();
 

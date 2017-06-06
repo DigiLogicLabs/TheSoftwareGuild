@@ -21,8 +21,9 @@ namespace SGBank.BLL.WithdrawRules
                 response.Message = "Error: A non Premium account hit the Premium Withdrawal Rule. Contact IT";
                 return response;
             }
-            if (account.Balance + amount < 0)
+            if (account.Balance + amount < -500)
             {
+
                 response.Success = false;
                 response.Message = $"Your account has insufficient funds for that withdrawal amount";
                 return response;
@@ -41,7 +42,14 @@ namespace SGBank.BLL.WithdrawRules
                 return response;
 
             }
+            response.Success = true;
+            response.Account = account;
+            response.Amount = amount;
+            response.OldBalance = account.Balance;
+            account.Balance += amount;
             return response;
+
+            
         }
     }
 }

@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BattleShip.UI;
+using BattleShip.BLL;
+using BattleShip.BLL.GameLogic;
+
 
 namespace BattleShip.UI
 {
@@ -10,11 +14,11 @@ namespace BattleShip.UI
     {
         private static void Main(string[] args)
         {
-            ConsoleOutput.SplashScreen();
-            Console.Clear();
+          GameWorkflow game = new GameWorkflow();
 
-            ConsoleInput.PlayerNameSet();
-            Console.Clear();
+            game.Run();
+
+
 
 
 

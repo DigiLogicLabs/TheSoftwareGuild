@@ -7,61 +7,93 @@ using System.Threading.Tasks;
 using BattleShip.BLL.Requests;
 using BattleShip.BLL.Responses;
 using BattleShip.BLL.Ships;
+using BattleShip.UI;
 
 namespace BattleShip.UI
 {
    public static class ConsoleInput
     {
-        public static void PlayerNameSet()
+
+        public static Coordinate GrabCoordinate()
         {
-            Console.WriteLine("Player 1 Enter your name: ");
-           string p1Name = Console.ReadLine();
-
-            Console.Clear();
-
-            Console.WriteLine("Player 2 Enter your name: ");
-            string p2Name = Console.ReadLine();
-
-            
-
-        }
-
-        public static Coordinate GrabCoordinate(string name)
-        {
-            bool positCheck = true;
+            bool invalidInput = true;
             int x = 0;
             int y = 0;
-            while (positCheck)
+
+
+            string temporaryCoord = "";
+            
+
+            while (invalidInput)
             {
-                Console.Clear();
-                ConsoleOutput.DrawingBoard();
-                Console.WriteLine($"{name}, please enter a coordinate.");
                 
-                string temporaryCoord = Console.ReadLine();
+                temporaryCoord = Console.ReadLine();
 
-                x = GrabX(temporaryCoord, name);
+                Console.Clear();
 
-                //TODO: check value of x...if it's -1 input was invalid
-                y = GetY(temporaryCoord, name);
-                if (y > 10 || y < 1)
+               
+
+                x = GrabX(temporaryCoord);
+
+                
+                y = GetY(temporaryCoord);
+
+               
+                if (y > 10 || y < 1 || x< 1 || x> 10)
                 {
-
+                    Console.WriteLine($"You've entered an invalid coordinate position.");
+                    
+                }
+                else
+                {
+                    invalidInput = false;
                 }
             }
-            throw new NotImplementedException();
+
+           
+            x = temporaryCoord[0] - 'A' + 1;
+            y = int.Parse(temporaryCoord.Substring(1));
+
+            return new Coordinate(x, y);
         }
 
 
-        public static ShipDirection GrabDirection(string name, ShipType sType)
-        {
-            while (true)
-            {
-                var direction = ShipDirection.Down;
 
-                Console.WriteLine($"{name}, Enter a direction for your {sType}'s placement:");
+        internal static bool ValidCoordinate(string input)
+        {
+            int columns;
+            char rows;
+
+            if (string.IsNullOrEmpty(input))
+            {
+                return false;
+            }
+            bool Valid = char.TryParse(input.Substring(0, 1), out rows);
+            Valid = int.TryParse(input.Substring(1), out columns);
+
+            if (rows < 'A' || rows> 'J' || columns <0 || columns >10)
+            {
+                return false;
+            }
+            return Valid;
+        }
+
+
+
+        public static ShipDirection GrabDirection( ShipType sType)
+        {
+            bool valid = true;
+            var direction = ShipDirection.Down;
+            while (valid)
+            {
+               
+                
+
+                Console.WriteLine(" Enter a direction for your ship placement:");
                 Console.WriteLine("U = up, D = down, R = right, L = left");
 
                 string readUserString = Console.ReadLine();
+
                 if (readUserString == "U" || readUserString == "u")
                 {
                     direction = ShipDirection.Up;
@@ -88,13 +120,21 @@ namespace BattleShip.UI
                 }
 
             }
-            throw new NotImplementedException();
+            return direction;
         }
-       
-        
+
+
+
+        internal static string GrabbingName(int num)
+        {
+            Console.Clear();
+            Console.WriteLine($"Enter your player Name {num}: ");
+            string playerName = Console.ReadLine();
+            return playerName;
+        }
         
         //Take the X coordinate from the user
-        public static int GrabX(string s, string name)
+        public static int GrabX(string s)
         {
             int x = -1;
 
@@ -102,7 +142,7 @@ namespace BattleShip.UI
             if (s == "")
             {
 
-                Console.WriteLine($"{name}, not a valid coordinate, change your X!");
+                Console.WriteLine($"Not a valid coordinate, change your X!");
             }
             else
             {
@@ -169,20 +209,29 @@ namespace BattleShip.UI
 
 
         //Take the Y coordinate from the user
-        public static int GetY(string s, string name)
+        public static int GetY(string s)
         {
             //Second coordinate after A-J, 1-10. If greater than 10 or less than 1, give new coordinates.
-            int y;
+            int y =-1;
             if (s == "")
             {
                 
-                Console.WriteLine($"{name}, not a valid coordinate, change your Y!");
+                Console.WriteLine($"Not a valid coordinate, change your Y!");
             }
-            int.TryParse(s.Substring(1), out y);
-            if (y < 1 || y > 10)
+            
+            else
             {
-                Console.WriteLine($"{name}, Y coordinate too large or too small!");
+                int.TryParse(s.Substring(1), out y);
+                if (y < 1 || y > 10)
+                {
+
+                    Console.WriteLine($"Y coordinate too large or too small!");
+                }
             }
+
+
+
+
             return y;
         }
     }
