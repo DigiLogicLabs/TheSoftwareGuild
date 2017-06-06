@@ -1,0 +1,11 @@
+298, "Selik, God of Death", Gili's Delve, 7.00, Glowpearl Adamant Of Spirits , 91.00, 669.00, 534.00, 60879.00, 48594.00, 7663.11, 117136.11
+742, Magus Felldrake, The Citadel of Lord Greywulf, 0.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 258.00, 676.00, 683.00, 174408.00, 176214.00, 0.00, 350622.00
+1188, Tarot Dawn, Grori's Deep, 4.00, Vampires' Hammer Emeraldmetal , 227.00, 191.00, 47.00, 43357.00, 10669.00, 2161.04, 56187.04
+1640, Seraphim Tsunami, The Archer and Scroll, 11.00, Foul Ice Bronze Of Life , 325.00, 168.00, 97.00, 54600.00, 31525.00, 9473.75, 95598.75
+2073, Shadow Gust, The Tomb of Hellish Ruin, 14.00, Zephyr Adamant , 168.00, 215.00, 3.00, 36120.00, 504.00, 5127.36, 41751.36
+2526, "Ahah, Goddess of Knowledge", The Fortress of the Lich Queen, 6.00, Litches' Fatal Mithril Of The Past , 117.00, 654.00, 602.00, 76518.00, 70434.00, 8817.12, 155769.12
+2984, Storm Squallmourner, The Citadel of Tattena the Sinister, 23.00, Litches' Fatal Mithril Of The Past , 83.00, 654.00, 602.00, 54282.00, 49966.00, 23977.04, 128225.04
+3438, "Maeglodor, God of Thieves", The Pilgrim's Cup, 21.00, Magic Adamant , 306.00, 746.00, 526.00, 228276.00, 160956.00, 81738.72, 470970.72
+.3907,Zeal Bladewitch,The Black Barrow of Zago the Possessed,.23.00,Mithril Of The Tropics ,.307.00,.386.00,.319.00,.118502.00,.97933.00,.49780.05,.266215.05
+4350, Song Runetomb, The Broken Shield, 7.00, Meteoric Dustzephyr Orichalcum , 42.00, 232.00, 37.00, 9744.00, 1554.00, 790.86, 12088.86
+4794, Dagger Reaper, The Grey Plains, 3.00, Mithril Of Legend , 85.00, 382.00, 657.00, 32470.00, 55845.00, 2649.45, 90964.45

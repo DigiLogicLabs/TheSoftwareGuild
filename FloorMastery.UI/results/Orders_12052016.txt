@@ -1,0 +1,11 @@
+145, Fate Seeker, The Khazahol Crags, 22.00, Fog Lavaplatinum Of Life , 91.00, 967.00, 333.00, 87997.00, 30303.00, 26026.00, 144326.00
+595, Shadow Gust, Bergfison's Deep, 18.00, Incubi's Iron Of The Dawn , 229.00, 399.00, 800.00, 91371.00, 183200.00, 49422.78, 323993.78
+1036, Dawn Darkzealot, The Archer and Scroll, 11.00, Djinni's Mind Fogiron , 159.00, 387.00, 164.00, 61533.00, 26076.00, 9636.99, 97245.99
+1481, "Lenwenye, Goddess of Travel", The Bastion of Sthasu the Gruesome, 0.00, Incubi's Mirrorfog Iron Of The Ocean , 82.00, 22.00, 675.00, 1804.00, 55350.00, 0.00, 57154.00
+1925, Jericho Wolf, Gena's Hold, 8.00, Sphinxes' Mistsoul Bronze Of The Past , 291.00, 694.00, 650.00, 201954.00, 189150.00, 31288.32, 422392.32
+2367, Dawn Darkzealot, Minas Gilloy, 20.00, Starsmoke Bronze Of Life , 266.00, 618.00, 647.00, 164388.00, 172102.00, 67298.00, 403788.00
+2821, Seraphim Tsunami, Moor Village, 0.00, Fog Lavaplatinum Of Life , 92.00, 967.00, 333.00, 88964.00, 30636.00, 0.00, 119600.00
+3280, "Alas, Lord of Plague", The Lost Crypts of Sorrows, 24.00, Unholy Poison Copper Of The Mountains , 330.00, 439.00, 495.00, 144870.00, 163350.00, 73972.80, 382192.80
+3746, "Alik, Goddess of Trickery", The Temple of Merciless Necromancy, 1.00, Ghostly Soul Adamant , 209.00, 56.00, 682.00, 11704.00, 142538.00, 1542.42, 155784.42
+4201, "Sielach, God of Fate", Shainan's Hold, 15.00, Imperial Fate Steel , 131.00, 324.00, 356.00, 42444.00, 46636.00, 13362.00, 102442.00
+4644, "Eumyan, Goddess of Law", Gena's Hold, 8.00, Thunderbirds' Transcendent Dreamiron , 147.00, 989.00, 65.00, 145383.00, 9555.00, 12395.04, 167333.04

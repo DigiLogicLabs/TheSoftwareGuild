@@ -1,0 +1,11 @@
+157, "Melcha, Goddess of Thieves", The Chuallanto Jungle, 1.00, Vampires' Fang Emeraldsilver , 163.00, 876.00, 971.00, 142788.00, 158273.00, 3010.61, 304071.61
+608, "Ingwenel, God of War", Ring District, 23.00, Poison Adamant , 150.00, 952.00, 349.00, 142800.00, 52350.00, 44884.50, 240034.50
+1049, Cult Godseeker, Khali's Delve, 7.00, Legendary Mithril Of The Moon , 216.00, 281.00, 801.00, 60696.00, 173016.00, 16359.84, 250071.84
+1495, Wind Dire, The Barrow of Malefic Ages, 13.00, Transcendent Gold , 267.00, 39.00, 451.00, 10413.00, 120417.00, 17007.90, 147837.90
+1939, Sunset Knightclaw, Lordsgate Farthing, 17.00, Undeads' Mind Orichalcum Of The Twilight , 311.00, 495.00, 573.00, 153945.00, 178203.00, 56465.16, 388613.16
+2381, "Gono, Goddess of the Earth", The Bastion of the Vampire Duke, 18.00, Shadowy Adamant , 133.00, 585.00, 941.00, 77805.00, 125153.00, 36532.44, 239490.442381, "Gono, Goddess of the Earth", The Bastion of the Vampire Duke, 18.00, Shadowy Adamant , 133.00, 585.00, 941.00, 77805.00, 125153.00, 36532.44, 239490.44
+2835, Dagger Reaper, The Dismal Marsh, 19.00, Starlight Pearldream Bronze , 206.00, 441.00, 906.00, 90846.00, 186636.00, 52721.58, 330203.58
+3294, "Azah, Goddess of Fate", The Pilgrim's Cup, 21.00, Sphinxes' Unknown Poisongold Of The Future , 252.00, 43.00, 998.00, 10836.00, 251496.00, 55089.72, 317421.72
+3760, "Melcha, Goddess of Thieves", The Forsaken Sepulcher of Sorrows, 12.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 237.00, 676.00, 683.00, 160212.00, 161871.00, 38649.96, 360732.96
+4212, Fate Ivycaster, Archring Borough, 0.00, Hell Mercury Of The East , 165.00, 122.00, 838.00, 20130.00, 138270.00, 0.00, 158400.00
+4656, , The Glano Forest, 22.00, , , 479.00, 294.00, 81909.00, 50274.00, 29080.26, 161263.26

@@ -1,0 +1,11 @@
+208, "Baltha, Goddess of Knowledge", The Fortress of Gama, 5.00, Goddesses' Spectral Poison Steel , 85.00, 455.00, 483.00, 38675.00, 41055.00, 3986.50, 83716.50
+657, "Alik, Goddess of Trickery", The Warrior and Flagon, 0.00, Fog Lavaplatinum Of Life , 72.00, 967.00, 333.00, 69624.00, 23976.00, 0.00, 93600.00
+1097, "Iran, Lord of Nightmares", Fellfen Keep, 11.00, Spectres' Shadowy Terrorglow Adamant Of Life , 299.00, 944.00, 533.00, 282256.00, 159367.00, 48578.53, 490201.53
+1548, Clash Lonedrake, The Citadel of Cheno, 0.00, Fairies' Supreme Mistsmoke Lead Of The Future , 225.00, 489.00, 658.00, 110025.00, 148050.00, 0.00, 258075.00
+1984, Tiger Mistmidnight, Eved Castle, 2.00, Otherworldly Truesoul Orichalcum Of The East , 152.00, 636.00, 780.00, 96672.00, 118560.00, 4304.64, 219536.64
+2432, Wind Dire, The Dancing Minstrel, 14.00, Violetdream Iron , 244.00, 948.00, 922.00, 231312.00, 224968.00, 63879.20, 520159.20
+2889, Jericho Wolf, South Brightcrown Borough, 0.00, Emerald Orichalcum , 195.00, 711.00, 570.00, 138645.00, 111150.00, 0.00, 249795.00
+3345, Maverick Wind, The Bastion of the Vampire Duke, 18.00, Lycanthropes' Gold , 296.00, 213.00, 171.00, 63048.00, 50616.00, 20459.52, 134123.52
+3811, "Finarfin, God of Protection", Archfane District, 18.00, Imperial Fate Steel , 250.00, 324.00, 356.00, 81000.00, 89000.00, 30600.00, 200600.00
+4264, "Ahah, Goddess of Knowledge", Mahyrst Keep, 18.00, Pearl Mirrorice Steel Of Changelings , 157.00, 474.00, 715.00, 74418.00, 112255.00, 33601.14, 220274.14
+4703, Lightning Brand, Moor Village, 0.00, Shadow Steel , 141.00, 841.00, 440.00, 118581.00, 62040.00, 0.00, 180621.00

@@ -1,0 +1,11 @@
+176, Dagger Reaper, Fellfen Keep, 11.00, Mistgold Of Men , 274.00, 459.00, 640.00, 125766.00, 175360.00, 33123.86, 334249.86
+629, "Zepul, Lady of Vengeance", The Cracked Chalice, 22.00, Magic Adamant , 262.00, 746.00, 526.00, 195452.00, 137812.00, 73318.08, 406582.08
+1067, Maverick Wind, , 0.00, , 216.00, 849.00, , 183384.00, , 0.00, 
+1516, Storm Squallmourner, The Dungeon of Dismal Terror, 22.00, Yellow Mistearth Copper , 237.00, 408.00, 996.00, 96696.00, 236052.00, 73204.56, 405952.56
+1953, Shadow Tomblion, The Broken Shield, 7.00, Starlight Pearldream Bronze , 348.00, 441.00, 906.00, 153468.00, 315288.00, 32812.92, 501568.92
+2401, Shadow Gust, The Cuitamba Jungle, 22.00, Spectres' Shadowy Terrorglow Adamant Of Life , 147.00, 944.00, 533.00, 138768.00, 78351.00, 47766.18, 264885.18
+2857, Jericho Wolf, Waleah Castle, 10.00, Otherworldly Truesoul Orichalcum Of The East , 97.00, 636.00, 780.00, 61692.00, 75660.00, 13735.20, 151087.20
+3313, "Maglioneth, Lord of the Sun", North Grove Ward, 13.00, Poison Adamant , 30.00, 952.00, 349.00, 28560.00, 10470.00, 5073.90, 44103.90
+3781, Sunset Knightclaw, The Warrior and Flagon, 0.00, Rot Silver Of The Past , 66.00, 267.00, 280.00, 17622.00, 18480.00, 0.00, 36102.00
+4232, "Iran, Lord of Nightmares", The Scoundrel and Flask, 23.00, Incubi's Glittering Tin Of The Future , 129.00, 247.00, 493.00, 31863.00, 63597.00, 21955.80, 117415.80
+4675, "Melcha, Goddess of Thieves", The Fortress of Gama, 5.00, Incubi's Iron Of The Dawn , 211.00, 399.00, 800.00, 84189.00, 168800.00, 12649.45, 265638.45

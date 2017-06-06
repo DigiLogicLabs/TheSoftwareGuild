@@ -1,0 +1,11 @@
+87, "Selah, God of Destruction", Boiaburh Keep, 11.00, Angels' Adamant , 78.00, 189.00, 157.00, 14742.00, 12246.00, 2968.68, 29956.68
+533, Song Runetomb, The Dungeon of Dismal Terror, 22.00, Shadow Steel , 50.00, 841.00, 440.00, 42050.00, 22000.00, 14091.00, 78141.00
+976, "Maeglodor, God of Thieves", The Citadel of Alammius, 24.00, Violetdream Iron , 129.00, 948.00, 922.00, 122292.00, 118938.00, 57895.20, 299125.20
+1422, "Ingwenel, God of War", Bergfison's Deep, 18.00, Foul Ice Bronze Of Life , 185.00, 168.00, 97.00, 31080.00, 17945.00, 8824.50, 57849.50
+1870, Lightning Brand, The Tomb of Hellish Ruin, 14.00, Djinni's Mind Fogiron , 225.00, 387.00, 164.00, 87075.00, 36900.00, 17356.50, 141331.50
+2305, "Alas, Lord of Plague", The Fortress of Gama, 5.00, Green Dustlightning Mercury , 136.00, 906.00, 964.00, 123216.00, 131104.00, 12716.00, 267036.00
+2762, "Selik, God of Death", The Secret Shrine of the Gargoyle Count, 24.00, Thunderbirds' Transcendent Dreamiron , 230.00, 989.00, 65.00, 227470.00, 14950.00, 58180.80, 300600.80
+3223, "Uriel, God of Fate", The Dungeon of Merciless Woe, 23.00, Plague Tin , 231.00, 806.00, 444.00, 186186.00, 102564.00, 66412.50, 355162.50
+3681, Cult Godseeker, The Dark Caverns of Woe, 3.00, Planar Mudtin Of Trolls , 261.00, 817.00, 654.00, 213237.00, 170694.00, 11517.93, 395448.93
+4140, Sunrise Godwarlock, Kewold Stronghold, 23.00, Plague Tin , 268.00, 806.00, 444.00, 216008.00, 118992.00, 77050.00, 412050.00
+4582, "Selah, God of Destruction", The Pirate's Pipe, 14.00, Negative Rockglitter Mercury Of Trolls , 294.00, 216.00, 497.00, 63504.00, 146118.00, 29347.08, 238969.08

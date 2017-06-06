@@ -1,0 +1,11 @@
+154, Valentine Lawslayer, North Arcanist's Farthing, 6.00, Icy Shock Silver , 155.00, 102.00, 540.00, 15810.00, 83700.00, 5970.60, 105480.60
+605, Seraphim Tsunami, The Beggar and Cask, 16.00, Mistgold Of Men , 152.00, 459.00, 640.00, 69768.00, 97280.00, 26727.68, 193775.68
+1046, "Lenwenye, Goddess of Travel", Archtemple District, 4.00, Heavenly Dreamsilver Of The Night , 162.00, 328.00, 692.00, 53136.00, 112104.00, 6609.60, 171849.60
+1492, "Zepul, Lady of Vengeance", Hartshill Ward, 11.00, Grayplatinum , 332.00, 45.00, 526.00, 14940.00, 174632.00, 20852.92, 210424.92
+-1936,Wind Dire,Kada's Deep,-14.00,Phantasmal Plague Adamant ,-99.00,-831.00,-728.00,-82269.00,-72072.00,-21607.74,-175948.74
+2378, "Gadriel, God of Resurrection", The Chuallanto Jungle, 1.00, Unicorns' Fatal Magma Metal Of The Ocean , 202.00, 142.00, 749.00, 28684.00, 151298.00, 1799.82, 181781.82
+2832, "Baltha, Goddess of Knowledge", The Fortress of Akkun the Grim, 18.00, Rocklava Mithril Of Revenants , 205.00, 169.00, 287.00, 34645.00, 58835.00, 16826.40, 110306.40
+.3291,Seraphim Tsunami,Grori's Deep,.4.00,Succubi's Evil Mindzephyr Adamant Of The Desert ,.153.00,.676.00,.683.00,.103428.00,.104499.00,.8317.08,.216244.08
+3757, Rose Anchor, The Scoundrel and Flask, 23.00, Violetstone Tin Of Death , 120.00, 246.00, 251.00, 29520.00, 30120.00, 13717.20, 73357.20
+4211, Gale Jackalguard, The Barrow of Malefic Ages, 13.00, Glittering Orichalcum , 103.00, 425.00, 275.00, 43775.00, 28325.00, 9373.00, 81473.00
+4653, Maverick Wind, The Shadow Downs, 2.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 281.00, 676.00, 683.00, 189956.00, 191923.00, 7637.58, 389516.58

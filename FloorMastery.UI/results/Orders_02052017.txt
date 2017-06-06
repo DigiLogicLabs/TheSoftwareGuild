@@ -1,0 +1,11 @@
+92, Grave Mistseeker, The Barrow of Malefic Ages, 13.00, Transcendent Gold , 351.00, 39.00, 451.00, 13689.00, 158301.00, 22358.70, 194348.70
+539, Zeal Bladewitch, Weke Tower, 23.00, Violetstone Tin Of Death , 218.00, 246.00, 251.00, 53628.00, 54718.00, 24919.58, 133265.58
+981, "Gadriel, God of Resurrection", Citadel Ward, 14.00, Green Dustlightning Mercury , 257.00, 906.00, 964.00, 232842.00, 247748.00, 67282.60, 547872.60
+1426, Bedlam Spiritraven, The Forsaken Delve of Lord Greywulf, 8.00, Falserainbow Lead , 217.00, 92.00, 67.00, 19964.00, 14539.00, 2760.24, 37263.24
+1875, Maverick Wind, Gawold Castle, 6.00, Warlocks' Timerot Mithril , 151.00, 368.00, 575.00, 55568.00, 86825.00, 8543.58, 150936.58
+2311, "Selah, God of Destruction", The Broken Shield, 7.00, Evilsilver , 153.00, 814.00, 264.00, 124542.00, 40392.00, 11545.38, 176479.38
+-2768,"Sielach, God of Fate",The Broken Arrow,-22.00,Thunderbirds' Transcendent Dreamiron ,-146.00,-989.00,-65.00,-144394.00,-9490.00,-33854.48,-187738.48
+3227, Sunrise Godwarlock, The Forsaken Tomb of Devastation, 12.00, Djinni's Evil Sandobsidian Steel Of The Future , 89.00, 319.00, 845.00, 28391.00, 75205.00, 12431.52, 116027.52
+3687, "Maeglodor, God of Thieves", The Khazahol Crags, 22.00, Rocklava Mithril Of Revenants , 200.00, 169.00, 287.00, 33800.00, 57400.00, 20064.00, 111264.00
+4146, "Uriel, God of Fate", The Dismal Marsh, 19.00, Phantasmal Lead , 368.00, 88.00, 927.00, 32384.00, 341136.00, 70968.80, 444488.80
+4588, Song Runetomb, Hafeld Keep, 0.00, Warlocks' Timerot Mithril , 209.00, 368.00, 575.00, 76912.00, 120175.00, 0.00, 197087.00

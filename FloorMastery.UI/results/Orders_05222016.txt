@@ -1,0 +1,11 @@
+320, Fate Seeker, The Flying Witch, 13.00, Zephyr Iron , 174.00, 909.00, 41.00, 158166.00, 7134.00, 21489.00, 186789.00
+765, Dawn Darkzealot, Moor Village, 0.00, Primordial Mud Orichalcum , 285.00, 328.00, 627.00, 93480.00, 178695.00, 0.00, 272175.00
+1212, Sunset Knightclaw, Ring District, 23.00, Incubi's Glittering Tin Of The Future , 113.00, 247.00, 493.00, 27911.00, 55709.00, 19232.60, 102852.60
+1659, Fate Seeker, The Dungeon of Dismal Terror, 22.00, Negative Mercury , 230.00, 278.00, 408.00, 63940.00, 93840.00, 34711.60, 192491.60
+2098, Fate Ivycaster, The Khazahol Crags, 22.00, Venom Timegold Of Dwarves , 227.00, 614.00, 432.00, 139378.00, 98064.00, 52237.24, 289679.24
+2549, "Suriel, Lord of Animals", South Brightcrown Borough, 0.00, Forgotten Mithril , 246.00, 793.00, 940.00, 195078.00, 231240.00, 0.00, 426318.00
+3007, Slayer Claw, The Vaults of the Shadow Emperor, 5.00, Thunderbirds' Transcendent Dreamiron , 309.00, 989.00, 65.00, 305601.00, 20085.00, 16284.30, 341970.30
+3464, Fate Ivycaster, Eved Castle, 2.00, Witchs' Forbidden Rockrainbow Bronze , 181.00, 172.00, 423.00, 31132.00, 76563.00, 2153.90, 109848.90
+3930, Wind Dire, The Lewd King, 17.00, Thunderbirds' Transcendent Dreamiron , 277.00, 989.00, 65.00, 273953.00, 18005.00, 49632.86, 341590.86
+-4375,Shadow Gust,The Tomb of Gothmog of Udun,-1.00,Violetdream Iron ,-321.00,-948.00,-922.00,-304308.00,-295962.00,-6002.70,-606272.70
+4817, Claw Mist, The Tower of the Demon Warlord, 3.00, God-touched Greengem Platinum , 258.00, 501.00, 796.00, 129258.00, 205368.00, 10038.78, 344664.78

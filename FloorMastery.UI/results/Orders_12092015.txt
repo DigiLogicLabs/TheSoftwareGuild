@@ -1,0 +1,11 @@
+393, Fate Seeker, Hartshill Ward, 11.00, Fog Lavaplatinum Of Life , 234.00, 967.00, 333.00, 226278.00, 77922.00, 33462.00, 337662.00
+834, "Gono, Goddess of the Earth", Palace Farthing, 12.00, Evilsilver , 194.00, 814.00, 264.00, 157916.00, 51216.00, 25095.84, 234227.84
+1283, Law Lionwatcher, Castle Village, 17.00, Golems' Stonesapphire Gold Of The Glacier , 226.00, 705.00, 952.00, 159330.00, 215152.00, 63661.94, 438143.94
+1733, Song Runetomb, Archtemple District, 4.00, Primal Adamant , 63.00, 878.00, 482.00, 55314.00, 30366.00, 3427.20, 89107.20
+2169, "Eumyan, Goddess of Law", The Secret Catacombs of Ulfang the Black, 0.00, Magic Adamant , 201.00, 746.00, 526.00, 149946.00, 105726.00, 0.00, 255672.00
+2624, Lance Knightseraph, Tower Farthing, 2.00, Magic Adamant , 259.00, 746.00, 526.00, 193214.00, 136234.00, 6588.96, 336036.96
+3080, Shadow Gust, Unicorn's Ward, 1.00, Toxin Iceplatinum Of The Undead , 309.00, 146.00, 665.00, 45114.00, 205485.00, 2505.99, 253104.99
+3538, "Ariel, God of Luck", Kewold Stronghold, 23.00, Djinni's Spectral Shadowlead Of Life , 194.00, 969.00, 997.00, 187986.00, 193418.00, 87722.92, 469126.92
+4006, Wind Dire, The Black Barrow of Zago the Possessed, 23.00, Incubi's Iron Of The Dawn , 212.00, 399.00, 800.00, 84588.00, 169600.00, 58463.24, 312651.24
+4444, "Avriel, God of Death", Shainan's Hold, 15.00, Starlight Pearldream Bronze , 181.00, 441.00, 906.00, 79821.00, 163986.00, 36571.05, 280378.05
+4883, "Lenwenye, Goddess of Travel", Unicorn's Ward, 1.00, Imperial Fate Steel , 62.00, 324.00, 356.00, 20088.00, 22072.00, 421.60, 42581.60

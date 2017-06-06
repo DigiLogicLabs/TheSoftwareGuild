@@ -1,0 +1,11 @@
+199, Bedlam Spiritraven, Barad Kesa, 17.00, Unholy Poison Copper Of The Mountains , 218.00, 439.00, 495.00, 95702.00, 107910.00, 34614.04, 238226.04
+649, "Addon, Lord of Death", Love Keep, 4.00, Shadowhell Mithril , 171.00, 231.00, 848.00, 39501.00, 145008.00, 7380.36, 191889.36
+1089, Dagger Reaper, The Dancing Minstrel, 14.00, Devils' Falserot Silver , 278.00, 755.00, 915.00, 209890.00, 254370.00, 64996.40, 529256.40
+1540, "Uriel, God of Fate", Lordsgate Farthing, 17.00, Incubi's Mirrorfog Iron Of The Ocean , 151.00, 22.00, 675.00, 3322.00, 101925.00, 17891.99, 123138.99
+1975, "Gadriel, God of Resurrection", Grove Farthing, 18.00, Glittering Orichalcum , 335.00, 425.00, 275.00, 142375.00, 92125.00, 42210.00, 276710.00
+2424, Seraph Jester, Grori's Deep, 4.00, Primordial Mud Orichalcum , 273.00, 328.00, 627.00, 89544.00, 171171.00, 10428.60, 271143.60
+2882, "Selah, God of Destruction", The Fortress of Gama, 5.00, Shadow Steel , 52.00, 841.00, 440.00, 43732.00, 22880.00, 3330.60, 69942.60
+3337, Dawn Darkzealot, Tradun Castle, 7.00, Djinni's Spectral Shadowlead Of Life , 286.00, 969.00, 997.00, 277134.00, 285142.00, 39359.32, 601635.32
+3803, "Uriel, God of Fate", Mahyrst Keep, 18.00, Venom Jewelmetal Of The Desert , 77.00, 21.00, 455.00, 1617.00, 35035.00, 6597.36, 43249.36
+4256, Harmony Angelchild, The Forsaken Tomb of Devastation, 12.00, Mithril Of The Tropics , 133.00, 386.00, 319.00, 51338.00, 42427.00, 11251.80, 105016.80
+4695, Slayer Claw, The Warrior and Flagon, 0.00, Shadow Steel , 110.00, 841.00, 440.00, 92510.00, 48400.00, 0.00, 140910.00

@@ -1,0 +1,11 @@
+307, Shadow Gust, , , , 264.00, 170.00, 101.00, , , 2146.32, 73690.32
+750, "Penur, Lord of the Sea", Gawold Castle, 6.00, Zephyr Iron , 349.00, 909.00, 41.00, 317241.00, 14309.00, 19893.00, 351443.00
+1197, Law Lionwatcher, Castle Village, 17.00, Incubi's Iron Of The Dawn , 45.00, 399.00, 800.00, 17955.00, 36000.00, 9172.35, 63127.35
+1646, Cult Godseeker, The Forsaken Sepulcher of Sorrows, 12.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 132.00, 676.00, 683.00, 89232.00, 90156.00, 21526.56, 200914.56
+2082, "Zepul, Lady of Vengeance", The Demon and Toad, 3.00, Mithril Of Legend , 228.00, 382.00, 657.00, 87096.00, 149796.00, 7106.76, 243998.76
+2534, "Ariel, God of Luck", The Black Barrow of Zago the Possessed, 23.00, Sphinxes' Mistsoul Bronze Of The Past , 193.00, 694.00, 650.00, 133942.00, 125450.00, 59660.16, 319052.16
+   2993,    Clash Lonedrake,    Gena's Hold,      8.00,   Trolls' Rubymercury Of The Sunset ,      285.00,     146.00,      782.00,      41610.00,    222870.00,      21158.40,       285638.40
+3447, "Maeglodor, God of Thieves", Kada's Deep, 14.00, Imperial Fate Steel , 299.00, 324.00, 356.00, 96876.00, 106444.00, 28464.80, 231784.80
+3915, Gale Jackalguard, The Glano Forest, 22.00, Phantasmal Smokezephyr Mercury Of Men , 77.00, 918.00, 965.00, 70686.00, 74305.00, 31898.02, 176889.02
+4,Shadow Tomblion,The Beggar and Cask,16.00,Phantasmal Smokezephyr Mercury Of Men ,273.00,918.00,965.00,250614.00,263445.00,82249.44,596308.44
+4801, "Maglioneth, Lord of the Sun", The Fortress of the Lich Queen, 6.00, Ensorceled Gold Of The Dawn , 69.00, 512.00, 310.00, 35328.00, 21390.00, 3403.08, 60121.08

@@ -1,0 +1,11 @@
+287, Grave Mistseeker, Hafeld Keep, 0.00, Hell Mercury Of The East , 362.00, 122.00, 838.00, 44164.00, 303356.00, 0.00, 347520.00
+731, Clash Lonedrake, The Dismal Marsh, 19.00, Sphinxes' Mistsoul Bronze Of The Past , 349.00, 694.00, 650.00, 242206.00, 226850.00, 89120.64, 558176.64
+1177, "Maglioneth, Lord of the Sun", The Demon and Toad, 3.00, Forgotten Mithril , 113.00, 793.00, 940.00, 89609.00, 106220.00, 5874.87, 201703.87
+1629, "Azah, Goddess of Fate", The Tower of Sabiesu the Awesome, 18.00, Heavenly Dreamsilver Of The Night , 144.00, 328.00, 692.00, 47232.00, 99648.00, 26438.40, 173318.40
+2064, Claw Mist, Mahyrst Keep, 18.00, Greenlead , 174.00, 518.00, 166.00, 90132.00, 28884.00, 21422.88, 140438.88
+2516, Tarot Dawn, Grove Farthing, 18.00, Sphinxes' Opalpearl Platinum Of Legend , 143.00, 461.00, 403.00, 65923.00, 57629.00, 22239.36, 145791.36
+2972, Bedlam Spiritraven, Kada's Deep, 14.00, Venom Jewelmetal Of The Desert , 65.00, 21.00, 455.00, 1365.00, 29575.00, 4331.60, 35271.60
+3427, "Maglioneth, Lord of the Sun", The Fortress of Gama, 5.00, Witchs' Forbidden Rockrainbow Bronze , 195.00, 172.00, 423.00, 33540.00, 82485.00, 5801.25, 121826.25
+3895, Shadow Gust, The Bastion of Barbos, 18.00, Unicorns' Fatal Magma Metal Of The Ocean , 71.00, 142.00, 749.00, 10082.00, 53179.00, 11386.98, 74647.98
+4339, Tarot Dawn, The Pilgrim's Cup, 21.00, Ensorceled Gold Of The Dawn , 251.00, 512.00, 310.00, 128512.00, 77810.00, 43327.62, 249649.62
+4783, Shadow Tomblion, Peley Keep, 24.00, Swordbronze , 215.00, 860.00, 746.00, 184900.00, 160390.00, 82869.60, 428159.60

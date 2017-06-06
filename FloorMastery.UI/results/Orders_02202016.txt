@@ -1,0 +1,11 @@
+364, Dawn Darkzealot, The Bastion of the Vampire Duke, 18.00, Trolls' Mist Poisonplatinum Of The Twilight , 227.00, 990.00, 430.00, 224730.00, 97610.00, 58021.20, 380361.20
+804, Wind Dire, The Forsaken Hive of Galima the Mighty, 4.00, Vampires' Hammer Emeraldmetal , 353.00, 191.00, 47.00, 67423.00, 16591.00, 3360.56, 87374.56
+1255, "Ingwenel, God of War", The Fortress of Akkun the Grim, 18.00, Ghostly Magic Adamant , 62.00, 499.00, 881.00, 30938.00, 54622.00, 15400.80, 100960.80
+1701, "Azah, Goddess of Fate", The Citadel of Lord Greywulf, 0.00, Unknown Fatelightning Steel Of The Glacier , 212.00, 837.00, 700.00, 177444.00, 148400.00, 0.00, 325844.00
+2141, "Avriel, God of Death", The Bastion of the Lich Tyrant, 10.00, Meteoric Mirrormuck Orichalcum Of The Forests , 116.00, 136.00, 65.00, 15776.00, 7540.00, 2331.60, 25647.60
+2593, Claw Mist, The Warrior and Flagon, 0.00, Mana-touched Greenglitter Gold Of Giants , 121.00, 783.00, 690.00, 94743.00, 83490.00, 0.00, 178233.00
+3050, "Prusu, God of Love", North Arcanist's Farthing, 6.00, Heavenly Dreamsilver Of The Night , 323.00, 328.00, 692.00, 105944.00, 223516.00, 19767.60, 349227.60
+3509, Lord Mystery, The Fortress of Asmamur, 7.00, Lycanthropes' Gold , 333.00, 213.00, 171.00, 70929.00, 56943.00, 8951.04, 136823.04
+3975, Tiger Mistmidnight, The Citadel of Tattena the Sinister, 23.00, Trolls' Mist Poisonplatinum Of The Twilight , 337.00, 990.00, 430.00, 333630.00, 144910.00, 110064.20, 588604.20
+4417, "Zepul, Lady of Vengeance", The Forsaken Delve of Lord Greywulf, 8.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 162.00, 313.00, 673.00, 50706.00, 109026.00, 12778.56, 172510.56
+4857, Bedlam Spiritraven, Barad Kesa, 17.00, Icy Shock Silver , 182.00, 102.00, 540.00, 18564.00, 98280.00, 19863.48, 136707.48

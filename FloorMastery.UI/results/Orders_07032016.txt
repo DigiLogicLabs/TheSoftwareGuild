@@ -1,0 +1,11 @@
+284, "Ingwenel, God of War", The Drunken Thief, 4.00, Mithril Of The Tropics , 304.00, 386.00, 319.00, 117344.00, 96976.00, 8572.80, 222892.80
+727, Fate Seeker, The Bastion of Gothmog of Udun, 18.00, Mind Lead , 294.00, 143.00, 486.00, 42042.00, 142884.00, 33286.68, 218212.68
+1173, Dawn Darkzealot, Moor Village, 0.00, Magic Adamant , 209.00, 746.00, 526.00, 155914.00, 109934.00, 0.00, 265848.00
+1626, Shadow Tomblion, Palace Farthing, 12.00, Unicorns' Fatal Magma Metal Of The Ocean , 206.00, 142.00, 749.00, 29252.00, 154294.00, 22025.52, 205571.52
+2060, "Lionare, God of the Lost", Reheath Stronghold, 11.00, Litches' Fatal Mithril Of The Past , 122.00, 654.00, 602.00, 79788.00, 73444.00, 16855.52, 170087.52
+2512, Tarot Dawn, The Demon and Toad, 3.00, Spectres' Shadowy Terrorglow Adamant Of Life , 223.00, 944.00, 533.00, 210512.00, 118859.00, 9881.13, 339252.13
+2968, Lightning Brand, The Lazy Sage, 9.00, Magic Adamant , 258.00, 746.00, 526.00, 192468.00, 135708.00, 29535.84, 357711.84
+3424, Law Lionwatcher, The Beggar and Cask, 16.00, Unicorns' Evil Mithril , 158.00, 334.00, 705.00, 52772.00, 111390.00, 26265.92, 190427.92
+3892, "Finarfin, God of Protection", Lordsgate Farthing, 17.00, Ghostly Magic Adamant , 127.00, 499.00, 881.00, 63373.00, 111887.00, 29794.20, 205054.20
+4336, "Lenwenye, Goddess of Travel", The Fortress of the Lich Queen, 6.00, Incubi's Glittering Tin Of The Future , 196.00, 247.00, 493.00, 48412.00, 96628.00, 8702.40, 153742.40
+4780, "Sielach, God of Fate", Mahyrst Keep, 18.00, Fairies' Supreme Mistsmoke Lead Of The Future , 259.00, 489.00, 658.00, 126651.00, 170422.00, 53473.14, 350546.14

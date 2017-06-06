@@ -1,0 +1,11 @@
+196, Bedlam Spiritraven, Lordsgate Farthing, 17.00, Djinni's Evil Sandobsidian Steel Of The Future , 221.00, 319.00, 845.00, 70499.00, 186745.00, 43731.48, 300975.48
+646, "Ingwenel, God of War", Ring District, 23.00, Mithril Of Legend , 110.00, 382.00, 657.00, 42020.00, 72270.00, 26286.70, 140576.70
+1086, Jericho Wolf, Unicorn's Ward, 1.00, Ghostly Soul Adamant , 266.00, 56.00, 682.00, 14896.00, 181412.00, 1963.08, 198271.08
+1537, Flora Amberslayer, Hartshill Ward, 11.00, Mistgold Of Men , 184.00, 459.00, 640.00, 84456.00, 117760.00, 22243.76, 224459.76
+-1972,"Uriel, God of Fate",Reyny Keep,-14.00,Legendary Mithril Of The Moon ,-298.00,-281.00,-801.00,-83738.00,-238698.00,-45141.04,-367577.04
+2421, "Ahah, Goddess of Knowledge", Reyny Keep, 14.00, Ensorceled Sandmetal Of Spirits , 240.00, 671.00, 431.00, 161040.00, 103440.00, 37027.20, 301507.20
+2879, Shadow Gust, The Fen of the Necromancer, 15.00, Sprites' Transcendent Mud Lead Of The South , 164.00, 419.00, 260.00, 68716.00, 42640.00, 16703.40, 128059.40
+3334, "Melcha, Goddess of Thieves", The Archer and Scroll, 11.00, Ghostly Soul Adamant , 308.00, 56.00, 682.00, 17248.00, 210056.00, 25003.44, 252307.44
+3801, Shadow Gust, Shainan's Hold, 15.00, Stone Soulsteel Of The Skies , 37.00, 493.00, 872.00, 18241.00, 32264.00, 7575.75, 58080.75
+4253, Dagger Reaper, , , , , 814.00, , 166870.00, 54120.00, , 229829.60
+4693, Magus Felldrake, The Drunken Thief, 4.00, Toxin Iceplatinum Of The Undead , 278.00, 146.00, 665.00, 40588.00, 184870.00, 9018.32, 234476.32

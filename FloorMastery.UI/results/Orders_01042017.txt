@@ -1,0 +1,11 @@
+122, Flora Amberslayer, Citadel Ward, 14.00, Sprites' Transcendent Mud Lead Of The South , 242.00, 419.00, 260.00, 101398.00, 62920.00, 23004.52, 187322.52
+566, Song Runetomb, The Tomb of Gothmog of Udun, 1.00, Undeads' Mind Orichalcum Of The Twilight , 207.00, 495.00, 573.00, 102465.00, 118611.00, 2210.76, 223286.76
+1011, Rouge Roguemist, The Khazahol Crags, 22.00, Ensorceled Gold Of The Dawn , 267.00, 512.00, 310.00, 136704.00, 82770.00, 48284.28, 267758.28
+1453, "Finarfin, God of Protection", The Desert of Flames, 16.00, Grayplatinum , 172.00, 45.00, 526.00, 7740.00, 90472.00, 15713.92, 113925.92
+1902, Shadow Gust, Kewold Stronghold, 23.00, Magic Adamant , 174.00, 746.00, 526.00, 129804.00, 91524.00, 50905.44, 272233.44
+2340, "Ingwenel, God of War", The Dungeon of Dismal Terror, 22.00, Toxic Mistlead Of The Past , 207.00, 788.00, 986.00, 163116.00, 204102.00, 80787.96, 448005.96
+2797, "Addon, Lord of Death", The Archer and Scroll, 11.00, Djinni's Mind Fogiron , 169.00, 387.00, 164.00, 65403.00, 27716.00, 10243.09, 103362.09
+3254, "Gono, Goddess of the Earth", Gifeld Castle, 16.00, Djinni's Spectral Shadowlead Of Life , 349.00, 969.00, 997.00, 338181.00, 347953.00, 109781.44, 795915.44
+3716, "Avriel, God of Death", The Tower of Sabiesu the Awesome, 18.00, Ghostly Magic Adamant , 180.00, 499.00, 881.00, 89820.00, 158580.00, 44712.00, 293112.00
+4176, "Lenwenye, Goddess of Travel", Waleah Castle, 10.00, Forgotten Mithril , 261.00, 793.00, 940.00, 206973.00, 245340.00, 45231.30, 497544.30
+4616, Seraphim Tsunami, The Bastion of the Lich Tyrant, 10.00, Pearl Mirrorice Steel Of Changelings , 172.00, 474.00, 715.00, 81528.00, 122980.00, 20450.80, 224958.80

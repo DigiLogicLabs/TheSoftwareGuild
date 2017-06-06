@@ -1,0 +1,11 @@
+
+796, Shadow Gust, Archfane District, 18.00, Mistgold Of Men , 280.00, 459.00, 640.00, 128520.00, 179200.00, 55389.60, 363109.60
+1247, Sunrise Godwarlock, The Tower of Aces the Accursed, 3.00, Unknown Fatelightning Steel Of The Glacier , 47.00, 837.00, 700.00, 39339.00, 32900.00, 2167.17, 74406.17
+   1693,      Rouge Tombreaper,    The Hunter and Rose,   2.00,          Fleshshock Mercury ,      88.00,      667.00,      852.00,      58696.00,    74976.00,    2673.44,       136345.44
+2134, Law Lionwatcher, The Bastion of Barbos, 18.00, Trolls' Mist Poisonplatinum Of The Twilight , 309.00, 990.00, 430.00, 305910.00, 132870.00, 78980.40, 517760.40
+2585, Shadow Gust, Gena's Hold, 8.00, Hidden Shadowice Lead , 119.00, 241.00, 199.00, 28679.00, 23681.00, 4188.80, 56548.80
+3042, "Byzou, God of Animals", The Cracked Chalice, 22.00, Rocklava Mithril Of Revenants , 200.00, 169.00, 287.00, 33800.00, 57400.00, 20064.00, 111264.00
+3501, Sunset Knightclaw, The Wizard's House, 7.00, Plague Tin , 186.00, 806.00, 444.00, 149916.00, 82584.00, 16275.00, 248775.00
+3967, , Gili's Delve, 7.00, Tritons' Time Stoneiron Of Legend , 279.00, 912.00, , , , 34724.34, 530786.34
+4409, "Gono, Goddess of the Earth", The Desert of Flames, 16.00, Phantasmal Plague Adamant , 338.00, 831.00, 728.00, 280878.00, 246064.00, 84310.72, 611252.72
+4850, Wind Dire, The Fen of the Necromancer, 15.00, Meteoric Dustzephyr Orichalcum , 267.00, 232.00, 37.00, 61944.00, 9879.00, 10773.45, 82596.45

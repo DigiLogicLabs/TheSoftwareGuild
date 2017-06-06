@@ -1,0 +1,11 @@
+93, Maverick Wind, , 21.00, , , 841.00, 440.00, 207727.00, , 66445.47, 382852.47
+540, Gale Jackalguard, The Dark Caverns of Woe, 3.00, Sirens' Rockgold , 58.00, 792.00, 901.00, 45936.00, 52258.00, 2945.82, 101139.82
+
+.1427,Magus Felldrake,The Citadel of Cheno,.0.00,Vampires' Hammer Emeraldmetal ,.183.00,.191.00,.47.00,.34953.00,.8601.00,.0.00,.43554.00
+   1876,  "Selah, God of Destruction",    Gili's Delve,      7.00,          God-touched Faterainbow Orichalcum Of Spectres ,    119.00,   43.00,    406.00,    5117.00,      48314.00,          3740.17,    57171.17
+2312, Sunrise Godwarlock, Cawold Castle, 4.00, Imperial Fate Steel , 50.00, 324.00, 356.00, 16200.00, 17800.00, 1360.00, 35360.00
+2769, Rose Anchor, The Citadel of Lord Greywulf, 0.00, Primal Adamant , 189.00, 878.00, 482.00, 165942.00, 91098.00, 0.00, 257040.002769, Rose Anchor, The Citadel of Lord Greywulf, 0.00, Primal Adamant , 189.00, 878.00, 482.00, 165942.00, 91098.00, 0.00, 257040.00
+3228, Flora Amberslayer, The Tomb of Gothmog of Udun, 1.00, Otherworldly Truesoul Orichalcum Of The East , 186.00, 636.00, 780.00, 118296.00, 145080.00, 2633.76, 266009.763228, Flora Amberslayer, The Tomb of Gothmog of Udun, 1.00, Otherworldly Truesoul Orichalcum Of The East , 186.00, 636.00, 780.00, 118296.00, 145080.00, 2633.76, 266009.76
+3688, "Maglioneth, Lord of the Sun", The Broken Arrow, 22.00, Witchs' Forbidden Rockrainbow Bronze , 201.00, 172.00, 423.00, 34572.00, 85023.00, 26310.90, 145905.90
+4147, "Addon, Lord of Death", Fellfen Keep, 11.00, Primordial False Gold , 336.00, 354.00, 602.00, 118944.00, 202272.00, 35333.76, 356549.76
+4588, "Zepul, Lady of Vengeance", Khali's Delve, 7.00, Mind Lead , 216.00, 143.00, 486.00, 30888.00, 104976.00, 9510.48, 145374.48

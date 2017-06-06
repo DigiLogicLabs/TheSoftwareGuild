@@ -1,0 +1,12 @@
+32, Bane Veil, The Black Barrow of Bery, 21.00, Mistgold Of Men , 214.00, 459.00, 640.00, 98226.00, 136960.00, 49389.06, 284575.06
+475, "Uriel, God of Fate", The Lost Crypts of Sorrows, 24.00, Goddesses' Spectral Poison Steel , 186.00, 455.00, 483.00, 84630.00, 89838.00, 41872.32, 216340.32475, "Uriel, God of Fate", The Lost Crypts of Sorrows, 24.00, Goddesses' Spectral Poison Steel , 186.00, 455.00, 483.00, 84630.00, 89838.00, 41872.32, 216340.32
+919, "Baltha, Goddess of Knowledge", , , , 11.00, 172.00, 423.00, , , 196.35, 
+1367, Harmony Angelchild, Eved Castle, 2.00, Primordial Mud Orichalcum , 134.00, 328.00, 627.00, 43952.00, 84018.00, 2559.40, 130529.40
+1817, "Penur, Lord of the Sea", The Dismal Marsh, 19.00, Stone Soulsteel Of The Skies , 125.00, 493.00, 872.00, 61625.00, 109000.00, 32418.75, 203043.75
+2246, Rouge Roguemist, South Brightcrown Borough, 0.00, Meteoric Dustzephyr Orichalcum , 299.00, 232.00, 37.00, 69368.00, 11063.00, 0.00, 80431.00
+2705, "Iran, Lord of Nightmares", The Lewd King, 17.00, Spirits' Living Wordhammer Tin Of The Trees , 122.00, 533.00, 531.00, 65026.00, 64782.00, 22067.36, 151875.36
+3165, Grave Mistseeker, Gili's Delve, 7.00, Swordbronze , 215.00, 860.00, 746.00, 184900.00, 160390.00, 24170.30, 369460.30
+3624, "Finarfin, God of Protection", Boiaburh Keep, 11.00, Otherworldly Truesoul Orichalcum Of The East , 276.00, 636.00, 780.00, 175536.00, 215280.00, 42989.76, 433805.76
+4085, "Alik, Goddess of Trickery", Minas Gilloy, 20.00, Zephyr Iron , 35.00, 909.00, 41.00, 31815.00, 1435.00, 6650.00, 39900.00
+4528, "Eumyan, Goddess of Law", Waleah Castle, 10.00, Mind Lead , 199.00, 143.00, 486.00, 28457.00, 96714.00, 12517.10, 137688.10
+4965, "Finarfin, God of Protection", The Dancing Minstrel, 14.00, Lycanthropes' Gold , 211.00, 213.00, 171.00, 44943.00, 36081.00, 11343.36, 92367.36

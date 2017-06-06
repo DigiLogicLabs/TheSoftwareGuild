@@ -1,0 +1,11 @@
+324, Tiger Mistmidnight, Ring District, 23.00, Swordbronze , 302.00, 860.00, 746.00, 259720.00, 225292.00, 111552.76, 596564.76
+767, "Gono, Goddess of the Earth", Lacot Stronghold, 7.00, Negative Mercury , 176.00, 278.00, 408.00, 48928.00, 71808.00, 8451.52, 129187.52
+1216, "Sielach, God of Fate", The Flying Witch, 13.00, Zephyr Adamant , 355.00, 215.00, 3.00, 76325.00, 1065.00, 10060.70, 87450.70
+1662, Bane Veil, The Tower of the Demon Warlord, 3.00, Sphinxes' Opalpearl Platinum Of Legend , 198.00, 461.00, 403.00, 91278.00, 79794.00, 5132.16, 176204.16
+2103, "Uriel, God of Fate", The Glano Forest, 22.00, Falserainbow Lead , 282.00, 92.00, 67.00, 25944.00, 18894.00, 9864.36, 54702.36
+2554, "Penur, Lord of the Sea", The Citadel of Lord Greywulf, 0.00, Negative Mercury , 23.00, 278.00, 408.00, 6394.00, 9384.00, 0.00, 15778.00
+3011, Rune Rougehate, Barad Kesa, 17.00, Toxin Iceplatinum Of The Undead , 120.00, 146.00, 665.00, 17520.00, 79800.00, 16544.40, 113864.40
+3469, "Gono, Goddess of the Earth", The Dungeon of Dismal Terror, 22.00, Hidden Shadowice Lead , 220.00, 241.00, 199.00, 53020.00, 43780.00, 21296.00, 118096.00
+3934, Wind Dire, Bergfison's Deep, 18.00, Sprites' Transcendent Mud Lead Of The South , 61.00, 419.00, 260.00, 25559.00, 15860.00, 7455.42, 48874.42
+4379, Bedlam Spiritraven, The Fortress of the Lich Queen, 6.00, Shadow Steel , 2.00, 841.00, 440.00, 1682.00, 880.00, 153.72, 2715.724379, Bedlam Spiritraven, The Fortress of the Lich Queen, 6.00, Shadow Steel , 2.00, 841.00, 440.00, 1682.00, 880.00, 153.72, 2715.72
+4820, Sunset Knightclaw, The Chuallanto Jungle, 1.00, Forgotten Mithril , 143.00, 793.00, 940.00, 113399.00, 134420.00, 2478.19, 250297.19

@@ -1,0 +1,11 @@
+305, Claw Mist, The Nulukkhath Spires, 20.00, Swordbronze , 323.00, 860.00, 746.00, 277780.00, 240958.00, 103747.60, 622485.60
+748, Harmony Angelchild, Boiaburh Keep, 11.00, Vampires' Hammer Emeraldmetal , 178.00, 191.00, 47.00, 33998.00, 8366.00, 4660.04, 47024.04
+1195, "Melcha, Goddess of Thieves", Mahyrst Keep, 18.00, Sprites' Transcendent Mud Lead Of The South , 59.00, 419.00, 260.00, 24721.00, 15340.00, 7210.98, 47271.98
+1644, "Iran, Lord of Nightmares", Reheath Stronghold, 11.00, Zephyr Adamant , 70.00, 215.00, 3.00, 15050.00, 210.00, 1678.60, 16938.60
+2080, Claw Mist, Noble's Village, 5.00, Sphinxes' Opalpearl Platinum Of Legend , 244.00, 461.00, 403.00, 112484.00, 98332.00, 10540.80, 221356.80
+2532, Magus Felldrake, The Demon and Toad, 3.00, Phantasmal Tin Of The Swamps , 300.00, 174.00, 421.00, 52200.00, 126300.00, 5355.00, 183855.00
+2991, "Iran, Lord of Nightmares", Citadel Ward, 14.00, God-touched Faterainbow Orichalcum Of Spectres , 82.00, 43.00, 406.00, 3526.00, 33292.00, 5154.52, 41972.52
+3445, Fate Seeker, The Forsaken Tomb of Devastation, 12.00, Sapphire Mindlead , 293.00, 608.00, 90.00, 178144.00, 26370.00, 24541.68, 229055.683445, Fate Seeker, The Forsaken Tomb of Devastation, 12.00, Sapphire Mindlead , 293.00, 608.00, 90.00, 178144.00, 26370.00, 24541.68, 229055.68
+3913, "Baltha, Goddess of Knowledge", Fellfen Keep, 11.00, Phantasmal Plague Adamant , 198.00, 831.00, 728.00, 164538.00, 144144.00, 33955.02, 342637.02
+4357, Dawn Darkzealot, The Lewd King, 17.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 174.00, 313.00, 673.00, 54462.00, 117102.00, 29165.88, 200729.88
+4800, "Finarfin, God of Protection", Grori's Deep, 4.00, Sprites' Transcendent Mud Lead Of The South , 182.00, 419.00, 260.00, 76258.00, 47320.00, 4943.12, 128521.12

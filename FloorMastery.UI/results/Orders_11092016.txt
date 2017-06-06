@@ -1,0 +1,11 @@
+167, Dagger Reaper, Barad Cune, 21.00, Golems' Stonesapphire Gold Of The Glacier , 15.00, 705.00, 952.00, 10575.00, 14280.00, 5219.55, 30074.55
+619, Storm Seraphheart, Archring Borough, 0.00, Sapphire Mindlead , 140.00, 608.00, 90.00, 85120.00, 12600.00, 0.00, 97720.00
+1059, Law Lionwatcher, Waleah Castle, 10.00, Venom Timegold Of Dwarves , 192.00, 614.00, 432.00, 117888.00, 82944.00, 20083.20, 220915.20
+1506, "Uriel, God of Fate", The Drunken Thief, 4.00, Violetdream Iron , 179.00, 948.00, 922.00, 169692.00, 165038.00, 13389.20, 348119.20
+1947, Flora Amberslayer, Archfane District, 18.00, Primordial False Gold , 89.00, 354.00, 602.00, 31506.00, 53578.00, 15315.12, 100399.12
+2392, Gale Jackalguard, The Cuitamba Jungle, 22.00, Negative Mercury , 206.00, 278.00, 408.00, 57268.00, 84048.00, 31089.52, 172405.52
+2847, "Maglioneth, Lord of the Sun", The Drunken Thief, 4.00, Sphinxes' Unknown Poisongold Of The Future , 310.00, 43.00, 998.00, 13330.00, 309380.00, 12908.40, 335618.40
+3305, Sunset Knightclaw, The Dungeon of Merciless Woe, 23.00, Ensorceled Gold Of The Dawn , 200.00, 512.00, 310.00, 102400.00, 62000.00, 37812.00, 202212.00
+3772, Fate Ivycaster, Grove Farthing, 18.00, Pearl Mirrorice Steel Of Changelings , 207.00, 474.00, 715.00, 98118.00, 148005.00, 44302.14, 290425.14
+4223, , , , , , 667.00, , 177422.00, , , 
+4665, "Avriel, God of Death", Lacot Stronghold, 7.00, Poison Adamant , 291.00, 952.00, 349.00, 277032.00, 101559.00, 26501.37, 405092.37

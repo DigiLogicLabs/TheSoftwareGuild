@@ -1,0 +1,11 @@
+65, , Reyny Keep, , , , , 493.00, , 42398.00, , 72549.60
+510, Rouge Tombreaper, The Vaults of the Shadow Emperor, 5.00, Planar Mudtin Of Trolls , 171.00, 817.00, 654.00, 139707.00, 111834.00, 12577.05, 264118.05
+956, "Nelalwe, Lady of Fire", Moor Village, 0.00, Primordial Mud Orichalcum , 312.00, 328.00, 627.00, 102336.00, 195624.00, 0.00, 297960.00
+1403, "Penur, Lord of the Sea", South Brightcrown Borough, 0.00, Pearl Mirrorice Steel Of Changelings , 228.00, 474.00, 715.00, 108072.00, 163020.00, 0.00, 271092.00
+1847, "Uriel, God of Fate", The Tower of Aramum, 9.00, Grayplatinum , 174.00, 45.00, 526.00, 7830.00, 91524.00, 8941.86, 108295.86
+2280, Lance Knightseraph, The Citadel of Tattena the Sinister, 23.00, Sirens' Rockgold , 207.00, 792.00, 901.00, 163944.00, 186507.00, 80603.73, 431054.73
+2738, Wind Dire, The Dismal Marsh, 19.00, Shadowhell Mithril , 287.00, 231.00, 848.00, 66297.00, 243376.00, 58837.87, 368510.87
+3200, "Baltha, Goddess of Knowledge", The Citadel of Cheno, 0.00, God-touched Greengem Platinum , 5.00, 501.00, 796.00, 2505.00, 3980.00, 0.00, 6485.00
+3659, "Melcha, Goddess of Thieves", The Scoundrel and Flask, 23.00, Fleshshock Mercury , 208.00, 667.00, 852.00, 138736.00, 177216.00, 72668.96, 388620.963659, "Melcha, Goddess of Thieves", The Scoundrel and Flask, 23.00, Fleshshock Mercury , 208.00, 667.00, 852.00, 138736.00, 177216.00, 72668.96, 388620.96
+4118, Clash Lonedrake, Khali's Delve, 7.00, Unknown Fatelightning Steel Of The Glacier , 226.00, 837.00, 700.00, 189162.00, 158200.00, 24315.34, 371677.34
+4560, "Finarfin, God of Protection", The Fortress of the Lich Queen, 6.00, Phantasmal Tin Of The Swamps , 291.00, 174.00, 421.00, 50634.00, 122511.00, 10388.70, 183533.70

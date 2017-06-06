@@ -1,0 +1,11 @@
+301, Shadow Tomblion, The Dungeon of Merciless Woe, 23.00, Evilsilver , 121.00, 814.00, 264.00, 98494.00, 31944.00, 30000.74, 160438.74
+744, Rune Rougehate, Fellfen Keep, 11.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 225.00, 676.00, 683.00, 152100.00, 153675.00, 33635.25, 339410.25
+1191, Shadow Tomblion, South Brightcrown Borough, 0.00, Incubi's Mirrorfog Iron Of The Ocean , 217.00, 22.00, 675.00, 4774.00, 146475.00, 0.00, 151249.00
+1642, Valentine Lawslayer, The Fortress of Gama, 5.00, Rot Silver Of The Past , 136.00, 267.00, 280.00, 36312.00, 38080.00, 3719.60, 78111.60
+2076, Bane Veil, Khali's Delve, 7.00, Unknown Fatelightning Steel Of The Glacier , 182.00, 837.00, 700.00, 152334.00, 127400.00, 19581.38, 299315.38
+2528, Rouge Roguemist, Archscepter Borough, 8.00, Icy Shock Silver , 190.00, 102.00, 540.00, 19380.00, 102600.00, 9758.40, 131738.40
+2987, Sunset Knightclaw, Waleah Castle, 10.00, Sapphire Mindlead , 224.00, 608.00, 90.00, 136192.00, 20160.00, 15635.20, 171987.20
+3441, Rouge Roguemist, The Beggar and Cask, 16.00, Warlocks' Timerot Mithril , 206.00, 368.00, 575.00, 75808.00, 118450.00, 31081.28, 225339.28
+3909, Dawn Darkzealot, Bifar's Deep, 3.00, Angels' Smoke Adamant Of The Mountains , 158.00, 694.00, 967.00, 109652.00, 152786.00, 7873.14, 270311.14
+4353, Claw Mist, Citadel Ward, 14.00, Planar Rainfate Mithril , 309.00, 81.00, 151.00, 25029.00, 46659.00, 10036.32, 81724.32
+4797, "Ahah, Goddess of Knowledge", Love Keep, 4.00, Sprites' Transcendent Mud Lead Of The South , 136.00, 419.00, 260.00, 56984.00, 35360.00, 3693.76, 96037.76

@@ -1,0 +1,11 @@
+.210,Lord Mystery,The Drunken Thief,.4.00,White Platinum ,.252.00,.795.00,.200.00,.200340.00,.50400.00,.10029.60,.260769.60
+659, Jericho Wolf, The Scoundrel and Flask, 23.00, Grayplatinum , 332.00, 45.00, 526.00, 14940.00, 174632.00, 43601.56, 233173.56
+1099, "Selik, God of Death", South Brightcrown Borough, 0.00, Lycanthropes' Gold , 217.00, 213.00, 171.00, 46221.00, 37107.00, 0.00, 83328.00
+1550, "Ahah, Goddess of Knowledge", Lamp Borough, 15.00, Toxin Iceplatinum Of The Undead , 326.00, 146.00, 665.00, 47596.00, 216790.00, 39657.90, 304043.90
+1986, "Maeglodor, God of Thieves", Archfane District, 18.00, Primordial Plague Mercury Of Legend , 232.00, 304.00, 578.00, 70528.00, 134096.00, 36832.32, 241456.32
+2434, "Gadriel, God of Resurrection", The Archer and Scroll, 11.00, Goddesses' Spectral Poison Steel , 230.00, 455.00, 483.00, 104650.00, 111090.00, 23731.40, 239471.40
+2891, Magus Felldrake, The Forsaken Hive of Galima the Mighty, 4.00, Glowpearl Adamant Of Spirits , 230.00, 669.00, 534.00, 153870.00, 122820.00, 11067.60, 287757.60
+3347, "Byzou, God of Animals", The Tower of Sheshbazzu, 15.00, Pearl Mirrorice Steel Of Changelings , 185.00, 474.00, 715.00, 87690.00, 132275.00, 32994.75, 252959.75
+3813, "Baltha, Goddess of Knowledge", Hartshill Ward, 11.00, Tritons' Time Stoneiron Of Legend , 141.00, 912.00, 866.00, 128592.00, 122106.00, 27576.78, 278274.78
+4266, "Gadriel, God of Resurrection", Eved Castle, 2.00, Emerald Orichalcum , 264.00, 711.00, 570.00, 187704.00, 150480.00, 6763.68, 344947.68
+4705, "Gono, Goddess of the Earth", Kewold Stronghold, 23.00, Grayplatinum , 282.00, 45.00, 526.00, 12690.00, 148332.00, 37035.06, 198057.06

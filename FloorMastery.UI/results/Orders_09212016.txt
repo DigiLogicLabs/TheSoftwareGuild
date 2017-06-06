@@ -1,0 +1,11 @@
+212, Storm Seraphheart, Reheath Stronghold, 11.00, Greenlead , 85.00, 518.00, 166.00, 44030.00, 14110.00, 6395.40, 64535.40
+662, "Zepul, Lady of Vengeance", The Tower of Sheshbazzu, 15.00, Dragons' Poison Glitterflesh Steel Of The North , 194.00, 941.00, 559.00, 182554.00, 108446.00, 43650.00, 334650.00
+1102, Clash Lonedrake, Hafeld Keep, 0.00, Otherworldly Truesoul Orichalcum Of The East , 144.00, 636.00, 780.00, 91584.00, 112320.00, 0.00, 203904.00
+1553, "Selah, God of Destruction", Kada's Deep, 14.00, Vampires' Fang Emeraldsilver , 205.00, 876.00, 971.00, 179580.00, 199055.00, 53008.90, 431643.90
+1989, "Selah, God of Destruction", The Grey Plains, 3.00, Phantasmal Tin Of The Swamps , 275.00, 174.00, 421.00, 47850.00, 115775.00, 4908.75, 168533.75
+2437, "Selik, God of Death", The Lost Sanctum of Woe, 12.00, White Platinum , 298.00, 795.00, 200.00, 236910.00, 59600.00, 35581.20, 332091.20
+2894, Storm Squallmourner, Cawold Castle, 4.00, Heavenly Dreamsilver Of The Night , 297.00, 328.00, 692.00, 97416.00, 205524.00, 12117.60, 315057.60
+3350, Bane Veil, Hartshill Ward, 11.00, Planar Rainfate Mithril , 112.00, 81.00, 151.00, 9072.00, 16912.00, 2858.24, 28842.24
+3816, Lance Knightseraph, The Warrior and Flagon, 0.00, Muck Orichalcum Of Ogres , 119.00, 983.00, 395.00, 116977.00, 47005.00, 0.00, 163982.00
+4268, Wind Dire, Gili's Delve, 7.00, Nymphs' Luminous Rotmercury Of The Skies , 126.00, 453.00, 202.00, 57078.00, 25452.00, 5777.10, 88307.10
+4708, "Zepul, Lady of Vengeance", The Cracked Chalice, 22.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 252.00, 676.00, 683.00, 170352.00, 172116.00, 75342.96, 417810.96

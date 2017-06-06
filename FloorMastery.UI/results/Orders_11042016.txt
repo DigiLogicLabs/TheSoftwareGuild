@@ -1,0 +1,11 @@
+ 171,    Sunset Knightclaw,    Eved Castle,     2.00,          Planar Rainfate Mithril ,        242.00,     81.00,      151.00,        19602.00,   36542.00,      1122.88,      57266.88
+624, Jericho Wolf, Waleah Castle, 10.00, Unicorns' Fatal Magma Metal Of The Ocean , 355.00, 142.00, 749.00, 50410.00, 265895.00, 31630.50, 347935.50
+1063, "Gono, Goddess of the Earth", Gawold Castle, 6.00, Shadow Metal , 291.00, 881.00, 254.00, 256371.00, 73914.00, 19817.10, 350102.10
+.1511,Slayer Claw,Minas Gilloy,.20.00,Spectres' Shadowy Terrorglow Adamant Of Life ,.192.00,.944.00,.533.00,.181248.00,.102336.00,.56716.80,.340300.80
+1951, Clash Lonedrake, Arcanist's Farthing, 6.00, Phantasmal Tin Of The Swamps , 185.00, 174.00, 421.00, 32190.00, 77885.00, 6604.50, 116679.50
+2396, "Finarfin, God of Protection", The Dread Hive of Illfang the Kobold Lord, 8.00, Grayplatinum , 200.00, 45.00, 526.00, 9000.00, 105200.00, 9136.00, 123336.00
+2852, Wind Dire, The Fortress of Gama, 5.00, God-touched Greengem Platinum , 172.00, 501.00, 796.00, 86172.00, 136912.00, 11154.20, 234238.20
+3309, "Lenwenye, Goddess of Travel", Barad Cune, 21.00, Yellow Mistearth Copper , 310.00, 408.00, 996.00, 126480.00, 308760.00, 91400.40, 526640.40
+3777, Dawn Darkzealot, , 8.00, Dragons' Poison Glitterflesh Steel Of The North , , 941.00, 559.00, 198551.00, , , 
+4228, "Lionare, God of the Lost", The Forsaken Sepulcher of Sorrows, 12.00, Starsmoke Bronze Of Life , 103.00, 618.00, 647.00, 63654.00, 66641.00, 15635.40, 145930.40
+4670, Flora Amberslayer, Bifar's Deep, 3.00, Devils' Falserot Silver , 29.00, 755.00, 915.00, 21895.00, 26535.00, 1452.90, 49882.90

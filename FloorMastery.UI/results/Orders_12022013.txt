@@ -1,0 +1,12 @@
+12, "Azah, Goddess of Fate", Lordsgate Farthing, 17.00, Planar Mudtin Of Trolls , 283.00, 817.00, 654.00, 231211.00, 185082.00, 70769.81, 487062.81
+457, "Prusu, God of Love", The Cracked Chalice, 22.00, Planar Rainfate Mithril , 264.00, 81.00, 151.00, 21384.00, 39864.00, 13474.56, 74722.56
+900, Slayer Claw, The Scoundrel and Flask, 23.00, Unknowable Mindsilver , 185.00, 578.00, 938.00, 106930.00, 173530.00, 64505.80, 344965.80
+1347, Sunrise Godwarlock, The Citadel of Alammius, 24.00, Rot Silver Of The Past , 154.00, 267.00, 280.00, 41118.00, 43120.00, 20217.12, 104455.12
+1796, Seraphim Tsunami, The Archer and Scroll, 11.00, Planar Obsidian Mercury Of Wizards , 160.00, 707.00, 602.00, 113120.00, 96320.00, 23038.40, 232478.40
+2227, Storm Seraphheart, The Barrow of Malefic Ages, 13.00, Trolls' Mist Poisonplatinum Of The Twilight , 277.00, 990.00, 430.00, 274230.00, 119110.00, 51134.20, 444474.20
+.2686,Lord Mystery,The Dark Caverns of Woe,.3.00,Sprites' Transcendent Mud Lead Of The South ,.230.00,.419.00,.260.00,.96370.00,.59800.00,.4685.10,.160855.10
+3145, "Alas, Lord of Plague", Archfane District, 18.00, Meteoric Mirrormuck Orichalcum Of The Forests , 151.00, 136.00, 65.00, 20536.00, 9815.00, 5463.18, 35814.18
+   3606,    Seraphim Tsunami,    The Forsaken Sepulcher of Sorrows,   12.00,        Angels' Adamant ,      236.00,   189.00,      157.00,    44604.00,   37052.00,          9798.72,    91454.72
+4067, "Avriel, God of Death", Fellfen Keep, 11.00, Planar Obsidian Mercury Of Wizards , 231.00, 707.00, 602.00, 163317.00, 139062.00, 33261.69, 335640.69
+4509, "Addon, Lord of Death", The Broken Arrow, 22.00, God-touched Greengem Platinum , 351.00, 501.00, 796.00, 175851.00, 279396.00, 100154.34, 555401.34
+4946, "Gono, Goddess of the Earth", Reyny Keep, 14.00, Evilsilver , 285.00, 814.00, 264.00, 231990.00, 75240.00, 43012.20, 350242.20

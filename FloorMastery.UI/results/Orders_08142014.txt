@@ -1,0 +1,11 @@
+-443,"Maeglodor, God of Thieves",The Greedy Wench,-8.00,Vampires' Fang Emeraldsilver ,-239.00,-876.00,-971.00,-209364.00,-232069.00,-35314.64,-476747.64
+887, Tarot Dawn, Tradun Castle, 7.00, Legendary Mithril Of The Moon , 182.00, 281.00, 801.00, 51142.00, 145782.00, 13784.68, 210708.68
+3,"Ingwenel, God of War",Peley Keep,24.00,Yellow Mistearth Copper ,223.00,408.00,996.00,90984.00,222108.00,75142.08,388234.08
+1785, "Ahah, Goddess of Knowledge", The Desert of Flames, 16.00, Ghostly Soul Adamant , 227.00, 56.00, 682.00, 12712.00, 154814.00, 26804.16, 194330.16
+2215, Maverick Wind, North Arcanist's Farthing, 6.00, Ghostly Soul Adamant , 201.00, 56.00, 682.00, 11256.00, 137082.00, 8900.28, 157238.28
+2674, Sephiroth Drakecaster, The Warrior and Flagon, 0.00, Plague Tin , 184.00, 806.00, 444.00, 148304.00, 81696.00, 0.00, 230000.00
+3132, "Maeglodor, God of Thieves", The Fortress of Gama, 5.00, Witchs' Forbidden Rockrainbow Bronze , 294.00, 172.00, 423.00, 50568.00, 124362.00, 8746.50, 183676.50
+3592, "Nelalwe, Lady of Fire", The Forsaken Sepulcher of Sorrows, 12.00, Vampires' Fang Emeraldsilver , 361.00, 876.00, 971.00, 316236.00, 350531.00, 80012.04, 746779.04
+4053, "Selah, God of Destruction", Noble's Village, 5.00, Goddesses' Spectral Poison Steel , 68.00, 455.00, 483.00, 30940.00, 32844.00, 3189.20, 66973.20
+4495, "Selah, God of Destruction", Kada's Deep, 14.00, Grayplatinum , 152.00, 45.00, 526.00, 6840.00, 79952.00, 12150.88, 98942.88
+4932, "Suriel, Lord of Animals", Arcanist's Farthing, 6.00, Litches' Fatal Mithril Of The Past , 275.00, 654.00, 602.00, 179850.00, 165550.00, 20724.00, 366124.00

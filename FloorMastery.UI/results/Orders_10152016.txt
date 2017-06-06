@@ -1,0 +1,11 @@
+189, Shadow Gust, The Dancing Minstrel, 14.00, Negative Mercury , 140.00, 278.00, 408.00, 38920.00, 57120.00, 13445.60, 109485.60
+642, Fate Seeker, The Beggar and Cask, 16.00, Plague Tin , 102.00, 806.00, 444.00, 82212.00, 45288.00, 20400.00, 147900.00
+ 1079,      Claw Mist,  Waleah Castle,     10.00,          Unknowable Mindsilver ,    123.00,      578.00,     938.00,      71094.00,     115374.00,    18646.80,    205114.80
+1531, Slayer Claw, The Pilgrim's Cup, 21.00, Venom Timegold Of Dwarves , 238.00, 614.00, 432.00, 146132.00, 102816.00, 52279.08, 301227.08
+1967, "Maglioneth, Lord of the Sun", The Shadow Downs, 2.00, Mithril Of The Tropics , 130.00, 386.00, 319.00, 50180.00, 41470.00, 1833.00, 93483.00
+2415, "Azah, Goddess of Fate", Gena's Hold, 8.00, Trolls' Mist Poisonplatinum Of The Twilight , 278.00, 990.00, 430.00, 275220.00, 119540.00, 31580.80, 426340.80
+2872, , , , Incubi's Mirrorfog Iron Of The Ocean , 203.00, 22.00, 675.00, , 137025.00, 0.00, 141491.00
+3327, "Melcha, Goddess of Thieves", The Dark Caverns of Woe, 3.00, Starsmoke Bronze Of Life , 150.00, 618.00, 647.00, 92700.00, 97050.00, 5692.50, 195442.50
+3795, Rune Rougehate, The Nulukkhath Spires, 20.00, Zephyr Adamant , 234.00, 215.00, 3.00, 50310.00, 702.00, 10202.40, 61214.40
+4246, Grave Mistseeker, Eved Castle, 2.00, Icy Shock Silver , 180.00, 102.00, 540.00, 18360.00, 97200.00, 2311.20, 117871.20
+4688, Tarot Dawn, Shainan's Hold, 15.00, Planar Mudtin Of Trolls , 183.00, 817.00, 654.00, 149511.00, 119682.00, 40378.95, 309571.95

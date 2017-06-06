@@ -1,0 +1,11 @@
+94, Zeal Bladewitch, The Citadel of Lord Greywulf, 0.00, Unicorns' Fatal Magma Metal Of The Ocean , 362.00, 142.00, 749.00, 51404.00, 271138.00, 0.00, 322542.00
+541, Slayer Claw, Gawold Castle, 6.00, Spectres' Shadowy Terrorglow Adamant Of Life , 356.00, 944.00, 533.00, 336064.00, 189748.00, 31548.72, 557360.72
+983, Clash Lonedrake, The Drunken Thief, 4.00, Fleshshock Mercury , 227.00, 667.00, 852.00, 151409.00, 193404.00, 13792.52, 358605.52
+1428, Harmony Angelchild, The Bastion of Sthasu the Gruesome, 0.00, Otherworldly Truesoul Orichalcum Of The East , 283.00, 636.00, 780.00, 179988.00, 220740.00, 0.00, 400728.00
+1877, "Zepul, Lady of Vengeance", Grove Farthing, 18.00, Grayplatinum , 204.00, 45.00, 526.00, 9180.00, 107304.00, 20967.12, 137451.12
+ 2313,      "Azah, Goddess of Fate",  The Grey Plains,      3.00,          Fairies' Supreme Mistsmoke Lead Of The Future ,      117.00,    489.00,     658.00,        57213.00,    76986.00,            4025.97,     138224.97
+2770, Shadow Gust, The Bastion of Barbos, 18.00, Venom Jewelmetal Of The Desert , 253.00, 21.00, 455.00, 5313.00, 115115.00, 21677.04, 142105.04
+
+3689, "Baltha, Goddess of Knowledge", The Fortress of Asmamur, 7.00, Foulopal Copper Of The Skies , 323.00, 170.00, 101.00, 54910.00, 32623.00, 6127.31, 93660.31
+4148, "Eumyan, Goddess of Law", Pawic Keep, 0.00, Phantasmal Tin Of The Swamps , 208.00, 174.00, 421.00, 36192.00, 87568.00, 0.00, 123760.00
+4589, "Addon, Lord of Death", The Archer and Scroll, 11.00, Unicorns' Evil Mithril , 207.00, 334.00, 705.00, 69138.00, 145935.00, 23658.03, 238731.03

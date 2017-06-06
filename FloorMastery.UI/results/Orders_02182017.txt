@@ -1,0 +1,11 @@
+80, Slayer Claw, The Pilgrim's Cup, 21.00, Sphinxes' Unknown Poisongold Of The Future , 85.00, 43.00, 998.00, 3655.00, 84830.00, 18581.85, 107066.85
+526, "Selik, God of Death", The Pilgrim's Cup, 21.00, Nymphs' Luminous Rotmercury Of The Skies , 204.00, 453.00, 202.00, 92412.00, 41208.00, 28060.20, 161680.20
+969, Fate Ivycaster, The Broken Arrow, 22.00, God-touched Greengem Platinum , 323.00, 501.00, 796.00, 161823.00, 257108.00, 92164.82, 511095.82
+1418, "Lionare, God of the Lost", Peley Keep, 24.00, Ensorceled Sandmetal Of Spirits , 340.00, 671.00, 431.00, 228140.00, 146540.00, 89923.20, 464603.20
+1863, "Zepul, Lady of Vengeance", Castle Village, 17.00, Shadow Steel , 209.00, 841.00, 440.00, 175769.00, 91960.00, 45513.93, 313242.93
+2298, Bane Veil, Kada's Deep, 14.00, Unicorns' Fatal Magma Metal Of The Ocean , 85.00, 142.00, 749.00, 12070.00, 63665.00, 10602.90, 86337.90
+2756, Wind Dire, Moor Village, 0.00, Dragons' Poison Glitterflesh Steel Of The North , 345.00, 941.00, 559.00, 324645.00, 192855.00, 0.00, 517500.00
+3217, Seraph Jester, The Citadel of Alammius, 24.00, Shadow Steel , 295.00, 841.00, 440.00, 248095.00, 129800.00, 90694.80, 468589.80
+3675, Storm Squallmourner, The Forsaken Sepulcher of Sorrows, 12.00, Incubi's Glittering Tin Of The Future , 281.00, 247.00, 493.00, 69407.00, 138533.00, 24952.80, 232892.80
+4134, Gale Jackalguard, The Desert of Flames, 16.00, Djinni's Mind Fogiron , 120.00, 387.00, 164.00, 46440.00, 19680.00, 10579.20, 76699.20
+4578, Valentine Lawslayer, Cawold Castle, 4.00, Angels' Adamant , 240.00, 189.00, 157.00, 45360.00, 37680.00, 3321.60, 86361.60

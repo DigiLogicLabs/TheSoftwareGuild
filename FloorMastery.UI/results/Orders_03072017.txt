@@ -1,0 +1,11 @@
+66, Harmony Angelchild, The Greedy Wench, 8.00, Icy Shock Silver , 377.00, 102.00, 540.00, 38454.00, 203580.00, 19362.72, 261396.72
+511, "Maglioneth, Lord of the Sun", The Temple of Merciless Necromancy, 1.00, Vampires' Fang Emeraldsilver , 318.00, 876.00, 971.00, 278568.00, 308778.00, 5873.46, 593219.46
+957, "Nelalwe, Lady of Fire", Mahyrst Keep, 18.00, Mind Lead , 123.00, 143.00, 486.00, 17589.00, 59778.00, 13926.06, 91293.06
+1404, Sunrise Godwarlock, The Tower of Sheshbazzu, 15.00, Venom Timegold Of Dwarves , 151.00, 614.00, 432.00, 92714.00, 65232.00, 23691.90, 181637.90
+1848, "Selah, God of Destruction", Eved Castle, 2.00, Glittering Orichalcum , 105.00, 425.00, 275.00, 44625.00, 28875.00, 1470.00, 74970.00
+2281, "Ariel, God of Luck", The Citadel of Tattena the Sinister, 23.00, Djinni's Spectral Shadowlead Of Life , 64.00, 969.00, 997.00, 62016.00, 63808.00, 28939.52, 154763.52
+2739, Lance Knightseraph, Archtemple District, 4.00, Ghostly Magic Adamant , 154.00, 499.00, 881.00, 76846.00, 135674.00, 8500.80, 221020.80
+3201, Seraph Jester, The Dismal Marsh, 19.00, God-touched Greengem Platinum , 215.00, 501.00, 796.00, 107715.00, 171140.00, 52982.45, 331837.45
+3660, Slayer Claw, The Fortress of Asmamur, 7.00, Tritons' Time Stoneiron Of Legend , 222.00, 912.00, 866.00, 202464.00, 192252.00, 27630.12, 422346.12
+4119, "Suriel, Lord of Animals", Archtemple District, 4.00, Incubi's Mirrorfog Iron Of The Ocean , 260.00, 22.00, 675.00, 5720.00, 175500.00, 7248.80, 188468.80
+4561, Rouge Roguemist, Reyny Keep, 14.00, Toxin Iceplatinum Of The Undead , 355.00, 146.00, 665.00, 51830.00, 236075.00, 40306.70, 328211.70

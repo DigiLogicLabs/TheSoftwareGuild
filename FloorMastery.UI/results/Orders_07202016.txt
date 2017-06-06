@@ -1,0 +1,11 @@
+268, Fate Ivycaster, The Hunter and Rose, 2.00, Plague Tin , 388.00, 806.00, 444.00, 312728.00, 172272.00, 9700.00, 494700.00
+713, "Iran, Lord of Nightmares", Cawold Castle, 4.00, Unholy Poison Copper Of The Mountains , 173.00, 439.00, 495.00, 75947.00, 85635.00, 6463.28, 168045.28
+1159, "Byzou, God of Animals", The Vaults of the Shadow Emperor, 5.00, Yellow Mistearth Copper , 353.00, 408.00, 996.00, 144024.00, 351588.00, 24780.60, 520392.60
+1611, Seraphim Tsunami, The Barrow of Malefic Ages, 13.00, Primordial Mud Orichalcum , 135.00, 328.00, 627.00, 44280.00, 84645.00, 16760.25, 145685.25
+2044, "Finarfin, God of Protection", The Nulukkhath Spires, 20.00, Glittering Orichalcum , 264.00, 425.00, 275.00, 112200.00, 72600.00, 36960.00, 221760.00
+2496, "Sielach, God of Fate", The Bastion of the Lich Tyrant, 10.00, Djinni's Mind Fogiron , 148.00, 387.00, 164.00, 57276.00, 24272.00, 8154.80, 89702.80
+2951, Clash Lonedrake, The Drunken Thief, 4.00, Vampires' Hammer Emeraldmetal , 61.00, 191.00, 47.00, 11651.00, 2867.00, 580.72, 15098.72
+3408, "Zepul, Lady of Vengeance", The Pirate's Pipe, 14.00, Phantasmal Tin Of The Swamps , 244.00, 174.00, 421.00, 42456.00, 102724.00, 20325.20, 165505.20
+
+4321, "Gadriel, God of Resurrection", Haukri's Hold, 7.00, Rainbowglitter Tin , 253.00, 496.00, 595.00, 125488.00, 150535.00, 19321.61, 295344.61
+4765, "Maglioneth, Lord of the Sun", The Secret Shrine of the Gargoyle Count, 24.00, Planar Obsidian Mercury Of Wizards , 131.00, 707.00, 602.00, 92617.00, 78862.00, 41154.96, 212633.96

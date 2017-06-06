@@ -1,0 +1,12 @@
+34, Valentine Lawslayer, The Archer and Blade, 18.00, Phantasmal Tin Of The Swamps , 149.00, 174.00, 421.00, 25926.00, 62729.00, 15957.90, 104612.90
+477, "Penur, Lord of the Sea", Cawold Castle, 4.00, Mithril Of Legend , 123.00, 382.00, 657.00, 46986.00, 80811.00, 5111.88, 132908.88
+921, , The Cracked Chalice, 22.00, Sirens' Rockgold , 122.00, , , , 109922.00, 45440.12, 
+1368, "Lenwenye, Goddess of Travel", The Fortress of the Lich Queen, 6.00, Ensorceled Gold Of The Dawn , 317.00, 512.00, 310.00, 162304.00, 98270.00, 15634.44, 276208.44
+1819, Tiger Mistmidnight, Minas Gilloy, 20.00, Phantasmal Lead , 162.00, 88.00, 927.00, 14256.00, 150174.00, 32886.00, 197316.00
+2248, "Ahah, Goddess of Knowledge", The Greedy Wench, 8.00, Mistgold Of Men , 62.00, 459.00, 640.00, 28458.00, 39680.00, 5451.04, 73589.04
+2707, "Uriel, God of Fate", Dysley Stronghold, 5.00, Hell Mercury Of The East , 158.00, 122.00, 838.00, 19276.00, 132404.00, 7584.00, 159264.00
+3166, Seraph Jester, The Lost Sanctum of Woe, 12.00, Meteoric Mirrormuck Orichalcum Of The Forests , 270.00, 136.00, 65.00, 36720.00, 17550.00, 6512.40, 60782.40
+3626, Zeal Bladewitch, The Cuitamba Jungle, 22.00, Stone Soulsteel Of The Skies , 179.00, 493.00, 872.00, 88247.00, 156088.00, 53753.70, 298088.70
+4085, "Uriel, God of Fate", Bergfison's Deep, 18.00, Fairies' Supreme Mistsmoke Lead Of The Future , 211.00, 489.00, 658.00, 103179.00, 138838.00, 43563.06, 285580.06
+4530, Jericho Wolf, Weke Tower, 23.00, White Platinum , 234.00, 795.00, 200.00, 186030.00, 46800.00, 53550.90, 286380.90
+4,Sunset Knightclaw,The Beggar and Cask,16.00,Fleshshock Mercury ,267.00,667.00,852.00,178089.00,227484.00,64891.68,470464.68

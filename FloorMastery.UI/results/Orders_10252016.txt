@@ -1,0 +1,11 @@
+181, "Suriel, Lord of Animals", The Secret Catacombs of Ulfang the Black, 0.00, Imperial Fate Steel , 120.00, 324.00, 356.00, 38880.00, 42720.00, 0.00, 81600.00
+633, "Azah, Goddess of Fate", The Forsaken Tomb of Devastation, 12.00, Mind Lead , 120.00, 143.00, 486.00, 17160.00, 58320.00, 9057.60, 84537.60
+1071, Seraph Jester, The Hunter and Rose, 2.00, Nymphs' Luminous Rotmercury Of The Skies , 15.00, 453.00, 202.00, 6795.00, 3030.00, 196.50, 10021.50
+1521, Harmony Angelchild, The Khazahol Crags, 22.00, Starlight Pearldream Bronze , 215.00, 441.00, 906.00, 94815.00, 194790.00, 63713.10, 353318.10
+1957, "Zepul, Lady of Vengeance", Fellfen Keep, 11.00, Ensorceled Gold Of The Dawn , 257.00, 512.00, 310.00, 131584.00, 79670.00, 23237.94, 234491.94
+2406, Seraph Jester, The Tower of Aces the Accursed, 3.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 366.00, 676.00, 683.00, 247416.00, 249978.00, 14921.82, 512315.82
+2862, "Eumyan, Goddess of Law", Hafeld Keep, 0.00, Undeads' Mind Orichalcum Of The Twilight , 347.00, 495.00, 573.00, 171765.00, 198831.00, 0.00, 370596.00
+3318, "Azah, Goddess of Fate", The Warrior and Flagon, 0.00, Spirits' Living Wordhammer Tin Of The Trees , 214.00, 533.00, 531.00, 114062.00, 113634.00, 0.00, 227696.00
+3786, Grave Mistseeker, The Bastion of Gothmog of Udun, 18.00, Rocklava Mithril Of Revenants , 60.00, 169.00, 287.00, 10140.00, 17220.00, 4924.80, 32284.80
+4236, Bane Veil, The Citadel of Lord Greywulf, 0.00, Golems' Stonesapphire Gold Of The Glacier , 213.00, 705.00, 952.00, 150165.00, 202776.00, 0.00, 352941.00
+4680, Law Lionwatcher, The Tower of Sabiesu the Awesome, 18.00, Icy Shock Silver , 283.00, 102.00, 540.00, 28866.00, 152820.00, 32703.48, 214389.48

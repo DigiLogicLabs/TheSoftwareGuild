@@ -1,0 +1,11 @@
+270, Seraphim Tsunami, Arcanist's Farthing, 6.00, Planar Rainfate Mithril , 132.00, 81.00, 151.00, 10692.00, 19932.00, 1837.44, 32461.44
+716, Clash Lonedrake, The Citadel of Alammius, 24.00, Sphinxes' Opalpearl Platinum Of Legend , 355.00, 461.00, 403.00, 163655.00, 143065.00, 73612.80, 380332.80
+1162, Bane Veil, The Lewd King, 17.00, Violetdream Iron , 144.00, 948.00, 922.00, 136512.00, 132768.00, 45777.60, 315057.60
+1614, Grave Mistseeker, Bifar's Deep, 3.00, Zephyr Adamant , 206.00, 215.00, 3.00, 44290.00, 618.00, 1347.24, 46255.24
+2047, Dagger Reaper, The Beggar and Cask, 16.00, Toxin Iceplatinum Of The Undead , 207.00, 146.00, 665.00, 30222.00, 137655.00, 26860.32, 194737.32
+   2499,    Dagger Reaper,      Gena's Hold,      8.00,          Lycanthropes' Gold ,        221.00,     213.00,     171.00,      47073.00,   37791.00,    6789.12,      91653.12
+2954, Slayer Claw, The Grey Plains, 3.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 160.00, 313.00, 673.00, 50080.00, 107680.00, 4732.80, 162492.80
+3410, Law Lionwatcher, The Citadel of Cheno, 0.00, Unknowable Mindsilver , 324.00, 578.00, 938.00, 187272.00, 303912.00, 0.00, 491184.00
+3879, "Addon, Lord of Death", Fellfen Keep, 11.00, Shadow Metal , 241.00, 881.00, 254.00, 212321.00, 61214.00, 30088.85, 303623.85
+4323, "Uriel, God of Fate", Lacot Stronghold, 7.00, Primordial Mud Orichalcum , 84.00, 328.00, 627.00, 27552.00, 52668.00, 5615.40, 85835.40
+4767, Tiger Mistmidnight, The Fortress of Asmamur, 7.00, Dragons' Poison Glitterflesh Steel Of The North , 340.00, 941.00, 559.00, 319940.00, 190060.00, 35700.00, 545700.00

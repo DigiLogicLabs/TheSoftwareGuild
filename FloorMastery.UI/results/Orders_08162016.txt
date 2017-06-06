@@ -1,0 +1,11 @@
+244, "Uriel, God of Fate", The Citadel of Lord Greywulf, 0.00, Timeiron , 142.00, 537.00, 965.00, 76254.00, 137030.00, 0.00, 213284.00
+693, "Gono, Goddess of the Earth", Kada's Deep, 14.00, Foul Ice Bronze Of Life , 217.00, 168.00, 97.00, 36456.00, 21049.00, 8050.70, 65555.70
+1135, Wind Dire, The Khazahol Crags, 22.00, Mithril Of Legend , 316.00, 382.00, 657.00, 120712.00, 207612.00, 72231.28, 400555.28
+1586, Fate Ivycaster, The Black Barrow of Zago the Possessed, 23.00, Glowpearl Adamant Of Spirits , 89.00, 669.00, 534.00, 59541.00, 47526.00, 24625.41, 131692.41
+2020, Clash Lonedrake, The Greedy Wench, 8.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 118.00, 676.00, 683.00, 79768.00, 80594.00, 12828.96, 173190.96
+2470, Sunrise Godwarlock, The Drunken Thief, 4.00, Foul Ice Bronze Of Life , 52.00, 168.00, 97.00, 8736.00, 5044.00, 551.20, 14331.20
+2924, "Gono, Goddess of the Earth", Fellfen Keep, 11.00, Foulopal Copper Of The Skies , 219.00, 170.00, 101.00, 37230.00, 22119.00, 6528.39, 65877.39
+3382, Lord Mystery, The Fen of the Necromancer, 15.00, Forgotten Mithril , 106.00, 793.00, 940.00, 84058.00, 99640.00, 27554.70, 211252.70
+3849, "Gono, Goddess of the Earth", The Secret Catacombs of Ulfang the Black, 0.00, Unholy Poison Copper Of The Mountains , 217.00, 439.00, 495.00, 95263.00, 107415.00, 0.00, 202678.00
+4298, "Alas, Lord of Plague", Arcanist's Farthing, 6.00, Incubi's Mirrorfog Iron Of The Ocean , 305.00, 22.00, 675.00, 6710.00, 205875.00, 12755.10, 225340.10
+4740, Storm Seraphheart, Grori's Deep, 4.00, Starsmoke Bronze Of Life , 104.00, 618.00, 647.00, 64272.00, 67288.00, 5262.40, 136822.40

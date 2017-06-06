@@ -1,0 +1,11 @@
+145, Bane Veil, Ring District, 23.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 153.00, 313.00, 673.00, 47889.00, 102969.00, 34697.34, 185555.34
+596, Tiger Mistmidnight, Gili's Delve, 7.00, Fog Lavaplatinum Of Life , 186.00, 967.00, 333.00, 179862.00, 61938.00, 16926.00, 258726.00596, Tiger Mistmidnight, Gili's Delve, 7.00, Fog Lavaplatinum Of Life , 186.00, 967.00, 333.00, 179862.00, 61938.00, 16926.00, 258726.00
+1037, "Azah, Goddess of Fate", The Bastion of the Vampire Duke, 18.00, Unspeakable Rotsoul Mithril Of Souls , 175.00, 255.00, 25.00, 44625.00, 4375.00, 8820.00, 57820.00
+1482, "Sielach, God of Fate", Arcanist's Farthing, 6.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 307.00, 313.00, 673.00, 96091.00, 206611.00, 18162.12, 320864.12
+1926, "Eumyan, Goddess of Law", The Dismal Marsh, 19.00, Mistgold Of Men , 143.00, 459.00, 640.00, 65637.00, 91520.00, 29859.83, 187016.83
+2368, Lord Mystery, The Bastion of Gothmog of Udun, 18.00, Djinni's Mind Fogiron , 197.00, 387.00, 164.00, 76239.00, 32308.00, 19538.46, 128085.46
+2822, "Finarfin, God of Protection", The Citadel of Alammius, 24.00, Hell Mercury Of The East , 177.00, 122.00, 838.00, 21594.00, 148326.00, 40780.80, 210700.80
+3281, "Avriel, God of Death", The Cuitamba Jungle, 22.00, Glowpearl Adamant Of Spirits , 114.00, 669.00, 534.00, 76266.00, 60876.00, 30171.24, 167313.24
+3747, "Suriel, Lord of Animals", Hartshill Ward, 11.00, Toxin Iceplatinum Of The Undead , 267.00, 146.00, 665.00, 38982.00, 177555.00, 23819.07, 240356.07
+4202, Storm Seraphheart, Eved Castle, 2.00, Otherworldly Truesoul Orichalcum Of The East , 302.00, 636.00, 780.00, 192072.00, 235560.00, 8552.64, 436184.64
+4645, Sunrise Godwarlock, The Forsaken Sepulcher of Sorrows, 12.00, Stone Soulsteel Of The Skies , 197.00, 493.00, 872.00, 97121.00, 171784.00, 32268.60, 301173.60

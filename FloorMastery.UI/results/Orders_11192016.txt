@@ -1,0 +1,11 @@
+159, Zeal Bladewitch, The Vaults of the Shadow Emperor, 5.00, Planar Obsidian Mercury Of Wizards , 247.00, 707.00, 602.00, 174629.00, 148694.00, 16166.15, 339489.15
+610, "Baltha, Goddess of Knowledge", The Tower of Sabiesu the Awesome, 18.00, Witchs' Forbidden Rockrainbow Bronze , 134.00, 172.00, 423.00, 23048.00, 56682.00, 14351.40, 94081.40
+1051, "Maglioneth, Lord of the Sun", The Demon and Toad, 3.00, Greenlead , 222.00, 518.00, 166.00, 114996.00, 36852.00, 4555.44, 156403.44
+1496, Zeal Bladewitch, The Lazy Sage, 9.00, Trolls' Rubymercury Of The Sunset , 216.00, 146.00, 782.00, 31536.00, 168912.00, 18040.32, 218488.32
+1940, Valentine Lawslayer, Haukri's Hold, 7.00, Nymphs' Luminous Rotmercury Of The Skies , 202.00, 453.00, 202.00, 91506.00, 40804.00, 9261.70, 141571.70
+2383, Rune Rougehate, The Barrow of Malefic Ages, 13.00, Nymphs' Luminous Rotmercury Of The Skies , 259.00, 453.00, 202.00, 117327.00, 52318.00, 22053.85, 191698.85
+2837, Dawn Darkzealot, The Flying Witch, 13.00, Heavenly Dreamsilver Of The Night , 82.00, 328.00, 692.00, 26896.00, 56744.00, 10873.20, 94513.20
+3296, Shadow Tomblion, Fellfen Keep, 11.00, Foulopal Copper Of The Skies , 197.00, 170.00, 101.00, 33490.00, 19897.00, 5872.57, 59259.57
+3762, Storm Squallmourner, Moor Village, 0.00, Unicorns' Fatal Magma Metal Of The Ocean , 204.00, 142.00, 749.00, 28968.00, 152796.00, 0.00, 181764.00
+   4214,    Storm Squallmourner,  The Broken Arrow,    22.00,   Mind Lead ,    189.00,    143.00,      486.00,        27027.00,    91854.00,    26153.82,     145034.82
+4658, "Gadriel, God of Resurrection", The Citadel of Tattena the Sinister, 23.00, Greenlead , 167.00, 518.00, 166.00, 86506.00, 27722.00, 26272.44, 140500.44

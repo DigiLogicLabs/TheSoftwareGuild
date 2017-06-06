@@ -1,0 +1,11 @@
+139, Bedlam Spiritraven, The Dread Hive of Illfang the Kobold Lord, 8.00, Foul Ice Bronze Of Life , 257.00, 168.00, 97.00, 43176.00, 24929.00, 5448.40, 73553.40
+585, Tiger Mistmidnight, Lacot Stronghold, 7.00, Otherworldly Truesoul Orichalcum Of The East , 176.00, 636.00, 780.00, 111936.00, 137280.00, 17445.12, 266661.12
+1027, "Ahah, Goddess of Knowledge", The Dark Caverns of Woe, 3.00, Foul Ice Bronze Of Life , 201.00, 168.00, 97.00, 33768.00, 19497.00, 1597.95, 54862.95
+1472, Rouge Tombreaper, Citadel Ward, 14.00, Shadowy Adamant , 197.00, 585.00, 941.00, 115245.00, 185377.00, 42087.08, 342709.08
+1918, Sunset Knightclaw, Gena's Hold, 8.00, Hell Mercury Of The East , 322.00, 122.00, 838.00, 39284.00, 269836.00, 24729.60, 333849.60
+2358, Rouge Roguemist, The Pirate's Pipe, 14.00, Shadowy Adamant , 308.00, 585.00, 941.00, 180180.00, 289828.00, 65801.12, 535809.12
+2813, "Selah, God of Destruction", Grove Farthing, 18.00, Fog Lavaplatinum Of Life , 227.00, 967.00, 333.00, 219509.00, 75591.00, 53118.00, 348218.00
+3271, Dagger Reaper, The Scoundrel and Flask, 23.00, Starlight Pearldream Bronze , 168.00, 441.00, 906.00, 74088.00, 152208.00, 52048.08, 278344.08
+3736, "Gadriel, God of Resurrection", Mahyrst Keep, 18.00, Ensorceled Gold Of The Dawn , 211.00, 512.00, 310.00, 108032.00, 65410.00, 31219.56, 204661.56
+4194, "Nelalwe, Lady of Fire", The Lost Sanctum of Woe, 12.00, Sirens' Rockgold , 231.00, 792.00, 901.00, 182952.00, 208131.00, 46929.96, 438012.96
+4634, "Selik, God of Death", Noble's Village, 5.00, Unknown Fatelightning Steel Of The Glacier , 249.00, 837.00, 700.00, 208413.00, 174300.00, 19135.65, 401848.65

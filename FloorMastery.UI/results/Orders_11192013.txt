@@ -1,0 +1,12 @@
+13, "Eumyan, Goddess of Law", The Lost Crypts of Sorrows, 24.00, Unknowable Mindsilver , 222.00, 578.00, 938.00, 128316.00, 208236.00, 80772.48, 417324.48
+458, Rune Rougehate, The Archer and Scroll, 11.00, Shadow Metal , 49.00, 881.00, 254.00, 43169.00, 12446.00, 6117.65, 61732.65
+901, "Azah, Goddess of Fate", Reheath Stronghold, 11.00, Starlight Pearldream Bronze , 382.00, 441.00, 906.00, 168462.00, 346092.00, 56600.94, 571154.94
+1348, "Lenwenye, Goddess of Travel", The Broken Arrow, 22.00, Starsmoke Bronze Of Life , 142.00, 618.00, 647.00, 87756.00, 91874.00, 39518.60, 219148.60
+1797, Lord Mystery, The Tower of Sabiesu the Awesome, 18.00, Phantasmal Lead , 324.00, 88.00, 927.00, 28512.00, 300348.00, 59194.80, 388054.80
+2228, Rune Rougehate, The Cuitamba Jungle, 22.00, Unicorns' Fatal Magma Metal Of The Ocean , 171.00, 142.00, 749.00, 24282.00, 128079.00, 33519.42, 185880.42
+2687, "Alik, Goddess of Trickery", The Tower of Aramum, 9.00, Primal Adamant , 199.00, 878.00, 482.00, 174722.00, 95918.00, 24357.60, 294997.60
+3146, "Ariel, God of Luck", The Forsaken Sepulcher of Sorrows, 12.00, Undeads' Mind Orichalcum Of The Twilight , 248.00, 495.00, 573.00, 122760.00, 142104.00, 31783.68, 296647.68
+3607, Sephiroth Drakecaster, The Demon and Toad, 3.00, Fairies' Supreme Mistsmoke Lead Of The Future , 141.00, 489.00, 658.00, 68949.00, 92778.00, 4851.81, 166578.81
+4068, Tiger Mistmidnight, The Hunter and Rose, 2.00, Muck Orichalcum Of Ogres , 253.00, 983.00, 395.00, 248699.00, 99935.00, 6972.68, 355606.68
+4510, Lightning Brand, Arcanist's Farthing, 6.00, Devils' Falserot Silver , 263.00, 755.00, 915.00, 198565.00, 240645.00, 26352.60, 465562.60
+4947, Fate Ivycaster, The Bastion of the Lich Tyrant, 10.00, Nymphs' Luminous Rotmercury Of The Skies , 32.00, 453.00, 202.00, 14496.00, 6464.00, 2096.00, 23056.00

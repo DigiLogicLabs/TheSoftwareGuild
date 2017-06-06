@@ -1,0 +1,11 @@
+82, Sunrise Godwarlock, Fellfen Keep, 11.00, Glittering Orichalcum , 269.00, 425.00, 275.00, 114325.00, 73975.00, 20713.00, 209013.00
+528, Jericho Wolf, Gena's Hold, 8.00, Ensorceled Sandmetal Of Spirits , 317.00, 671.00, 431.00, 212707.00, 136627.00, 27946.72, 377280.72
+971, "Addon, Lord of Death", The Hunter and Rose, 2.00, Planar Rainfate Mithril , 198.00, 81.00, 151.00, 16038.00, 29898.00, 918.72, 46854.72
+
+ 1865,  Flora Amberslayer,    Archtemple District,   4.00,        Otherworldly Mirror Orichalcum ,        103.00,    849.00,   283.00,      87447.00,     29149.00,            4663.84,     121259.84
+2300, "Selah, God of Destruction", The Tower of Aramum, 9.00, Vampires' Hammer Emeraldmetal , 173.00, 191.00, 47.00, 33043.00, 8131.00, 3705.66, 44879.66
+2758, Magus Felldrake, The Fortress of the Lich Queen, 6.00, Ensorceled Sandmetal Of Spirits , 252.00, 671.00, 431.00, 169092.00, 108612.00, 16662.24, 294366.24
+3219, "Sielach, God of Fate", The Pirate's Pipe, 14.00, Magicians' Legendary Poison Metal , 181.00, 768.00, 160.00, 139008.00, 28960.00, 23515.52, 191483.52
+3677, "Ariel, God of Luck", Palace Farthing, 12.00, Mind Lead , 271.00, 143.00, 486.00, 38753.00, 131706.00, 20455.08, 190914.08
+4136, Rune Rougehate, The Citadel of Lord Greywulf, 0.00, Ensorceled Gold Of The Dawn , 242.00, 512.00, 310.00, 123904.00, 75020.00, 0.00, 198924.00
+4579, Grave Mistseeker, The Fen of the Necromancer, 15.00, Warlocks' Timerot Mithril , 213.00, 368.00, 575.00, 78384.00, 122475.00, 30128.85, 230987.85

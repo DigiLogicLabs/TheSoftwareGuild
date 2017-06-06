@@ -1,0 +1,11 @@
+124, Rose Anchor, Unicorn's Ward, 1.00, Magic Adamant , 62.00, 746.00, 526.00, 46252.00, 32612.00, 788.64, 79652.64
+568, Tarot Dawn, Moor Village, 0.00, Primordial Mud Orichalcum , 247.00, 328.00, 627.00, 81016.00, 154869.00, 0.00, 235885.00
+1012, Dagger Reaper, The Barrow of Malefic Ages, 13.00, Unknown Fatelightning Steel Of The Glacier , 326.00, 837.00, 700.00, 272862.00, 228200.00, 65138.06, 566200.06
+1455, Lightning Brand, The Archer and Blade, 18.00, Negative Rockglitter Mercury Of Trolls , 266.00, 216.00, 497.00, 57456.00, 132202.00, 34138.44, 223796.44
+1904, Lance Knightseraph, The Nulukkhath Spires, 20.00, Shadow Steel , 378.00, 841.00, 440.00, 317898.00, 166320.00, 96843.60, 581061.60
+
+2799, Shadow Tomblion, The Flying Witch, 13.00, Phantasmal Smokezephyr Mercury Of Men , 251.00, 918.00, 965.00, 230418.00, 242215.00, 61442.29, 534075.29
+3256, "Selah, God of Destruction", The Dismal Marsh, 19.00, Mithril Of Legend , 256.00, 382.00, 657.00, 97792.00, 168192.00, 50536.96, 316520.96
+3718, Song Runetomb, Moor Village, 0.00, Planar Mudtin Of Trolls , 236.00, 817.00, 654.00, 192812.00, 154344.00, 0.00, 347156.00
+4178, "Maeglodor, God of Thieves", The Cuitamba Jungle, 22.00, Primordial False Gold , 247.00, 354.00, 602.00, 87438.00, 148694.00, 51949.04, 288081.04
+4618, Song Runetomb, Shainan's Hold, 15.00, Ensorceled Gold Of The Dawn , 160.00, 512.00, 310.00, 81920.00, 49600.00, 19728.00, 151248.00

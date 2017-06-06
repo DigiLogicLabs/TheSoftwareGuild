@@ -1,0 +1,12 @@
+62, "Selik, God of Death", Peley Keep, 24.00, Zephyr Iron , 238.00, 909.00, 41.00, 216342.00, 9758.00, 54264.00, 280364.00
+507, "Penur, Lord of the Sea", Reheath Stronghold, 11.00, Toxin Iceplatinum Of The Undead , 239.00, 146.00, 665.00, 34894.00, 158935.00, 21321.19, 215150.19
+952, "Maglioneth, Lord of the Sun", Barad Cune, 21.00, Tin Of The Tundra , 231.00, 479.00, 294.00, 110649.00, 67914.00, 37498.23, 216061.23
+1399, Harmony Angelchild, The Fortress of Asmamur, 7.00, Imperial Fate Steel , 203.00, 324.00, 356.00, 65772.00, 72268.00, 9662.80, 147702.80
+1843, Jericho Wolf, Cawold Castle, 4.00, Unicorns' Evil Mithril , 311.00, 334.00, 705.00, 103874.00, 219255.00, 12925.16, 336054.16
+2277, "Maeglodor, God of Thieves", Cawold Castle, 4.00, Shadow Metal , 141.00, 881.00, 254.00, 124221.00, 35814.00, 6401.40, 166436.40
+2735, Seraph Jester, The Flying Witch, 13.00, Green Dustlightning Mercury , 261.00, 906.00, 964.00, 236466.00, 251604.00, 63449.10, 551519.10
+3196, "Prusu, God of Love", The Tower of Sabiesu the Awesome, 18.00, Dragons' Poison Glitterflesh Steel Of The North , 300.00, 941.00, 559.00, 282300.00, 167700.00, 81000.00, 531000.00
+3655, "Suriel, Lord of Animals", The Greedy Wench, 8.00, Unicorns' Fatal Magma Metal Of The Ocean , 245.00, 142.00, 749.00, 34790.00, 183505.00, 17463.60, 235758.60
+4114, "Penur, Lord of the Sea", The Flying Witch, 13.00, Shadowhell Mithril , 254.00, 231.00, 848.00, 58674.00, 215392.00, 35628.58, 309694.58
+4556, Bane Veil, The Tower of Aramum, 9.00, Rot Silver Of The Past , 360.00, 267.00, 280.00, 96120.00, 100800.00, 17722.80, 214642.80
+

@@ -1,0 +1,11 @@
+183, Seraphim Tsunami, The Drunken Thief, 4.00, Timeiron , 255.00, 537.00, 965.00, 136935.00, 246075.00, 15320.40, 398330.40
+637, "Alik, Goddess of Trickery", Kewold Stronghold, 23.00, Lycanthropes' Gold , 213.00, 213.00, 171.00, 45369.00, 36423.00, 18812.16, 100604.16
+1073, Grave Mistseeker, The Cuitamba Jungle, 22.00, Unknowable Mindsilver , 224.00, 578.00, 938.00, 129472.00, 210112.00, 74708.48, 414292.48
+1525, Rune Rougehate, Love Keep, 4.00, Sprites' Transcendent Mud Lead Of The South , 300.00, 419.00, 260.00, 125700.00, 78000.00, 8148.00, 211848.00
+1961, Clash Lonedrake, The Forsaken Hive of Galima the Mighty, 4.00, Mind Lead , 113.00, 143.00, 486.00, 16159.00, 54918.00, 2843.08, 73920.08
+2410, Seraphim Tsunami, Waleah Castle, 10.00, Angels' Smoke Adamant Of The Mountains , 147.00, 694.00, 967.00, 102018.00, 142149.00, 24416.70, 268583.70
+2866, Fate Ivycaster, The Chuallanto Jungle, 1.00, Poison Adamant , 184.00, 952.00, 349.00, 175168.00, 64216.00, 2393.84, 241777.84
+3321, "Ahah, Goddess of Knowledge", The Dark Caverns of Woe, 3.00, Primal Adamant , 310.00, 878.00, 482.00, 272180.00, 149420.00, 12648.00, 434248.00
+3790, "Azah, Goddess of Fate", The Demon and Toad, 3.00, Zephyr Iron , 276.00, 909.00, 41.00, 250884.00, 11316.00, 7866.00, 270066.00
+4240, "Prusu, God of Love", The Fortress of Akkun the Grim, 18.00, Glittering Orichalcum , 230.00, 425.00, 275.00, 97750.00, 63250.00, 28980.00, 189980.00
+4683, "Penur, Lord of the Sea", Waleah Castle, 10.00, Spirits' Living Wordhammer Tin Of The Trees , 244.00, 533.00, 531.00, 130052.00, 129564.00, 25961.60, 285577.60

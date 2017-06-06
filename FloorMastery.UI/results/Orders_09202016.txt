@@ -1,0 +1,11 @@
+213, "Addon, Lord of Death", The Tower of the Demon Warlord, 3.00, Otherworldly Mirror Orichalcum , 340.00, 849.00, 283.00, 288660.00, 96220.00, 11546.40, 396426.40
+663, Lance Knightseraph, Waleah Castle, 10.00, Icy Shock Silver , 205.00, 102.00, 540.00, 20910.00, 110700.00, 13161.00, 144771.00
+1103, Bane Veil, The Shadow Downs, 2.00, Muck Orichalcum Of Ogres , 232.00, 983.00, 395.00, 228056.00, 91640.00, 6393.92, 326089.92
+ 1554,  "Byzou, God of Animals",  The Forsaken Tomb of Devastation,     12.00,          Toxin Iceplatinum Of The Undead ,      104.00,   146.00,    665.00,      15184.00,      69160.00,      10121.28,       94465.28
+1989, Maverick Wind, Gena's Hold, 8.00, Mistgold Of Men , 317.00, 459.00, 640.00, 145503.00, 202880.00, 27870.64, 376253.64
+2438, "Selah, God of Destruction", Reheath Stronghold, 11.00, Magicians' Legendary Poison Metal , 247.00, 768.00, 160.00, 189696.00, 39520.00, 25213.76, 254429.76
+2895, Seraph Jester, Eved Castle, 2.00, Witchs' Forbidden Rockrainbow Bronze , 215.00, 172.00, 423.00, 36980.00, 90945.00, 2558.50, 130483.50
+3351, Seraphim Tsunami, Minas Gilloy, 20.00, Otherworldly Truesoul Orichalcum Of The East , 62.00, 636.00, 780.00, 39432.00, 48360.00, 17558.40, 105350.40
+3817, "Gono, Goddess of the Earth", The Fortress of Gama, 5.00, Forgotten Mithril , 192.00, 793.00, 940.00, 152256.00, 180480.00, 16636.80, 349372.80
+4269, Lance Knightseraph, Reheath Stronghold, 11.00, Unknown Fatelightning Steel Of The Glacier , 265.00, 837.00, 700.00, 221805.00, 185500.00, 44803.55, 452108.554269, Lance Knightseraph, Reheath Stronghold, 11.00, Unknown Fatelightning Steel Of The Glacier , 265.00, 837.00, 700.00, 221805.00, 185500.00, 44803.55, 452108.55
+4709, Seraph Jester, The Fortress of Akkun the Grim, 18.00, Pearl Mirrorice Steel Of Changelings , 258.00, 474.00, 715.00, 122292.00, 184470.00, 55217.16, 361979.16

@@ -1,0 +1,11 @@
+272, Tiger Mistmidnight, Waleah Castle, 10.00, Shadow Steel , 140.00, 841.00, 440.00, 117740.00, 61600.00, 17934.00, 197274.00
+717, Fate Ivycaster, Tradun Castle, 7.00, Shadowy Adamant , 113.00, 585.00, 941.00, 66105.00, 106333.00, 12070.66, 184508.66
+1164, Flora Amberslayer, The Vaults of the Shadow Emperor, 5.00, Negative Rockglitter Mercury Of Trolls , 105.00, 216.00, 497.00, 22680.00, 52185.00, 3743.25, 78608.25
+1615, Seraph Jester, Palace Farthing, 12.00, Hidden Shadowice Lead , 215.00, 241.00, 199.00, 51815.00, 42785.00, 11352.00, 105952.00
+2049, "Eumyan, Goddess of Law", Gawold Castle, 6.00, Otherworldly Mirror Orichalcum , 287.00, 849.00, 283.00, 243663.00, 81221.00, 19493.04, 344377.04
+2501, Rose Anchor, Reheath Stronghold, 11.00, Shadowy Adamant , 260.00, 585.00, 941.00, 152100.00, 244660.00, 43643.60, 440403.60
+2956, Sunrise Godwarlock, The Beggar and Cask, 16.00, Mistgold Of Men , 251.00, 459.00, 640.00, 115209.00, 160640.00, 44135.84, 319984.84
+3412, Valentine Lawslayer, Grove Farthing, 18.00, Legendary Mithril Of The Moon , 127.00, 281.00, 801.00, 35687.00, 101727.00, 24734.52, 162148.52
+3881, "Selik, God of Death", Pawic Keep, 0.00, Vampires' Fang Emeraldsilver , 21.00, 876.00, 971.00, 18396.00, 20391.00, 0.00, 38787.00
+4325, "Nelalwe, Lady of Fire", The Tower of Sabiesu the Awesome, 18.00, God-touched Greengem Platinum , 103.00, 501.00, 796.00, 51603.00, 81988.00, 24046.38, 157637.38
+4769, "Ahah, Goddess of Knowledge", The Vaults of the Shadow Emperor, 5.00, Dragons' Poison Glitterflesh Steel Of The North , 124.00, 941.00, 559.00, 116684.00, 69316.00, 9300.00, 195300.00

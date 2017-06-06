@@ -1,0 +1,11 @@
+430, Bane Veil, The Temple of Merciless Necromancy, 1.00, Mithril Of Legend , 81.00, 382.00, 657.00, 30942.00, 53217.00, 841.59, 85000.59
+874, Wind Dire, Arcanist's Farthing, 6.00, Fairies' Supreme Mistsmoke Lead Of The Future , 123.00, 489.00, 658.00, 60147.00, 80934.00, 8464.86, 149545.86
+1321, "Sielach, God of Fate", Archfane District, 18.00, Incubi's Glittering Tin Of The Future , 258.00, 247.00, 493.00, 63726.00, 127194.00, 34365.60, 225285.60
+1773, Fate Ivycaster, Hafeld Keep, 0.00, Sirens' Rockgold , 199.00, 792.00, 901.00, 157608.00, 179299.00, 0.00, 336907.00
+2204, "Nelalwe, Lady of Fire", Minas Gilloy, 20.00, Otherworldly Truesoul Orichalcum Of The East , 312.00, 636.00, 780.00, 198432.00, 243360.00, 88358.40, 530150.40
+2662, Rouge Roguemist, Boiaburh Keep, 11.00, Mithril Of Legend , 246.00, 382.00, 657.00, 93972.00, 161622.00, 28115.34, 283709.34
+3120, Storm Squallmourner, The Dread Hive of Illfang the Kobold Lord, 8.00, Foulopal Copper Of The Skies , 269.00, 170.00, 101.00, 45730.00, 27169.00, 5831.92, 78730.92
+3580, "Ariel, God of Luck", The Vaults of the Shadow Emperor, 5.00, Mithril Of The Tropics , 183.00, 386.00, 319.00, 70638.00, 58377.00, 6450.75, 135465.75
+4043, Tarot Dawn, The Tower of Sheshbazzu, 15.00, Green Dustlightning Mercury , 238.00, 906.00, 964.00, 215628.00, 229432.00, 66759.00, 511819.00
+4485, Cult Godseeker, The Fortress of Gama, 5.00, Sphinxes' Opalpearl Platinum Of Legend , 223.00, 461.00, 403.00, 102803.00, 89869.00, 9633.60, 202305.60
+4920, Grave Mistseeker, The Forsaken Delve of Lord Greywulf, 8.00, Tin Of The Tundra , 171.00, 479.00, 294.00, 81909.00, 50274.00, 10574.64, 142757.64

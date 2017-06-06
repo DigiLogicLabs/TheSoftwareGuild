@@ -1,0 +1,11 @@
+429, "Nelalwe, Lady of Fire", Archring Borough, 0.00, Muck Orichalcum Of Ogres , 201.00, 983.00, 395.00, 197583.00, 79395.00, 0.00, 276978.00
+872, Sunrise Godwarlock, The Greedy Wench, 8.00, White Platinum , 161.00, 795.00, 200.00, 127995.00, 32200.00, 12815.60, 173010.60
+ 1319,    "Avriel, God of Death",  Palace Farthing,      12.00,          Primordial Plague Mercury Of Legend ,      124.00,    304.00,     578.00,        37696.00,     71672.00,            13124.16,       122492.16
+1771, Rune Rougehate, The Lewd King, 17.00, Warlocks' Timerot Mithril , 221.00, 368.00, 575.00, 81328.00, 127075.00, 35428.51, 243831.51
+2202, Zeal Bladewitch, The Dark Caverns of Woe, 3.00, Hell Mercury Of The East , 243.00, 122.00, 838.00, 29646.00, 203634.00, 6998.40, 240278.40
+   2660,      Dagger Reaper,      Pawic Keep,      0.00,          Spirits' Living Wordhammer Tin Of The Trees ,      257.00,      533.00,    531.00,        136981.00,      136467.00,    0.00,      273448.00
+3118, Harmony Angelchild, Reheath Stronghold, 11.00, Toxic Mistlead Of The Past , 245.00, 788.00, 986.00, 193060.00, 241570.00, 47809.30, 482439.30
+3578, "Baltha, Goddess of Knowledge", Bifar's Deep, 3.00, Pearl Mirrorice Steel Of Changelings , 275.00, 474.00, 715.00, 130350.00, 196625.00, 9809.25, 336784.25
+4041, Magus Felldrake, The Tower of the Demon Warlord, 3.00, Shadowy Adamant , 225.00, 585.00, 941.00, 131625.00, 211725.00, 10300.50, 353650.50
+4483, Zeal Bladewitch, Grove Farthing, 18.00, Rot Silver Of The Past , 226.00, 267.00, 280.00, 60342.00, 63280.00, 22251.96, 145873.96
+4918, "Selik, God of Death", Barad Kesa, 17.00, Litches' Fatal Mithril Of The Past , 141.00, 654.00, 602.00, 92214.00, 84882.00, 30106.32, 207202.32

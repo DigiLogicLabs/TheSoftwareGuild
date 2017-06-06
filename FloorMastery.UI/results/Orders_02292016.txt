@@ -1,0 +1,11 @@
+ 361,      "Avriel, God of Death",    Dysley Stronghold,    5.00,   Negative Rockglitter Mercury Of Trolls ,      292.00,      216.00,     497.00,        63072.00,   145124.00,      10409.80,      218605.80
+801, Valentine Lawslayer, The Lost Sanctum of Woe, 12.00, Mithril Of Legend , 88.00, 382.00, 657.00, 33616.00, 57816.00, 10971.84, 102403.84
+1252, "Gono, Goddess of the Earth", The Archer and Scroll, 11.00, Unspeakable Rotsoul Mithril Of Souls , 173.00, 255.00, 25.00, 44115.00, 4325.00, 5328.40, 53768.40
+1698, Shadow Tomblion, The Tower of Sheshbazzu, 15.00, Witchs' Forbidden Rockrainbow Bronze , 169.00, 172.00, 423.00, 29068.00, 71487.00, 15083.25, 115638.25
+   2139,    Wind Dire,    Lamp Borough,   15.00,          Stone Soulsteel Of The Skies ,        221.00,     493.00,      872.00,    108953.00,      192712.00,            45249.75,      346914.75
+2590, "Nelalwe, Lady of Fire", The Lewd King, 17.00, Incubi's Iron Of The Dawn , 187.00, 399.00, 800.00, 74613.00, 149600.00, 38116.21, 262329.21
+3047, "Suriel, Lord of Animals", Minas Gilloy, 20.00, Dragons' Poison Glitterflesh Steel Of The North , 116.00, 941.00, 559.00, 109156.00, 64844.00, 34800.00, 208800.00
+3506, Grave Mistseeker, The Pilgrim's Cup, 21.00, Fleshshock Mercury , 271.00, 667.00, 852.00, 180757.00, 230892.00, 86446.29, 498095.29
+3972, "Sielach, God of Fate", The Citadel of Tattena the Sinister, 23.00, Sphinxes' Unknown Poisongold Of The Future , 33.00, 43.00, 998.00, 1419.00, 32934.00, 7901.19, 42254.19
+4414, Harmony Angelchild, The Vaults of the Shadow Emperor, 5.00, Meteoric Mirrormuck Orichalcum Of The Forests , 214.00, 136.00, 65.00, 29104.00, 13910.00, 2150.70, 45164.70
+4855, "Melcha, Goddess of Thieves", South Brightcrown Borough, 0.00, Ghostly Soul Adamant , 193.00, 56.00, 682.00, 10808.00, 131626.00, 0.00, 142434.00

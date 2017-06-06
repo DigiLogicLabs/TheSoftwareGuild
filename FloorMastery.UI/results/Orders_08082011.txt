@@ -1,0 +1,12 @@
+4,Grave Mistseeker,The Barrow of Terrible Horror,24.00,Muck Orichalcum Of Ogres ,135.00,983.00,395.00,132705.00,53325.00,44647.20,230677.20
+501, "Zepul, Lady of Vengeance", The Bastion of the Vampire Duke, 18.00, Pearl Mirrorice Steel Of Changelings , 252.00, 474.00, 715.00, 119448.00, 180180.00, 53933.04, 353561.04
+945, Shadow Gust, Tradun Castle, 7.00, Imperial Fate Steel , 158.00, 324.00, 356.00, 51192.00, 56248.00, 7520.80, 114960.80
+1392, Gale Jackalguard, The Black Barrow of Bery, 21.00, Swordbronze , 143.00, 860.00, 746.00, 122980.00, 106678.00, 48228.18, 277886.18
+1836, "Avriel, God of Death", Grove Farthing, 18.00, Ensorceled Sandmetal Of Spirits , 212.00, 671.00, 431.00, 142252.00, 91372.00, 42052.32, 275676.32
+2272, "Uriel, God of Fate", Kewold Stronghold, 23.00, Sphinxes' Mistsoul Bronze Of The Past , 262.00, 694.00, 650.00, 181828.00, 170300.00, 80989.44, 433117.44
+2729, "Ahah, Goddess of Knowledge", The Bastion of Gothmog of Udun, 18.00, Hidden Shadowice Lead , 153.00, 241.00, 199.00, 36873.00, 30447.00, 12117.60, 79437.60
+3191, "Ahah, Goddess of Knowledge", The Pilgrim's Cup, 21.00, Sapphire Mindlead , 77.00, 608.00, 90.00, 46816.00, 6930.00, 11286.66, 65032.66
+3649, Fate Seeker, Grori's Deep, 4.00, Zephyr Adamant , 219.00, 215.00, 3.00, 47085.00, 657.00, 1909.68, 49651.68
+4107, Sephiroth Drakecaster, Boiaburh Keep, 11.00, Lunar Bronze , 279.00, 981.00, 558.00, 273699.00, 155682.00, 47231.91, 476612.91
+4551, Tiger Mistmidnight, Archscepter Borough, 8.00, Litches' Fatal Mithril Of The Past , 73.00, 654.00, 602.00, 47742.00, 43946.00, 7335.04, 99023.04
+4992, Flora Amberslayer, The Bastion of Sthasu the Gruesome, 0.00, Djinni's Evil Sandobsidian Steel Of The Future , 257.00, 319.00, 845.00, 81983.00, 217165.00, 0.00, 299148.00

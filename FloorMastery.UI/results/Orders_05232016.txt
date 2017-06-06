@@ -1,0 +1,11 @@
+319, "Sielach, God of Fate", The Bastion of the Lich Tyrant, 10.00, Mithril Of Legend , 46.00, 382.00, 657.00, 17572.00, 30222.00, 4779.40, 52573.40
+764, "Eumyan, Goddess of Law", The Flying Witch, 13.00, Swordbronze , 216.00, 860.00, 746.00, 185760.00, 161136.00, 45096.48, 391992.48
+1211, Jericho Wolf, The Citadel of Cheno, 0.00, Green Dustlightning Mercury , 313.00, 906.00, 964.00, 283578.00, 301732.00, 0.00, 585310.00
+1658, Claw Mist, Love Keep, 4.00, Stone Soulsteel Of The Skies , 265.00, 493.00, 872.00, 130645.00, 231080.00, 14469.00, 376194.00
+2097, "Selah, God of Destruction", Citadel Ward, 14.00, Incubi's Iron Of The Dawn , 91.00, 399.00, 800.00, 36309.00, 72800.00, 15275.26, 124384.26
+2548, "Prusu, God of Love", Unicorn's Ward, 1.00, Shadow Steel , 100.00, 841.00, 440.00, 84100.00, 44000.00, 1281.00, 129381.00
+3006, Lord Mystery, The Archer and Scroll, 11.00, Hell Mercury Of The East , 301.00, 122.00, 838.00, 36722.00, 252238.00, 31785.60, 320745.60
+3463, "Gadriel, God of Resurrection", The Fortress of Gama, 5.00, Zephyr Iron , 195.00, 909.00, 41.00, 177255.00, 7995.00, 9262.50, 194512.50
+3929, "Finarfin, God of Protection", The Flying Witch, 13.00, Hidden Shadowice Lead , 85.00, 241.00, 199.00, 20485.00, 16915.00, 4862.00, 42262.00
+4374, "Nelalwe, Lady of Fire", Archfane District, 18.00, Mind Lead , 203.00, 143.00, 486.00, 29029.00, 98658.00, 22983.66, 150670.66
+4816, "Ariel, God of Luck", The Tomb of Hellish Ruin, 14.00, Planar Mudtin Of Trolls , 138.00, 817.00, 654.00, 112746.00, 90252.00, 28419.72, 231417.72

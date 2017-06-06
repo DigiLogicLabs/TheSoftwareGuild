@@ -1,0 +1,11 @@
+282, "Ahah, Goddess of Knowledge", The Citadel of Tattena the Sinister, 23.00, Venom Jewelmetal Of The Desert , 103.00, 21.00, 455.00, 2163.00, 46865.00, 11276.44, 60304.44
+726, Bane Veil, Barad Kesa, 17.00, Planar Mudtin Of Trolls , 206.00, 817.00, 654.00, 168302.00, 134724.00, 51514.42, 354540.42726, Bane Veil, Barad Kesa, 17.00, Planar Mudtin Of Trolls , 206.00, 817.00, 654.00, 168302.00, 134724.00, 51514.42, 354540.42
+1171, "Penur, Lord of the Sea", The Hunter and Rose, 2.00, Vampires' Hammer Emeraldmetal , 67.00, 191.00, 47.00, 12797.00, 3149.00, 318.92, 16264.92
+1624, Tiger Mistmidnight, The Bloody Wand, 2.00, Angels' Smoke Adamant Of The Mountains , 93.00, 694.00, 967.00, 64542.00, 89931.00, 3089.46, 157562.46
+2058, Dawn Darkzealot, The Fortress of Asmamur, 7.00, Incubi's Mirrorfog Iron Of The Ocean , 234.00, 22.00, 675.00, 5148.00, 157950.00, 11416.86, 174514.86
+2510, Zeal Bladewitch, Fellfen Keep, 11.00, Sprites' Transcendent Mud Lead Of The South , 160.00, 419.00, 260.00, 67040.00, 41600.00, 11950.40, 120590.40
+2966, "Zepul, Lady of Vengeance", The Vaults of the Shadow Emperor, 5.00, Mithril Of Legend , 91.00, 382.00, 657.00, 34762.00, 59787.00, 4727.45, 99276.45
+3422, Bedlam Spiritraven, The Bastion of the Vampire Duke, 18.00, Icy Shock Silver , 99.00, 102.00, 540.00, 10098.00, 53460.00, 11440.44, 74998.44
+3890, "Penur, Lord of the Sea", The Forsaken Tomb of Devastation, 12.00, Mistgold Of Men , 45.00, 459.00, 640.00, 20655.00, 28800.00, 5934.60, 55389.60
+4334, Valentine Lawslayer, The Fortress of Akkun the Grim, 18.00, Greenlead , 224.00, 518.00, 166.00, 116032.00, 37184.00, 27578.88, 180794.88
+4778, Jericho Wolf, The Barrow of Terrible Horror, 24.00, Shadowy Adamant , 296.00, 585.00, 941.00, 173160.00, 278536.00, 108407.04, 560103.04

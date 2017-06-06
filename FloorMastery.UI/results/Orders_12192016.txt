@@ -1,0 +1,11 @@
+136, "Addon, Lord of Death", Cawold Castle, 4.00, Pearl Mirrorice Steel Of Changelings , 282.00, 474.00, 715.00, 133668.00, 201630.00, 13411.92, 348709.92
+581, Rune Rougehate, The Archer and Scroll, 11.00, Unknown Fatelightning Steel Of The Glacier , 81.00, 837.00, 700.00, 67797.00, 56700.00, 13694.67, 138191.67
+.1024,Lightning Brand,Arcanist's Farthing,.6.00,Primordial Mud Orichalcum ,.282.00,.328.00,.627.00,.92496.00,.176814.00,.16158.60,.285468.60
+1468, Bedlam Spiritraven, The Dancing Minstrel, 14.00, Pearl Mirrorice Steel Of Changelings , 144.00, 474.00, 715.00, 68256.00, 102960.00, 23970.24, 195186.24
+1915, "Sielach, God of Fate", The Bastion of Gothmog of Udun, 18.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 161.00, 676.00, 683.00, 108836.00, 109963.00, 39383.82, 258182.82
+2355, "Ingwenel, God of War", Tradun Castle, 7.00, Goddesses' Spectral Poison Steel , 177.00, 455.00, 483.00, 80535.00, 85491.00, 11621.82, 177647.82
+2811, Lightning Brand, Fellfen Keep, 11.00, Ghostly Magic Adamant , 214.00, 499.00, 881.00, 106786.00, 188534.00, 32485.20, 327805.20
+3267, "Sielach, God of Fate", The Flying Witch, 13.00, Pearl Mirrorice Steel Of Changelings , 132.00, 474.00, 715.00, 62568.00, 94380.00, 20403.24, 177351.24
+3732, Dawn Darkzealot, The Khazahol Crags, 22.00, Thunderbirds' Transcendent Dreamiron , 64.00, 989.00, 65.00, 63296.00, 4160.00, 14840.32, 82296.323732, Dawn Darkzealot, The Khazahol Crags, 22.00, Thunderbirds' Transcendent Dreamiron , 64.00, 989.00, 65.00, 63296.00, 4160.00, 14840.32, 82296.32
+
+4631, Rose Anchor, The Dark Caverns of Woe, 3.00, Phantasmal Lead , 216.00, 88.00, 927.00, 19008.00, 200232.00, 6577.20, 225817.20

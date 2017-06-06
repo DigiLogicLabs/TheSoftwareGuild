@@ -1,0 +1,11 @@
+246, Flora Amberslayer, Citadel Ward, 14.00, Golems' Stonesapphire Gold Of The Glacier , 135.00, 705.00, 952.00, 95175.00, 128520.00, 31317.30, 255012.30
+694, Rune Rougehate, Archring Borough, 0.00, Sphinxes' Unknown Poisongold Of The Future , 121.00, 43.00, 998.00, 5203.00, 120758.00, 0.00, 125961.00
+1136, Rune Rougehate, Lacot Stronghold, 7.00, Emerald Orichalcum , 167.00, 711.00, 570.00, 118737.00, 95190.00, 14974.89, 228901.89
+1587, "Uriel, God of Fate", Castle Village, 17.00, Mistgold Of Men , 224.00, 459.00, 640.00, 102816.00, 143360.00, 41849.92, 288025.92
+2022, "Alik, Goddess of Trickery", Citadel Ward, 14.00, Meteoric Dustzephyr Orichalcum , 274.00, 232.00, 37.00, 63568.00, 10138.00, 10318.84, 84024.84
+2472, Tarot Dawn, The Barrow of Malefic Ages, 13.00, Djinni's Spectral Shadowlead Of Life , 308.00, 969.00, 997.00, 298452.00, 307076.00, 78718.64, 684246.64
+2926, "Iran, Lord of Nightmares", The Nulukkhath Spires, 20.00, Sirens' Rockgold , 178.00, 792.00, 901.00, 140976.00, 160378.00, 60270.80, 361624.80
+3384, "Selah, God of Destruction", The Secret Catacombs of Ulfang the Black, 0.00, Pearl Mirrorice Steel Of Changelings , 298.00, 474.00, 715.00, 141252.00, 213070.00, 0.00, 354322.00
+
+4300, Bedlam Spiritraven, The Lost Crypts of Sorrows, 24.00, Tritons' Time Stoneiron Of Legend , 107.00, 912.00, 866.00, 97584.00, 92662.00, 45659.04, 235905.04
+4742, "Selik, God of Death", South Brightcrown Borough, 0.00, Djinni's Mind Fogiron , 262.00, 387.00, 164.00, 101394.00, 42968.00, 0.00, 144362.00

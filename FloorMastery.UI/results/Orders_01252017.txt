@@ -1,0 +1,11 @@
+103, Claw Mist, The Glano Forest, 22.00, Vampires' Fang Emeraldsilver , 137.00, 876.00, 971.00, 120012.00, 133027.00, 55668.58, 308707.58
+548, "Ariel, God of Luck", The Barrow of Terrible Horror, 24.00, Vampires' Fang Emeraldsilver , 150.00, 876.00, 971.00, 131400.00, 145650.00, 66492.00, 343542.00
+992, Bane Veil, The Bastion of the Vampire Duke, 18.00, Devils' Falserot Silver , 288.00, 755.00, 915.00, 217440.00, 263520.00, 86572.80, 567532.80
+1436, Lord Mystery, Barad Cune, 21.00, Rocklava Mithril Of Revenants , 338.00, 169.00, 287.00, 57122.00, 97006.00, 32366.88, 186494.88
+1885, Tarot Dawn, Gawold Castle, 6.00, Violetdream Iron , 252.00, 948.00, 922.00, 238896.00, 232344.00, 28274.40, 499514.40
+2320, Law Lionwatcher, Bergfison's Deep, 18.00, Mithril Of The Tropics , 352.00, 386.00, 319.00, 135872.00, 112288.00, 44668.80, 292828.80
+2778, Zeal Bladewitch, Gawold Castle, 6.00, Unspeakable Rotsoul Mithril Of Souls , 240.00, 255.00, 25.00, 61200.00, 6000.00, 4032.00, 71232.00
+3237, Sunset Knightclaw, Mahyrst Keep, 18.00, Ghostly Magic Adamant , 216.00, 499.00, 881.00, 107784.00, 190296.00, 53654.40, 351734.40
+3697, Fate Ivycaster, The Pirate's Pipe, 14.00, Unholy Poison Copper Of The Mountains , 222.00, 439.00, 495.00, 97458.00, 109890.00, 29028.72, 236376.72
+0,Seraphim Tsunami,The Vaults of the Shadow Emperor,5.00,Timeiron ,312.00,537.00,965.00,167544.00,301080.00,23431.20,492055.20
+4598, Sunset Knightclaw, Mahyrst Keep, 18.00, Falserainbow Lead , 76.00, 92.00, 67.00, 6992.00, 5092.00, 2175.12, 14259.12

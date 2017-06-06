@@ -1,0 +1,11 @@
+317, "Maglioneth, Lord of the Sun", Grove Farthing, 18.00, Yellow Mistearth Copper , 228.00, 408.00, 996.00, 93024.00, 227088.00, 57620.16, 377732.16
+
+1209, Law Lionwatcher, Fellfen Keep, 11.00, Violetstone Tin Of Death , 175.00, 246.00, 251.00, 43050.00, 43925.00, 9567.25, 96542.25
+1657, Dagger Reaper, The Tower of Aces the Accursed, 3.00, Phantasmal Lead , 220.00, 88.00, 927.00, 19360.00, 203940.00, 6699.00, 229999.00
+2095, Rouge Tombreaper, The Lost Sanctum of Woe, 12.00, Ghostly Magic Adamant , 87.00, 499.00, 881.00, 43413.00, 76647.00, 14407.20, 134467.20
+2546, Storm Squallmourner, The Fortress of Gama, 5.00, Green Dustlightning Mercury , 214.00, 906.00, 964.00, 193884.00, 206296.00, 20009.00, 420189.00
+3004, Sephiroth Drakecaster, The Citadel of Alammius, 24.00, Hidden Shadowice Lead , 292.00, 241.00, 199.00, 70372.00, 58108.00, 30835.20, 159315.20
+3461, Wind Dire, Unicorn's Ward, 1.00, Violetdream Iron , 135.00, 948.00, 922.00, 127980.00, 124470.00, 2524.50, 254974.50
+3927, "Selik, God of Death", Archfane District, 18.00, Fog Lavaplatinum Of Life , 84.00, 967.00, 333.00, 81228.00, 27972.00, 19656.00, 128856.00
+4372, Magus Felldrake, The Tomb of Hellish Ruin, 14.00, Starlight Pearldream Bronze , 200.00, 441.00, 906.00, 88200.00, 181200.00, 37716.00, 307116.00
+4814, "Eumyan, Goddess of Law", Lacot Stronghold, 7.00, God-touched Greengem Platinum , 358.00, 501.00, 796.00, 179358.00, 284968.00, 32502.82, 496828.82

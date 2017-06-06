@@ -1,0 +1,11 @@
+355, "Addon, Lord of Death", The Fortress of Akkun the Grim, 18.00, Falserainbow Lead , 136.00, 92.00, 67.00, 12512.00, 9112.00, 3892.32, 25516.32
+794, Rouge Roguemist, The Citadel of Cheno, 0.00, Unknowable Mindsilver , 101.00, 578.00, 938.00, 58378.00, 94738.00, 0.00, 153116.00
+1245, Jericho Wolf, The Flying Witch, 13.00, Glittering Orichalcum , 218.00, 425.00, 275.00, 92650.00, 59950.00, 19838.00, 172438.00
+1692, Slayer Claw, The Citadel of Alammius, 24.00, Lycanthropes' Gold , 78.00, 213.00, 171.00, 16614.00, 13338.00, 7188.48, 37140.48
+2132, Sunset Knightclaw, Grove Farthing, 18.00, Mithril Of The Tropics , 187.00, 386.00, 319.00, 72182.00, 59653.00, 23730.30, 155565.30
+2583, "Suriel, Lord of Animals", The Tomb of Hellish Ruin, 14.00, Starlight Pearldream Bronze , 110.00, 441.00, 906.00, 48510.00, 99660.00, 20743.80, 168913.80
+3040, "Uriel, God of Fate", Cawold Castle, 4.00, Negative Rockglitter Mercury Of Trolls , 265.00, 216.00, 497.00, 57240.00, 131705.00, 7557.80, 196502.80
+3499, Rouge Roguemist, The Hunter and Rose, 2.00, Planar Rainfate Mithril , 114.00, 81.00, 151.00, 9234.00, 17214.00, 528.96, 26976.96
+3965, "Byzou, God of Animals", Hartshill Ward, 11.00, Pearl Mirrorice Steel Of Changelings , 75.00, 474.00, 715.00, 35550.00, 53625.00, 9809.25, 98984.25
+.4407,"Gono, Goddess of the Earth",The Archer and Blade,.18.00,Djinni's Evil Sandobsidian Steel Of The Future ,.74.00,.319.00,.845.00,.23606.00,.62530.00,.15504.48,.101640.48
+4848, Dawn Darkzealot, The Broken Shield, 7.00, Hidden Shadowice Lead , 137.00, 241.00, 199.00, 33017.00, 27263.00, 4219.60, 64499.60

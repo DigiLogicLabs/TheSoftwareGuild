@@ -1,0 +1,11 @@
+265, "Alas, Lord of Plague", The Vaults of the Shadow Emperor, 5.00, Unspeakable Rotsoul Mithril Of Souls , 197.00, 255.00, 25.00, 50235.00, 4925.00, 2758.00, 57918.00
+710, Lord Mystery, North Arcanist's Farthing, 6.00, Unknowable Mindsilver , 99.00, 578.00, 938.00, 57222.00, 92862.00, 9005.04, 159089.04
+1155, Seraphim Tsunami, Mahyrst Keep, 18.00, Violetdream Iron , 159.00, 948.00, 922.00, 150732.00, 146598.00, 53519.40, 350849.40
+1607, "Suriel, Lord of Animals", The Desert of Flames, 16.00, Stone Soulsteel Of The Skies , 245.00, 493.00, 872.00, 120785.00, 213640.00, 53508.00, 387933.00
+2040, Fate Seeker, The Pirate's Pipe, 14.00, Mistgold Of Men , 312.00, 459.00, 640.00, 143208.00, 199680.00, 48004.32, 390892.32
+2493, Clash Lonedrake, The Pirate's Pipe, 14.00, Trolls' Mist Poisonplatinum Of The Twilight , 335.00, 990.00, 430.00, 331650.00, 144050.00, 66598.00, 542298.00
+2947, Valentine Lawslayer, The Scoundrel and Flask, 23.00, Incubi's Mirrorfog Iron Of The Ocean , 176.00, 22.00, 675.00, 3872.00, 118800.00, 28214.56, 150886.56
+3404, "Maeglodor, God of Thieves", The Grey Plains, 3.00, Unholy Poison Copper Of The Mountains , 92.00, 439.00, 495.00, 40388.00, 45540.00, 2577.84, 88505.84
+3872, Tiger Mistmidnight, The Lazy Sage, 9.00, Primordial Plague Mercury Of Legend , 52.00, 304.00, 578.00, 15808.00, 30056.00, 4127.76, 49991.76
+4318, Jericho Wolf, The Nulukkhath Spires, 20.00, Heavenly Dreamsilver Of The Night , 305.00, 328.00, 692.00, 100040.00, 211060.00, 62220.00, 373320.00
+4762, "Byzou, God of Animals", Palace Farthing, 12.00, Imperial Fate Steel , 251.00, 324.00, 356.00, 81324.00, 89356.00, 20481.60, 191161.60

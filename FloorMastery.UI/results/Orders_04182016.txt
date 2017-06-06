@@ -1,0 +1,11 @@
+339, Dawn Darkzealot, The Fortress of Akkun the Grim, 18.00, Otherworldly Truesoul Orichalcum Of The East , 190.00, 636.00, 780.00, 120840.00, 148200.00, 48427.20, 317467.20
+781, "Baltha, Goddess of Knowledge", Castle Village, 17.00, Rocklava Mithril Of Revenants , 235.00, 169.00, 287.00, 39715.00, 67445.00, 18217.20, 125377.20781, "Baltha, Goddess of Knowledge", Castle Village, 17.00, Rocklava Mithril Of Revenants , 235.00, 169.00, 287.00, 39715.00, 67445.00, 18217.20, 125377.20
+1233, Rouge Roguemist, Moor Village, 0.00, Evilsilver , 187.00, 814.00, 264.00, 152218.00, 49368.00, 0.00, 201586.00
+1679, "Eumyan, Goddess of Law", The Fortress of the Lich Queen, 6.00, Timeiron , 259.00, 537.00, 965.00, 139083.00, 249935.00, 23341.08, 412359.08
+2118, Grave Mistseeker, The Barrow of Terrible Horror, 24.00, Djinni's Evil Sandobsidian Steel Of The Future , 135.00, 319.00, 845.00, 43065.00, 114075.00, 37713.60, 194853.60
+   2568,    Shadow Tomblion,    The Glano Forest,    22.00,     Evilsilver ,    227.00,    814.00,     264.00,      184778.00,   59928.00,      53835.32,    298541.32
+3026, "Baltha, Goddess of Knowledge", The Barrow of Terrible Horror, 24.00, Incubi's Iron Of The Dawn , 313.00, 399.00, 800.00, 124887.00, 250400.00, 90068.88, 465355.88
+3484, Rouge Tombreaper, The Tower of Sabiesu the Awesome, 18.00, Plague Tin , 321.00, 806.00, 444.00, 258726.00, 142524.00, 72225.00, 473475.00
+-3950,Lord Mystery,The Lost Sanctum of Woe,-12.00,Shadow Steel ,-115.00,-841.00,-440.00,-96715.00,-50600.00,-17677.80,-164992.80
+4393, Law Lionwatcher, The Black Barrow of Bery, 21.00, Violetstone Tin Of Death , 173.00, 246.00, 251.00, 42558.00, 43423.00, 18056.01, 104037.01
+4834, "Addon, Lord of Death", The Bastion of the Vampire Duke, 18.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 219.00, 313.00, 673.00, 68547.00, 147387.00, 38868.12, 254802.12

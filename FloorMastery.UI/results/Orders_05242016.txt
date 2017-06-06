@@ -1,0 +1,11 @@
+318, Valentine Lawslayer, The Tower of Sabiesu the Awesome, 18.00, Legendary Mithril Of The Moon , 59.00, 281.00, 801.00, 16579.00, 47259.00, 11490.84, 75328.84
+764, "Suriel, Lord of Animals", The Cracked Chalice, 22.00, Rocklava Mithril Of Revenants , 304.00, 169.00, 287.00, 51376.00, 87248.00, 30497.28, 169121.28
+1210, "Ahah, Goddess of Knowledge", Gili's Delve, 7.00, Trolls' Rubymercury Of The Sunset , 153.00, 146.00, 782.00, 22338.00, 119646.00, 9938.88, 151922.88
+1658, "Sielach, God of Fate", Boiaburh Keep, 11.00, Sapphire Mindlead , 306.00, 608.00, 90.00, 186048.00, 27540.00, 23494.68, 237082.68
+2096, "Selah, God of Destruction", Lamp Borough, 15.00, Negative Rockglitter Mercury Of Trolls , 95.00, 216.00, 497.00, 20520.00, 47215.00, 10160.25, 77895.25
+   2547,    "Maeglodor, God of Thieves",    Boiaburh Keep,     11.00,          Fleshshock Mercury ,      283.00,      667.00,     852.00,        188761.00,    241116.00,      47286.47,     477163.47
+
+3462, "Lenwenye, Goddess of Travel", Weke Tower, 23.00, Sapphire Mindlead , 257.00, 608.00, 90.00, 156256.00, 23130.00, 41258.78, 220644.78
+3928, "Sielach, God of Fate", The Dark Caverns of Woe, 3.00, Primordial False Gold , 347.00, 354.00, 602.00, 122838.00, 208894.00, 9951.96, 341683.96
+4373, Valentine Lawslayer, The Fortress of Asmamur, 7.00, Litches' Fatal Mithril Of The Past , 332.00, 654.00, 602.00, 217128.00, 199864.00, 29189.44, 446181.44
+4815, "Prusu, God of Love", Gifeld Castle, 16.00, Lycanthropes' Gold , 287.00, 213.00, 171.00, 61131.00, 49077.00, 17633.28, 127841.28

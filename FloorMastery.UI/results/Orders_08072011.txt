@@ -1,0 +1,12 @@
+58, "Suriel, Lord of Animals", The Tomb of Hellish Ruin, 14.00, Emerald Orichalcum , 325.00, 711.00, 570.00, 231075.00, 185250.00, 58285.50, 474610.50
+502, Storm Seraphheart, The Wizard's House, 7.00, Tritons' Time Stoneiron Of Legend , 229.00, 912.00, 866.00, 208848.00, 198314.00, 28501.34, 435663.34
+946, "Byzou, God of Animals", The Pilgrim's Cup, 21.00, Mithril Of Legend , 123.00, 382.00, 657.00, 46986.00, 80811.00, 26837.37, 154634.37
+1393, Shadow Tomblion, The Fortress of Asmamur, 7.00, Plague Tin , 87.00, 806.00, 444.00, 70122.00, 38628.00, 7612.50, 116362.50
+1837, Fate Seeker, Archfane District, 18.00, Toxin Iceplatinum Of The Undead , 196.00, 146.00, 665.00, 28616.00, 130340.00, 28612.08, 187568.08
+2272, "Maglioneth, Lord of the Sun", The Dismal Marsh, 19.00, Starsmoke Bronze Of Life , 179.00, 618.00, 647.00, 110622.00, 115813.00, 43022.65, 269457.65
+2730, Bane Veil, The Tower of Aramum, 9.00, Emerald Orichalcum , 248.00, 711.00, 570.00, 176328.00, 141360.00, 28591.92, 346279.92
+3191, Lord Mystery, Archring Borough, 0.00, Heavenly Dreamsilver Of The Night , 290.00, 328.00, 692.00, 95120.00, 200680.00, 0.00, 295800.00
+3649, Shadow Tomblion, The Fortress of Asmamur, 7.00, Venom Timegold Of Dwarves , 93.00, 614.00, 432.00, 57102.00, 40176.00, 6809.46, 104087.46
+0,"Prusu, God of Love",Kada's Deep,14.00,Mithril Of The Tropics ,345.00,386.00,319.00,133170.00,110055.00,34051.50,277276.50
+4552, Clash Lonedrake, North Arcanist's Farthing, 6.00, Incubi's Iron Of The Dawn , 114.00, 399.00, 800.00, 45486.00, 91200.00, 8201.16, 144887.16
+4993, Lord Mystery, Unicorn's Ward, 1.00, Primordial False Gold , 217.00, 354.00, 602.00, 76818.00, 130634.00, 2074.52, 209526.52

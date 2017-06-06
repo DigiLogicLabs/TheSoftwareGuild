@@ -1,0 +1,11 @@
+281, Bane Veil, Shainan's Hold, 15.00, Poison Adamant , 247.00, 952.00, 349.00, 235144.00, 86203.00, 48202.05, 369549.05
+725, Claw Mist, The Tower of Sabiesu the Awesome, 18.00, Foul Ice Bronze Of Life , 228.00, 168.00, 97.00, 38304.00, 22116.00, 10875.60, 71295.60
+1171, "Iran, Lord of Nightmares", Hartshill Ward, 11.00, Angels' Adamant , 55.00, 189.00, 157.00, 10395.00, 8635.00, 2093.30, 21123.30
+1623, "Alik, Goddess of Trickery", The Demon and Toad, 3.00, Magic Adamant , 200.00, 746.00, 526.00, 149200.00, 105200.00, 7632.00, 262032.00
+2057, "Alas, Lord of Plague", The Forsaken Delve of Lord Greywulf, 8.00, Lycanthropes' Gold , 126.00, 213.00, 171.00, 26838.00, 21546.00, 3870.72, 52254.72
+2509, "Gadriel, God of Resurrection", The Beggar and Cask, 16.00, Shadowy Adamant , 216.00, 585.00, 941.00, 126360.00, 203256.00, 52738.56, 382354.56
+2965, Storm Squallmourner, Lacot Stronghold, 7.00, Magic Adamant , 236.00, 746.00, 526.00, 176056.00, 124136.00, 21013.44, 321205.44
+3421, "Suriel, Lord of Animals", The Cracked Chalice, 22.00, Litches' Fatal Mithril Of The Past , 298.00, 654.00, 602.00, 194892.00, 179396.00, 82343.36, 456631.36
+3889, Dawn Darkzealot, The Wizard's House, 7.00, Shadow Metal , 135.00, 881.00, 254.00, 118935.00, 34290.00, 10725.75, 163950.75
+4333, Tarot Dawn, The Citadel of Alammius, 24.00, Spectres' Shadowy Terrorglow Adamant Of Life , 301.00, 944.00, 533.00, 284144.00, 160433.00, 106698.48, 551275.48
+-4777,Lightning Brand,Bifar's Deep,-3.00,Evilsilver ,-56.00,-814.00,-264.00,-45584.00,-14784.00,-1811.04,-62179.04

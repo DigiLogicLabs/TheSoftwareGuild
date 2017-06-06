@@ -1,0 +1,11 @@
+204, "Zepul, Lady of Vengeance", Boiaburh Keep, 11.00, White Platinum , 160.00, 795.00, 200.00, 127200.00, 32000.00, 17512.00, 176712.00
+654, Rouge Tombreaper, The Dancing Minstrel, 14.00, Otherworldly Mirror Orichalcum , 109.00, 849.00, 283.00, 92541.00, 30847.00, 17274.32, 140662.32
+1093, Seraphim Tsunami, Bergfison's Deep, 18.00, Phantasmal Plague Adamant , 154.00, 831.00, 728.00, 127974.00, 112112.00, 43215.48, 283301.48
+1545, Zeal Bladewitch, Citadel Ward, 14.00, Yellow Mistearth Copper , 349.00, 408.00, 996.00, 142392.00, 347604.00, 68599.44, 558595.44
+1980, Sunrise Godwarlock, The Citadel of Tattena the Sinister, 23.00, Mana-touched Greenglitter Gold Of Giants , 153.00, 783.00, 690.00, 119799.00, 105570.00, 51834.87, 277203.87
+2428, Valentine Lawslayer, The Barrow of Malefic Ages, 13.00, Ensorceled Gold Of The Dawn , 181.00, 512.00, 310.00, 92672.00, 56110.00, 19341.66, 168123.66
+2886, Fate Ivycaster, The Fen of the Necromancer, 15.00, Thunderbirds' Transcendent Dreamiron , 213.00, 989.00, 65.00, 210657.00, 13845.00, 33675.30, 258177.30
+ 3341,      Shadow Tomblion,    The Greedy Wench,      8.00,          Shadow Metal ,      134.00,    881.00,   254.00,      118054.00,   34036.00,          12167.20,     164257.20
+3807, Valentine Lawslayer, The Lost Sanctum of Woe, 12.00, Otherworldly Truesoul Orichalcum Of The East , 13.00, 636.00, 780.00, 8268.00, 10140.00, 2208.96, 20616.96
+4260, Shadow Gust, Barad Cune, 21.00, Violetdream Iron , 133.00, 948.00, 922.00, 126084.00, 122626.00, 52229.10, 300939.10
+4700, "Finarfin, God of Protection", The Temple of Merciless Necromancy, 1.00, Yellow Mistearth Copper , 125.00, 408.00, 996.00, 51000.00, 124500.00, 1755.00, 177255.00

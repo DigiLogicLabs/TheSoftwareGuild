@@ -1,0 +1,11 @@
+441, Lord Mystery, The Dark Caverns of Woe, 3.00, Vampires' Hammer Emeraldmetal , 236.00, 191.00, 47.00, 45076.00, 11092.00, 1685.04, 57853.04
+885, "Ariel, God of Luck", Hartshill Ward, 11.00, Unspeakable Rotsoul Mithril Of Souls , 147.00, 255.00, 25.00, 37485.00, 3675.00, 4527.60, 45687.60
+1332, Law Lionwatcher, The Shadow Downs, 2.00, Violetstone Tin Of Death , 236.00, 246.00, 251.00, 58056.00, 59236.00, 2345.84, 119637.841332, Law Lionwatcher, The Shadow Downs, 2.00, Violetstone Tin Of Death , 236.00, 246.00, 251.00, 58056.00, 59236.00, 2345.84, 119637.84
+1783, Zeal Bladewitch, The Broken Arrow, 22.00, Fleshshock Mercury , 28.00, 667.00, 852.00, 18676.00, 23856.00, 9357.04, 51889.04
+2213, Tarot Dawn, Reheath Stronghold, 11.00, Otherworldly Mirror Orichalcum , 318.00, 849.00, 283.00, 269982.00, 89994.00, 39597.36, 399573.36
+2673, "Ingwenel, God of War", Minas Gilloy, 20.00, Ensorceled Gold Of The Dawn , 335.00, 512.00, 310.00, 171520.00, 103850.00, 55074.00, 330444.00
+3130, Shadow Gust, Citadel Ward, 14.00, Hidden Shadowice Lead , 233.00, 241.00, 199.00, 56153.00, 46367.00, 14352.80, 116872.80
+3590, Rouge Roguemist, North Grove Ward, 13.00, Legendary Mithril Of The Moon , 203.00, 281.00, 801.00, 57043.00, 162603.00, 28553.98, 248199.98
+4052, Seraphim Tsunami, Khali's Delve, 7.00, Tritons' Time Stoneiron Of Legend , 108.00, 912.00, 866.00, 98496.00, 93528.00, 13441.68, 205465.68
+4494, "Prusu, God of Love", The Bastion of the Lich Tyrant, 10.00, Planar Obsidian Mercury Of Wizards , 206.00, 707.00, 602.00, 145642.00, 124012.00, 26965.40, 296619.40
+4931, Sunrise Godwarlock, The Secret Shrine of the Gargoyle Count, 24.00, Unknowable Mindsilver , 336.00, 578.00, 938.00, 194208.00, 315168.00, 122250.24, 631626.24

@@ -1,0 +1,11 @@
+110, Fate Ivycaster, Cawold Castle, 4.00, Imperial Fate Steel , 283.00, 324.00, 356.00, 91692.00, 100748.00, 7697.60, 200137.60
+554, "Lionare, God of the Lost", Dysley Stronghold, 5.00, Litches' Fatal Mithril Of The Past , 115.00, 654.00, 602.00, 75210.00, 69230.00, 7222.00, 151662.00
+998, Flora Amberslayer, The Drunken Thief, 4.00, Sapphire Mindlead , 173.00, 608.00, 90.00, 105184.00, 15570.00, 4830.16, 125584.16
+1443, Cult Godseeker, Khali's Delve, 7.00, Transcendent Gold , 158.00, 39.00, 451.00, 6162.00, 71258.00, 5419.40, 82839.40
+1892, "Zepul, Lady of Vengeance", The Archer and Blade, 18.00, Angels' Smoke Adamant Of The Mountains , 373.00, 694.00, 967.00, 258862.00, 360691.00, 111519.54, 731072.54
+2328, Fate Ivycaster, The Bastion of the Lich Tyrant, 10.00, Primordial False Gold , 174.00, 354.00, 602.00, 61596.00, 104748.00, 16634.40, 182978.40
+2786, Wind Dire, Reyny Keep, 14.00, Sapphire Mindlead , 274.00, 608.00, 90.00, 166592.00, 24660.00, 26775.28, 218027.28
+3244, Slayer Claw, The Fortress of the Lich Queen, 6.00, Ensorceled Sandmetal Of Spirits , 83.00, 671.00, 431.00, 55693.00, 35773.00, 5487.96, 96953.96
+3705, "Prusu, God of Love", Archring Borough, 0.00, Incubi's Glittering Tin Of The Future , 130.00, 247.00, 493.00, 32110.00, 64090.00, 0.00, 96200.00
+4165, Seraphim Tsunami, The Grey Plains, 3.00, Negative Mercury , 259.00, 278.00, 408.00, 72002.00, 105672.00, 5330.22, 183004.22
+4604, "Prusu, God of Love", The Lost Sanctum of Woe, 12.00, Litches' Fatal Mithril Of The Past , 93.00, 654.00, 602.00, 60822.00, 55986.00, 14016.96, 130824.96

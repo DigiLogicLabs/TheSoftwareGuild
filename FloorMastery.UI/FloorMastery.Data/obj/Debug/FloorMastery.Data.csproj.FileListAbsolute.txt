@@ -1,0 +1,7 @@
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\bin\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\bin\Debug\FloorMastery.Data.pdb
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\bin\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\bin\Debug\FloorMastery.Models.pdb
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\obj\Debug\FloorMastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\obj\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Data\obj\Debug\FloorMastery.Data.pdb

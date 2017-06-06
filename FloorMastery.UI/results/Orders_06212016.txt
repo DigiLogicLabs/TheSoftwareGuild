@@ -1,0 +1,11 @@
+
+738, Rouge Roguemist, The Khazahol Crags, 22.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 125.00, 676.00, 683.00, 84500.00, 85375.00, 37372.50, 207247.50
+-1184,"Avriel, God of Death",The Greedy Wench,-8.00,Negative Rockglitter Mercury Of Trolls ,-160.00,-216.00,-497.00,-34560.00,-79520.00,-9126.40,-123206.40
+
+2071, Seraph Jester, The Bastion of the Lich Tyrant, 10.00, Sapphire Mindlead , 267.00, 608.00, 90.00, 162336.00, 24030.00, 18636.60, 205002.60
+2523, "Gono, Goddess of the Earth", The Dread Hive of Illfang the Kobold Lord, 8.00, Unholy Poison Copper Of The Mountains , 348.00, 439.00, 495.00, 152772.00, 172260.00, 26002.56, 351034.56
+2980, Dagger Reaper, Castle Village, 17.00, Zephyr Adamant , 319.00, 215.00, 3.00, 68585.00, 957.00, 11822.14, 81364.14
+3434, Bedlam Spiritraven, Peley Keep, 24.00, Primal Adamant , 191.00, 878.00, 482.00, 167698.00, 92062.00, 62342.40, 322102.40
+3903, "Ingwenel, God of War", The Hunter and Rose, 2.00, Foulopal Copper Of The Skies , 289.00, 170.00, 101.00, 49130.00, 29189.00, 1566.38, 79885.38
+4346, Jericho Wolf, Fellfen Keep, 11.00, Yellow Mistearth Copper , 113.00, 408.00, 996.00, 46104.00, 112548.00, 17451.72, 176103.72
+4790, "Prusu, God of Love", The Greedy Wench, 8.00, Primordial Mud Orichalcum , 161.00, 328.00, 627.00, 52808.00, 100947.00, 12300.40, 166055.40

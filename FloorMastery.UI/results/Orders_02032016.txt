@@ -1,0 +1,11 @@
+376, "Alas, Lord of Plague", Lamp Borough, 15.00, Forgotten Mithril , 217.00, 793.00, 940.00, 172081.00, 203980.00, 56409.15, 432470.15
+814, Rouge Tombreaper, The Lazy Sage, 9.00, Venom Timegold Of Dwarves , 184.00, 614.00, 432.00, 112976.00, 79488.00, 17321.76, 209785.76
+1265, "Suriel, Lord of Animals", Peley Keep, 24.00, Ghostly Magic Adamant , 108.00, 499.00, 881.00, 53892.00, 95148.00, 35769.60, 184809.60
+.1713,Valentine Lawslayer,Gili's Delve,.7.00,Devils' Falserot Silver ,.271.00,.755.00,.915.00,.204605.00,.247965.00,.31679.90,.484249.90
+   2150,    Lance Knightseraph,    The Fortress of Asmamur,   7.00,          Phantasmal Plague Adamant ,      130.00,     831.00,     728.00,      108030.00,     94640.00,          14186.90,     216856.90
+2605, "Selik, God of Death", The Tomb of Gothmog of Udun, 1.00, Sirens' Rockgold , 255.00, 792.00, 901.00, 201960.00, 229755.00, 4317.15, 436032.15
+3061, "Penur, Lord of the Sea", The Wizard's House, 7.00, Lunar Bronze , 82.00, 981.00, 558.00, 80442.00, 45756.00, 8833.86, 135031.86
+3520, Seraph Jester, The Wizard's House, 7.00, Sphinxes' Mistsoul Bronze Of The Past , 273.00, 694.00, 650.00, 189462.00, 177450.00, 25683.84, 392595.84
+3987, "Suriel, Lord of Animals", The Lost Sanctum of Woe, 12.00, Hell Mercury Of The East , 201.00, 122.00, 838.00, 24522.00, 168438.00, 23155.20, 216115.20
+4427, "Selah, God of Destruction", Gili's Delve, 7.00, Meteoric Mirrormuck Orichalcum Of The Forests , 203.00, 136.00, 65.00, 27608.00, 13195.00, 2856.21, 43659.21
+4866, "Nelalwe, Lady of Fire", Dysley Stronghold, 5.00, Unicorns' Fatal Magma Metal Of The Ocean , 193.00, 142.00, 749.00, 27406.00, 144557.00, 8598.15, 180561.15

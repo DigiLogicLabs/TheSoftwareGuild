@@ -1,0 +1,11 @@
+433, "Selik, God of Death", Pawic Keep, 0.00, Primordial False Gold , 307.00, 354.00, 602.00, 108678.00, 184814.00, 0.00, 293492.00
+877, Law Lionwatcher, The Dismal Marsh, 19.00, Sphinxes' Opalpearl Platinum Of Legend , 334.00, 461.00, 403.00, 153974.00, 134602.00, 54829.44, 343405.44
+1324, "Alik, Goddess of Trickery", North Grove Ward, 13.00, Djinni's Evil Sandobsidian Steel Of The Future , 175.00, 319.00, 845.00, 55825.00, 147875.00, 26481.00, 230181.00
+1776, Storm Seraphheart, Love Keep, 4.00, Trolls' Rubymercury Of The Sunset , 110.00, 146.00, 782.00, 16060.00, 86020.00, 4083.20, 106163.20
+2207, Fate Ivycaster, The Temple of Merciless Necromancy, 1.00, Ghostly Magic Adamant , 179.00, 499.00, 881.00, 89321.00, 157699.00, 2470.20, 249490.20
+2665, "Ahah, Goddess of Knowledge", The Forsaken Tomb of Devastation, 12.00, Magic Adamant , 189.00, 746.00, 526.00, 140994.00, 99414.00, 28848.96, 269256.96
+3122, Slayer Claw, Reheath Stronghold, 11.00, Yellow Mistearth Copper , 246.00, 408.00, 996.00, 100368.00, 245016.00, 37992.24, 383376.24
+3583, Lance Knightseraph, Eved Castle, 2.00, Devils' Falserot Silver , 170.00, 755.00, 915.00, 128350.00, 155550.00, 5678.00, 289578.00
+4045, Fate Ivycaster, Hafeld Keep, 0.00, Magicians' Legendary Poison Metal , 86.00, 768.00, 160.00, 66048.00, 13760.00, 0.00, 79808.00
+4488, "Byzou, God of Animals", The Desert of Flames, 16.00, Glowpearl Adamant Of Spirits , 236.00, 669.00, 534.00, 157884.00, 126024.00, 45425.28, 329333.28
+4923, Bedlam Spiritraven, The Chuallanto Jungle, 1.00, Unknown Fatelightning Steel Of The Glacier , 329.00, 837.00, 700.00, 275373.00, 230300.00, 5056.73, 510729.73

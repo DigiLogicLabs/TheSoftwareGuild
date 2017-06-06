@@ -1,0 +1,11 @@
+316, Storm Squallmourner, Pawic Keep, 0.00, Primal Adamant , 203.00, 878.00, 482.00, 178234.00, 97846.00, 0.00, 276080.00
+762, "Avriel, God of Death", The Vaults of the Shadow Emperor, 5.00, Devils' Falserot Silver , 142.00, 755.00, 915.00, 107210.00, 129930.00, 11857.00, 248997.00
+1208, "Azah, Goddess of Fate", The Drunken Thief, 4.00, Rocklava Mithril Of Revenants , 176.00, 169.00, 287.00, 29744.00, 50512.00, 3210.24, 83466.24
+1657, , The Dungeon of Merciless Woe, 23.00, Sphinxes' Mistsoul Bronze Of The Past , 179.00, , , 124226.00, 116350.00, 55332.48, 295908.48
+2094, Shadow Tomblion, The Forsaken Hive of Galima the Mighty, 4.00, Stone Soulsteel Of The Skies , 233.00, 493.00, 872.00, 114869.00, 203176.00, 12721.80, 330766.80
+2545, Wind Dire, South Brightcrown Borough, 0.00, Sphinxes' Opalpearl Platinum Of Legend , 147.00, 461.00, 403.00, 67767.00, 59241.00, 0.00, 127008.00
+-3003,Maverick Wind,Dysley Stronghold,-5.00,Planar Rainfate Mithril ,-163.00,-81.00,-151.00,-13203.00,-24613.00,-1890.80,-39706.80
+3460, Rose Anchor, Palace Farthing, 12.00, Thunderbirds' Transcendent Dreamiron , 50.00, 989.00, 65.00, 49450.00, 3250.00, 6324.00, 59024.00
+3926, "Maglioneth, Lord of the Sun", The Fortress of Asmamur, 7.00, Hell Mercury Of The East , 213.00, 122.00, 838.00, 25986.00, 178494.00, 14313.60, 218793.60
+4371, "Baltha, Goddess of Knowledge", The Forsaken Delve of Lord Greywulf, 8.00, Dragons' Poison Glitterflesh Steel Of The North , 51.00, 941.00, 559.00, 47991.00, 28509.00, 6120.00, 82620.00
+4813, Fate Seeker, Kewold Stronghold, 23.00, Unicorns' Evil Mithril , 239.00, 334.00, 705.00, 79826.00, 168495.00, 57113.83, 305434.83

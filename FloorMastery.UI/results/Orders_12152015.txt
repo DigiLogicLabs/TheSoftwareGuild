@@ -1,0 +1,11 @@
+391, Dagger Reaper, The Chuallanto Jungle, 1.00, Phantasmal Smokezephyr Mercury Of Men , 213.00, 918.00, 965.00, 195534.00, 205545.00, 4010.79, 405089.79
+832, "Gadriel, God of Resurrection", The Dancing Minstrel, 14.00, Toxic Mistlead Of The Past , 257.00, 788.00, 986.00, 202516.00, 253402.00, 63828.52, 519746.52
+1281, Song Runetomb, Love Keep, 4.00, Sphinxes' Unknown Poisongold Of The Future , 267.00, 43.00, 998.00, 11481.00, 266466.00, 11117.88, 289064.88
+1731, "Selah, God of Destruction", The Forsaken Tomb of Devastation, 12.00, Phantasmal Plague Adamant , 242.00, 831.00, 728.00, 201102.00, 176176.00, 45273.36, 422551.36
+2167, "Alik, Goddess of Trickery", The Tower of Sabiesu the Awesome, 18.00, Primordial Mud Orichalcum , 199.00, 328.00, 627.00, 65272.00, 124773.00, 34208.10, 224253.10
+2623, Zeal Bladewitch, Mahyrst Keep, 18.00, Primordial False Gold , 216.00, 354.00, 602.00, 76464.00, 130032.00, 37169.28, 243665.28
+3078, "Byzou, God of Animals", The Pilgrim's Cup, 21.00, Phantasmal Tin Of The Swamps , 39.00, 174.00, 421.00, 6786.00, 16419.00, 4873.05, 28078.05
+
+4004, "Nelalwe, Lady of Fire", Lacot Stronghold, 7.00, Rot Silver Of The Past , 90.00, 267.00, 280.00, 24030.00, 25200.00, 3446.10, 52676.10
+4442, "Baltha, Goddess of Knowledge", Gifeld Castle, 16.00, Rainbowglitter Tin , 246.00, 496.00, 595.00, 122016.00, 146370.00, 42941.76, 311327.76
+.4881,Dawn Darkzealot,Kada's Deep,.14.00,Angels' Adamant ,.135.00,.189.00,.157.00,.25515.00,.21195.00,.6539.40,.53249.40

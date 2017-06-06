@@ -1,0 +1,12 @@
+49, "Nelalwe, Lady of Fire", Weke Tower, 23.00, Trolls' Mist Poisonplatinum Of The Twilight , 166.00, 990.00, 430.00, 164340.00, 71380.00, 54215.60, 289935.60
+492, "Sielach, God of Fate", Gili's Delve, 7.00, Goddesses' Spectral Poison Steel , 258.00, 455.00, 483.00, 117390.00, 124614.00, 16940.28, 258944.28
+936, "Gono, Goddess of the Earth", The Tower of Sheshbazzu, 15.00, Unknowable Mindsilver , 327.00, 578.00, 938.00, 189006.00, 306726.00, 74359.80, 570091.80
+1383, "Eumyan, Goddess of Law", Peley Keep, 24.00, Dragons' Poison Glitterflesh Steel Of The North , 257.00, 941.00, 559.00, 241837.00, 143663.00, 92520.00, 478020.00
+1829, Seraph Jester, Cawold Castle, 4.00, White Platinum , 327.00, 795.00, 200.00, 259965.00, 65400.00, 13014.60, 338379.60
+2265, "Iran, Lord of Nightmares", The Lost Sanctum of Woe, 12.00, Fog Lavaplatinum Of Life , 257.00, 967.00, 333.00, 248519.00, 85581.00, 40092.00, 374192.00
+2721, Slayer Claw, The Warrior and Flagon, 0.00, Planar Rainfate Mithril , 150.00, 81.00, 151.00, 12150.00, 22650.00, 0.00, 34800.00
+3182, Dawn Darkzealot, The Warrior and Flagon, 0.00, Sphinxes' Unknown Poisongold Of The Future , 390.00, 43.00, 998.00, 16770.00, 389220.00, 0.00, 405990.00
+3640, "Eumyan, Goddess of Law", The Vaults of the Shadow Emperor, 5.00, Phantasmal Lead , 186.00, 88.00, 927.00, 16368.00, 172422.00, 9439.50, 198229.50
+4100, Bedlam Spiritraven, The Archer and Blade, 18.00, Trolls' Mist Poisonplatinum Of The Twilight , 106.00, 990.00, 430.00, 104940.00, 45580.00, 27093.60, 177613.60
+4543, "Suriel, Lord of Animals", Gena's Hold, 8.00, Primordial Plague Mercury Of Legend , 187.00, 304.00, 578.00, 56848.00, 108086.00, 13194.72, 178128.72
+4984, "Lionare, God of the Lost", Khali's Delve, 7.00, Primal Adamant , 185.00, 878.00, 482.00, 162430.00, 89170.00, 17612.00, 269212.00

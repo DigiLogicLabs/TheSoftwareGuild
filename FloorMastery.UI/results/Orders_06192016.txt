@@ -1,0 +1,11 @@
+296, "Prusu, God of Love", The Bastion of the Vampire Duke, 18.00, Swordbronze , 179.00, 860.00, 746.00, 153940.00, 133534.00, 51745.32, 339219.32
+ 740,    Sunset Knightclaw,      The Lewd King,      17.00,          Dragons' Poison Glitterflesh Steel Of The North ,      186.00,      941.00,      559.00,      175026.00,      103974.00,          47430.00,       326430.00
+1186, "Ariel, God of Luck", North Grove Ward, 13.00, Fog Lavaplatinum Of Life , 285.00, 967.00, 333.00, 275595.00, 94905.00, 48165.00, 418665.00
+1638, Grave Mistseeker, Archring Borough, 0.00, Unicorns' Evil Mithril , 300.00, 334.00, 705.00, 100200.00, 211500.00, 0.00, 311700.00
+2072, Lord Mystery, Dysley Stronghold, 5.00, Planar Obsidian Mercury Of Wizards , 249.00, 707.00, 602.00, 176043.00, 149898.00, 16297.05, 342238.05
+2525, Storm Seraphheart, Cawold Castle, 4.00, Spirits' Living Wordhammer Tin Of The Trees , 133.00, 533.00, 531.00, 70889.00, 70623.00, 5660.48, 147172.48
+2982, "Penur, Lord of the Sea", The Broken Shield, 7.00, Tin Of The Tundra , 134.00, 479.00, 294.00, 64186.00, 39396.00, 7250.74, 110832.74
+3436, "Gono, Goddess of the Earth", The Secret Shrine of the Gargoyle Count, 24.00, Pearl Mirrorice Steel Of Changelings , 112.00, 474.00, 715.00, 53088.00, 80080.00, 31960.32, 165128.32
+3905, Tiger Mistmidnight, Tradun Castle, 7.00, Djinni's Evil Sandobsidian Steel Of The Future , 170.00, 319.00, 845.00, 54230.00, 143650.00, 13851.60, 211731.60
+4348, "Baltha, Goddess of Knowledge", Unicorn's Ward, 1.00, Poison Adamant , 161.00, 952.00, 349.00, 153272.00, 56189.00, 2094.61, 211555.61
+4792, Song Runetomb, The Bastion of Gothmog of Udun, 18.00, Rot Silver Of The Past , 259.00, 267.00, 280.00, 69153.00, 72520.00, 25501.14, 167174.14

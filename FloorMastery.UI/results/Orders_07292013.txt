@@ -1,0 +1,12 @@
+23, "Sielach, God of Fate", Boiaburh Keep, 11.00, Phantasmal Tin Of The Swamps , 255.00, 174.00, 421.00, 44370.00, 107355.00, 16689.75, 168414.75
+467, "Alas, Lord of Plague", The Bastion of the Lich Tyrant, 10.00, Spirits' Living Wordhammer Tin Of The Trees , 245.00, 533.00, 531.00, 130585.00, 130095.00, 26068.00, 286748.00
+910, Rose Anchor, The Tomb of Hellish Ruin, 14.00, Unspeakable Rotsoul Mithril Of Souls , 46.00, 255.00, 25.00, 11730.00, 1150.00, 1803.20, 14683.20
+1357, Flora Amberslayer, The Tower of the Demon Warlord, 3.00, Ghostly Magic Adamant , 177.00, 499.00, 881.00, 88323.00, 155937.00, 7327.80, 251587.80
+1807, "Ariel, God of Luck", North Grove Ward, 13.00, Timeiron , 220.00, 537.00, 965.00, 118140.00, 212300.00, 42957.20, 373397.20
+   2236,      "Melcha, Goddess of Thieves",      The Broken Arrow,     22.00,        Emerald Orichalcum ,    178.00,   711.00,      570.00,      126558.00,      101460.00,      50163.96,       278181.96
+2695, "Zepul, Lady of Vengeance", The Secret Catacombs of Ulfang the Black, 0.00, Lycanthropes' Gold , 176.00, 213.00, 171.00, 37488.00, 30096.00, 0.00, 67584.00
+3155, "Gono, Goddess of the Earth", Gena's Hold, 8.00, Trolls' Rubymercury Of The Sunset , 236.00, 146.00, 782.00, 34456.00, 184552.00, 17520.64, 236528.64
+3615, Claw Mist, The Tower of Aramum, 9.00, Ensorceled Sandmetal Of Spirits , 74.00, 671.00, 431.00, 49654.00, 31894.00, 7339.32, 88887.32
+4077, Wind Dire, The Grey Plains, 3.00, Vampires' Fang Emeraldsilver , 248.00, 876.00, 971.00, 217248.00, 240808.00, 13741.68, 471797.68
+4520, Storm Squallmourner, Lordsgate Farthing, 17.00, Starsmoke Bronze Of Life , 265.00, 618.00, 647.00, 163770.00, 171455.00, 56988.25, 392213.25
+4955, Cult Godseeker, The Tomb of Hellish Ruin, 14.00, Djinni's Mind Fogiron , 251.00, 387.00, 164.00, 97137.00, 41164.00, 19362.14, 157663.14

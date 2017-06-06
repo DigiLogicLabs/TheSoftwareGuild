@@ -1,0 +1,11 @@
+346, Flora Amberslayer, The Barrow of Terrible Horror, 24.00, Ensorceled Sandmetal Of Spirits , 173.00, 671.00, 431.00, 116083.00, 74563.00, 45755.04, 236401.04
+787, Cult Godseeker, North Grove Ward, 13.00, God-touched Greengem Platinum , 287.00, 501.00, 796.00, 143787.00, 228452.00, 48391.07, 420630.07
+1238, "Eumyan, Goddess of Law", The Dungeon of Dismal Terror, 22.00, Magicians' Legendary Poison Metal , 96.00, 768.00, 160.00, 73728.00, 15360.00, 19599.36, 108687.36
+1684, Rouge Roguemist, Gena's Hold, 8.00, Sirens' Rockgold , 270.00, 792.00, 901.00, 213840.00, 243270.00, 36568.80, 493678.80
+2125, Sunset Knightclaw, The Desert of Flames, 16.00, Thunderbirds' Transcendent Dreamiron , 244.00, 989.00, 65.00, 241316.00, 15860.00, 41148.16, 298324.16
+2575, Flora Amberslayer, The Shadow Downs, 2.00, Pearl Mirrorice Steel Of Changelings , 218.00, 474.00, 715.00, 103332.00, 155870.00, 5184.04, 264386.04
+3033, "Byzou, God of Animals", The Fortress of the Lich Queen, 6.00, Forgotten Mithril , 232.00, 793.00, 940.00, 183976.00, 218080.00, 24123.36, 426179.36
+3491, "Selik, God of Death", Ring District, 23.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 345.00, 676.00, 683.00, 233220.00, 235635.00, 107836.65, 576691.65
+3957, Shadow Tomblion, The Tomb of Gothmog of Udun, 1.00, Unknown Fatelightning Steel Of The Glacier , 253.00, 837.00, 700.00, 211761.00, 177100.00, 3888.61, 392749.61
+4400, Rune Rougehate, Reyny Keep, 14.00, Planar Rainfate Mithril , 299.00, 81.00, 151.00, 24219.00, 45149.00, 9711.52, 79079.52
+4840, "Avriel, God of Death", The Desert of Flames, 16.00, Mithril Of Legend , 287.00, 382.00, 657.00, 109634.00, 188559.00, 47710.88, 345903.88

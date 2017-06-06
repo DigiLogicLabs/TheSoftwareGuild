@@ -1,0 +1,12 @@
+22, Shadow Tomblion, Barad Cune, 21.00, Unicorns' Fatal Magma Metal Of The Ocean , 167.00, 142.00, 749.00, 23714.00, 125083.00, 31247.37, 180044.37
+466, "Sielach, God of Fate", The Dungeon of Merciless Woe, 23.00, Venom Timegold Of Dwarves , 209.00, 614.00, 432.00, 128326.00, 90288.00, 50281.22, 268895.22
+909, Dagger Reaper, Dysley Stronghold, 5.00, Mistgold Of Men , 224.00, 459.00, 640.00, 102816.00, 143360.00, 12308.80, 258484.80
+-1356,Shadow Tomblion,North Arcanist's Farthing,-6.00,Phantasmal Lead ,-244.00,-88.00,-927.00,-21472.00,-226188.00,-14859.60,-262519.60
+1806, "Melcha, Goddess of Thieves", The Dread Hive of Illfang the Kobold Lord, 8.00, Glowpearl Adamant Of Spirits , 246.00, 669.00, 534.00, 164574.00, 131364.00, 23675.04, 319613.04
+2235, Sunset Knightclaw, Dysley Stronghold, 5.00, Venom Jewelmetal Of The Desert , 322.00, 21.00, 455.00, 6762.00, 146510.00, 7663.60, 160935.60
+2694, Wind Dire, Gifeld Castle, 16.00, Unicorns' Fatal Magma Metal Of The Ocean , 128.00, 142.00, 749.00, 18176.00, 95872.00, 18247.68, 132295.68
+3154, Dawn Darkzealot, The Broken Shield, 7.00, Fog Lavaplatinum Of Life , 210.00, 967.00, 333.00, 203070.00, 69930.00, 19110.00, 292110.00
+3615, "Gadriel, God of Resurrection", Noble's Village, 5.00, Glowpearl Adamant Of Spirits , 356.00, 669.00, 534.00, 238164.00, 190104.00, 21413.40, 449681.40
+4076, Song Runetomb, The Flying Witch, 13.00, Unknown Fatelightning Steel Of The Glacier , 181.00, 837.00, 700.00, 151497.00, 126700.00, 36165.61, 314362.61
+4519, "Selik, God of Death", Kewold Stronghold, 23.00, Shadowy Adamant , 298.00, 585.00, 941.00, 174330.00, 280418.00, 104592.04, 559340.04
+4954, Bedlam Spiritraven, Noble's Village, 5.00, White Platinum , 121.00, 795.00, 200.00, 96195.00, 24200.00, 6019.75, 126414.75

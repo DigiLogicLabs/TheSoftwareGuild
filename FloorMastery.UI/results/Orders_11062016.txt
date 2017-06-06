@@ -1,0 +1,11 @@
+169, Tiger Mistmidnight, Bergfison's Deep, 18.00, Primordial Plague Mercury Of Legend , 272.00, 304.00, 578.00, 82688.00, 157216.00, 43182.72, 283086.72
+622, Claw Mist, The Temple of Merciless Necromancy, 1.00, Grayplatinum , 266.00, 45.00, 526.00, 11970.00, 139916.00, 1518.86, 153404.86
+
+1509, Dagger Reaper, South Brightcrown Borough, 0.00, Lunar Bronze , 152.00, 981.00, 558.00, 149112.00, 84816.00, 0.00, 233928.00
+1950, Tarot Dawn, The Fortress of Asmamur, 7.00, Goddesses' Spectral Poison Steel , 280.00, 455.00, 483.00, 127400.00, 135240.00, 18384.80, 281024.80
+2395, Zeal Bladewitch, The Pilgrim's Cup, 21.00, Primal Adamant , 247.00, 878.00, 482.00, 216866.00, 119054.00, 70543.20, 406463.20
+2850, Wind Dire, Khali's Delve, 7.00, Rocklava Mithril Of Revenants , 84.00, 169.00, 287.00, 14196.00, 24108.00, 2681.28, 40985.28
+3308, "Ahah, Goddess of Knowledge", The Citadel of Alammius, , Trolls' Rubymercury Of The Sunset , 253.00, 146.00, , , , 56348.16, 291132.16
+3775, "Byzou, God of Animals", Archring Borough, 0.00, Vampires' Fang Emeraldsilver , 168.00, 876.00, 971.00, 147168.00, 163128.00, 0.00, 310296.00
+4226, Dagger Reaper, The Fen of the Necromancer, 15.00, Unspeakable Rotsoul Mithril Of Souls , 209.00, 255.00, 25.00, 53295.00, 5225.00, 8778.00, 67298.00
+4668, "Gono, Goddess of the Earth", The Forsaken Tomb of Devastation, 12.00, Ghostly Soul Adamant , 297.00, 56.00, 682.00, 16632.00, 202554.00, 26302.32, 245488.32

@@ -1,0 +1,11 @@
+414, Dawn Darkzealot, The Fortress of Gama, 5.00, Litches' Fatal Mithril Of The Past , 255.00, 654.00, 602.00, 166770.00, 153510.00, 16014.00, 336294.00
+855, Rose Anchor, Gili's Delve, 7.00, Primal Adamant , 301.00, 878.00, 482.00, 264278.00, 145082.00, 28655.20, 438015.20
+1303, Bane Veil, Noble's Village, 5.00, Djinni's Spectral Shadowlead Of Life , 241.00, 969.00, 997.00, 233529.00, 240277.00, 23690.30, 497496.30
+1755, "Ingwenel, God of War", The Greedy Wench, 8.00, Sapphire Mindlead , 215.00, 608.00, 90.00, 130720.00, 19350.00, 12005.60, 162075.60
+2187, Flora Amberslayer, Barad Kesa, 17.00, Starsmoke Bronze Of Life , 194.00, 618.00, 647.00, 119892.00, 125518.00, 41719.70, 287129.70
+2644, "Lenwenye, Goddess of Travel", The Bastion of Sthasu the Gruesome, 0.00, Planar Obsidian Mercury Of Wizards , 132.00, 707.00, 602.00, 93324.00, 79464.00, 0.00, 172788.00
+3100, Valentine Lawslayer, The Lost Sanctum of Woe, 12.00, Planar Obsidian Mercury Of Wizards , 384.00, 707.00, 602.00, 271488.00, 231168.00, 60318.72, 562974.72
+3561, "Selik, God of Death", The Tower of the Demon Warlord, 3.00, Djinni's Mind Fogiron , 67.00, 387.00, 164.00, 25929.00, 10988.00, 1107.51, 38024.51
+4025, Rouge Roguemist, The Forsaken Tomb of Devastation, 12.00, Planar Obsidian Mercury Of Wizards , 252.00, 707.00, 602.00, 178164.00, 151704.00, 39584.16, 369452.16
+4466, "Finarfin, God of Protection", The Citadel of Tattena the Sinister, 23.00, Incubi's Glittering Tin Of The Future , 73.00, 247.00, 493.00, 18031.00, 35989.00, 12424.60, 66444.60
+4902, Gale Jackalguard, The Flying Witch, 13.00, Heavenly Dreamsilver Of The Night , 117.00, 328.00, 692.00, 38376.00, 80964.00, 15514.20, 134854.20

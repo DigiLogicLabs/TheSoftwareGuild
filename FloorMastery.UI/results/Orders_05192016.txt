@@ -1,0 +1,11 @@
+323, "Byzou, God of Animals", The Archer and Blade, 18.00, Rot Silver Of The Past , 248.00, 267.00, 280.00, 66216.00, 69440.00, 24418.08, 160074.08
+765, "Finarfin, God of Protection", The Dismal Marsh, 19.00, Djinni's Spectral Shadowlead Of Life , 323.00, 969.00, 997.00, 312987.00, 322031.00, 120653.42, 755671.42
+1215, Jericho Wolf, North Arcanist's Farthing, 6.00, Legendary Mithril Of The Moon , 137.00, 281.00, 801.00, 38497.00, 109737.00, 8894.04, 157128.04
+1661, "Penur, Lord of the Sea", Bergfison's Deep, 18.00, Ghostly Magic Adamant , 123.00, 499.00, 881.00, 61377.00, 108363.00, 30553.20, 200293.20
+2101, "Lionare, God of the Lost", The Cracked Chalice, 22.00, Phantasmal Plague Adamant , 197.00, 831.00, 728.00, 163707.00, 143416.00, 67567.06, 374690.06
+2552, "Prusu, God of Love", The Temple of Merciless Necromancy, 1.00, God-touched Faterainbow Orichalcum Of Spectres , 271.00, 43.00, 406.00, 11653.00, 110026.00, 1216.79, 122895.79
+3009, Wind Dire, The Lazy Sage, 9.00, Foulopal Copper Of The Skies , 224.00, 170.00, 101.00, 38080.00, 22624.00, 5463.36, 66167.36
+3467, "Melcha, Goddess of Thieves", The Dungeon of Dismal Terror, 22.00, Sprites' Transcendent Mud Lead Of The South , 136.00, 419.00, 260.00, 56984.00, 35360.00, 20315.68, 112659.68
+3932, Bedlam Spiritraven, The Citadel of Lord Greywulf, 0.00, Starsmoke Bronze Of Life , 228.00, 618.00, 647.00, 140904.00, 147516.00, 0.00, 288420.00
+4377, "Ahah, Goddess of Knowledge", Ring District, 23.00, Spectres' Shadowy Terrorglow Adamant Of Life , 61.00, 944.00, 533.00, 57584.00, 32513.00, 20722.31, 110819.31
+4818, Clash Lonedrake, Citadel Ward, 14.00, Grayplatinum , 134.00, 45.00, 526.00, 6030.00, 70484.00, 10711.96, 87225.96

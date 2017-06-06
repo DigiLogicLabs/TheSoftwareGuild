@@ -1,0 +1,11 @@
+409, Bane Veil, The Fortress of Gama, 5.00, Fairies' Supreme Mistsmoke Lead Of The Future , 87.00, 489.00, 658.00, 42543.00, 57246.00, 4989.45, 104778.45
+850, Dawn Darkzealot, The Drunken Thief, 4.00, Violetstone Tin Of Death , 160.00, 246.00, 251.00, 39360.00, 40160.00, 3180.80, 82700.80
+1298, Fate Ivycaster, Waleah Castle, 10.00, Starsmoke Bronze Of Life , 161.00, 618.00, 647.00, 99498.00, 104167.00, 20366.50, 224031.50
+1751, Wind Dire, Gawold Castle, 6.00, Rot Silver Of The Past , 219.00, 267.00, 280.00, 58473.00, 61320.00, 7187.58, 126980.58
+2184, Storm Squallmourner, The Tower of the Demon Warlord, 3.00, Undeads' Mind Orichalcum Of The Twilight , 92.00, 495.00, 573.00, 45540.00, 52716.00, 2947.68, 101203.68
+2639, "Iran, Lord of Nightmares", Mahyrst Keep, 18.00, Trolls' Mist Poisonplatinum Of The Twilight , 36.00, 990.00, 430.00, 35640.00, 15480.00, 9201.60, 60321.60
+3097, Harmony Angelchild, The Fortress of Asmamur, 7.00, Devils' Falserot Silver , 110.00, 755.00, 915.00, 83050.00, 100650.00, 12859.00, 196559.00
+3556, "Uriel, God of Fate", Haukri's Hold, 7.00, Shadowy Adamant , 78.00, 585.00, 941.00, 45630.00, 73398.00, 8331.96, 127359.96
+4020, "Alik, Goddess of Trickery", Reheath Stronghold, 11.00, Negative Mercury , 63.00, 278.00, 408.00, 17514.00, 25704.00, 4753.98, 47971.98
+4461, Tarot Dawn, Ring District, 23.00, Rainbowglitter Tin , 166.00, 496.00, 595.00, 82336.00, 98770.00, 41654.38, 222760.38
+4897, Rouge Tombreaper, The Bastion of the Lich Tyrant, 10.00, Fairies' Supreme Mistsmoke Lead Of The Future , 165.00, 489.00, 658.00, 80685.00, 108570.00, 18925.50, 208180.50

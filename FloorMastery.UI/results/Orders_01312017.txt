@@ -1,0 +1,11 @@
+97, Valentine Lawslayer, Fellfen Keep, 11.00, Venom Timegold Of Dwarves , 64.00, 614.00, 432.00, 39296.00, 27648.00, 7363.84, 74307.84
+544, Claw Mist, The Scoundrel and Flask, 23.00, Sphinxes' Opalpearl Platinum Of Legend , 281.00, 461.00, 403.00, 129541.00, 113243.00, 55840.32, 298624.32
+986, "Iran, Lord of Nightmares", The Forsaken Tomb of Devastation, 12.00, Incubi's Mirrorfog Iron Of The Ocean , 56.00, 22.00, 675.00, 1232.00, 37800.00, 4683.84, 43715.84
+1431, Bedlam Spiritraven, Ring District, 23.00, Otherworldly Mirror Orichalcum , 192.00, 849.00, 283.00, 163008.00, 54336.00, 49989.12, 267333.12
+1879, Tiger Mistmidnight, The Bastion of Barbos, 18.00, Incubi's Glittering Tin Of The Future , 222.00, 247.00, 493.00, 54834.00, 109446.00, 29570.40, 193850.40
+2315, "Prusu, God of Love", North Arcanist's Farthing, 6.00, Toxic Mistlead Of The Past , 356.00, 788.00, 986.00, 280528.00, 351016.00, 37892.64, 669436.64
+2773, Seraphim Tsunami, Archtemple District, 4.00, Poison Adamant , 288.00, 952.00, 349.00, 274176.00, 100512.00, 14987.52, 389675.52
+3231, Sunset Knightclaw, Barad Cune, 21.00, Otherworldly Mirror Orichalcum , 268.00, 849.00, 283.00, 227532.00, 75844.00, 63708.96, 367084.96
+3691, Dawn Darkzealot, Hafeld Keep, 0.00, Sapphire Mindlead , 236.00, 608.00, 90.00, 143488.00, 21240.00, 0.00, 164728.00
+4151, "Zepul, Lady of Vengeance", The Tower of Sabiesu the Awesome, 18.00, Warlocks' Timerot Mithril , 333.00, 368.00, 575.00, 122544.00, 191475.00, 56523.42, 370542.42
+4592, "Sielach, God of Fate", The Bastion of Sthasu the Gruesome, 0.00, Starlight Pearldream Bronze , 266.00, 441.00, 906.00, 117306.00, 240996.00, 0.00, 358302.00

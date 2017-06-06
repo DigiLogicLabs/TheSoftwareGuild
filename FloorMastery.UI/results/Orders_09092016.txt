@@ -1,0 +1,11 @@
+222, Sephiroth Drakecaster, The Khazahol Crags, 22.00, Fairies' Supreme Mistsmoke Lead Of The Future , 169.00, 489.00, 658.00, 82641.00, 111202.00, 42645.46, 236488.46
+674, "Ingwenel, God of War", The Shadow Downs, 2.00, God-touched Faterainbow Orichalcum Of Spectres , 131.00, 43.00, 406.00, 5633.00, 53186.00, 1176.38, 59995.38
+1114, Lord Mystery, The Dancing Minstrel, 14.00, White Platinum , 109.00, 795.00, 200.00, 86655.00, 21800.00, 15183.70, 123638.70
+1564, Tarot Dawn, Mahyrst Keep, 18.00, Mithril Of Legend , 145.00, 382.00, 657.00, 55390.00, 95265.00, 27117.90, 177772.90
+1999, "Zepul, Lady of Vengeance", The Cracked Chalice, 22.00, Hidden Shadowice Lead , 92.00, 241.00, 199.00, 22172.00, 18308.00, 8905.60, 49385.60
+2448, Storm Seraphheart, The Bastion of the Vampire Duke, 18.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 241.00, 676.00, 683.00, 162916.00, 164603.00, 58953.42, 386472.42
+2905, "Azah, Goddess of Fate", The Pirate's Pipe, 14.00, Negative Rockglitter Mercury Of Trolls , 293.00, 216.00, 497.00, 63288.00, 145621.00, 29247.26, 238156.26
+3361, Sunrise Godwarlock, The Hunter and Rose, 2.00, Vampires' Hammer Emeraldmetal , 129.00, 191.00, 47.00, 24639.00, 6063.00, 614.04, 31316.04
+3828, Dagger Reaper, The Cracked Chalice, 22.00, Djinni's Spectral Shadowlead Of Life , 157.00, 969.00, 997.00, 152133.00, 156529.00, 67905.64, 376567.64
+4277, Seraphim Tsunami, The Fortress of the Lich Queen, 6.00, Toxic Mistlead Of The Past , 187.00, 788.00, 986.00, 147356.00, 184382.00, 19904.28, 351642.28
+4718, "Sielach, God of Fate", Barad Cune, 21.00, Sphinxes' Opalpearl Platinum Of Legend , 246.00, 461.00, 403.00, 113406.00, 99138.00, 44634.24, 257178.24

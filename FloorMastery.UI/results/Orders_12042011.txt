@@ -1,0 +1,12 @@
+48, "Melcha, Goddess of Thieves", The Secret Catacombs of Ulfang the Black, 0.00, Falserainbow Lead , 287.00, 92.00, 67.00, 26404.00, 19229.00, 0.00, 45633.00
+492, "Maglioneth, Lord of the Sun", Moor Village, 0.00, Djinni's Spectral Shadowlead Of Life , 291.00, 969.00, 997.00, 281979.00, 290127.00, 0.00, 572106.00
+935, Shadow Gust, Archscepter Borough, 8.00, Zephyr Adamant , 171.00, 215.00, 3.00, 36765.00, 513.00, 2982.24, 40260.24
+1382, "Uriel, God of Fate", Arcanist's Farthing, 6.00, Meteoric Mirrormuck Orichalcum Of The Forests , 96.00, 136.00, 65.00, 13056.00, 6240.00, 1157.76, 20453.76
+1829, Bane Veil, Gena's Hold, 8.00, Rocklava Mithril Of Revenants , 201.00, 169.00, 287.00, 33969.00, 57687.00, 7332.48, 98988.48
+2264, Lord Mystery, The Citadel of Lord Greywulf, 0.00, Mana-touched Greenglitter Gold Of Giants , 153.00, 783.00, 690.00, 119799.00, 105570.00, 0.00, 225369.00
+2720, Fate Ivycaster, The Bastion of the Lich Tyrant, 10.00, Mithril Of The Tropics , 199.00, 386.00, 319.00, 76814.00, 63481.00, 14029.50, 154324.50
+3181, Shadow Gust, The Archer and Scroll, 11.00, Unicorns' Fatal Magma Metal Of The Ocean , 207.00, 142.00, 749.00, 29394.00, 155043.00, 20288.07, 204725.07
+3639, Rouge Roguemist, Tower Farthing, 2.00, Incubi's Mirrorfog Iron Of The Ocean , 78.00, 22.00, 675.00, 1716.00, 52650.00, 1087.32, 55453.32
+4099, "Lenwenye, Goddess of Travel", The Tomb of Gothmog of Udun, 1.00, Phantasmal Lead , 176.00, 88.00, 927.00, 15488.00, 163152.00, 1786.40, 180426.40
+4542, "Addon, Lord of Death", The Tower of the Demon Warlord, 3.00, Warlocks' Timerot Mithril , 251.00, 368.00, 575.00, 92368.00, 144325.00, 7100.79, 243793.79
+4983, Zeal Bladewitch, The Dread Hive of Illfang the Kobold Lord, 8.00, Primordial Mud Orichalcum , 155.00, 328.00, 627.00, 50840.00, 97185.00, 11842.00, 159867.00

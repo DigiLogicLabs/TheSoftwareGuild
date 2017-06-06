@@ -1,0 +1,11 @@
+73, "Gono, Goddess of the Earth", The Greedy Wench, 8.00, Ghostly Soul Adamant , 268.00, 56.00, 682.00, 15008.00, 182776.00, 15822.72, 213606.72
+517, "Maglioneth, Lord of the Sun", The Bastion of Barbos, 18.00, Unknowable Mindsilver , 162.00, 578.00, 938.00, 93636.00, 151956.00, 44206.56, 289798.56
+2,"Byzou, God of Animals",Waleah Castle,10.00,Warlocks' Timerot Mithril ,177.00,368.00,575.00,65136.00,101775.00,16691.10,183602.10
+1410, Tiger Mistmidnight, Haukri's Hold, 7.00, Mana-touched Greenglitter Gold Of Giants , 278.00, 783.00, 690.00, 217674.00, 191820.00, 28664.58, 438158.58
+1855, "Selik, God of Death", Grove Farthing, 18.00, Toxic Mistlead Of The Past , 219.00, 788.00, 986.00, 172572.00, 215934.00, 69931.08, 458437.08
+2289, "Ingwenel, God of War", Tower Farthing, 2.00, Incubi's Mirrorfog Iron Of The Ocean , 244.00, 22.00, 675.00, 5368.00, 164700.00, 3401.36, 173469.36
+2747, "Finarfin, God of Protection", The Pilgrim's Cup, 21.00, Stone Soulsteel Of The Skies , 195.00, 493.00, 872.00, 96135.00, 170040.00, 55896.75, 322071.75
+3208, "Selik, God of Death", Gena's Hold, 8.00, Phantasmal Smokezephyr Mercury Of Men , 165.00, 918.00, 965.00, 151470.00, 159225.00, 24855.60, 335550.60
+.3667,"Ariel, God of Luck",Weke Tower,.23.00,Devils' Falserot Silver ,.305.00,.755.00,.915.00,.230275.00,.279075.00,.117150.50,.626500.50
+4125, Sunset Knightclaw, Grori's Deep, 4.00, Hidden Shadowice Lead , 118.00, 241.00, 199.00, 28438.00, 23482.00, 2076.80, 53996.80
+4569, Rouge Tombreaper, The Tower of Sheshbazzu, 15.00, Unknowable Mindsilver , 107.00, 578.00, 938.00, 61846.00, 100366.00, 24331.80, 186543.80

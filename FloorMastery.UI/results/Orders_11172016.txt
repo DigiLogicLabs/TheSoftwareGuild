@@ -1,0 +1,11 @@
+161, Jericho Wolf, The Dismal Marsh, 19.00, Fog Lavaplatinum Of Life , 192.00, 967.00, 333.00, 185664.00, 63936.00, 47424.00, 297024.00
+611, Bedlam Spiritraven, The Bastion of Gothmog of Udun, 18.00, Evilsilver , 182.00, 814.00, 264.00, 148148.00, 48048.00, 35315.28, 231511.28
+   1053,    Fate Ivycaster,      The Warrior and Flagon,    0.00,     Vampires' Fang Emeraldsilver ,      160.00,    876.00,   971.00,      140160.00,   155360.00,            0.00,      295520.00
+1498, "Penur, Lord of the Sea", The Demon and Toad, 3.00, Greenlead , 235.00, 518.00, 166.00, 121730.00, 39010.00, 4822.20, 165562.20
+1941, "Uriel, God of Fate", The Nulukkhath Spires, 20.00, Meteoric Mirrormuck Orichalcum Of The Forests , 35.00, 136.00, 65.00, 4760.00, 2275.00, 1407.00, 8442.00
+2385, Grave Mistseeker, North Arcanist's Farthing, 6.00, Evilsilver , 302.00, 814.00, 264.00, 245828.00, 79728.00, 19533.36, 345089.36
+2839, Bedlam Spiritraven, The Khazahol Crags, 22.00, Ghostly Soul Adamant , 304.00, 56.00, 682.00, 17024.00, 207328.00, 49357.44, 273709.44
+3298, "Ingwenel, God of War", Bergfison's Deep, 18.00, Planar Obsidian Mercury Of Wizards , 88.00, 707.00, 602.00, 62216.00, 52976.00, 20734.56, 135926.56
+3764, "Addon, Lord of Death", Eved Castle, 2.00, Trolls' Mist Poisonplatinum Of The Twilight , 272.00, 990.00, 430.00, 269280.00, 116960.00, 7724.80, 393964.80
+4216, Sephiroth Drakecaster, The Khazahol Crags, 22.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 14.00, 313.00, 673.00, 4382.00, 9422.00, 3036.88, 16840.88
+4659, Dagger Reaper, The Barrow of Malefic Ages, 13.00, Lunar Bronze , 94.00, 981.00, 558.00, 92214.00, 52452.00, 18806.58, 163472.58

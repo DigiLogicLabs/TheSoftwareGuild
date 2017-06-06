@@ -1,0 +1,11 @@
+267, "Eumyan, Goddess of Law", The Bloody Wand, 2.00, Otherworldly Mirror Orichalcum , 310.00, 849.00, 283.00, 263190.00, 87730.00, 7018.40, 357938.40
+712, "Maeglodor, God of Thieves", The Dismal Marsh, 19.00, Tritons' Time Stoneiron Of Legend , 264.00, 912.00, 866.00, 240768.00, 228624.00, 89184.48, 558576.48
+1157, Seraphim Tsunami, Arcanist's Farthing, 6.00, Icy Shock Silver , 110.00, 102.00, 540.00, 11220.00, 59400.00, 4237.20, 74857.20
+1609, "Avriel, God of Death", Weke Tower, 23.00, Otherworldly Truesoul Orichalcum Of The East , 217.00, 636.00, 780.00, 138012.00, 169260.00, 70672.56, 377944.56
+2042, Storm Squallmourner, The Forsaken Hive of Galima the Mighty, 4.00, Starsmoke Bronze Of Life , 215.00, 618.00, 647.00, 132870.00, 139105.00, 10879.00, 282854.002042, Storm Squallmourner, The Forsaken Hive of Galima the Mighty, 4.00, Starsmoke Bronze Of Life , 215.00, 618.00, 647.00, 132870.00, 139105.00, 10879.00, 282854.00
+2494, "Addon, Lord of Death", The Fen of the Necromancer, 15.00, Tritons' Time Stoneiron Of Legend , 183.00, 912.00, 866.00, 166896.00, 158478.00, 48806.10, 374180.10
+2949, Cult Godseeker, The Temple of Merciless Necromancy, 1.00, Sphinxes' Mistsoul Bronze Of The Past , 192.00, 694.00, 650.00, 133248.00, 124800.00, 2580.48, 260628.482949, Cult Godseeker, The Temple of Merciless Necromancy, 1.00, Sphinxes' Mistsoul Bronze Of The Past , 192.00, 694.00, 650.00, 133248.00, 124800.00, 2580.48, 260628.48
+3406, "Maeglodor, God of Thieves", Barad Cune, 21.00, Swordbronze , 225.00, 860.00, 746.00, 193500.00, 167850.00, 75883.50, 437233.50
+3874, Magus Felldrake, The Drunken Thief, 4.00, Sphinxes' Opalpearl Platinum Of Legend , 73.00, 461.00, 403.00, 33653.00, 29419.00, 2522.88, 65594.88
+4319, "Alik, Goddess of Trickery", The Barrow of Malefic Ages, 13.00, Heavenly Dreamsilver Of The Night , 199.00, 328.00, 692.00, 65272.00, 137708.00, 26387.40, 229367.40
+.4763,Rouge Roguemist,The Archer and Blade,.18.00,Primordial False Gold ,.265.00,.354.00,.602.00,.93810.00,.159530.00,.45601.20,.298941.20

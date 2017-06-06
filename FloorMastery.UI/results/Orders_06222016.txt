@@ -1,0 +1,11 @@
+293, "Avriel, God of Death", The Citadel of Cheno, 0.00, Phantasmal Smokezephyr Mercury Of Men , 188.00, 918.00, 965.00, 172584.00, 181420.00, 0.00, 354004.00
+738, "Melcha, Goddess of Thieves", Archring Borough, 0.00, Glittering Orichalcum , 205.00, 425.00, 275.00, 87125.00, 56375.00, 0.00, 143500.00
+1184, "Alik, Goddess of Trickery", The Wizard's House, 7.00, Mithril Of The Tropics , 213.00, 386.00, 319.00, 82218.00, 67947.00, 10511.55, 160676.55
+1635, "Lionare, God of the Lost", The Forsaken Delve of Lord Greywulf, 8.00, Fairies' Supreme Mistsmoke Lead Of The Future , 25.00, 489.00, 658.00, 12225.00, 16450.00, 2294.00, 30969.00
+2070, Harmony Angelchild, The Secret Catacombs of Ulfang the Black, 0.00, Sapphire Mindlead , 65.00, 608.00, 90.00, 39520.00, 5850.00, 0.00, 45370.00
+
+2979, Wind Dire, The Citadel of Tattena the Sinister, 23.00, Glittering Orichalcum , 166.00, 425.00, 275.00, 70550.00, 45650.00, 26726.00, 142926.00
+3433, Rune Rougehate, Haukri's Hold, 7.00, Meteoric Dustzephyr Orichalcum , 198.00, 232.00, 37.00, 45936.00, 7326.00, 3728.34, 56990.34
+3902, Song Runetomb, The Hunter and Rose, 2.00, Devils' Falserot Silver , 339.00, 755.00, 915.00, 255945.00, 310185.00, 11322.60, 577452.60
+4345, "Ingwenel, God of War", The Dancing Minstrel, 14.00, Hidden Shadowice Lead , 75.00, 241.00, 199.00, 18075.00, 14925.00, 4620.00, 37620.00
+4789, Shadow Gust, The Forsaken Hive of Galima the Mighty, 4.00, Vampires' Hammer Emeraldmetal , 289.00, 191.00, 47.00, 55199.00, 13583.00, 2751.28, 71533.28

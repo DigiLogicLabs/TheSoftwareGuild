@@ -1,0 +1,11 @@
+144, "Ahah, Goddess of Knowledge", The Shadow Downs, 2.00, Hidden Shadowice Lead , 212.00, 241.00, 199.00, 51092.00, 42188.00, 1865.60, 95145.60
+594, "Gadriel, God of Resurrection", Grove Farthing, 18.00, Sprites' Transcendent Mud Lead Of The South , 232.00, 419.00, 260.00, 97208.00, 60320.00, 28355.04, 185883.04
+1035, "Zepul, Lady of Vengeance", Grori's Deep, 4.00, Thunderbirds' Transcendent Dreamiron , 245.00, 989.00, 65.00, 242305.00, 15925.00, 10329.20, 268559.20
+.1480,Sephiroth Drakecaster,Shainan's Hold,.15.00,Grayplatinum ,.102.00,.45.00,.526.00,.4590.00,.53652.00,.8736.30,.66978.30
+1924, "Lionare, God of the Lost", The Fortress of Gama, 5.00, Foulopal Copper Of The Skies , 208.00, 170.00, 101.00, 35360.00, 21008.00, 2818.40, 59186.40
+2366, Sunset Knightclaw, , , , 237.00, , , , , , 
+ 2820,    Lord Mystery,    The Fortress of Asmamur,   7.00,          Djinni's Mind Fogiron ,      219.00,   387.00,   164.00,      84753.00,      35916.00,            8446.83,       129115.83
+3279, Harmony Angelchild, Waleah Castle, 10.00, Vampires' Fang Emeraldsilver , 293.00, 876.00, 971.00, 256668.00, 284503.00, 54117.10, 595288.103279, Harmony Angelchild, Waleah Castle, 10.00, Vampires' Fang Emeraldsilver , 293.00, 876.00, 971.00, 256668.00, 284503.00, 54117.10, 595288.10
+3745, Rune Rougehate, Grove Farthing, 18.00, Green Dustlightning Mercury , 136.00, 906.00, 964.00, 123216.00, 131104.00, 45777.60, 300097.60
+4200, Fate Ivycaster, Unicorn's Ward, 1.00, Djinni's Evil Sandobsidian Steel Of The Future , 228.00, 319.00, 845.00, 72732.00, 192660.00, 2653.92, 268045.92
+4643, Flora Amberslayer, The Hunter and Rose, 2.00, Violetstone Tin Of Death , 209.00, 246.00, 251.00, 51414.00, 52459.00, 2077.46, 105950.46

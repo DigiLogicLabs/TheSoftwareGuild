@@ -1,0 +1,11 @@
+132, "Gadriel, God of Resurrection", Cawold Castle, 4.00, Emerald Orichalcum , 230.00, 711.00, 570.00, 163530.00, 131100.00, 11785.20, 306415.20
+576, Fate Seeker, The Fortress of Akkun the Grim, 18.00, Undeads' Mind Orichalcum Of The Twilight , 335.00, 495.00, 573.00, 165825.00, 191955.00, 64400.40, 422180.40
+1021, Sunrise Godwarlock, The Bastion of Sthasu the Gruesome, 0.00, Rocklava Mithril Of Revenants , 238.00, 169.00, 287.00, 40222.00, 68306.00, 0.00, 108528.00
+1463, Sunrise Godwarlock, The Wizard's House, 7.00, Unicorns' Evil Mithril , 201.00, 334.00, 705.00, 67134.00, 141705.00, 14618.73, 223457.73
+1911, "Selik, God of Death", The Temple of Merciless Necromancy, 1.00, Toxin Iceplatinum Of The Undead , 390.00, 146.00, 665.00, 56940.00, 259350.00, 3162.90, 319452.90
+2351, Sunset Knightclaw, The Glano Forest, 22.00, Negative Rockglitter Mercury Of Trolls , 161.00, 216.00, 497.00, 34776.00, 80017.00, 25254.46, 140047.46
+2806, Magus Felldrake, The Black Barrow of Bery, 21.00, Forgotten Mithril , 163.00, 793.00, 940.00, 129259.00, 153220.00, 59320.59, 341799.59
+3262, "Avriel, God of Death", Archtemple District, 4.00, Phantasmal Tin Of The Swamps , 128.00, 174.00, 421.00, 22272.00, 53888.00, 3046.40, 79206.40
+3727, "Alik, Goddess of Trickery", The Dancing Minstrel, 14.00, Otherworldly Mirror Orichalcum , 135.00, 849.00, 283.00, 114615.00, 38205.00, 21394.80, 174214.80
+4186, "Alik, Goddess of Trickery", The Desert of Flames, 16.00, Dragons' Poison Glitterflesh Steel Of The North , 250.00, 941.00, 559.00, 235250.00, 139750.00, 60000.00, 435000.00
+4626, "Suriel, Lord of Animals", Ring District, 23.00, Legendary Mithril Of The Moon , 205.00, 281.00, 801.00, 57605.00, 164205.00, 51016.30, 272826.30

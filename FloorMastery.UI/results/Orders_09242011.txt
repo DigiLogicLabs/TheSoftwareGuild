@@ -1,0 +1,12 @@
+54, "Avriel, God of Death", The Bastion of Gothmog of Udun, 18.00, Planar Obsidian Mercury Of Wizards , 212.00, 707.00, 602.00, 149884.00, 127624.00, 49951.44, 327459.44
+497, Bedlam Spiritraven, The Hunter and Rose, 2.00, Primordial False Gold , 278.00, 354.00, 602.00, 98412.00, 167356.00, 5315.36, 271083.36
+941, Valentine Lawslayer, Kada's Deep, 14.00, Pearl Mirrorice Steel Of Changelings , 304.00, 474.00, 715.00, 144096.00, 217360.00, 50603.84, 412059.84
+1388, "Selah, God of Destruction", The Forsaken Delve of Lord Greywulf, 8.00, Vampires' Fang Emeraldsilver , 231.00, 876.00, 971.00, 202356.00, 224301.00, 34132.56, 460789.56
+1833, Maverick Wind, The Fortress of Asmamur, 7.00, Mithril Of Legend , 227.00, 382.00, 657.00, 86714.00, 149139.00, 16509.71, 252362.71
+2269, "Prusu, God of Love", Noble's Village, 5.00, Icy Shock Silver , 361.00, 102.00, 540.00, 36822.00, 194940.00, 11588.10, 243350.10
+2726, Sunrise Godwarlock, Tradun Castle, 7.00, Otherworldly Mirror Orichalcum , 267.00, 849.00, 283.00, 226683.00, 75561.00, 21157.08, 323401.08
+3187, Valentine Lawslayer, Lamp Borough, 15.00, Nymphs' Luminous Rotmercury Of The Skies , 380.00, 453.00, 202.00, 172140.00, 76760.00, 37335.00, 286235.003187, Valentine Lawslayer, Lamp Borough, 15.00, Nymphs' Luminous Rotmercury Of The Skies , 380.00, 453.00, 202.00, 172140.00, 76760.00, 37335.00, 286235.00
+3645, Shadow Tomblion, The Lewd King, 17.00, Devils' Falserot Silver , 143.00, 755.00, 915.00, 107965.00, 130845.00, 40597.70, 279407.70
+4103, Sunrise Godwarlock, North Arcanist's Farthing, 6.00, Planar Obsidian Mercury Of Wizards , 30.00, 707.00, 602.00, 21210.00, 18060.00, 2356.20, 41626.204103, Sunrise Godwarlock, North Arcanist's Farthing, 6.00, Planar Obsidian Mercury Of Wizards , 30.00, 707.00, 602.00, 21210.00, 18060.00, 2356.20, 41626.20
+4548, Sunset Knightclaw, Eved Castle, 2.00, Primordial False Gold , 293.00, 354.00, 602.00, 103722.00, 176386.00, 5602.16, 285710.16
+4989, Tiger Mistmidnight, The Vaults of the Shadow Emperor, 5.00, Spirits' Living Wordhammer Tin Of The Trees , 264.00, 533.00, 531.00, 140712.00, 140184.00, 14044.80, 294940.80

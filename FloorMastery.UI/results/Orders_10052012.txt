@@ -1,0 +1,12 @@
+35, Valentine Lawslayer, Moor Village, 0.00, Fairies' Supreme Mistsmoke Lead Of The Future , 183.00, 489.00, 658.00, 89487.00, 120414.00, 0.00, 209901.00
+.478,Tarot Dawn,The Secret Catacombs of Ulfang the Black,.0.00,White Platinum ,.218.00,.795.00,.200.00,.173310.00,.43600.00,.0.00,.216910.00
+921, "Byzou, God of Animals", Boiaburh Keep, 11.00, Tritons' Time Stoneiron Of Legend , 162.00, 912.00, 866.00, 147744.00, 140292.00, 31683.96, 319719.96
+1369, Jericho Wolf, Boiaburh Keep, 11.00, Tin Of The Tundra , 81.00, 479.00, 294.00, 38799.00, 23814.00, 6887.43, 69500.43
+1819, "Uriel, God of Fate", The Broken Shield, 7.00, Otherworldly Truesoul Orichalcum Of The East , 174.00, 636.00, 780.00, 110664.00, 135720.00, 17246.88, 263630.88
+2249, , Kewold Stronghold, 23.00, Phantasmal Tin Of The Swamps , 250.00, , , 43500.00, 105250.00, , 182962.50
+2708, "Lionare, God of the Lost", The Bloody Wand, 2.00, White Platinum , 274.00, 795.00, 200.00, 217830.00, 54800.00, 5452.60, 278082.60
+3167, Seraph Jester, Citadel Ward, 14.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 339.00, 313.00, 673.00, 106107.00, 228147.00, 46795.56, 381049.56
+.3627,"Eumyan, Goddess of Law",The Barrow of Terrible Horror,.24.00,Foul Ice Bronze Of Life ,.207.00,.168.00,.97.00,.34776.00,.20079.00,.13165.20,.68020.20
+4086, "Sielach, God of Fate", Ring District, 23.00, Evilsilver , 163.00, 814.00, 264.00, 132682.00, 43032.00, 40414.22, 216128.22
+4531, Gale Jackalguard, The Demon and Toad, 3.00, Unspeakable Rotsoul Mithril Of Souls , 275.00, 255.00, 25.00, 70125.00, 6875.00, 2310.00, 79310.00
+4968, "Sielach, God of Fate", The Tomb of Hellish Ruin, 14.00, Greenlead , 137.00, 518.00, 166.00, 70966.00, 22742.00, 13119.12, 106827.12

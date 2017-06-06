@@ -1,0 +1,11 @@
+392, "Suriel, Lord of Animals", The Glano Forest, 22.00, Rainbowglitter Tin , 300.00, 496.00, 595.00, 148800.00, 178500.00, 72006.00, 399306.00
+ 833,    "Maeglodor, God of Thieves",  North Grove Ward,      13.00,        Dragons' Poison Glitterflesh Steel Of The North ,      144.00,     941.00,   559.00,      135504.00,    80496.00,      28080.00,    244080.00
+1282, Law Lionwatcher, The Citadel of Alammius, 24.00, Otherworldly Truesoul Orichalcum Of The East , 143.00, 636.00, 780.00, 90948.00, 111540.00, 48597.12, 251085.12
+1732, "Selah, God of Destruction", Minas Gilloy, 20.00, Magicians' Legendary Poison Metal , 303.00, 768.00, 160.00, 232704.00, 48480.00, 56236.80, 337420.80
+2168, Zeal Bladewitch, The Greedy Wench, 8.00, Thunderbirds' Transcendent Dreamiron , 64.00, 989.00, 65.00, 63296.00, 4160.00, 5396.48, 72852.48
+2623, Rouge Tombreaper, Lordsgate Farthing, 17.00, Muck Orichalcum Of Ogres , 208.00, 983.00, 395.00, 204464.00, 82160.00, 48726.08, 335350.08
+3079, Valentine Lawslayer, The Drunken Thief, 4.00, Shadow Steel , 286.00, 841.00, 440.00, 240526.00, 125840.00, 14654.64, 381020.64
+3538, "Gadriel, God of Resurrection", Noble's Village, 5.00, Rocklava Mithril Of Revenants , 352.00, 169.00, 287.00, 59488.00, 101024.00, 8025.60, 168537.60
+4005, Slayer Claw, Grove Farthing, 18.00, Green Dustlightning Mercury , 168.00, 906.00, 964.00, 152208.00, 161952.00, 56548.80, 370708.80
+4443, "Prusu, God of Love", The Beggar and Cask, 16.00, Mind Lead , 258.00, 143.00, 486.00, 36894.00, 125388.00, 25965.12, 188247.12
+4882, Rune Rougehate, The Desert of Flames, 16.00, Shadowy Adamant , 198.00, 585.00, 941.00, 115830.00, 186318.00, 48343.68, 350491.68

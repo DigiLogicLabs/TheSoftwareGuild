@@ -1,0 +1,11 @@
+315, Dawn Darkzealot, Lordsgate Farthing, 17.00, Toxin Iceplatinum Of The Undead , 84.00, 146.00, 665.00, 12264.00, 55860.00, 11581.08, 79705.08
+760, "Ariel, God of Luck", The Hunter and Rose, 2.00, Icy Shock Silver , 78.00, 102.00, 540.00, 7956.00, 42120.00, 1001.52, 51077.52
+1207, Cult Godseeker, The Fortress of Asmamur, 7.00, Mana-touched Greenglitter Gold Of Giants , 211.00, 783.00, 690.00, 165213.00, 145590.00, 21756.21, 332559.21
+1656, Slayer Claw, Lacot Stronghold, 7.00, Sprites' Transcendent Mud Lead Of The South , 270.00, 419.00, 260.00, 113130.00, 70200.00, 12833.10, 196163.10
+2092, "Iran, Lord of Nightmares", The Lazy Sage, 9.00, Phantasmal Tin Of The Swamps , 76.00, 174.00, 421.00, 13224.00, 31996.00, 4069.80, 49289.80
+2544, Magus Felldrake, The Lost Sanctum of Woe, 12.00, Otherworldly Mirror Orichalcum , 264.00, 849.00, 283.00, 224136.00, 74712.00, 35861.76, 334709.76
+3001, "Gono, Goddess of the Earth", The Dread Hive of Illfang the Kobold Lord, 8.00, White Platinum , 319.00, 795.00, 200.00, 253605.00, 63800.00, 25392.40, 342797.40
+3458, "Gono, Goddess of the Earth", Love Keep, 4.00, Greenlead , 177.00, 518.00, 166.00, 91686.00, 29382.00, 4842.72, 125910.72
+3924, Dagger Reaper, The Bastion of Gothmog of Udun, 18.00, Green Dustlightning Mercury , 240.00, 906.00, 964.00, 217440.00, 231360.00, 80784.00, 529584.00
+4369, "Melcha, Goddess of Thieves", The Fortress of Gama, 5.00, Sphinxes' Mistsoul Bronze Of The Past , 322.00, 694.00, 650.00, 223468.00, 209300.00, 21638.40, 454406.40
+4811, "Avriel, God of Death", The Secret Shrine of the Gargoyle Count, 24.00, Unknown Fatelightning Steel Of The Glacier , 176.00, 837.00, 700.00, 147312.00, 123200.00, 64922.88, 335434.88

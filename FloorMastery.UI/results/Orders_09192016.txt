@@ -1,0 +1,11 @@
+214, Rouge Tombreaper, The Secret Catacombs of Ulfang the Black, 0.00, Unholy Poison Copper Of The Mountains , 161.00, 439.00, 495.00, 70679.00, 79695.00, 0.00, 150374.00
+664, Claw Mist, Lacot Stronghold, 7.00, Mithril Of The Tropics , 242.00, 386.00, 319.00, 93412.00, 77198.00, 11942.70, 182552.70
+1104, "Ahah, Goddess of Knowledge", The Tower of Sheshbazzu, 15.00, Swordbronze , 92.00, 860.00, 746.00, 79120.00, 68632.00, 22162.80, 169914.80
+1554, Seraph Jester, Boiaburh Keep, 11.00, Witchs' Forbidden Rockrainbow Bronze , 137.00, 172.00, 423.00, 23564.00, 57951.00, 8966.65, 90481.65
+1990, "Penur, Lord of the Sea", The Shadow Downs, 2.00, Tin Of The Tundra , 202.00, 479.00, 294.00, 96758.00, 59388.00, 3122.92, 159268.92
+2439, "Selah, God of Destruction", The Lazy Sage, 9.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 154.00, 676.00, 683.00, 104104.00, 105182.00, 18835.74, 228121.74
+2896, Dawn Darkzealot, The Secret Shrine of the Gargoyle Count, 24.00, Negative Mercury , 209.00, 278.00, 408.00, 58102.00, 85272.00, 34409.76, 177783.76
+3352, Sunset Knightclaw, The Broken Arrow, 22.00, Shadowhell Mithril , 251.00, 231.00, 848.00, 57981.00, 212848.00, 59582.38, 330411.38
+3818, "Lenwenye, Goddess of Travel", Moor Village, 0.00, Primordial Plague Mercury Of Legend , 242.00, 304.00, 578.00, 73568.00, 139876.00, 0.00, 213444.003818, "Lenwenye, Goddess of Travel", Moor Village, 0.00, Primordial Plague Mercury Of Legend , 242.00, 304.00, 578.00, 73568.00, 139876.00, 0.00, 213444.00
+4269, , The Drunken Thief, 4.00, Angels' Smoke Adamant Of The Mountains , 286.00, 694.00, , 198484.00, 276562.00, , 494047.84
+4709, "Azah, Goddess of Fate", Gena's Hold, 8.00, Phantasmal Tin Of The Swamps , 258.00, 174.00, 421.00, 44892.00, 108618.00, 12280.80, 165790.80

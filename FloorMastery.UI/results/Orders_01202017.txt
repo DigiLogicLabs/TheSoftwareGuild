@@ -1,0 +1,11 @@
+107, Magus Felldrake, Shainan's Hold, 15.00, Meteoric Dustzephyr Orichalcum , 131.00, 232.00, 37.00, 30392.00, 4847.00, 5285.85, 40524.85
+551, Rune Rougehate, Gifeld Castle, 16.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 341.00, 676.00, 683.00, 230516.00, 232903.00, 74147.04, 537566.04
+996, Magus Felldrake, The Tower of Sheshbazzu, 15.00, Primordial False Gold , 363.00, 354.00, 602.00, 128502.00, 218526.00, 52054.20, 399082.20
+1441, Grave Mistseeker, The Shadow Downs, 2.00, Nymphs' Luminous Rotmercury Of The Skies , 85.00, 453.00, 202.00, 38505.00, 17170.00, 1113.50, 56788.50
+1890, Zeal Bladewitch, The Black Barrow of Zago the Possessed, 23.00, Planar Mudtin Of Trolls , 78.00, 817.00, 654.00, 63726.00, 51012.00, 26389.74, 141127.74
+ 2325,    Shadow Gust,    Fellfen Keep,   11.00,        Phantasmal Smokezephyr Mercury Of Men ,        275.00,   918.00,    965.00,      252450.00,   265375.00,      56960.75,     574785.75
+2783, "Alas, Lord of Plague", The Dismal Marsh, 19.00, Magic Adamant , 26.00, 746.00, 526.00, 19396.00, 13676.00, 6283.68, 39355.68
+3241, "Selik, God of Death", Gena's Hold, 8.00, Otherworldly Truesoul Orichalcum Of The East , 313.00, 636.00, 780.00, 199068.00, 244140.00, 35456.64, 478664.64
+3702, "Uriel, God of Fate", The Greedy Wench, 8.00, Zephyr Adamant , 122.00, 215.00, 3.00, 26230.00, 366.00, 2127.68, 28723.68
+4162, "Alik, Goddess of Trickery", The Dark Caverns of Woe, 3.00, Incubi's Mirrorfog Iron Of The Ocean , 291.00, 22.00, 675.00, 6402.00, 196425.00, 6084.81, 208911.81
+4602, Lightning Brand, Weke Tower, 23.00, Swordbronze , 144.00, 860.00, 746.00, 123840.00, 107424.00, 53190.72, 284454.72

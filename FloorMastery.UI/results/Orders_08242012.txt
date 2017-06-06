@@ -1,0 +1,12 @@
+37, Grave Mistseeker, The Pilgrim's Cup, 21.00, Djinni's Evil Sandobsidian Steel Of The Future , 185.00, 319.00, 845.00, 59015.00, 156325.00, 45221.40, 260561.40
+   481,      Rouge Tombreaper,    Palace Farthing,   12.00,     Sapphire Mindlead ,      151.00,      608.00,    90.00,      91808.00,   13590.00,          12647.76,      118045.76
+923, Fate Ivycaster, Tower Farthing, 2.00, Hell Mercury Of The East , 170.00, 122.00, 838.00, 20740.00, 142460.00, 3264.00, 166464.00
+1371, "Maeglodor, God of Thieves", The Barrow of Terrible Horror, 24.00, Incubi's Glittering Tin Of The Future , 258.00, 247.00, 493.00, 63726.00, 127194.00, 45820.80, 236740.80
+1820, Song Runetomb, The Dancing Minstrel, 14.00, Foulopal Copper Of The Skies , 113.00, 170.00, 101.00, 19210.00, 11413.00, 4287.22, 34910.22
+2252, Seraphim Tsunami, The Nulukkhath Spires, 20.00, Undeads' Mind Orichalcum Of The Twilight , 110.00, 495.00, 573.00, 54450.00, 63030.00, 23496.00, 140976.00
+2709, "Nelalwe, Lady of Fire", Palace Farthing, 12.00, Thunderbirds' Transcendent Dreamiron , 163.00, 989.00, 65.00, 161207.00, 10595.00, 20616.24, 192418.24
+3170, Lightning Brand, The Archer and Blade, 18.00, Mithril Of The Tropics , 321.00, 386.00, 319.00, 123906.00, 102399.00, 40734.90, 267039.90
+3629, Claw Mist, The Cracked Chalice, 22.00, God-touched Greengem Platinum , 313.00, 501.00, 796.00, 156813.00, 249148.00, 89311.42, 495272.42
+4088, Tarot Dawn, The Demon and Toad, 3.00, Imperial Fate Steel , 91.00, 324.00, 356.00, 29484.00, 32396.00, 1856.40, 63736.40
+4534, Bedlam Spiritraven, The Dancing Minstrel, 14.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 266.00, 313.00, 673.00, 83258.00, 179018.00, 36718.64, 298994.64
+4971, Bane Veil, The Barrow of Terrible Horror, 24.00, Sphinxes' Unknown Poisongold Of The Future , 244.00, 43.00, 998.00, 10492.00, 243512.00, 60960.96, 314964.96

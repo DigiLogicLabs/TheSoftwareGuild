@@ -1,0 +1,11 @@
+324, "Azah, Goddess of Fate", The Citadel of Alammius, 24.00, Lycanthropes' Gold , 348.00, 213.00, 171.00, 74124.00, 59508.00, 32071.68, 165703.68
+766, "Ariel, God of Luck", The Pirate's Pipe, 14.00, Golems' Stonesapphire Gold Of The Glacier , 55.00, 705.00, 952.00, 38775.00, 52360.00, 12758.90, 103893.90766, "Ariel, God of Luck", The Pirate's Pipe, 14.00, Golems' Stonesapphire Gold Of The Glacier , 55.00, 705.00, 952.00, 38775.00, 52360.00, 12758.90, 103893.90
+
+
+2102, "Penur, Lord of the Sea", Barad Kesa, 17.00, Mana-touched Greenglitter Gold Of Giants , 299.00, 783.00, 690.00, 234117.00, 206310.00, 74872.59, 515299.59
+2553, "Ahah, Goddess of Knowledge", The Tower of the Demon Warlord, 3.00, Sphinxes' Unknown Poisongold Of The Future , 48.00, 43.00, 998.00, 2064.00, 47904.00, 1499.04, 51467.04
+3010, Tarot Dawn, The Citadel of Tattena the Sinister, 23.00, Zephyr Adamant , 250.00, 215.00, 3.00, 53750.00, 750.00, 12535.00, 67035.00
+   3468,    "Byzou, God of Animals",      The Broken Arrow,      22.00,   Phantasmal Smokezephyr Mercury Of Men ,    147.00,      918.00,   965.00,      134946.00,   141855.00,          60896.22,      337697.22
+3933, Sunrise Godwarlock, Archscepter Borough, 8.00, Zephyr Iron , 238.00, 909.00, 41.00, 216342.00, 9758.00, 18088.00, 244188.00
+4378, Law Lionwatcher, The Chuallanto Jungle, 1.00, Emerald Orichalcum , 104.00, 711.00, 570.00, 73944.00, 59280.00, 1332.24, 134556.24
+4819, Jericho Wolf, Gili's Delve, 7.00, Golems' Stonesapphire Gold Of The Glacier , 242.00, 705.00, 952.00, 170610.00, 230384.00, 28069.58, 429063.58

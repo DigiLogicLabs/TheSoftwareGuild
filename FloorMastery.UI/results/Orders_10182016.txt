@@ -1,0 +1,11 @@
+
+640, "Gono, Goddess of the Earth", The Chuallanto Jungle, 1.00, Rot Silver Of The Past , 174.00, 267.00, 280.00, 46458.00, 48720.00, 951.78, 96129.78
+1076, Valentine Lawslayer, The Pilgrim's Cup, 21.00, Mana-touched Greenglitter Gold Of Giants , 269.00, 783.00, 690.00, 210627.00, 185610.00, 83209.77, 479446.77
+1528, Dawn Darkzealot, The Secret Shrine of the Gargoyle Count, 24.00, White Platinum , 328.00, 795.00, 200.00, 260760.00, 65600.00, 78326.40, 404686.40
+1964, "Selik, God of Death", The Fortress of Gama, 5.00, Angels' Adamant , 197.00, 189.00, 157.00, 37233.00, 30929.00, 3408.10, 71570.10
+2413, , The Demon and Toad, 3.00, , , , , , , , 
+2869, "Byzou, God of Animals", Bifar's Deep, 3.00, Magic Adamant , 318.00, 746.00, 526.00, 237228.00, 167268.00, 12134.88, 416630.88
+3324, Lance Knightseraph, Gili's Delve, 7.00, Zephyr Adamant , 207.00, 215.00, 3.00, 44505.00, 621.00, 3158.82, 48284.82
+3792, Cult Godseeker, The Secret Catacombs of Ulfang the Black, 0.00, Rot Silver Of The Past , 189.00, 267.00, 280.00, 50463.00, 52920.00, 0.00, 103383.00
+4243, Sephiroth Drakecaster, The Bastion of the Lich Tyrant, 10.00, Lycanthropes' Gold , 241.00, 213.00, 171.00, 51333.00, 41211.00, 9254.40, 101798.40
+

@@ -1,0 +1,11 @@
+182, Gale Jackalguard, The Vaults of the Shadow Emperor, 5.00, Planar Mudtin Of Trolls , 303.00, 817.00, 654.00, 247551.00, 198162.00, 22285.65, 467998.65
+634, "Alik, Goddess of Trickery", Hafeld Keep, 0.00, Timeiron , 159.00, 537.00, 965.00, 85383.00, 153435.00, 0.00, 238818.00
+1072, Dawn Darkzealot, Eved Castle, 2.00, Incubi's Mirrorfog Iron Of The Ocean , 144.00, 22.00, 675.00, 3168.00, 97200.00, 2007.36, 102375.36
+1522, Wind Dire, The Tower of the Demon Warlord, 3.00, Venom Timegold Of Dwarves , 66.00, 614.00, 432.00, 40524.00, 28512.00, 2071.08, 71107.08
+1958, Law Lionwatcher, Kada's Deep, 14.00, Rocklava Mithril Of Revenants , 166.00, 169.00, 287.00, 28054.00, 47642.00, 10597.44, 86293.44
+2407, Tarot Dawn, The Dread Hive of Illfang the Kobold Lord, 8.00, Lunar Bronze , 253.00, 981.00, 558.00, 248193.00, 141174.00, 31149.36, 420516.36
+0,"Suriel, Lord of Animals",Bifar's Deep,3.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas ,231.00,313.00,673.00,72303.00,155463.00,6832.98,234598.98
+3319, Rune Rougehate, The Bastion of Gothmog of Udun, 18.00, Golems' Stonesapphire Gold Of The Glacier , 54.00, 705.00, 952.00, 38070.00, 51408.00, 16106.04, 105584.04
+3787, Storm Squallmourner, Unicorn's Ward, 1.00, Green Dustlightning Mercury , 211.00, 906.00, 964.00, 191166.00, 203404.00, 3945.70, 398515.70
+4237, Zeal Bladewitch, Castle Village, 17.00, Sapphire Mindlead , 365.00, 608.00, 90.00, 221920.00, 32850.00, 43310.90, 298080.90
+4680, Grave Mistseeker, Bergfison's Deep, 18.00, Fleshshock Mercury , 176.00, 667.00, 852.00, 117392.00, 149952.00, 48121.92, 315465.92

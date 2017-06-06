@@ -1,0 +1,11 @@
+99, Grave Mistseeker, Grove Farthing, 18.00, Fleshshock Mercury , 60.00, 667.00, 852.00, 40020.00, 51120.00, 16405.20, 107545.20
+544, "Byzou, God of Animals", Boiaburh Keep, 11.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 97.00, 313.00, 673.00, 30361.00, 65281.00, 10520.62, 106162.62
+988, Law Lionwatcher, The Citadel of Lord Greywulf, 0.00, Primordial Mud Orichalcum , 124.00, 328.00, 627.00, 40672.00, 77748.00, 0.00, 118420.00
+1433, Maverick Wind, Eved Castle, 2.00, Phantasmal Tin Of The Swamps , 309.00, 174.00, 421.00, 53766.00, 130089.00, 3677.10, 187532.10
+1881, Jericho Wolf, Arcanist's Farthing, 6.00, Shadowy Adamant , 41.00, 585.00, 941.00, 23985.00, 38581.00, 3753.96, 66319.96
+2316, "Selik, God of Death", The Forsaken Sepulcher of Sorrows, 12.00, Starsmoke Bronze Of Life , 151.00, 618.00, 647.00, 93318.00, 97697.00, 22921.80, 213936.80
+2775, "Maglioneth, Lord of the Sun", The Citadel of Tattena the Sinister, 23.00, Tin Of The Tundra , 219.00, 479.00, 294.00, 104901.00, 64386.00, 38936.01, 208223.01
+3233, Clash Lonedrake, Gifeld Castle, 16.00, Lunar Bronze , 220.00, 981.00, 558.00, 215820.00, 122760.00, 54172.80, 392752.80
+3693, "Gono, Goddess of the Earth", The Vaults of the Shadow Emperor, 5.00, Dragons' Poison Glitterflesh Steel Of The North , 184.00, 941.00, 559.00, 173144.00, 102856.00, 13800.00, 289800.00
+ 4153,      Gale Jackalguard,    The Forsaken Tomb of Devastation,     12.00,   Venom Jewelmetal Of The Desert ,        317.00,      21.00,      455.00,      6657.00,      144235.00,          18107.04,      168999.04
+4594, "Lenwenye, Goddess of Travel", North Grove Ward, 13.00, Magicians' Legendary Poison Metal , 176.00, 768.00, 160.00, 135168.00, 28160.00, 21232.64, 184560.64

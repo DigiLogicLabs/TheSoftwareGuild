@@ -1,0 +1,11 @@
+174, Fate Ivycaster, Lacot Stronghold, 7.00, Unholy Poison Copper Of The Mountains , 198.00, 439.00, 495.00, 86922.00, 98010.00, 12945.24, 197877.24
+627, "Azah, Goddess of Fate", Moor Village, 0.00, Djinni's Evil Sandobsidian Steel Of The Future , 169.00, 319.00, 845.00, 53911.00, 142805.00, 0.00, 196716.00
+1065, Bedlam Spiritraven, Love Keep, 4.00, Lycanthropes' Gold , 32.00, 213.00, 171.00, 6816.00, 5472.00, 491.52, 12779.52
+1514, Sunset Knightclaw, Gifeld Castle, 16.00, Magicians' Legendary Poison Metal , 187.00, 768.00, 160.00, 143616.00, 29920.00, 27765.76, 201301.76
+
+2399, "Iran, Lord of Nightmares", The Barrow of Terrible Horror, 24.00, Emerald Orichalcum , 337.00, 711.00, 570.00, 239607.00, 192090.00, 103607.28, 535304.28
+2855, "Alik, Goddess of Trickery", The Pilgrim's Cup, 21.00, Undeads' Mind Orichalcum Of The Twilight , 335.00, 495.00, 573.00, 165825.00, 191955.00, 75133.80, 432913.80
+3311, Gale Jackalguard, Citadel Ward, 14.00, Litches' Fatal Mithril Of The Past , 139.00, 654.00, 602.00, 90906.00, 83678.00, 24441.76, 199025.76
+3780, Tarot Dawn, The Fortress of Gama, 5.00, Phantasmal Tin Of The Swamps , 218.00, 174.00, 421.00, 37932.00, 91778.00, 6485.50, 136195.50
+4230, "Penur, Lord of the Sea", The Bastion of Sthasu the Gruesome, 0.00, Rot Silver Of The Past , 192.00, 267.00, 280.00, 51264.00, 53760.00, 0.00, 105024.00
+4673, "Zepul, Lady of Vengeance", Lamp Borough, 15.00, Zephyr Adamant , , 215.00, 3.00, 47085.00, , 7161.30, 54903.30

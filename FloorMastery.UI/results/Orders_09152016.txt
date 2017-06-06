@@ -1,0 +1,11 @@
+217, "Zepul, Lady of Vengeance", Archtemple District, 4.00, Phantasmal Smokezephyr Mercury Of Men , 271.00, 918.00, 965.00, 248778.00, 261515.00, 20411.72, 530704.72
+668, "Selah, God of Destruction", Love Keep, 4.00, Violetdream Iron , 239.00, 948.00, 922.00, 226572.00, 220358.00, 17877.20, 464807.20
+1108, Bedlam Spiritraven, Kewold Stronghold, 23.00, Trolls' Rubymercury Of The Sunset , 159.00, 146.00, 782.00, 23214.00, 124338.00, 33936.96, 181488.96
+1558, "Lenwenye, Goddess of Travel", Moor Village, 0.00, Sprites' Transcendent Mud Lead Of The South , 194.00, 419.00, 260.00, 81286.00, 50440.00, 0.00, 131726.00
+1994, "Azah, Goddess of Fate", Hafeld Keep, 0.00, Transcendent Gold , 145.00, 39.00, 451.00, 5655.00, 65395.00, 0.00, 71050.00
+2443, "Selah, God of Destruction", Archfane District, 18.00, God-touched Faterainbow Orichalcum Of Spectres , 213.00, 43.00, 406.00, 9159.00, 86478.00, 17214.66, 112851.66
+2900, Dagger Reaper, Bergfison's Deep, 18.00, Spectres' Shadowy Terrorglow Adamant Of Life , 297.00, 944.00, 533.00, 280368.00, 158301.00, 78960.42, 517629.42
+1,Harmony Angelchild,The Tower of Sheshbazzu,15.00,Shadow Metal ,150.00,881.00,254.00,132150.00,38100.00,25537.50,195787.50
+3822, Slayer Claw, Bergfison's Deep, 18.00, Otherworldly Truesoul Orichalcum Of The East , 224.00, 636.00, 780.00, 142464.00, 174720.00, 57093.12, 374277.12
+4272, Slayer Claw, The Beggar and Cask, 16.00, Devils' Falserot Silver , 311.00, 755.00, 915.00, 234805.00, 284565.00, 83099.20, 602469.20
+4712, Rose Anchor, Hafeld Keep, 0.00, Otherworldly Mirror Orichalcum , 133.00, 849.00, 283.00, 112917.00, 37639.00, 0.00, 150556.00

@@ -1,0 +1,11 @@
+134, Rouge Tombreaper, The Khazahol Crags, 22.00, Sapphire Mindlead , 329.00, 608.00, 90.00, 200032.00, 29610.00, 50521.24, 280163.24
+578, Fate Seeker, The Wizard's House, 7.00, Violetstone Tin Of Death , 186.00, 246.00, 251.00, 45756.00, 46686.00, 6470.94, 98912.94
+1022, Shadow Gust, Moor Village, 0.00, Vampires' Hammer Emeraldmetal , 208.00, 191.00, 47.00, 39728.00, 9776.00, 0.00, 49504.00
+1465, Sunrise Godwarlock, Pawic Keep, 0.00, Mana-touched Greenglitter Gold Of Giants , 99.00, 783.00, 690.00, 77517.00, 68310.00, 0.00, 145827.00
+1913, Clash Lonedrake, The Bastion of the Vampire Duke, 18.00, Glowpearl Adamant Of Spirits , 323.00, 669.00, 534.00, 216087.00, 172482.00, 69942.42, 458511.42
+2352, Lightning Brand, The Vaults of the Shadow Emperor, 5.00, Unknowable Mindsilver , 344.00, 578.00, 938.00, 198832.00, 322672.00, 26075.20, 547579.20
+2808, Law Lionwatcher, Archring Borough, 0.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 273.00, 676.00, 683.00, 184548.00, 186459.00, 0.00, 371007.00
+3264, "Sielach, God of Fate", The Tower of Sheshbazzu, 15.00, Unknown Fatelightning Steel Of The Glacier , 159.00, 837.00, 700.00, 133083.00, 111300.00, 36657.45, 281040.453264, "Sielach, God of Fate", The Tower of Sheshbazzu, 15.00, Unknown Fatelightning Steel Of The Glacier , 159.00, 837.00, 700.00, 133083.00, 111300.00, 36657.45, 281040.45
+3729, "Eumyan, Goddess of Law", The Wizard's House, 7.00, Grayplatinum , 272.00, 45.00, 526.00, 12240.00, 143072.00, 10871.84, 166183.84
+4188, "Iran, Lord of Nightmares", Khali's Delve, 7.00, Ensorceled Gold Of The Dawn , 119.00, 512.00, 310.00, 60928.00, 36890.00, 6847.26, 104665.26
+4628, Jericho Wolf, Waleah Castle, 10.00, Sprites' Transcendent Mud Lead Of The South , 160.00, 419.00, 260.00, 67040.00, 41600.00, 10864.00, 119504.00

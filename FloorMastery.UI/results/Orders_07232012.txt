@@ -1,0 +1,12 @@
+40, Maverick Wind, Ring District, 23.00, Ensorceled Sandmetal Of Spirits , 43.00, 671.00, 431.00, 28853.00, 18533.00, 10898.78, 58284.78
+483, Lord Mystery, The Bastion of Sthasu the Gruesome, 0.00, Angels' Smoke Adamant Of The Mountains , 1.00, 694.00, 967.00, 694.00, 967.00, 0.00, 1661.00
+926, "Avriel, God of Death", Arcanist's Farthing, 6.00, Unicorns' Fatal Magma Metal Of The Ocean , 143.00, 142.00, 749.00, 20306.00, 107107.00, 7644.78, 135057.78
+1374, "Prusu, God of Love", The Glano Forest, 22.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 231.00, 313.00, 673.00, 72303.00, 155463.00, 50108.52, 277874.52
+1822, Sunset Knightclaw, The Beggar and Cask, 16.00, Shadowhell Mithril , 139.00, 231.00, 848.00, 32109.00, 117872.00, 23996.96, 173977.96
+2255, Clash Lonedrake, The Fortress of Akkun the Grim, 18.00, Glowpearl Adamant Of Spirits , 309.00, 669.00, 534.00, 206721.00, 165006.00, 66910.86, 438637.86
+2712, "Gono, Goddess of the Earth", Bergfison's Deep, 18.00, Vampires' Fang Emeraldsilver , 198.00, 876.00, 971.00, 173448.00, 192258.00, 65827.08, 431533.08
+3173, "Uriel, God of Fate", Gawold Castle, 6.00, Meteoric Mirrormuck Orichalcum Of The Forests , 129.00, 136.00, 65.00, 17544.00, 8385.00, 1555.74, 27484.74
+3631, Shadow Tomblion, South Brightcrown Borough, 0.00, God-touched Greengem Platinum , 175.00, 501.00, 796.00, 87675.00, 139300.00, 0.00, 226975.00
+4091, Storm Seraphheart, The Fen of the Necromancer, 15.00, Tin Of The Tundra , 314.00, 479.00, 294.00, 150406.00, 92316.00, 36408.30, 279130.30
+4536, Cult Godseeker, The Bastion of the Lich Tyrant, 10.00, Ensorceled Sandmetal Of Spirits , 341.00, 671.00, 431.00, 228811.00, 146971.00, 37578.20, 413360.20
+4974, "Suriel, Lord of Animals", The Hunter and Rose, 2.00, Vampires' Hammer Emeraldmetal , 176.00, 191.00, 47.00, 33616.00, 8272.00, 837.76, 42725.76

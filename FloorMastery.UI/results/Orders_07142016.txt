@@ -1,0 +1,11 @@
+273, Bane Veil, The Bastion of Gothmog of Udun, 18.00, Planar Mudtin Of Trolls , 72.00, 817.00, 654.00, 58824.00, 47088.00, 19064.16, 124976.16
+718, Magus Felldrake, Tower Farthing, 2.00, Greenlead , 157.00, 518.00, 166.00, 81326.00, 26062.00, 2147.76, 109535.76
+1165, "Selah, God of Destruction", The Fen of the Necromancer, 15.00, Mithril Of Legend , 181.00, 382.00, 657.00, 69142.00, 118917.00, 28208.85, 216267.85
+1616, Seraph Jester, The Lost Sanctum of Woe, 12.00, Shadow Steel , 316.00, 841.00, 440.00, 265756.00, 139040.00, 48575.52, 453371.52
+2050, Claw Mist, The Dread Hive of Illfang the Kobold Lord, 8.00, Goddesses' Spectral Poison Steel , 69.00, 455.00, 483.00, 31395.00, 33327.00, 5177.76, 69899.76
+2502, "Alas, Lord of Plague", Khali's Delve, 7.00, Planar Rainfate Mithril , 379.00, 81.00, 151.00, 30699.00, 57229.00, 6154.96, 94082.96
+2957, Bedlam Spiritraven, The Citadel of Alammius, 24.00, Ghostly Soul Adamant , 113.00, 56.00, 682.00, 6328.00, 77066.00, 20014.56, 103408.56
+3413, "Gadriel, God of Resurrection", The Fortress of Asmamur, 7.00, Primordial False Gold , 122.00, 354.00, 602.00, 43188.00, 73444.00, 8164.24, 124796.24
+3882, Slayer Claw, Love Keep, 4.00, Ghostly Magic Adamant , 128.00, 499.00, 881.00, 63872.00, 112768.00, 7065.60, 183705.60
+4326, Bane Veil, The Khazahol Crags, 22.00, Planar Rainfate Mithril , 175.00, 81.00, 151.00, 14175.00, 26425.00, 8932.00, 49532.00
+4770, Sunset Knightclaw, Mahyrst Keep, 18.00, Legendary Mithril Of The Moon , 257.00, 281.00, 801.00, 72217.00, 205857.00, 50053.32, 328127.32

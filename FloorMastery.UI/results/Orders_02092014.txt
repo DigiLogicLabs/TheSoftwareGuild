@@ -1,0 +1,12 @@
+8, , , , , , 425.00, 275.00, 55675.00, , 16506.00, 
+.453,"Ariel, God of Luck",The Glano Forest,.22.00,Mistgold Of Men ,.262.00,.459.00,.640.00,.120258.00,.167680.00,.63346.36,.351284.36
+896, Wind Dire, Barad Kesa, 17.00, Ghostly Magic Adamant , 323.00, 499.00, 881.00, 161177.00, 284563.00, 75775.80, 521515.80
+1343, Lord Mystery, The Dungeon of Merciless Woe, 23.00, Ensorceled Sandmetal Of Spirits , 256.00, 671.00, 431.00, 171776.00, 110336.00, 64885.76, 346997.76
+1794, "Ahah, Goddess of Knowledge", The Citadel of Alammius, 24.00, Poison Adamant , 262.00, 952.00, 349.00, 249424.00, 91438.00, 81806.88, 422668.88
+2224, "Nelalwe, Lady of Fire", The Secret Shrine of the Gargoyle Count, 24.00, Rot Silver Of The Past , 307.00, 267.00, 280.00, 81969.00, 85960.00, 40302.96, 208231.96
+2682, "Ingwenel, God of War", The Hunter and Rose, 2.00, Primordial False Gold , 98.00, 354.00, 602.00, 34692.00, 58996.00, 1873.76, 95561.76
+3141, Shadow Tomblion, Haukri's Hold, 7.00, Phantasmal Lead , 193.00, 88.00, 927.00, 16984.00, 178911.00, 13712.65, 209607.65
+3602, Fate Seeker, Reheath Stronghold, 11.00, Fog Lavaplatinum Of Life , 201.00, 967.00, 333.00, 194367.00, 66933.00, 28743.00, 290043.00
+4063, Sephiroth Drakecaster, Peley Keep, 24.00, Shadow Metal , 56.00, 881.00, 254.00, 49336.00, 14224.00, 15254.40, 78814.40
+4505, Lightning Brand, Ring District, 23.00, Yellow Mistearth Copper , 208.00, 408.00, 996.00, 84864.00, 207168.00, 67167.36, 359199.36
+4942, Bane Veil, The Warrior and Flagon, 0.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 150.00, 676.00, 683.00, 101400.00, 102450.00, 0.00, 203850.00

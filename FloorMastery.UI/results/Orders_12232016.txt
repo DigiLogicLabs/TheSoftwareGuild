@@ -1,0 +1,11 @@
+133, Tarot Dawn, Castle Village, 17.00, Djinni's Spectral Shadowlead Of Life , 141.00, 969.00, 997.00, 136629.00, 140577.00, 47125.02, 324331.02
+.577,Lightning Brand,The Citadel of Lord Greywulf,.0.00,Unholy Poison Copper Of The Mountains ,.40.00,.439.00,.495.00,.17560.00,.19800.00,.0.00,.37360.00
+1021, Shadow Gust, The Tower of Sabiesu the Awesome, 18.00, Phantasmal Plague Adamant , 255.00, 831.00, 728.00, 211905.00, 185640.00, 71558.10, 469103.10
+1464, Grave Mistseeker, The Fen of the Necromancer, 15.00, Tritons' Time Stoneiron Of Legend , 188.00, 912.00, 866.00, 171456.00, 162808.00, 50139.60, 384403.601464, Grave Mistseeker, The Fen of the Necromancer, 15.00, Tritons' Time Stoneiron Of Legend , 188.00, 912.00, 866.00, 171456.00, 162808.00, 50139.60, 384403.60
+1912, "Selik, God of Death", Lacot Stronghold, 7.00, Phantasmal Plague Adamant , 135.00, 831.00, 728.00, 112185.00, 98280.00, 14732.55, 225197.55
+2351, Clash Lonedrake, The Forsaken Delve of Lord Greywulf, 8.00, Vampires' Fang Emeraldsilver , 146.00, 876.00, 971.00, 127896.00, 141766.00, 21572.96, 291234.96
+2807, Shadow Tomblion, Eved Castle, 2.00, Violetstone Tin Of Death , 308.00, 246.00, 251.00, 75768.00, 77308.00, 3061.52, 156137.52
+3263, "Lionare, God of the Lost", The Hunter and Rose, 2.00, Meteoric Dustzephyr Orichalcum , 57.00, 232.00, 37.00, 13224.00, 2109.00, 306.66, 15639.66
+3728, Grave Mistseeker, Castle Village, 17.00, Plague Tin , 270.00, 806.00, 444.00, 217620.00, 119880.00, 57375.00, 394875.00
+4187, "Ariel, God of Luck", The Desert of Flames, 16.00, Shadowy Adamant , 166.00, 585.00, 941.00, 97110.00, 156206.00, 40530.56, 293846.564187, "Ariel, God of Luck", The Desert of Flames, 16.00, Shadowy Adamant , 166.00, 585.00, 941.00, 97110.00, 156206.00, 40530.56, 293846.56
+4627, Shadow Gust, The Vaults of the Shadow Emperor, 5.00, Green Dustlightning Mercury , 65.00, 906.00, 964.00, 58890.00, 62660.00, 6077.50, 127627.50

@@ -1,0 +1,11 @@
+292, Harmony Angelchild, Arcanist's Farthing, 6.00, Unicorns' Evil Mithril , 123.00, 334.00, 705.00, 41082.00, 86715.00, 7667.82, 135464.82
+737, "Ahah, Goddess of Knowledge", Shainan's Hold, 15.00, Tin Of The Tundra , 205.00, 479.00, 294.00, 98195.00, 60270.00, 23769.75, 182234.75
+1183, Lord Mystery, Barad Cune, 21.00, Vampires' Hammer Emeraldmetal , 248.00, 191.00, 47.00, 47368.00, 11656.00, 12395.04, 71419.04
+1634, "Gono, Goddess of the Earth", Tradun Castle, 7.00, Witchs' Forbidden Rockrainbow Bronze , 267.00, 172.00, 423.00, 45924.00, 112941.00, 11120.55, 169985.55
+2069, Grave Mistseeker, Tradun Castle, 7.00, God-touched Faterainbow Orichalcum Of Spectres , 251.00, 43.00, 406.00, 10793.00, 101906.00, 7888.93, 120587.93
+2521, Tarot Dawn, The Tower of Aramum, 9.00, Phantasmal Lead , 261.00, 88.00, 927.00, 22968.00, 241947.00, 23842.35, 288757.35
+2978, "Addon, Lord of Death", South Brightcrown Borough, 0.00, Lycanthropes' Gold , 152.00, 213.00, 171.00, 32376.00, 25992.00, 0.00, 58368.00
+3432, "Penur, Lord of the Sea", Tower Farthing, 2.00, Unicorns' Evil Mithril , 88.00, 334.00, 705.00, 29392.00, 62040.00, 1828.64, 93260.64
+3901, "Ahah, Goddess of Knowledge", Gawold Castle, 6.00, Litches' Fatal Mithril Of The Past , 231.00, 654.00, 602.00, 151074.00, 139062.00, 17408.16, 307544.16
+4344, Lord Mystery, Grove Farthing, 18.00, Unspeakable Rotsoul Mithril Of Souls , 254.00, 255.00, 25.00, 64770.00, 6350.00, 12801.60, 83921.60
+ 4788,  Tiger Mistmidnight,    Palace Farthing,      12.00,          Trolls' Mist Poisonplatinum Of The Twilight ,      206.00,     990.00,    430.00,      203940.00,     88580.00,          35102.40,     327622.40

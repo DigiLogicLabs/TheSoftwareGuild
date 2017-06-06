@@ -1,0 +1,11 @@
+373, Lightning Brand, The Nulukkhath Spires, 20.00, Incubi's Iron Of The Dawn , 232.00, 399.00, 800.00, 92568.00, 185600.00, 55633.60, 333801.60
+812, Grave Mistseeker, Gifeld Castle, 16.00, Rocklava Mithril Of Revenants , 105.00, 169.00, 287.00, 17745.00, 30135.00, 7660.80, 55540.80
+1263, Bedlam Spiritraven, Haukri's Hold, 7.00, Vampires' Hammer Emeraldmetal , 230.00, 191.00, 47.00, 43930.00, 10810.00, 3831.80, 58571.80
+1710, "Finarfin, God of Protection", Fellfen Keep, 11.00, Incubi's Glittering Tin Of The Future , 141.00, 247.00, 493.00, 34827.00, 69513.00, 11477.40, 115817.40
+2147, "Prusu, God of Love", The Wizard's House, 7.00, Lunar Bronze , 226.00, 981.00, 558.00, 221706.00, 126108.00, 24346.98, 372160.98
+2602, Fate Ivycaster, The Greedy Wench, 8.00, Angels' Adamant , 376.00, 189.00, 157.00, 71064.00, 59032.00, 10407.68, 140503.68
+3058, "Penur, Lord of the Sea", Fellfen Keep, 11.00, Toxin Iceplatinum Of The Undead , 303.00, 146.00, 665.00, 44238.00, 201495.00, 27030.63, 272763.63
+ 3517,      "Avriel, God of Death",  North Arcanist's Farthing,    6.00,          Sphinxes' Mistsoul Bronze Of The Past ,    186.00,   694.00,    650.00,      129084.00,   120900.00,          14999.04,     264983.04
+0,Flora Amberslayer,The Citadel of Alammius,24.00,Phantasmal Tin Of The Swamps ,206.00,174.00,421.00,35844.00,86726.00,29416.80,151986.80
+4425, Bedlam Spiritraven, Pawic Keep, 0.00, Shadowhell Mithril , 105.00, 231.00, 848.00, 24255.00, 89040.00, 0.00, 113295.00
+4863, Flora Amberslayer, North Arcanist's Farthing, 6.00, Foulopal Copper Of The Skies , 111.00, 170.00, 101.00, 18870.00, 11211.00, 1804.86, 31885.86

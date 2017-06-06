@@ -1,0 +1,11 @@
+407, Jericho Wolf, Weke Tower, 23.00, Rainbowglitter Tin , 200.00, 496.00, 595.00, 99200.00, 119000.00, 50186.00, 268386.00
+847, Cult Godseeker, The Archer and Scroll, 11.00, Primordial Mud Orichalcum , 134.00, 328.00, 627.00, 43952.00, 84018.00, 14076.70, 142046.70
+1296, Storm Squallmourner, The Forsaken Tomb of Devastation, 12.00, Evilsilver , 40.00, 814.00, 264.00, 32560.00, 10560.00, 5174.40, 48294.40
+1748, Sunset Knightclaw, The Tower of the Demon Warlord, 3.00, Devils' Falserot Silver , 29.00, 755.00, 915.00, 21895.00, 26535.00, 1452.90, 49882.90
+2182, "Suriel, Lord of Animals", Bifar's Deep, 3.00, Forgotten Mithril , 237.00, 793.00, 940.00, 187941.00, 222780.00, 12321.63, 423042.63
+2637, Rune Rougehate, Palace Farthing, 12.00, Grayplatinum , 308.00, 45.00, 526.00, 13860.00, 162008.00, 21104.16, 196972.16
+3094, "Iran, Lord of Nightmares", The Cracked Chalice, 22.00, Angels' Smoke Adamant Of The Mountains , 204.00, 694.00, 967.00, 141576.00, 197268.00, 74545.68, 413389.68
+3553, Sunrise Godwarlock, Gena's Hold, 8.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 266.00, 313.00, 673.00, 83258.00, 179018.00, 20982.08, 283258.08
+4018, Claw Mist, The Dark Caverns of Woe, 3.00, Mistgold Of Men , 246.00, 459.00, 640.00, 112914.00, 157440.00, 8110.62, 278464.62
+4458, Sunset Knightclaw, The Fortress of Gama, 5.00, Mana-touched Greenglitter Gold Of Giants , 237.00, 783.00, 690.00, 185571.00, 163530.00, 17455.05, 366556.05
+4895, "Baltha, Goddess of Knowledge", The Pirate's Pipe, 14.00, Primordial Plague Mercury Of Legend , 169.00, 304.00, 578.00, 51376.00, 97682.00, 20868.12, 169926.12

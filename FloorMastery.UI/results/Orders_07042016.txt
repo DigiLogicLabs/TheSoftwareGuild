@@ -1,0 +1,11 @@
+283, Seraph Jester, Kada's Deep, 14.00, Muck Orichalcum Of Ogres , 221.00, 983.00, 395.00, 217243.00, 87295.00, 42635.32, 347173.32
+726, Tarot Dawn, The Pirate's Pipe, 14.00, Planar Rainfate Mithril , 212.00, 81.00, 151.00, 17172.00, 32012.00, 6885.76, 56069.76
+
+1625, Fate Ivycaster, The Greedy Wench, 8.00, Zephyr Adamant , 60.00, 215.00, 3.00, 12900.00, 180.00, 1046.40, 14126.40
+2059, "Gono, Goddess of the Earth", The Shadow Downs, 2.00, Trolls' Rubymercury Of The Sunset , 48.00, 146.00, 782.00, 7008.00, 37536.00, 890.88, 45434.88
+2511, Cult Godseeker, The Citadel of Alammius, 24.00, Poison Adamant , 183.00, 952.00, 349.00, 174216.00, 63867.00, 57139.92, 295222.92
+2967, Wind Dire, Archscepter Borough, 8.00, Phantasmal Lead , 262.00, 88.00, 927.00, 23056.00, 242874.00, 21274.40, 287204.40
+3423, "Lenwenye, Goddess of Travel", Gili's Delve, 7.00, Planar Rainfate Mithril , 282.00, 81.00, 151.00, 22842.00, 42582.00, 4579.68, 70003.68
+3891, Dagger Reaper, Dysley Stronghold, 5.00, Trolls' Mist Poisonplatinum Of The Twilight , 168.00, 990.00, 430.00, 166320.00, 72240.00, 11928.00, 250488.00
+4335, Claw Mist, Kewold Stronghold, 23.00, Sphinxes' Opalpearl Platinum Of Legend , 204.00, 461.00, 403.00, 94044.00, 82212.00, 40538.88, 216794.88
+4779, Rouge Roguemist, Bifar's Deep, 3.00, Starsmoke Bronze Of Life , 268.00, 618.00, 647.00, 165624.00, 173396.00, 10170.60, 349190.60

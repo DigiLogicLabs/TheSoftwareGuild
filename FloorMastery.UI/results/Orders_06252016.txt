@@ -1,0 +1,11 @@
+290, "Byzou, God of Animals", The Citadel of Cheno, 0.00, Phantasmal Lead , 252.00, 88.00, 927.00, 22176.00, 233604.00, 0.00, 255780.00290, "Byzou, God of Animals", The Citadel of Cheno, 0.00, Phantasmal Lead , 252.00, 88.00, 927.00, 22176.00, 233604.00, 0.00, 255780.00
+   735,    Shadow Gust,    Archscepter Borough,     8.00,          Glittering Orichalcum ,        164.00,      425.00,   275.00,      69700.00,   45100.00,          9184.00,      123984.00
+1181, "Byzou, God of Animals", The Nulukkhath Spires, 20.00, Negative Rockglitter Mercury Of Trolls , 188.00, 216.00, 497.00, 40608.00, 93436.00, 26808.80, 160852.80
+
+2068, Tiger Mistmidnight, The Grey Plains, 3.00, Meteoric Dustzephyr Orichalcum , 56.00, 232.00, 37.00, 12992.00, 2072.00, 451.92, 15515.92
+2520, Zeal Bladewitch, The Dancing Minstrel, 14.00, Evilsilver , 146.00, 814.00, 264.00, 118844.00, 38544.00, 22034.32, 179422.32
+2976, "Addon, Lord of Death", Bifar's Deep, 3.00, Mistgold Of Men , 181.00, 459.00, 640.00, 83079.00, 115840.00, 5967.57, 204886.57
+3430, Sunset Knightclaw, The Dismal Marsh, 19.00, Venom Jewelmetal Of The Desert , 333.00, 21.00, 455.00, 6993.00, 151515.00, 30116.52, 188624.52
+3899, "Selik, God of Death", The Drunken Thief, 4.00, Unholy Poison Copper Of The Mountains , 332.00, 439.00, 495.00, 145748.00, 164340.00, 12403.52, 322491.52
+4342, Bedlam Spiritraven, The Shadow Downs, 2.00, Sphinxes' Unknown Poisongold Of The Future , 161.00, 43.00, 998.00, 6923.00, 160678.00, 3352.02, 170953.02
+4786, "Ariel, God of Luck", Kewold Stronghold, 23.00, Mithril Of The Tropics , 156.00, 386.00, 319.00, 60216.00, 49764.00, 25295.40, 135275.40

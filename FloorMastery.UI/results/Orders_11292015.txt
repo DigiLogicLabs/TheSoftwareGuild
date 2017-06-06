@@ -1,0 +1,11 @@
+396, Shadow Tomblion, The Forsaken Hive of Galima the Mighty, 4.00, Tin Of The Tundra , 112.00, 479.00, 294.00, 53648.00, 32928.00, 3463.04, 90039.04
+836, "Penur, Lord of the Sea", Palace Farthing, 12.00, Shadowy Adamant , 226.00, 585.00, 941.00, 132210.00, 212666.00, 41385.12, 386261.12836, "Penur, Lord of the Sea", Palace Farthing, 12.00, Shadowy Adamant , 226.00, 585.00, 941.00, 132210.00, 212666.00, 41385.12, 386261.12
+1286, "Byzou, God of Animals", Tradun Castle, 7.00, Venom Timegold Of Dwarves , 269.00, 614.00, 432.00, 165166.00, 116208.00, 19696.18, 301070.18
+1736, Fate Ivycaster, Tower Farthing, 2.00, Foulopal Copper Of The Skies , 379.00, 170.00, 101.00, 64430.00, 38279.00, 2054.18, 104763.18
+.2171,Grave Mistseeker,Waleah Castle,.10.00,Mithril Of Legend ,.121.00,.382.00,.657.00,.46222.00,.79497.00,.12571.90,.138290.90
+2626, Seraphim Tsunami, Gili's Delve, 7.00, Unicorns' Evil Mithril , 175.00, 334.00, 705.00, 58450.00, 123375.00, 12727.75, 194552.75
+3082, "Ariel, God of Luck", Waleah Castle, 10.00, Angels' Smoke Adamant Of The Mountains , 203.00, 694.00, 967.00, 140882.00, 196301.00, 33718.30, 370901.30
+3541, "Alik, Goddess of Trickery", The Dungeon of Dismal Terror, 22.00, Ghostly Soul Adamant , 334.00, 56.00, 682.00, 18704.00, 227788.00, 54228.24, 300720.24
+4007, Fate Ivycaster, Grove Farthing, 18.00, Unspeakable Rotsoul Mithril Of Souls , 243.00, 255.00, 25.00, 61965.00, 6075.00, 12247.20, 80287.20
+4447, "Baltha, Goddess of Knowledge", The Forsaken Delve of Lord Greywulf, 8.00, Glittering Orichalcum , 181.00, 425.00, 275.00, 76925.00, 49775.00, 10136.00, 136836.00
+ 4885,      Bane Veil,    The Tower of Aramum,    9.00,        Planar Rainfate Mithril ,      280.00,   81.00,     151.00,    22680.00,    42280.00,      5846.40,     70806.40

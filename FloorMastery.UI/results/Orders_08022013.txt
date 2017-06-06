@@ -1,0 +1,12 @@
+21, Seraph Jester, The Tomb of Gothmog of Udun, 1.00, Planar Mudtin Of Trolls , 335.00, 817.00, 654.00, 273695.00, 219090.00, 4927.85, 497712.85
+465, "Gadriel, God of Resurrection", The Tomb of Gothmog of Udun, 1.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 175.00, 676.00, 683.00, 118300.00, 119525.00, 2378.25, 240203.25465, "Gadriel, God of Resurrection", The Tomb of Gothmog of Udun, 1.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 175.00, 676.00, 683.00, 118300.00, 119525.00, 2378.25, 240203.25
+908, Lord Mystery, The Bastion of Sthasu the Gruesome, 0.00, Greenlead , 89.00, 518.00, 166.00, 46102.00, 14774.00, 0.00, 60876.00
+1355, Rune Rougehate, The Nulukkhath Spires, 20.00, Magicians' Legendary Poison Metal , 78.00, 768.00, 160.00, 59904.00, 12480.00, 14476.80, 86860.80
+1805, "Baltha, Goddess of Knowledge", The Dark Caverns of Woe, 3.00, Venom Timegold Of Dwarves , 171.00, 614.00, 432.00, 104994.00, 73872.00, 5365.98, 184231.98
+2235, "Uriel, God of Fate", Khali's Delve, 7.00, Djinni's Evil Sandobsidian Steel Of The Future , 296.00, 319.00, 845.00, 94424.00, 250120.00, 24118.08, 368662.08
+2694, Bedlam Spiritraven, The Dread Hive of Illfang the Kobold Lord, 8.00, Mistgold Of Men , 260.00, 459.00, 640.00, 119340.00, 166400.00, 22859.20, 308599.20
+3153, Flora Amberslayer, Haukri's Hold, 7.00, Venom Timegold Of Dwarves , 206.00, 614.00, 432.00, 126484.00, 88992.00, 15083.32, 230559.32
+3614, Storm Seraphheart, Reyny Keep, 14.00, Unknowable Mindsilver , 148.00, 578.00, 938.00, 85544.00, 138824.00, 31411.52, 255779.52
+4075, "Finarfin, God of Protection", The Pirate's Pipe, 14.00, Toxic Mistlead Of The Past , 111.00, 788.00, 986.00, 87468.00, 109446.00, 27567.96, 224481.96
+4518, Jericho Wolf, Mahyrst Keep, 18.00, Phantasmal Lead , 42.00, 88.00, 927.00, 3696.00, 38934.00, 7673.40, 50303.40
+4,Zeal Bladewitch,The Cuitamba Jungle,22.00,Icy Shock Silver ,72.00,102.00,540.00,7344.00,38880.00,10169.28,56393.28

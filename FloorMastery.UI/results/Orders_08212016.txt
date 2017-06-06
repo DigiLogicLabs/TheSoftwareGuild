@@ -1,0 +1,11 @@
+241, Valentine Lawslayer, The Hunter and Rose, 2.00, Unicorns' Fatal Magma Metal Of The Ocean , 211.00, 142.00, 749.00, 29962.00, 158039.00, 3760.02, 191761.02
+689, "Selah, God of Destruction", Boiaburh Keep, 11.00, Warlocks' Timerot Mithril , 4.00, 368.00, 575.00, 1472.00, 2300.00, 414.92, 4186.92
+1132, Claw Mist, The Bastion of Barbos, 18.00, Forgotten Mithril , 45.00, 793.00, 940.00, 35685.00, 42300.00, 14037.30, 92022.30
+1581, "Suriel, Lord of Animals", Unicorn's Ward, 1.00, Zephyr Adamant , 307.00, 215.00, 3.00, 66005.00, 921.00, 669.26, 67595.26
+2015, Shadow Gust, Palace Farthing, 12.00, Tritons' Time Stoneiron Of Legend , 227.00, 912.00, 866.00, 207024.00, 196582.00, 48432.72, 452038.72
+2465, Rose Anchor, The Cracked Chalice, 22.00, Ghostly Soul Adamant , 265.00, 56.00, 682.00, 14840.00, 180730.00, 43025.40, 238595.40
+2919, Slayer Claw, The Tower of Aramum, 9.00, Spirits' Living Wordhammer Tin Of The Trees , 59.00, 533.00, 531.00, 31447.00, 31329.00, 5649.84, 68425.84
+3378, "Ingwenel, God of War", The Black Barrow of Zago the Possessed, 23.00, Ghostly Magic Adamant , 200.00, 499.00, 881.00, 99800.00, 176200.00, 63480.00, 339480.00
+
+4293, Zeal Bladewitch, The Drunken Thief, 4.00, Zephyr Adamant , 35.00, 215.00, 3.00, 7525.00, 105.00, 305.20, 7935.20
+4735, Zeal Bladewitch, Ring District, 23.00, Djinni's Spectral Shadowlead Of Life , 173.00, 969.00, 997.00, 167637.00, 172481.00, 78227.14, 418345.14

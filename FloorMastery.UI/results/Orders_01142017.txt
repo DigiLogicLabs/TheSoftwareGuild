@@ -1,0 +1,11 @@
+113, "Iran, Lord of Nightmares", The Dark Caverns of Woe, 3.00, Ghostly Magic Adamant , 321.00, 499.00, 881.00, 160179.00, 282801.00, 13289.40, 456269.40
+3,Seraphim Tsunami,Lacot Stronghold,7.00,Glittering Orichalcum ,279.00,425.00,275.00,118575.00,76725.00,13671.00,208971.00
+1001, Tiger Mistmidnight, Dysley Stronghold, 5.00, Grayplatinum , 65.00, 45.00, 526.00, 2925.00, 34190.00, 1855.75, 38970.75
+1445, "Suriel, Lord of Animals", Lamp Borough, 15.00, Phantasmal Tin Of The Swamps , 297.00, 174.00, 421.00, 51678.00, 125037.00, 26507.25, 203222.25
+1895, Magus Felldrake, Tower Farthing, 2.00, Rainbowglitter Tin , 194.00, 496.00, 595.00, 96224.00, 115430.00, 4233.08, 215887.08
+2331, Wind Dire, The Archer and Blade, 18.00, Goddesses' Spectral Poison Steel , 278.00, 455.00, 483.00, 126490.00, 134274.00, 46937.52, 307701.52
+2788, Zeal Bladewitch, The Grey Plains, 3.00, Evilsilver , 273.00, 814.00, 264.00, 222222.00, 72072.00, 8828.82, 303122.82
+3247, "Addon, Lord of Death", The Secret Shrine of the Gargoyle Count, 24.00, Devils' Falserot Silver , 172.00, 755.00, 915.00, 129860.00, 157380.00, 68937.60, 356177.60
+3708, "Nelalwe, Lady of Fire", Citadel Ward, 14.00, Sirens' Rockgold , 85.00, 792.00, 901.00, 67320.00, 76585.00, 20146.70, 164051.70
+4167, "Ariel, God of Luck", Bifar's Deep, 3.00, Ghostly Soul Adamant , 132.00, 56.00, 682.00, 7392.00, 90024.00, 2922.48, 100338.48
+4607, "Gono, Goddess of the Earth", The Flying Witch, 13.00, Angels' Adamant , 222.00, 189.00, 157.00, 41958.00, 34854.00, 9985.56, 86797.56

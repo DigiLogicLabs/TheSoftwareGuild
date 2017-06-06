@@ -1,0 +1,11 @@
+160, , , 11.00, Ghostly Soul Adamant , , 56.00, , 17248.00, 210056.00, , 252307.44
+610, "Ingwenel, God of War", The Bloody Wand, 2.00, Ensorceled Gold Of The Dawn , 184.00, 512.00, 310.00, 94208.00, 57040.00, 3024.96, 154272.96
+1052, "Uriel, God of Fate", The Dismal Marsh, 19.00, Djinni's Mind Fogiron , 207.00, 387.00, 164.00, 80109.00, 33948.00, 21670.83, 135727.83
+1497, Harmony Angelchild, The Archer and Scroll, 11.00, Otherworldly Truesoul Orichalcum Of The East , 153.00, 636.00, 780.00, 97308.00, 119340.00, 23831.28, 240479.28
+1940, "Maglioneth, Lord of the Sun", Grove Farthing, 18.00, Spirits' Living Wordhammer Tin Of The Trees , 362.00, 533.00, 531.00, 192946.00, 192222.00, 69330.24, 454498.24
+2384, "Eumyan, Goddess of Law", Kada's Deep, 14.00, Incubi's Mirrorfog Iron Of The Ocean , 195.00, 22.00, 675.00, 4290.00, 131625.00, 19028.10, 154943.10
+2838, Lord Mystery, The Dread Hive of Illfang the Kobold Lord, 8.00, Negative Rockglitter Mercury Of Trolls , 189.00, 216.00, 497.00, 40824.00, 93933.00, 10780.56, 145537.56
+3297, Lord Mystery, The Black Barrow of Zago the Possessed, 23.00, Glowpearl Adamant Of Spirits , 100.00, 669.00, 534.00, 66900.00, 53400.00, 27669.00, 147969.00
+3763, "Selah, God of Destruction", Barad Kesa, 17.00, Violetdream Iron , 279.00, 948.00, 922.00, 264492.00, 257238.00, 88694.10, 610424.10
+4215, "Penur, Lord of the Sea", The Lazy Sage, 9.00, Starsmoke Bronze Of Life , 138.00, 618.00, 647.00, 85284.00, 89286.00, 15711.30, 190281.30
+4659, Gale Jackalguard, The Fortress of the Lich Queen, 6.00, Mistgold Of Men , 118.00, 459.00, 640.00, 54162.00, 75520.00, 7780.92, 137462.92

@@ -1,0 +1,11 @@
+432, Tiger Mistmidnight, Gawold Castle, 6.00, Sphinxes' Mistsoul Bronze Of The Past , 133.00, 694.00, 650.00, 92302.00, 86450.00, 10725.12, 189477.12
+876, Sunset Knightclaw, The Warrior and Flagon, 0.00, Golems' Stonesapphire Gold Of The Glacier , 239.00, 705.00, 952.00, 168495.00, 227528.00, 0.00, 396023.00
+1323, "Eumyan, Goddess of Law", The Lazy Sage, 9.00, Poison Adamant , 97.00, 952.00, 349.00, 92344.00, 33853.00, 11357.73, 137554.73
+1775, Seraphim Tsunami, Archscepter Borough, , , 184.00, 707.00, , 130088.00, 110768.00, , 260124.48
+-2206,"Azah, Goddess of Fate",The Warrior and Flagon,-0.00,Phantasmal Smokezephyr Mercury Of Men ,-289.00,-918.00,-965.00,-265302.00,-278885.00,-0.00,-544187.00
+2664, Song Runetomb, Lacot Stronghold, 7.00, Trolls' Mist Poisonplatinum Of The Twilight , 219.00, 990.00, 430.00, 216810.00, 94170.00, 21768.60, 332748.60
+3121, Lightning Brand, The Forsaken Delve of Lord Greywulf, 8.00, God-touched Faterainbow Orichalcum Of Spectres , 86.00, 43.00, 406.00, 3698.00, 34916.00, 3089.12, 41703.12
+3582, "Alik, Goddess of Trickery", Lamp Borough, 15.00, Unicorns' Fatal Magma Metal Of The Ocean , 197.00, 142.00, 749.00, 27974.00, 147553.00, 26329.05, 201856.05
+4044, Clash Lonedrake, Tradun Castle, 7.00, Sphinxes' Unknown Poisongold Of The Future , 191.00, 43.00, 998.00, 8213.00, 190618.00, 13918.17, 212749.17
+4487, Maverick Wind, Barad Kesa, 17.00, Planar Mudtin Of Trolls , 189.00, 817.00, 654.00, 154413.00, 123606.00, 47263.23, 325282.23
+4922, Sunrise Godwarlock, The Bastion of the Lich Tyrant, 10.00, Tritons' Time Stoneiron Of Legend , 114.00, 912.00, 866.00, 103968.00, 98724.00, 20269.20, 222961.20

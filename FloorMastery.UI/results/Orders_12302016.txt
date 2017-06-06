@@ -1,0 +1,22 @@
+127, "Lenwenye, Goddess of Travel", Barad Cune, 21.00, Planar Obsidian Mercury Of Wizards , 167.00, 707.00, 602.00, 118069.00, 100534.00, 45906.63, 264509.63
+385, Storm Squallmourner, North Grove Ward, 13.00, Mistgold Of Men , 262.00, 459.00, 640.00, 120258.00, 167680.00, 37431.94, 325369.94
+571, "Ahah, Goddess of Knowledge", The Forsaken Delve of Lord Greywulf, 8.00, Shadowy Adamant , 125.00, 585.00, 941.00, 73125.00, 117625.00, 15260.00, 206010.00
+824, "Avriel, God of Death", The Lost Crypts of Sorrows, 24.00, Mithril Of The Tropics , 159.00, 386.00, 319.00, 61374.00, 50721.00, 26902.80, 138997.80
+1015, "Maglioneth, Lord of the Sun", The Fortress of Akkun the Grim, 18.00, Muck Orichalcum Of Ogres , 276.00, 983.00, 395.00, 271308.00, 109020.00, 68459.04, 448787.04
+1274, Rose Anchor, The Dismal Marsh, 19.00, Mind Lead , 138.00, 143.00, 486.00, 19734.00, 67068.00, 16492.38, 103294.38
+1458, "Suriel, Lord of Animals", The Secret Catacombs of Ulfang the Black, 0.00, Violetstone Tin Of Death , 198.00, 246.00, 251.00, 48708.00, 49698.00, 0.00, 98406.00
+1723, Grave Mistseeker, The Vaults of the Shadow Emperor, 5.00, Starsmoke Bronze Of Life , 224.00, 618.00, 647.00, 138432.00, 144928.00, 14168.00, 297528.00
+1906, Dagger Reaper, Archscepter Borough, 8.00, Trolls' Mist Poisonplatinum Of The Twilight , 209.00, 990.00, 430.00, 206910.00, 89870.00, 23742.40, 320522.40
+2160, "Iran, Lord of Nightmares", Archring Borough, 0.00, Falserainbow Lead , 97.00, 92.00, 67.00, 8924.00, 6499.00, 0.00, 15423.00
+2345, "Avriel, God of Death", North Grove Ward, 13.00, Sirens' Rockgold , 136.00, 792.00, 901.00, 107712.00, 122536.00, 29932.24, 260180.24
+2615, Rouge Tombreaper, The Hunter and Rose, 2.00, Timeiron , 211.00, 537.00, 965.00, 113307.00, 203615.00, 6338.44, 323260.44
+2802, Shadow Tomblion, The Bastion of the Lich Tyrant, 10.00, Angels' Smoke Adamant Of The Mountains , 302.00, 694.00, 967.00, 209588.00, 292034.00, 50162.20, 551784.20
+3070, "Melcha, Goddess of Thieves", The Vaults of the Shadow Emperor, 5.00, Dragons' Poison Glitterflesh Steel Of The North , 225.00, 941.00, 559.00, 211725.00, 125775.00, 16875.00, 354375.00
+3257, Bane Veil, Archfane District, 18.00, Vampires' Hammer Emeraldmetal , 129.00, 191.00, 47.00, 24639.00, 6063.00, 5526.36, 36228.36
+3529, "Sielach, God of Fate", The Archer and Blade, 18.00, Mithril Of The Tropics , 351.00, 386.00, 319.00, 135486.00, 111969.00, 44541.90, 291996.90
+3721, Fate Seeker, The Tower of Sabiesu the Awesome, 18.00, Phantasmal Plague Adamant , 163.00, 831.00, 728.00, 135453.00, 118664.00, 45741.06, 299858.06
+3996, Dagger Reaper, The Forsaken Sepulcher of Sorrows, 12.00, Lunar Bronze , 169.00, 981.00, 558.00, 165789.00, 94302.00, 31210.92, 291301.92
+4180, "Selik, God of Death", The Scoundrel and Flask, 23.00, Golems' Stonesapphire Gold Of The Glacier , 167.00, 705.00, 952.00, 117735.00, 158984.00, 63645.37, 340364.37
+4436, Lightning Brand, The Cuitamba Jungle, 22.00, Glowpearl Adamant Of Spirits , 115.00, 669.00, 534.00, 76935.00, 61410.00, 30435.90, 168780.90
+4621, "Ingwenel, God of War", Archtemple District, 4.00, Grayplatinum , 157.00, 45.00, 526.00, 7065.00, 82582.00, 3585.88, 93232.88
+4874, , The Forsaken Sepulcher of Sorrows, 12.00, Primordial Mud Orichalcum , 257.00, 328.00, 627.00, , 161139.00, 29452.20, 

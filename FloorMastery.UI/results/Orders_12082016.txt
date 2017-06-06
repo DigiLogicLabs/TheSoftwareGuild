@@ -1,0 +1,11 @@
+143, "Selik, God of Death", The Bastion of the Lich Tyrant, 10.00, Phantasmal Lead , 168.00, 88.00, 927.00, 14784.00, 155736.00, 17052.00, 187572.00
+592, "Ahah, Goddess of Knowledge", The Bastion of Gothmog of Udun, 18.00, Muck Orichalcum Of Ogres , 59.00, 983.00, 395.00, 57997.00, 23305.00, 14634.36, 95936.36
+1033, Tarot Dawn, Peley Keep, 24.00, Litches' Fatal Mithril Of The Past , 251.00, 654.00, 602.00, 164154.00, 151102.00, 75661.44, 390917.44
+1478, "Lionare, God of the Lost", The Pirate's Pipe, 14.00, Spirits' Living Wordhammer Tin Of The Trees , 42.00, 533.00, 531.00, 22386.00, 22302.00, 6256.32, 50944.32
+ 1923,    "Finarfin, God of Protection",      The Dark Caverns of Woe,   3.00,     Ghouls' Imperial Soulzephyr Mithril Of The Seas ,      322.00,      313.00,     673.00,    100786.00,     216706.00,    9524.76,      327016.76
+2364, "Gono, Goddess of the Earth", The Lewd King, 17.00, Emerald Orichalcum , 214.00, 711.00, 570.00, 152154.00, 121980.00, 46602.78, 320736.78
+2818, Sunrise Godwarlock, Gena's Hold, 8.00, Fleshshock Mercury , 174.00, 667.00, 852.00, 116058.00, 148248.00, 21144.48, 285450.48
+-3277,"Addon, Lord of Death",Bergfison's Deep,-18.00,Muck Orichalcum Of Ogres ,-318.00,-983.00,-395.00,-312594.00,-125610.00,-78876.72,-517080.72
+3743, Rune Rougehate, Ring District, 23.00, Rocklava Mithril Of Revenants , 149.00, 169.00, 287.00, 25181.00, 42763.00, 15627.12, 83571.12
+.4198,Dawn Darkzealot,Lacot Stronghold,.7.00,Ghouls' Imperial Soulzephyr Mithril Of The Seas ,.248.00,.313.00,.673.00,.77624.00,.166904.00,.17116.96,.261644.96
+4641, "Penur, Lord of the Sea", Mahyrst Keep, 18.00, Icy Shock Silver , 198.00, 102.00, 540.00, 20196.00, 106920.00, 22880.88, 149996.88

@@ -1,0 +1,11 @@
+192, Dawn Darkzealot, The Fortress of Akkun the Grim, 18.00, Ensorceled Gold Of The Dawn , 57.00, 512.00, 310.00, 29184.00, 17670.00, 8433.72, 55287.72
+644, Gale Jackalguard, The Tower of Aces the Accursed, 3.00, Incubi's Mirrorfog Iron Of The Ocean , 284.00, 22.00, 675.00, 6248.00, 191700.00, 5938.44, 203886.44
+1082, Grave Mistseeker, The Pirate's Pipe, 14.00, Evilsilver , 302.00, 814.00, 264.00, 245828.00, 79728.00, 45577.84, 371133.84
+1533, "Lenwenye, Goddess of Travel", The Secret Catacombs of Ulfang the Black, 0.00, Plague Tin , 81.00, 806.00, 444.00, 65286.00, 35964.00, 0.00, 101250.00
+1969, Seraph Jester, Fellfen Keep, 11.00, Goddesses' Spectral Poison Steel , 252.00, 455.00, 483.00, 114660.00, 121716.00, 26001.36, 262377.36
+2418, Song Runetomb, The Fortress of the Lich Queen, 6.00, Starlight Pearldream Bronze , 250.00, 441.00, 906.00, 110250.00, 226500.00, 20205.00, 356955.00
+2875, "Maglioneth, Lord of the Sun", The Scoundrel and Flask, 23.00, Negative Rockglitter Mercury Of Trolls , 129.00, 216.00, 497.00, 27864.00, 64113.00, 21154.71, 113131.71
+3330, "Ingwenel, God of War", The Citadel of Tattena the Sinister, 23.00, Legendary Mithril Of The Moon , 293.00, 281.00, 801.00, 82333.00, 234693.00, 72915.98, 389941.983330, "Ingwenel, God of War", The Citadel of Tattena the Sinister, 23.00, Legendary Mithril Of The Moon , 293.00, 281.00, 801.00, 82333.00, 234693.00, 72915.98, 389941.98
+3798, Bedlam Spiritraven, Gawold Castle, 6.00, Negative Mercury , 110.00, 278.00, 408.00, 30580.00, 44880.00, 4527.60, 79987.60
+4249, Sunrise Godwarlock, Unicorn's Ward, 1.00, Foulopal Copper Of The Skies , 365.00, 170.00, 101.00, 62050.00, 36865.00, 989.15, 99904.15
+4689, "Nelalwe, Lady of Fire", The Bloody Wand, 2.00, Lycanthropes' Gold , 168.00, 213.00, 171.00, 35784.00, 28728.00, 1290.24, 65802.24

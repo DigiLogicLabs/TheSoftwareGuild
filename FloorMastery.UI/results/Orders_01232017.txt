@@ -1,0 +1,11 @@
+104, Cult Godseeker, The Fortress of Gama, 5.00, Goddesses' Spectral Poison Steel , 272.00, 455.00, 483.00, 123760.00, 131376.00, 12756.80, 267892.80
+550, Rune Rougehate, The Secret Catacombs of Ulfang the Black, 0.00, Starlight Pearldream Bronze , 103.00, 441.00, 906.00, 45423.00, 93318.00, 0.00, 138741.00
+994, "Avriel, God of Death", The Demon and Toad, 3.00, Plague Tin , 71.00, 806.00, 444.00, 57226.00, 31524.00, 2662.50, 91412.50
+1438, Flora Amberslayer, The Forsaken Sepulcher of Sorrows, 12.00, Nymphs' Luminous Rotmercury Of The Skies , 178.00, 453.00, 202.00, 80634.00, 35956.00, 13990.80, 130580.80
+1887, Tiger Mistmidnight, Pawic Keep, 0.00, Unknown Fatelightning Steel Of The Glacier , 230.00, 837.00, 700.00, 192510.00, 161000.00, 0.00, 353510.00
+2322, Harmony Angelchild, The Forsaken Sepulcher of Sorrows, 12.00, Greenlead , 61.00, 518.00, 166.00, 31598.00, 10126.00, 5006.88, 46730.88
+2780, Lightning Brand, North Arcanist's Farthing, 6.00, Greenlead , 213.00, 518.00, 166.00, 110334.00, 35358.00, 8741.52, 154433.52
+3239, Jericho Wolf, Barad Cune, 21.00, Foul Ice Bronze Of Life , 254.00, 168.00, 97.00, 42672.00, 24638.00, 14135.10, 81445.10
+1,Maverick Wind,The Tower of Aces the Accursed,3.00,Magic Adamant ,137.00,746.00,526.00,102202.00,72062.00,5227.92,179491.92
+4159, Harmony Angelchild, The Grey Plains, 3.00, Planar Obsidian Mercury Of Wizards , 213.00, 707.00, 602.00, 150591.00, 128226.00, 8364.51, 287181.51
+4600, "Ariel, God of Luck", Gifeld Castle, 16.00, Unknowable Mindsilver , 177.00, 578.00, 938.00, 102306.00, 166026.00, 42933.12, 311265.12

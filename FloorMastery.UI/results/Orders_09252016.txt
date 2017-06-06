@@ -1,0 +1,11 @@
+209, Lance Knightseraph, The Vaults of the Shadow Emperor, 5.00, Unknowable Mindsilver , 360.00, 578.00, 938.00, 208080.00, 337680.00, 27288.00, 573048.00
+658, "Iran, Lord of Nightmares", Noble's Village, 5.00, Unknowable Mindsilver , 331.00, 578.00, 938.00, 191318.00, 310478.00, 25089.80, 526885.80
+2,Magus Felldrake,Unicorn's Ward,1.00,Forgotten Mithril ,256.00,793.00,940.00,203008.00,240640.00,4436.48,448084.48
+1549, Zeal Bladewitch, The Grey Plains, 3.00, Litches' Fatal Mithril Of The Past , 273.00, 654.00, 602.00, 178542.00, 164346.00, 10286.64, 353174.64
+1985, Gale Jackalguard, Weke Tower, 23.00, Stone Soulsteel Of The Skies , 149.00, 493.00, 872.00, 73457.00, 129928.00, 46778.55, 250163.55
+2433, Zeal Bladewitch, Shainan's Hold, 15.00, Djinni's Evil Sandobsidian Steel Of The Future , 116.00, 319.00, 845.00, 37004.00, 98020.00, 20253.60, 155277.60
+2890, "Selik, God of Death", Archtemple District, 4.00, Phantasmal Plague Adamant , 349.00, 831.00, 728.00, 290019.00, 254072.00, 21763.64, 565854.64
+3346, Storm Seraphheart, The Lost Sanctum of Woe, 12.00, Primordial False Gold , 218.00, 354.00, 602.00, 77172.00, 131236.00, 25008.96, 233416.96
+3812, Shadow Gust, The Dancing Minstrel, 14.00, Trolls' Mist Poisonplatinum Of The Twilight , 40.00, 990.00, 430.00, 39600.00, 17200.00, 7952.00, 64752.00
+4265, "Prusu, God of Love", The Chuallanto Jungle, 1.00, Venom Jewelmetal Of The Desert , 171.00, 21.00, 455.00, 3591.00, 77805.00, 813.96, 82209.96
+4704, Lord Mystery, The Pirate's Pipe, 14.00, Primordial Mud Orichalcum , 181.00, 328.00, 627.00, 59368.00, 113487.00, 24199.70, 197054.70

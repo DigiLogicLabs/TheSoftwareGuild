@@ -1,0 +1,11 @@
+187, "Maglioneth, Lord of the Sun", The Flying Witch, 13.00, Phantasmal Plague Adamant , 73.00, 831.00, 728.00, 60663.00, 53144.00, 14794.91, 128601.91
+3,"Nelalwe, Lady of Fire",The Scoundrel and Flask,23.00,Ghostly Magic Adamant ,95.00,499.00,881.00,47405.00,83695.00,30153.00,161253.00
+1077, Lord Mystery, Gena's Hold, 8.00, Golems' Stonesapphire Gold Of The Glacier , 243.00, 705.00, 952.00, 171315.00, 231336.00, 32212.08, 434863.08
+1529, Sunrise Godwarlock, The Scoundrel and Flask, 23.00, Forgotten Mithril , 125.00, 793.00, 940.00, 99125.00, 117500.00, 49823.75, 266448.75
+1965, Dagger Reaper, Moor Village, 0.00, Unicorns' Evil Mithril , 217.00, 334.00, 705.00, 72478.00, 152985.00, 0.00, 225463.00
+2414, "Ariel, God of Luck", The Scoundrel and Flask, 23.00, Shadow Metal , 255.00, 881.00, 254.00, 224655.00, 64770.00, 66567.75, 355992.75
+2870, Maverick Wind, Barad Cune, 21.00, Venom Timegold Of Dwarves , 339.00, 614.00, 432.00, 208146.00, 146448.00, 74464.74, 429058.74
+3325, "Lenwenye, Goddess of Travel", Lordsgate Farthing, 17.00, Devils' Falserot Silver , 356.00, 755.00, 915.00, 268780.00, 325740.00, 101068.40, 695588.40
+3793, "Selah, God of Destruction", The Lazy Sage, 9.00, Trolls' Rubymercury Of The Sunset , 135.00, 146.00, 782.00, 19710.00, 105570.00, 11275.20, 136555.20
+4244, Bane Veil, The Glano Forest, 22.00, Sirens' Rockgold , 259.00, 792.00, 901.00, 205128.00, 233359.00, 96467.14, 534954.14
+4686, Cult Godseeker, The Tower of Aramum, 9.00, Zephyr Iron , 133.00, 909.00, 41.00, 120897.00, 5453.00, 11371.50, 137721.50

@@ -1,0 +1,12 @@
+61, Rose Anchor, The Shadow Downs, 2.00, Unknown Fatelightning Steel Of The Glacier , 98.00, 837.00, 700.00, 82026.00, 68600.00, 3012.52, 153638.52
+505, Sephiroth Drakecaster, The Tower of Aces the Accursed, 3.00, Angels' Smoke Adamant Of The Mountains , 216.00, 694.00, 967.00, 149904.00, 208872.00, 10763.28, 369539.28
+950, "Gono, Goddess of the Earth", The Fen of the Necromancer, 15.00, Rocklava Mithril Of Revenants , 218.00, 169.00, 287.00, 36842.00, 62566.00, 14911.20, 114319.20
+1397, Cult Godseeker, Kada's Deep, 14.00, Stone Soulsteel Of The Skies , 172.00, 493.00, 872.00, 84796.00, 149984.00, 32869.20, 267649.20
+1841, Lightning Brand, The Lewd King, 17.00, Starlight Pearldream Bronze , 172.00, 441.00, 906.00, 75852.00, 155832.00, 39386.28, 271070.28
+2275, "Finarfin, God of Protection", The Greedy Wench, 8.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 136.00, 313.00, 673.00, 42568.00, 91528.00, 10727.68, 144823.68
+2734, "Gadriel, God of Resurrection", Archfane District, 18.00, Lunar Bronze , 302.00, 981.00, 558.00, 296262.00, 168516.00, 83660.04, 548438.04
+3194, Wind Dire, Khali's Delve, 7.00, Glowpearl Adamant Of Spirits , 83.00, 669.00, 534.00, 55527.00, 44322.00, 6989.43, 106838.43
+3653, Flora Amberslayer, Eved Castle, 2.00, Heavenly Dreamsilver Of The Night , 263.00, 328.00, 692.00, 86264.00, 181996.00, 5365.20, 273625.20
+4112, "Addon, Lord of Death", The Black Barrow of Zago the Possessed, 23.00, Ensorceled Gold Of The Dawn , 317.00, 512.00, 310.00, 162304.00, 98270.00, 59932.02, 320506.024112, "Addon, Lord of Death", The Black Barrow of Zago the Possessed, 23.00, Ensorceled Gold Of The Dawn , 317.00, 512.00, 310.00, 162304.00, 98270.00, 59932.02, 320506.02
+4554, "Zepul, Lady of Vengeance", The Fortress of Akkun the Grim, 18.00, Hell Mercury Of The East , 22.00, 122.00, 838.00, 2684.00, 18436.00, 3801.60, 24921.60
+4997, "Melcha, Goddess of Thieves", North Arcanist's Farthing, 6.00, Starsmoke Bronze Of Life , 37.00, , 647.00, , , 2808.30, 49613.30

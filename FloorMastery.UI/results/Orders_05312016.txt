@@ -1,0 +1,11 @@
+312, Seraph Jester, The Fortress of Akkun the Grim, 18.00, Venom Jewelmetal Of The Desert , 251.00, 21.00, 455.00, 5271.00, 114205.00, 21505.68, 140981.68
+758, Tiger Mistmidnight, Archscepter Borough, 8.00, Rot Silver Of The Past , 191.00, 267.00, 280.00, 50997.00, 53480.00, 8358.16, 112835.16
+
+1653, "Iran, Lord of Nightmares", The Drunken Thief, 4.00, Fleshshock Mercury , 79.00, 667.00, 852.00, 52693.00, 67308.00, 4800.04, 124801.04
+2089, Song Runetomb, Fellfen Keep, 11.00, Nymphs' Luminous Rotmercury Of The Skies , 153.00, 453.00, 202.00, 69309.00, 30906.00, 11023.65, 111238.65
+2542, Valentine Lawslayer, The Khazahol Crags, 22.00, Icy Shock Silver , 256.00, 102.00, 540.00, 26112.00, 138240.00, 36157.44, 200509.44
+2999, "Lionare, God of the Lost", The Bloody Wand, 2.00, Sprites' Transcendent Mud Lead Of The South , 102.00, 419.00, 260.00, 42738.00, 26520.00, 1385.16, 70643.16
+3455, Maverick Wind, The Cuitamba Jungle, 22.00, Stone Soulsteel Of The Skies , 240.00, 493.00, 872.00, 118320.00, 209280.00, 72072.00, 399672.00
+3922, Shadow Gust, The Secret Shrine of the Gargoyle Count, 24.00, Ensorceled Sandmetal Of Spirits , 103.00, 671.00, 431.00, 69113.00, 44393.00, 27241.44, 140747.44
+4366, Fate Seeker, The Secret Shrine of the Gargoyle Count, 24.00, Ghostly Magic Adamant , 120.00, 499.00, 881.00, 59880.00, 105720.00, 39744.00, 205344.00
+4809, "Gadriel, God of Resurrection", The Dungeon of Merciless Woe, 23.00, Ghostly Magic Adamant , 226.00, 499.00, 881.00, 112774.00, 199106.00, 71732.40, 383612.40

@@ -1,0 +1,11 @@
+233, Sunset Knightclaw, Tower Farthing, 2.00, Golems' Stonesapphire Gold Of The Glacier , 281.00, 705.00, 952.00, 198105.00, 267512.00, 9312.34, 474929.34
+684, "Ahah, Goddess of Knowledge", Palace Farthing, 12.00, God-touched Faterainbow Orichalcum Of Spectres , 305.00, 43.00, 406.00, 13115.00, 123830.00, 16433.40, 153378.40
+1125, "Prusu, God of Love", The Tower of Sheshbazzu, 15.00, Shadow Metal , 172.00, 881.00, 254.00, 151532.00, 43688.00, 29283.00, 224503.00
+1574, Dawn Darkzealot, Peley Keep, 24.00, Phantasmal Lead , 272.00, 88.00, 927.00, 23936.00, 252144.00, 66259.20, 342339.20
+2009, "Addon, Lord of Death", The Secret Shrine of the Gargoyle Count, 24.00, Magicians' Legendary Poison Metal , 271.00, 768.00, 160.00, 208128.00, 43360.00, 60357.12, 311845.12
+2459, Claw Mist, The Wizard's House, 7.00, Sphinxes' Mistsoul Bronze Of The Past , 322.00, 694.00, 650.00, 223468.00, 209300.00, 30293.76, 463061.762459, Claw Mist, The Wizard's House, 7.00, Sphinxes' Mistsoul Bronze Of The Past , 322.00, 694.00, 650.00, 223468.00, 209300.00, 30293.76, 463061.76
+2914, "Melcha, Goddess of Thieves", Khali's Delve, 7.00, God-touched Greengem Platinum , 51.00, 501.00, 796.00, 25551.00, 40596.00, 4630.29, 70777.29
+3370, "Avriel, God of Death", Bergfison's Deep, 18.00, Stone Soulsteel Of The Skies , 392.00, 493.00, 872.00, 193256.00, 341824.00, 96314.40, 631394.40
+3836, "Byzou, God of Animals", Tower Farthing, 2.00, Rainbowglitter Tin , 230.00, 496.00, 595.00, 114080.00, 136850.00, 5018.60, 255948.60
+4286, Dawn Darkzealot, Reheath Stronghold, 11.00, Unicorns' Evil Mithril , 194.00, 334.00, 705.00, 64796.00, 136770.00, 22172.26, 223738.26
+4727, Song Runetomb, The Secret Shrine of the Gargoyle Count, 24.00, Plague Tin , 136.00, 806.00, 444.00, 109616.00, 60384.00, 40800.00, 210800.00

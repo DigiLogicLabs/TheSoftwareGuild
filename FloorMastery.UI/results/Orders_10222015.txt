@@ -1,0 +1,11 @@
+408, Sunrise Godwarlock, The Citadel of Tattena the Sinister, 23.00, Nymphs' Luminous Rotmercury Of The Skies , 379.00, 453.00, 202.00, 171687.00, 76558.00, 57096.35, 305341.35
+848, "Selah, God of Destruction", The Vaults of the Shadow Emperor, 5.00, Incubi's Glittering Tin Of The Future , 120.00, 247.00, 493.00, 29640.00, 59160.00, 4440.00, 93240.00
+1297, Grave Mistseeker, The Citadel of Cheno, 0.00, Magicians' Legendary Poison Metal , 187.00, 768.00, 160.00, 143616.00, 29920.00, 0.00, 173536.00
+1749, "Gadriel, God of Resurrection", The Bastion of Sthasu the Gruesome, 0.00, White Platinum , 97.00, 795.00, 200.00, 77115.00, 19400.00, 0.00, 96515.00
+2183, "Nelalwe, Lady of Fire", The Bastion of Barbos, 18.00, Foul Ice Bronze Of Life , 201.00, 168.00, 97.00, 33768.00, 19497.00, 9587.70, 62852.70
+2638, Shadow Tomblion, The Fortress of Akkun the Grim, 18.00, Unknown Fatelightning Steel Of The Glacier , 101.00, 837.00, 700.00, 84537.00, 70700.00, 27942.66, 183179.66
+3095, Law Lionwatcher, Weke Tower, 23.00, Fog Lavaplatinum Of Life , 240.00, 967.00, 333.00, 232080.00, 79920.00, 71760.00, 383760.00
+3554, Law Lionwatcher, The Grey Plains, 3.00, Violetdream Iron , 252.00, 948.00, 922.00, 238896.00, 232344.00, 14137.20, 485377.20
+4019, Magus Felldrake, The Temple of Merciless Necromancy, 1.00, Unknowable Mindsilver , 250.00, 578.00, 938.00, 144500.00, 234500.00, 3790.00, 382790.00
+4459, Lightning Brand, The Forsaken Delve of Lord Greywulf, 8.00, Djinni's Evil Sandobsidian Steel Of The Future , 236.00, 319.00, 845.00, 75284.00, 199420.00, 21976.32, 296680.32
+4896, Fate Seeker, Grove Farthing, 18.00, Phantasmal Lead , 316.00, 88.00, 927.00, 27808.00, 292932.00, 57733.20, 378473.20

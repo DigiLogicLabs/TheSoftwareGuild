@@ -1,0 +1,12 @@
+63, Law Lionwatcher, The Citadel of Alammius, 24.00, Venom Jewelmetal Of The Desert , 37.00, 21.00, 455.00, 777.00, 16835.00, 4226.88, 21838.8863, Law Lionwatcher, The Citadel of Alammius, 24.00, Venom Jewelmetal Of The Desert , 37.00, 21.00, 455.00, 777.00, 16835.00, 4226.88, 21838.88
+508, "Alik, Goddess of Trickery", The Vaults of the Shadow Emperor, 5.00, Phantasmal Smokezephyr Mercury Of Men , 266.00, 918.00, 965.00, 244188.00, 256690.00, 25043.90, 525921.90
+953, Fate Seeker, The Cracked Chalice, 22.00, Djinni's Mind Fogiron , 198.00, 387.00, 164.00, 76626.00, 32472.00, 24001.56, 133099.56
+1400, Bedlam Spiritraven, Grove Farthing, 18.00, Lycanthropes' Gold , 370.00, 213.00, 171.00, 78810.00, 63270.00, 25574.40, 167654.40
+1844, Dagger Reaper, North Arcanist's Farthing, 6.00, Transcendent Gold , 202.00, 39.00, 451.00, 7878.00, 91102.00, 5938.80, 104918.80
+2278, "Gadriel, God of Resurrection", Noble's Village, 5.00, Heavenly Dreamsilver Of The Night , 223.00, 328.00, 692.00, 73144.00, 154316.00, 11373.00, 238833.00
+2736, Storm Seraphheart, The Bastion of Sthasu the Gruesome, 0.00, Violetstone Tin Of Death , 183.00, 246.00, 251.00, 45018.00, 45933.00, 0.00, 90951.00
+3197, Wind Dire, Lordsgate Farthing, 17.00, Starsmoke Bronze Of Life , 314.00, 618.00, 647.00, 194052.00, 203158.00, 67525.70, 464735.70
+3656, Law Lionwatcher, The Lost Sanctum of Woe, 12.00, Spectres' Shadowy Terrorglow Adamant Of Life , 37.00, 944.00, 533.00, 34928.00, 19721.00, 6557.88, 61206.88
+4115, "Ariel, God of Luck", The Black Barrow of Zago the Possessed, 23.00, Rocklava Mithril Of Revenants , 129.00, 169.00, 287.00, 21801.00, 37023.00, 13529.52, 72353.52
+4557, Bedlam Spiritraven, The Dungeon of Merciless Woe, 23.00, Magicians' Legendary Poison Metal , 59.00, 768.00, 160.00, 45312.00, 9440.00, 12592.96, 67344.96
+5000, "Iran, Lord of Nightmares", Dysley Stronghold, 5.00, Fairies' Supreme Mistsmoke Lead Of The Future , 131.00, 489.00, 658.00, 64059.00, 86198.00, 7512.85, 157769.85

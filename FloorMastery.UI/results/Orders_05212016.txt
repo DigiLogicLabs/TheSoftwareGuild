@@ -1,0 +1,11 @@
+321, "Sielach, God of Fate", North Arcanist's Farthing, 6.00, God-touched Greengem Platinum , 179.00, 501.00, 796.00, 89679.00, 142484.00, 13929.78, 246092.78
+765, "Gono, Goddess of the Earth", The Dungeon of Merciless Woe, 23.00, Tritons' Time Stoneiron Of Legend , 302.00, 912.00, 866.00, 275424.00, 261532.00, 123499.88, 660455.88
+1213, Sephiroth Drakecaster, The Fen of the Necromancer, 15.00, Toxic Mistlead Of The Past , 99.00, 788.00, 986.00, 78012.00, 97614.00, 26343.90, 201969.90
+1660, Cult Godseeker, Tradun Castle, 7.00, Unspeakable Rotsoul Mithril Of Souls , 334.00, 255.00, 25.00, 85170.00, 8350.00, 6546.40, 100066.40
+2099, "Lionare, God of the Lost", The Secret Catacombs of Ulfang the Black, 0.00, Lycanthropes' Gold , 160.00, 213.00, 171.00, 34080.00, 27360.00, 0.00, 61440.00
+2550, Sunrise Godwarlock, The Hunter and Rose, 2.00, Phantasmal Lead , 210.00, 88.00, 927.00, 18480.00, 194670.00, 4263.00, 217413.00
+3007, Lance Knightseraph, Reyny Keep, 14.00, Unspeakable Rotsoul Mithril Of Souls , 267.00, 255.00, 25.00, 68085.00, 6675.00, 10466.40, 85226.40
+3465, Lightning Brand, The Hunter and Rose, 2.00, Negative Rockglitter Mercury Of Trolls , 119.00, 216.00, 497.00, 25704.00, 59143.00, 1696.94, 86543.94
+3930, "Byzou, God of Animals", Ring District, 23.00, Rainbowglitter Tin , 235.00, 496.00, 595.00, 116560.00, 139825.00, 58968.55, 315353.55
+4375, Grave Mistseeker, The Barrow of Malefic Ages, 13.00, Rot Silver Of The Past , 237.00, 267.00, 280.00, 63279.00, 66360.00, 16853.07, 146492.07
+4818, Jericho Wolf, Reyny Keep, 14.00, Rot Silver Of The Past , 120.00, 267.00, 280.00, 32040.00, 33600.00, 9189.60, 74829.60

@@ -1,0 +1,11 @@
+436, Lord Mystery, The Dark Caverns of Woe, 3.00, Spectres' Shadowy Terrorglow Adamant Of Life , 382.00, 944.00, 533.00, 360608.00, 203606.00, 16926.42, 581140.42
+880, "Nelalwe, Lady of Fire", Weke Tower, 23.00, Djinni's Evil Sandobsidian Steel Of The Future , 350.00, 319.00, 845.00, 111650.00, 295750.00, 93702.00, 501102.00
+1327, "Finarfin, God of Protection", Kada's Deep, 14.00, Golems' Stonesapphire Gold Of The Glacier , 142.00, 705.00, 952.00, 100110.00, 135184.00, 32941.16, 268235.16
+1778, "Azah, Goddess of Fate", Bifar's Deep, 3.00, Otherworldly Mirror Orichalcum , 208.00, 849.00, 283.00, 176592.00, 58864.00, 7063.68, 242519.68
+   2209,      Tarot Dawn,  The Fortress of the Lich Queen,    6.00,          Hell Mercury Of The East ,      124.00,   122.00,   838.00,      15128.00,    103912.00,      7142.40,       126182.40
+2668, Shadow Gust, The Citadel of Tattena the Sinister, 23.00, Mithril Of Legend , 228.00, 382.00, 657.00, 87096.00, 149796.00, 54485.16, 291377.16
+3125, Bedlam Spiritraven, The Lewd King, 17.00, Yellow Mistearth Copper , 185.00, 408.00, 996.00, 75480.00, 184260.00, 44155.80, 303895.80
+3585, Cult Godseeker, The Warrior and Flagon, 0.00, Mithril Of Legend , 250.00, 382.00, 657.00, 95500.00, 164250.00, 0.00, 259750.00
+4047, "Alas, Lord of Plague", Lacot Stronghold, 7.00, Lunar Bronze , 17.00, 981.00, 558.00, 16677.00, 9486.00, 1831.41, 27994.41
+4491, Fate Seeker, Shainan's Hold, 15.00, Rot Silver Of The Past , 184.00, 267.00, 280.00, 49128.00, 51520.00, 15097.20, 115745.20
+4926, "Sielach, God of Fate", The Drunken Thief, 4.00, Unholy Poison Copper Of The Mountains , 190.00, 439.00, 495.00, 83410.00, 94050.00, 7098.40, 184558.40

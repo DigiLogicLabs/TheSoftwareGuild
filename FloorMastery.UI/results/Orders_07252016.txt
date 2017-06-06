@@ -1,0 +1,11 @@
+264, Fate Seeker, Grori's Deep, 4.00, Angels' Smoke Adamant Of The Mountains , 33.00, 694.00, 967.00, 22902.00, 31911.00, 2192.52, 57005.52
+709, "Azah, Goddess of Fate", The Forsaken Tomb of Devastation, 12.00, Negative Mercury , 127.00, 278.00, 408.00, 35306.00, 51816.00, 10454.64, 97576.64
+1154, Flora Amberslayer, The Secret Shrine of the Gargoyle Count, 24.00, Icy Shock Silver , 314.00, 102.00, 540.00, 32028.00, 169560.00, 48381.12, 249969.121154, Flora Amberslayer, The Secret Shrine of the Gargoyle Count, 24.00, Icy Shock Silver , 314.00, 102.00, 540.00, 32028.00, 169560.00, 48381.12, 249969.12
+1606, Maverick Wind, The Black Barrow of Zago the Possessed, 23.00, Phantasmal Plague Adamant , 122.00, 831.00, 728.00, 101382.00, 88816.00, 43745.54, 233943.54
+2039, "Sielach, God of Fate", Gifeld Castle, 16.00, Evilsilver , 204.00, 814.00, 264.00, 166056.00, 53856.00, 35185.92, 255097.92
+-2492,"Selik, God of Death",The Shadow Downs,-2.00,Foulopal Copper Of The Skies ,-61.00,-170.00,-101.00,-10370.00,-6161.00,-330.62,-16861.62
+2946, Sunset Knightclaw, The Glano Forest, 22.00, Transcendent Gold , 212.00, 39.00, 451.00, 8268.00, 95612.00, 22853.60, 126733.60
+3403, Valentine Lawslayer, Castle Village, 17.00, Planar Mudtin Of Trolls , 86.00, 817.00, 654.00, 70262.00, 56244.00, 21506.02, 148012.02
+3871, "Prusu, God of Love", Gena's Hold, 8.00, Lycanthropes' Gold , 282.00, 213.00, 171.00, 60066.00, 48222.00, 8663.04, 116951.04
+4317, "Zepul, Lady of Vengeance", The Greedy Wench, 8.00, Stone Soulsteel Of The Skies , 173.00, 493.00, 872.00, 85289.00, 150856.00, 18891.60, 255036.60
+4762, Shadow Gust, The Barrow of Terrible Horror, 24.00, Lycanthropes' Gold , 173.00, 213.00, 171.00, 36849.00, 29583.00, 15943.68, 82375.68

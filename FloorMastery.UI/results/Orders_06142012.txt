@@ -1,0 +1,12 @@
+42, Shadow Gust, The Archer and Blade, 18.00, White Platinum , 79.00, 795.00, 200.00, 62805.00, 15800.00, 14148.90, 92753.90
+486, "Lenwenye, Goddess of Travel", The Warrior and Flagon, 0.00, Ensorceled Gold Of The Dawn , 152.00, 512.00, 310.00, 77824.00, 47120.00, 0.00, 124944.00
+929, "Nelalwe, Lady of Fire", The Tower of Aces the Accursed, 3.00, Thunderbirds' Transcendent Dreamiron , 108.00, 989.00, 65.00, 106812.00, 7020.00, 3414.96, 117246.96
+1376, Lord Mystery, The Dismal Marsh, 19.00, Sirens' Rockgold , 263.00, 792.00, 901.00, 208296.00, 236963.00, 84599.21, 529858.21
+1824, , , 23.00, , 211.00, 918.00, 965.00, , 203615.00, 91381.99, 488694.99
+2258, Shadow Tomblion, Lordsgate Farthing, 17.00, Lunar Bronze , 276.00, 981.00, 558.00, 270756.00, 154008.00, 72209.88, 496973.88
+2715, Jericho Wolf, Grori's Deep, 4.00, Trolls' Rubymercury Of The Sunset , 228.00, 146.00, 782.00, 33288.00, 178296.00, 8463.36, 220047.36
+3176, Harmony Angelchild, The Broken Shield, 7.00, Rocklava Mithril Of Revenants , 284.00, 169.00, 287.00, 47996.00, 81508.00, 9065.28, 138569.28
+3633, "Selik, God of Death", The Shadow Downs, 2.00, Negative Rockglitter Mercury Of Trolls , 179.00, 216.00, 497.00, 38664.00, 88963.00, 2552.54, 130179.543633, "Selik, God of Death", The Shadow Downs, 2.00, Negative Rockglitter Mercury Of Trolls , 179.00, 216.00, 497.00, 38664.00, 88963.00, 2552.54, 130179.54
+   4093,  Bedlam Spiritraven,    The Vaults of the Shadow Emperor,      5.00,          Emerald Orichalcum ,      384.00,     711.00,     570.00,        273024.00,    218880.00,      24595.20,      516499.20
+4537, Sunset Knightclaw, Reyny Keep, 14.00, Tin Of The Tundra , 89.00, 479.00, 294.00, 42631.00, 26166.00, 9631.58, 78428.58
+4977, "Ahah, Goddess of Knowledge", Kewold Stronghold, 23.00, Nymphs' Luminous Rotmercury Of The Skies , 207.00, 453.00, 202.00, 93771.00, 41814.00, 31184.55, 166769.55

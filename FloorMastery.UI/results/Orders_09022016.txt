@@ -1,0 +1,11 @@
+229, "Avriel, God of Death", The Archer and Scroll, 11.00, Warlocks' Timerot Mithril , 117.00, 368.00, 575.00, 43056.00, 67275.00, 12136.41, 122467.41
+681, Fate Seeker, The Forsaken Hive of Galima the Mighty, 4.00, Vampires' Fang Emeraldsilver , 51.00, 876.00, 971.00, 44676.00, 49521.00, 3767.88, 97964.88
+1121, Flora Amberslayer, Eved Castle, 2.00, Shadowy Adamant , 281.00, 585.00, 941.00, 164385.00, 264421.00, 8576.12, 437382.12
+1570, Fate Ivycaster, The Dungeon of Dismal Terror, 22.00, Ensorceled Sandmetal Of Spirits , 191.00, 671.00, 431.00, 128161.00, 82321.00, 46306.04, 256788.04
+2005, "Selah, God of Destruction", The Beggar and Cask, 16.00, Warlocks' Timerot Mithril , 237.00, 368.00, 575.00, 87216.00, 136275.00, 35758.56, 259249.56
+2455, Rune Rougehate, The Citadel of Tattena the Sinister, 23.00, Thunderbirds' Transcendent Dreamiron , 285.00, 989.00, 65.00, 281865.00, 18525.00, 69089.70, 369479.70
+2910, "Maeglodor, God of Thieves", The Greedy Wench, 8.00, Grayplatinum , 231.00, 45.00, 526.00, 10395.00, 121506.00, 10552.08, 142453.08
+3366, "Gono, Goddess of the Earth", The Glano Forest, 22.00, Emerald Orichalcum , 103.00, 711.00, 570.00, 73233.00, 58710.00, 29027.46, 160970.46
+3832, "Ariel, God of Luck", The Lazy Sage, 9.00, Toxic Mistlead Of The Past , 177.00, 788.00, 986.00, 139476.00, 174522.00, 28259.82, 342257.82
+4282, "Prusu, God of Love", The Secret Shrine of the Gargoyle Count, 24.00, Primordial Plague Mercury Of Legend , 88.00, 304.00, 578.00, 26752.00, 50864.00, 18627.84, 96243.84
+4724, Law Lionwatcher, Weke Tower, 23.00, White Platinum , 278.00, 795.00, 200.00, 221010.00, 55600.00, 63620.30, 340230.30

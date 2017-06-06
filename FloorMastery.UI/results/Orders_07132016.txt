@@ -1,0 +1,11 @@
+274, "Baltha, Goddess of Knowledge", Dysley Stronghold, 5.00, Muck Orichalcum Of Ogres , 145.00, 983.00, 395.00, 142535.00, 57275.00, 9990.50, 209800.50
+719, "Sielach, God of Fate", Weke Tower, 23.00, Venom Timegold Of Dwarves , 189.00, 614.00, 432.00, 116046.00, 81648.00, 45469.62, 243163.62
+1166, Lightning Brand, The Bastion of the Lich Tyrant, 10.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 183.00, 313.00, 673.00, 57279.00, 123159.00, 18043.80, 198481.80
+1617, Gale Jackalguard, The Fortress of Asmamur, 7.00, Unholy Poison Copper Of The Mountains , 209.00, 439.00, 495.00, 91751.00, 103455.00, 13664.42, 208870.42
+2051, "Ariel, God of Luck", Moor Village, 0.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 213.00, 676.00, 683.00, 143988.00, 145479.00, 0.00, 289467.00
+2502, "Alik, Goddess of Trickery", The Tomb of Hellish Ruin, 14.00, Otherworldly Truesoul Orichalcum Of The East , 213.00, 636.00, 780.00, 135468.00, 166140.00, 42225.12, 343833.12
+2958, Cult Godseeker, The Warrior and Flagon, 0.00, Violetstone Tin Of Death , 267.00, 246.00, 251.00, 65682.00, 67017.00, 0.00, 132699.00
+3414, "Azah, Goddess of Fate", The Archer and Scroll, 11.00, Yellow Mistearth Copper , 136.00, 408.00, 996.00, 55488.00, 135456.00, 21003.84, 211947.84
+3883, Zeal Bladewitch, Noble's Village, 5.00, Magicians' Legendary Poison Metal , 224.00, 768.00, 160.00, 172032.00, 35840.00, 10393.60, 218265.60
+4327, "Iran, Lord of Nightmares", Lamp Borough, 15.00, Mithril Of Legend , 201.00, 382.00, 657.00, 76782.00, 132057.00, 31325.85, 240164.85
+4771, "Ahah, Goddess of Knowledge", Khali's Delve, 7.00, Mistgold Of Men , 90.00, 459.00, 640.00, 41310.00, 57600.00, 6923.70, 105833.70

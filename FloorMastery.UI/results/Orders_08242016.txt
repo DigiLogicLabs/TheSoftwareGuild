@@ -1,0 +1,11 @@
+238, Clash Lonedrake, Shainan's Hold, 15.00, , 183.00, 408.00, , 74664.00, 182268.00, , 295471.80
+687, Song Runetomb, North Arcanist's Farthing, 6.00, Angels' Smoke Adamant Of The Mountains , 158.00, 694.00, 967.00, 109652.00, 152786.00, 15746.28, 278184.28
+1129, Dawn Darkzealot, The Drunken Thief, 4.00, Unicorns' Evil Mithril , 203.00, 334.00, 705.00, 67802.00, 143115.00, 8436.68, 219353.68
+
+2012, "Baltha, Goddess of Knowledge", The Flying Witch, 13.00, Angels' Smoke Adamant Of The Mountains , 86.00, 694.00, 967.00, 59684.00, 83162.00, 18569.98, 161415.98
+2464, Rouge Tombreaper, Khali's Delve, 7.00, Tritons' Time Stoneiron Of Legend , 294.00, 912.00, 866.00, 268128.00, 254604.00, 36591.24, 559323.24
+2917, "Sielach, God of Fate", Reyny Keep, 14.00, Unicorns' Evil Mithril , 147.00, 334.00, 705.00, 49098.00, 103635.00, 21382.62, 174115.62
+3375, Sunrise Godwarlock, Tower Farthing, 2.00, Tin Of The Tundra , 198.00, 479.00, 294.00, 94842.00, 58212.00, 3061.08, 156115.08
+3841, "Eumyan, Goddess of Law", The Grey Plains, 3.00, Muck Orichalcum Of Ogres , 206.00, 983.00, 395.00, 202498.00, 81370.00, 8516.04, 292384.04
+4,Claw Mist,Citadel Ward,14.00,Primordial False Gold ,116.00,354.00,602.00,41064.00,69832.00,15525.44,126421.44
+4732, Shadow Gust, The Bastion of the Vampire Duke, 18.00, Hidden Shadowice Lead , 230.00, 241.00, 199.00, 55430.00, 45770.00, 18216.00, 119416.00

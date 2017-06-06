@@ -1,0 +1,11 @@
+211, Shadow Tomblion, The Bastion of Gothmog of Udun, 18.00, Sphinxes' Opalpearl Platinum Of Legend , 209.00, 461.00, 403.00, 96349.00, 84227.00, 32503.68, 213079.68
+661, "Nelalwe, Lady of Fire", Eved Castle, 2.00, Magic Adamant , 242.00, 746.00, 526.00, 180532.00, 127292.00, 6156.48, 313980.48
+1101, Bane Veil, Waleah Castle, 10.00, Lunar Bronze , 159.00, 981.00, 558.00, 155979.00, 88722.00, 24470.10, 269171.10
+1552, Clash Lonedrake, Haukri's Hold, 7.00, Swordbronze , 286.00, 860.00, 746.00, 245960.00, 213356.00, 32152.12, 491468.12
+1988, "Uriel, God of Fate", Grori's Deep, 4.00, Incubi's Mirrorfog Iron Of The Ocean , 244.00, 22.00, 675.00, 5368.00, 164700.00, 6802.72, 176870.72
+2436, Gale Jackalguard, Tower Farthing, 2.00, Trolls' Rubymercury Of The Sunset , 343.00, 146.00, 782.00, 50078.00, 268226.00, 6366.08, 324670.08
+   2893,    Lightning Brand,    The Lost Crypts of Sorrows,     24.00,     God-touched Faterainbow Orichalcum Of Spectres ,        289.00,    43.00,      406.00,      12427.00,   117334.00,          31142.64,      160903.64
+3349, "Lionare, God of the Lost", Tower Farthing, 2.00, Vampires' Hammer Emeraldmetal , 99.00, 191.00, 47.00, 18909.00, 4653.00, 471.24, 24033.24
+3815, "Gadriel, God of Resurrection", The Forsaken Tomb of Devastation, 12.00, Incubi's Glittering Tin Of The Future , 182.00, 247.00, 493.00, 44954.00, 89726.00, 16161.60, 150841.60
+4267, Song Runetomb, The Cracked Chalice, 22.00, Grayplatinum , 145.00, 45.00, 526.00, 6525.00, 76270.00, 18214.90, 101009.90
+4707, Fate Seeker, Gawold Castle, 6.00, Djinni's Evil Sandobsidian Steel Of The Future , 183.00, 319.00, 845.00, 58377.00, 154635.00, 12780.72, 225792.72

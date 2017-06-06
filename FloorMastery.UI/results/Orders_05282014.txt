@@ -1,0 +1,12 @@
+4, Rouge Roguemist, Gili's Delve, 7.00, Shadow Metal , 197.00, 881.00, 254.00, 173557.00, 50038.00, 15651.65, 239246.65
+448, Song Runetomb, Eved Castle, 2.00, Phantasmal Lead , 159.00, 88.00, 927.00, 13992.00, 147393.00, 3227.70, 164612.70
+892, Valentine Lawslayer, The Greedy Wench, 8.00, Primordial False Gold , 288.00, 354.00, 602.00, 101952.00, 173376.00, 22026.24, 297354.24
+1339, Rose Anchor, The Cracked Chalice, 22.00, Hell Mercury Of The East , 50.00, 122.00, 838.00, 6100.00, 41900.00, 10560.00, 58560.00
+1790, "Lenwenye, Goddess of Travel", Gawold Castle, 6.00, Fog Lavaplatinum Of Life , 115.00, 967.00, 333.00, 111205.00, 38295.00, 8970.00, 158470.00
+2219, Gale Jackalguard, Peley Keep, 24.00, Foulopal Copper Of The Skies , 295.00, 170.00, 101.00, 50150.00, 29795.00, 19186.80, 99131.80
+2677, Dagger Reaper, The Lost Sanctum of Woe, 12.00, Plague Tin , 180.00, 806.00, 444.00, 145080.00, 79920.00, 27000.00, 252000.00
+3137, Rouge Tombreaper, The Tower of the Demon Warlord, 3.00, Magicians' Legendary Poison Metal , 342.00, 768.00, 160.00, 262656.00, 54720.00, 9521.28, 326897.28
+3597, Storm Squallmourner, The Black Barrow of Bery, 21.00, Thunderbirds' Transcendent Dreamiron , 67.00, 989.00, 65.00, 66263.00, 4355.00, 14829.78, 85447.78
+4058, Rose Anchor, South Brightcrown Borough, 0.00, Planar Obsidian Mercury Of Wizards , 278.00, 707.00, 602.00, 196546.00, 167356.00, 0.00, 363902.00
+4500, Song Runetomb, The Dancing Minstrel, 14.00, Tin Of The Tundra , 167.00, 479.00, 294.00, 79993.00, 49098.00, 18072.74, 147163.74
+4937, Sephiroth Drakecaster, Grove Farthing, 18.00, Vampires' Hammer Emeraldmetal , 231.00, 191.00, 47.00, 44121.00, 10857.00, 9896.04, 64874.04

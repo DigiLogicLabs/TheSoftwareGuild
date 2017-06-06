@@ -1,0 +1,11 @@
+416, "Gono, Goddess of the Earth", Gena's Hold, 8.00, Angels' Smoke Adamant Of The Mountains , 327.00, 694.00, 967.00, 226938.00, 316209.00, 43451.76, 586598.76
+858, Rose Anchor, Castle Village, 17.00, Shadowhell Mithril , 256.00, 231.00, 848.00, 59136.00, 217088.00, 46958.08, 323182.08
+1306, "Prusu, God of Love", The Broken Shield, 7.00, Otherworldly Truesoul Orichalcum Of The East , 171.00, 636.00, 780.00, 108756.00, 133380.00, 16949.52, 259085.52
+1758, "Ingwenel, God of War", Kada's Deep, 14.00, Primordial Plague Mercury Of Legend , 18.00, 304.00, 578.00, 5472.00, 10404.00, 2222.64, 18098.64
+2190, "Gono, Goddess of the Earth", The Warrior and Flagon, 0.00, Rot Silver Of The Past , 235.00, 267.00, 280.00, 62745.00, 65800.00, 0.00, 128545.00
+2646, Grave Mistseeker, Barad Kesa, 17.00, Violetstone Tin Of Death , 176.00, 246.00, 251.00, 43296.00, 44176.00, 14870.24, 102342.24
+3103, , , 23.00, God-touched Greengem Platinum , , , 796.00, , 195020.00, 73085.95, 390850.95
+3564, "Eumyan, Goddess of Law", Reheath Stronghold, 11.00, Sapphire Mindlead , 176.00, 608.00, 90.00, 107008.00, 15840.00, 13513.28, 136361.28
+4028, "Ingwenel, God of War", Palace Farthing, 12.00, Planar Rainfate Mithril , 330.00, 81.00, 151.00, 26730.00, 49830.00, 9187.20, 85747.20
+4469, Seraph Jester, Unicorn's Ward, 1.00, Angels' Adamant , 343.00, 189.00, 157.00, 64827.00, 53851.00, 1186.78, 119864.78
+4905, "Selik, God of Death", Archscepter Borough, 8.00, Fleshshock Mercury , 119.00, 667.00, 852.00, 79373.00, 101388.00, 14460.88, 195221.88

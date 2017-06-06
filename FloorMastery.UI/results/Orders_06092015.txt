@@ -1,0 +1,11 @@
+429, Lord Mystery, The Scoundrel and Flask, 23.00, Djinni's Mind Fogiron , 112.00, 387.00, 164.00, 43344.00, 18368.00, 14193.76, 75905.76
+871, Dawn Darkzealot, The Cuitamba Jungle, 22.00, Primordial False Gold , 160.00, 354.00, 602.00, 56640.00, 96320.00, 33651.20, 186611.20
+1318, "Selah, God of Destruction", The Lost Crypts of Sorrows, 24.00, Rot Silver Of The Past , 241.00, 267.00, 280.00, 64347.00, 67480.00, 31638.48, 163465.48
+1771, Storm Squallmourner, The Fortress of Akkun the Grim, 18.00, Planar Rainfate Mithril , 218.00, 81.00, 151.00, 17658.00, 32918.00, 9103.68, 59679.68
+2201, "Lionare, God of the Lost", Lacot Stronghold, 7.00, Unknown Fatelightning Steel Of The Glacier , 264.00, 837.00, 700.00, 220968.00, 184800.00, 28403.76, 434171.76
+2659, "Prusu, God of Love", Gawold Castle, 6.00, Negative Mercury , 128.00, 278.00, 408.00, 35584.00, 52224.00, 5268.48, 93076.48
+3117, Wind Dire, The Bastion of Barbos, 18.00, Hell Mercury Of The East , 122.00, 122.00, 838.00, 14884.00, 102236.00, 21081.60, 138201.60
+3577, Shadow Gust, The Tower of the Demon Warlord, 3.00, Golems' Stonesapphire Gold Of The Glacier , 179.00, 705.00, 952.00, 126195.00, 170408.00, 8898.09, 305501.09
+4040, Law Lionwatcher, The Citadel of Tattena the Sinister, 23.00, Fleshshock Mercury , 105.00, 667.00, 852.00, 70035.00, 89460.00, 36683.85, 196178.85
+4482, Jericho Wolf, The Beggar and Cask, 16.00, Witchs' Forbidden Rockrainbow Bronze , 112.00, 172.00, 423.00, 19264.00, 47376.00, 10662.40, 77302.40
+4917, Rose Anchor, Bergfison's Deep, 18.00, Sphinxes' Unknown Poisongold Of The Future , 241.00, 43.00, 998.00, 10363.00, 240518.00, 45158.58, 296039.58

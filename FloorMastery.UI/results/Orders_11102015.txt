@@ -1,0 +1,11 @@
+402, "Sielach, God of Fate", The Greedy Wench, 8.00, Shadow Steel , 45.00, 841.00, 440.00, 37845.00, 19800.00, 4611.60, 62256.60
+2,Grave Mistseeker,The Secret Catacombs of Ulfang the Black,0.00,Phantasmal Lead ,339.00,88.00,927.00,29832.00,314253.00,0.00,344085.00
+1292, Lance Knightseraph, Minas Gilloy, 20.00, Unicorns' Fatal Magma Metal Of The Ocean , 140.00, 142.00, 749.00, 19880.00, 104860.00, 24948.00, 149688.00
+1743, "Lionare, God of the Lost", Archscepter Borough, 8.00, White Platinum , 196.00, 795.00, 200.00, 155820.00, 39200.00, 15601.60, 210621.60
+2177, Cult Godseeker, Grove Farthing, 18.00, Trolls' Mist Poisonplatinum Of The Twilight , 241.00, 990.00, 430.00, 238590.00, 103630.00, 61599.60, 403819.60
+2633, "Ariel, God of Luck", The Scoundrel and Flask, 23.00, Spectres' Shadowy Terrorglow Adamant Of Life , 258.00, 944.00, 533.00, 243552.00, 137514.00, 87645.18, 468711.182633, "Ariel, God of Luck", The Scoundrel and Flask, 23.00, Spectres' Shadowy Terrorglow Adamant Of Life , 258.00, 944.00, 533.00, 243552.00, 137514.00, 87645.18, 468711.18
+3089, Sunset Knightclaw, Lacot Stronghold, 7.00, Goddesses' Spectral Poison Steel , 193.00, 455.00, 483.00, 87815.00, 93219.00, 12672.38, 193706.38
+3548, Fate Ivycaster, The Citadel of Cheno, 0.00, Magicians' Legendary Poison Metal , 245.00, 768.00, 160.00, 188160.00, 39200.00, 0.00, 227360.00
+
+4454, Sunset Knightclaw, Reheath Stronghold, 11.00, Grayplatinum , 275.00, 45.00, 526.00, 12375.00, 144650.00, 17272.75, 174297.75
+4891, "Gono, Goddess of the Earth", The Citadel of Cheno, 0.00, Rocklava Mithril Of Revenants , 253.00, 169.00, 287.00, 42757.00, 72611.00, 0.00, 115368.00

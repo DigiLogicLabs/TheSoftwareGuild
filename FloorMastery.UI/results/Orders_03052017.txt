@@ -1,0 +1,11 @@
+   68,    Jericho Wolf,      The Cuitamba Jungle,   22.00,        Ensorceled Gold Of The Dawn ,    266.00,     512.00,     310.00,      136192.00,     82460.00,            48103.44,       266755.44
+513, Clash Lonedrake, Kada's Deep, 14.00, Sphinxes' Unknown Poisongold Of The Future , 76.00, 43.00, 998.00, 3268.00, 75848.00, 11076.24, 90192.24
+959, "Penur, Lord of the Sea", Barad Cune, 21.00, Unicorns' Fatal Magma Metal Of The Ocean , 241.00, 142.00, 749.00, 34222.00, 180509.00, 45093.51, 259824.51
+-1406,"Baltha, Goddess of Knowledge",Bergfison's Deep,-18.00,God-touched Greengem Platinum ,-256.00,-501.00,-796.00,-128256.00,-203776.00,-59765.76,-391797.76
+1849, Rune Rougehate, North Arcanist's Farthing, 6.00, Hidden Shadowice Lead , 179.00, 241.00, 199.00, 43139.00, 35621.00, 4725.60, 83485.60
+2283, "Eumyan, Goddess of Law", Love Keep, 4.00, Meteoric Dustzephyr Orichalcum , 123.00, 232.00, 37.00, 28536.00, 4551.00, 1323.48, 34410.48
+2741, Gale Jackalguard, The Tower of Sheshbazzu, 15.00, Phantasmal Tin Of The Swamps , 231.00, 174.00, 421.00, 40194.00, 97251.00, 20616.75, 158061.75
+3203, Maverick Wind, The Nulukkhath Spires, 20.00, Spirits' Living Wordhammer Tin Of The Trees , 130.00, 533.00, 531.00, 69290.00, 69030.00, 27664.00, 165984.00
+3662, "Byzou, God of Animals", The Dungeon of Dismal Terror, 22.00, Angels' Smoke Adamant Of The Mountains , 43.00, 694.00, 967.00, 29842.00, 41581.00, 15713.06, 87136.06
+4119, "Uriel, God of Fate", The Bastion of the Lich Tyrant, 10.00, Phantasmal Plague Adamant , 101.00, 831.00, 728.00, 83931.00, 73528.00, 15745.90, 173204.90
+4563, Seraphim Tsunami, The Secret Shrine of the Gargoyle Count, 24.00, Violetstone Tin Of Death , 47.00, 246.00, 251.00, 11562.00, 11797.00, 5606.16, 28965.16

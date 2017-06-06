@@ -1,0 +1,12 @@
+39, , , 5.00, Evilsilver , 140.00, 814.00, , , 36960.00, , 
+482, "Maglioneth, Lord of the Sun", The Forsaken Tomb of Devastation, 12.00, Shadow Metal , 122.00, 881.00, 254.00, 107482.00, 30988.00, 16616.40, 155086.40
+925, "Ingwenel, God of War", The Lazy Sage, 9.00, Dragons' Poison Glitterflesh Steel Of The North , 159.00, 941.00, 559.00, 149619.00, 88881.00, 21465.00, 259965.00
+1373, "Maeglodor, God of Thieves", The Beggar and Cask, 16.00, God-touched Greengem Platinum , 166.00, 501.00, 796.00, 83166.00, 132136.00, 34448.32, 249750.32
+1822, Shadow Gust, Hafeld Keep, 0.00, Phantasmal Tin Of The Swamps , 170.00, 174.00, 421.00, 29580.00, 71570.00, 0.00, 101150.00
+2254, Tiger Mistmidnight, The Greedy Wench, 8.00, Planar Rainfate Mithril , 262.00, 81.00, 151.00, 21222.00, 39562.00, 4862.72, 65646.72
+2711, Lance Knightseraph, The Citadel of Lord Greywulf, 0.00, Toxin Iceplatinum Of The Undead , 140.00, 146.00, 665.00, 20440.00, 93100.00, 0.00, 113540.00
+3172, Slayer Claw, The Barrow of Malefic Ages, 13.00, Shadowy Adamant , 216.00, 585.00, 941.00, 126360.00, 203256.00, 42850.08, 372466.08
+3630, Law Lionwatcher, The Flying Witch, 13.00, Angels' Smoke Adamant Of The Mountains , 252.00, 694.00, 967.00, 174888.00, 243684.00, 54414.36, 472986.36
+.4090,Bane Veil,Reheath Stronghold,.11.00,Sprites' Transcendent Mud Lead Of The South ,.52.00,.419.00,.260.00,.21788.00,.13520.00,.3883.88,.39191.88
+4536, Cult Godseeker, Lacot Stronghold, 7.00, Spirits' Living Wordhammer Tin Of The Trees , 66.00, 533.00, 531.00, 35178.00, 35046.00, 4915.68, 75139.68
+4973, "Selik, God of Death", Waleah Castle, 10.00, Rot Silver Of The Past , 249.00, 267.00, 280.00, 66483.00, 69720.00, 13620.30, 149823.30

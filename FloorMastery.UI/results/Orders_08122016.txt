@@ -1,0 +1,11 @@
+248, "Lenwenye, Goddess of Travel", Archfane District, 18.00, Djinni's Evil Sandobsidian Steel Of The Future , 208.00, 319.00, 845.00, 66352.00, 175760.00, 43580.16, 285692.16
+696, "Baltha, Goddess of Knowledge", Kada's Deep, 14.00, Tritons' Time Stoneiron Of Legend , 102.00, 912.00, 866.00, 93024.00, 88332.00, 25389.84, 206745.84
+1138, Seraph Jester, The Bastion of Barbos, 18.00, Hidden Shadowice Lead , 155.00, 241.00, 199.00, 37355.00, 30845.00, 12276.00, 80476.00
+1589, "Lionare, God of the Lost", Lacot Stronghold, 7.00, Ensorceled Gold Of The Dawn , 12.00, 512.00, 310.00, 6144.00, 3720.00, 690.48, 10554.48
+2024, Sephiroth Drakecaster, The Secret Catacombs of Ulfang the Black, 0.00, Primordial False Gold , 198.00, 354.00, 602.00, 70092.00, 119196.00, 0.00, 189288.00
+2474, "Byzou, God of Animals", The Vaults of the Shadow Emperor, 5.00, Ensorceled Sandmetal Of Spirits , 132.00, 671.00, 431.00, 88572.00, 56892.00, 7273.20, 152737.20
+2928, Seraph Jester, The Pirate's Pipe, 14.00, Venom Timegold Of Dwarves , 337.00, 614.00, 432.00, 206918.00, 145584.00, 49350.28, 401852.28
+3386, Seraphim Tsunami, Fellfen Keep, 11.00, Tin Of The Tundra , 291.00, 479.00, 294.00, 139389.00, 85554.00, 24743.73, 249686.73
+3853, Zeal Bladewitch, Reheath Stronghold, , , , , 901.00, , 103615.00, 21416.45, 
+4302, "Alik, Goddess of Trickery", The Khazahol Crags, 22.00, Undeads' Mind Orichalcum Of The Twilight , 361.00, 495.00, 573.00, 178695.00, 206853.00, 84820.56, 470368.56
+4744, Sephiroth Drakecaster, Mahyrst Keep, 18.00, Fairies' Supreme Mistsmoke Lead Of The Future , 196.00, 489.00, 658.00, 95844.00, 128968.00, 40466.16, 265278.16

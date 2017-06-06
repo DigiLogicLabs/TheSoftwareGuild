@@ -1,0 +1,11 @@
+356, Rune Rougehate, The Glano Forest, 22.00, Meteoric Dustzephyr Orichalcum , 321.00, 232.00, 37.00, 74472.00, 11877.00, 18996.78, 105345.78
+795, "Eumyan, Goddess of Law", Kada's Deep, 14.00, Mind Lead , 343.00, 143.00, 486.00, 49049.00, 166698.00, 30204.58, 245951.58
+1246, "Ariel, God of Luck", Archring Borough, 0.00, Shadowy Adamant , 108.00, 585.00, 941.00, 63180.00, 101628.00, 0.00, 164808.00
+1693, "Lionare, God of the Lost", Gawold Castle, 6.00, Icy Shock Silver , 358.00, 102.00, 540.00, 36516.00, 193320.00, 13790.16, 243626.16
+2133, "Finarfin, God of Protection", The Pilgrim's Cup, 21.00, Plague Tin , 198.00, 806.00, 444.00, 159588.00, 87912.00, 51975.00, 299475.00
+2584, "Lionare, God of the Lost", The Citadel of Lord Greywulf, 0.00, Phantasmal Smokezephyr Mercury Of Men , 281.00, 918.00, 965.00, 257958.00, 271165.00, 0.00, 529123.00
+3041, "Gono, Goddess of the Earth", The Chuallanto Jungle, 1.00, Negative Rockglitter Mercury Of Trolls , 191.00, 216.00, 497.00, 41256.00, 94927.00, 1361.83, 137544.83
+3500, "Gadriel, God of Resurrection", The Chuallanto Jungle, 1.00, Zephyr Adamant , 173.00, 215.00, 3.00, 37195.00, 519.00, 377.14, 38091.14
+3966, Lance Knightseraph, Tower Farthing, 2.00, Starlight Pearldream Bronze , 253.00, 441.00, 906.00, 111573.00, 229218.00, 6815.82, 347606.82
+
+4849, "Alik, Goddess of Trickery", The Barrow of Terrible Horror, 24.00, Violetstone Tin Of Death , 206.00, 246.00, 251.00, 50676.00, 51706.00, 24571.68, 126953.68

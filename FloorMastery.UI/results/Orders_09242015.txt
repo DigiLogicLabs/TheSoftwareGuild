@@ -1,0 +1,11 @@
+414, "Suriel, Lord of Animals", The Chuallanto Jungle, 1.00, Lycanthropes' Gold , 157.00, 213.00, 171.00, 33441.00, 26847.00, 602.88, 60890.88
+856, Dagger Reaper, The Bastion of the Lich Tyrant, 10.00, Planar Rainfate Mithril , 163.00, 81.00, 151.00, 13203.00, 24613.00, 3781.60, 41597.60
+1304, "Penur, Lord of the Sea", Archfane District, 18.00, Golems' Stonesapphire Gold Of The Glacier , 117.00, 705.00, 952.00, 82485.00, 111384.00, 34896.42, 228765.42
+1756, "Azah, Goddess of Fate", The Scoundrel and Flask, 23.00, Mind Lead , 152.00, 143.00, 486.00, 21736.00, 73872.00, 21989.84, 117597.84
+2188, Shadow Tomblion, Kada's Deep, 14.00, Incubi's Glittering Tin Of The Future , 203.00, 247.00, 493.00, 50141.00, 100079.00, 21030.80, 171250.80
+2644, "Selik, God of Death", The Citadel of Alammius, 24.00, Djinni's Spectral Shadowlead Of Life , 188.00, 969.00, 997.00, 182172.00, 187436.00, 88705.92, 458313.92
+3101, "Alik, Goddess of Trickery", The Tower of Aramum, 9.00, Ghostly Magic Adamant , 128.00, 499.00, 881.00, 63872.00, 112768.00, 15897.60, 192537.60
+3562, "Zepul, Lady of Vengeance", Mahyrst Keep, 18.00, Djinni's Mind Fogiron , 316.00, 387.00, 164.00, 122292.00, 51824.00, 31340.88, 205456.88
+4026, Tarot Dawn, Archscepter Borough, 8.00, Djinni's Spectral Shadowlead Of Life , 58.00, 969.00, 997.00, 56202.00, 57826.00, 9122.24, 123150.24
+   4467,  Gale Jackalguard,    The Secret Catacombs of Ulfang the Black,    0.00,        Ghostly Soul Adamant ,        346.00,     56.00,     682.00,        19376.00,      235972.00,          0.00,      255348.00
+4903, Claw Mist, The Tomb of Hellish Ruin, 14.00, Rocklava Mithril Of Revenants , 135.00, 169.00, 287.00, 22815.00, 38745.00, 8618.40, 70178.40

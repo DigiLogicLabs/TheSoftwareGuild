@@ -1,0 +1,11 @@
+109, "Maeglodor, God of Thieves", Archscepter Borough, 8.00, Greenlead , 277.00, 518.00, 166.00, 143486.00, 45982.00, 15157.44, 204625.44
+553, Slayer Claw, Moor Village, 0.00, Lycanthropes' Gold , 324.00, 213.00, 171.00, 69012.00, 55404.00, 0.00, 124416.00
+997, "Alik, Goddess of Trickery", Bergfison's Deep, 18.00, Sprites' Transcendent Mud Lead Of The South , 200.00, 419.00, 260.00, 83800.00, 52000.00, 24444.00, 160244.00
+1442, Rouge Tombreaper, Ring District, 23.00, Primal Adamant , 383.00, 878.00, 482.00, 336274.00, 184606.00, 119802.40, 640682.40
+1892, Rose Anchor, Archtemple District, 4.00, Otherworldly Truesoul Orichalcum Of The East , 42.00, 636.00, 780.00, 26712.00, 32760.00, 2378.88, 61850.88
+2327, "Gono, Goddess of the Earth", The Archer and Scroll, 11.00, Trolls' Rubymercury Of The Sunset , 251.00, 146.00, 782.00, 36646.00, 196282.00, 25622.08, 258550.08
+2785, "Zepul, Lady of Vengeance", The Lewd King, 17.00, Imperial Fate Steel , 223.00, 324.00, 356.00, 72252.00, 79388.00, 25778.80, 177418.80
+3243, Slayer Claw, The Lost Sanctum of Woe, 12.00, Spirits' Living Wordhammer Tin Of The Trees , 209.00, 533.00, 531.00, 111397.00, 110979.00, 26685.12, 249061.12
+3704, Law Lionwatcher, The Forsaken Delve of Lord Greywulf, 8.00, Djinni's Mind Fogiron , 169.00, 387.00, 164.00, 65403.00, 27716.00, 7449.52, 100568.52
+4164, "Addon, Lord of Death", Lacot Stronghold, 7.00, Forgotten Mithril , 117.00, 793.00, 940.00, 92781.00, 109980.00, 14193.27, 216954.27
+4604, "Ahah, Goddess of Knowledge", The Desert of Flames, 16.00, Hidden Shadowice Lead , 183.00, 241.00, 199.00, 44103.00, 36417.00, 12883.20, 93403.20

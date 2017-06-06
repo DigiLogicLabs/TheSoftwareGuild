@@ -1,0 +1,11 @@
+226, "Zepul, Lady of Vengeance", The Grey Plains, 3.00, Violetdream Iron , 169.00, 948.00, 922.00, 160212.00, 155818.00, 9480.90, 325510.90
+
+1118, "Alik, Goddess of Trickery", The Tomb of Hellish Ruin, 14.00, Ensorceled Gold Of The Dawn , 158.00, 512.00, 310.00, 80896.00, 48980.00, 18182.64, 148058.64
+1568, Fate Ivycaster, The Cuitamba Jungle, 22.00, God-touched Faterainbow Orichalcum Of Spectres , 145.00, 43.00, 406.00, 6235.00, 58870.00, 14323.10, 79428.10
+2002, Harmony Angelchild, Minas Gilloy, 20.00, Unspeakable Rotsoul Mithril Of Souls , 324.00, 255.00, 25.00, 82620.00, 8100.00, 18144.00, 108864.00
+2452, "Eumyan, Goddess of Law", The Scoundrel and Flask, 23.00, Spectres' Shadowy Terrorglow Adamant Of Life , 187.00, 944.00, 533.00, 176528.00, 99671.00, 63525.77, 339724.77
+2907, "Alik, Goddess of Trickery", Haukri's Hold, 7.00, Undeads' Mind Orichalcum Of The Twilight , 193.00, 495.00, 573.00, 95535.00, 110589.00, 14428.68, 220552.68
+3364, Valentine Lawslayer, The Dark Caverns of Woe, 3.00, Hidden Shadowice Lead , 66.00, 241.00, 199.00, 15906.00, 13134.00, 871.20, 29911.20
+3830, Tarot Dawn, Barad Cune, 21.00, Unknown Fatelightning Steel Of The Glacier , 211.00, 837.00, 700.00, 176607.00, 147700.00, 68104.47, 392411.47
+4280, Flora Amberslayer, Peley Keep, 24.00, Phantasmal Lead , 224.00, 88.00, 927.00, 19712.00, 207648.00, 54566.40, 281926.40
+4722, "Penur, Lord of the Sea", Unicorn's Ward, 1.00, Witchs' Forbidden Rockrainbow Bronze , 156.00, 172.00, 423.00, 26832.00, 65988.00, 928.20, 93748.20

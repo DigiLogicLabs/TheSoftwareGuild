@@ -1,0 +1,11 @@
+311, "Penur, Lord of the Sea", The Dismal Marsh, 19.00, Incubi's Mirrorfog Iron Of The Ocean , 268.00, 22.00, 675.00, 5896.00, 180900.00, 35491.24, 222287.24
+755, Sunset Knightclaw, Khali's Delve, 7.00, Yellow Mistearth Copper , 155.00, 408.00, 996.00, 63240.00, 154380.00, 15233.40, 232853.40
+1202, Maverick Wind, Citadel Ward, 14.00, Spectres' Shadowy Terrorglow Adamant Of Life , 130.00, 944.00, 533.00, 122720.00, 69290.00, 26881.40, 218891.40
+1651, "Gono, Goddess of the Earth", The Hunter and Rose, 2.00, Primordial Plague Mercury Of Legend , 162.00, 304.00, 578.00, 49248.00, 93636.00, 2857.68, 145741.68
+2086, Cult Godseeker, Ring District, 23.00, Phantasmal Plague Adamant , 111.00, 831.00, 728.00, 92241.00, 80808.00, 39801.27, 212850.27
+2539, Clash Lonedrake, The Fortress of Asmamur, 7.00, Toxin Iceplatinum Of The Undead , 161.00, 146.00, 665.00, 23506.00, 107065.00, 9139.97, 139710.97
+2998, Shadow Gust, Gena's Hold, 8.00, Sphinxes' Mistsoul Bronze Of The Past , 291.00, 694.00, 650.00, 201954.00, 189150.00, 31288.32, 422392.32
+3452, "Ariel, God of Luck", Hafeld Keep, 0.00, Starlight Pearldream Bronze , 158.00, 441.00, 906.00, 69678.00, 143148.00, 0.00, 212826.00
+3920, Clash Lonedrake, The Dungeon of Dismal Terror, 22.00, Violetstone Tin Of Death , 236.00, 246.00, 251.00, 58056.00, 59236.00, 25804.24, 143096.24
+4363, Maverick Wind, Khali's Delve, 7.00, Emerald Orichalcum , 255.00, 711.00, 570.00, 181305.00, 145350.00, 22865.85, 349520.85
+4806, Sunset Knightclaw, The Citadel of Alammius, 24.00, Transcendent Gold , 194.00, 39.00, 451.00, 7566.00, 87494.00, 22814.40, 117874.40

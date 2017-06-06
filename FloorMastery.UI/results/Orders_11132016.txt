@@ -1,0 +1,11 @@
+164, "Maeglodor, God of Thieves", Boiaburh Keep, 11.00, Vampires' Fang Emeraldsilver , 217.00, 876.00, 971.00, 190092.00, 210707.00, 44087.89, 444886.89
+615, Seraph Jester, The Dismal Marsh, 19.00, Mind Lead , 183.00, 143.00, 486.00, 26169.00, 88938.00, 21870.33, 136977.33
+1056, Fate Seeker, The Dark Caverns of Woe, 3.00, Dragons' Poison Glitterflesh Steel Of The North , 208.00, 941.00, 559.00, 195728.00, 116272.00, 9360.00, 321360.00
+1502, "Gadriel, God of Resurrection", Ring District, 23.00, Shadow Metal , 127.00, 881.00, 254.00, 111887.00, 32258.00, 33153.35, 177298.35
+1944, Rune Rougehate, Lordsgate Farthing, 17.00, Stone Soulsteel Of The Skies , 147.00, 493.00, 872.00, 72471.00, 128184.00, 34111.35, 234766.35
+2388, "Finarfin, God of Protection", The Black Barrow of Bery, 21.00, Spectres' Shadowy Terrorglow Adamant Of Life , 71.00, 944.00, 533.00, 67024.00, 37843.00, 22022.07, 126889.07
+2843, Seraphim Tsunami, The Tower of the Demon Warlord, 3.00, Glowpearl Adamant Of Spirits , 274.00, 669.00, 534.00, 183306.00, 146316.00, 9888.66, 339510.66
+3302, Lightning Brand, Boiaburh Keep, 11.00, Shadow Metal , 40.00, 881.00, 254.00, 35240.00, 10160.00, 4994.00, 50394.00
+3768, Dawn Darkzealot, The Dungeon of Merciless Woe, 23.00, Sphinxes' Opalpearl Platinum Of Legend , 77.00, 461.00, 403.00, 35497.00, 31031.00, 15301.44, 81829.44
+4219, "Prusu, God of Love", The Flying Witch, 13.00, Planar Mudtin Of Trolls , 165.00, 817.00, 654.00, 134805.00, 107910.00, 31552.95, 274267.95
+4661, "Penur, Lord of the Sea", The Bastion of Barbos, 18.00, Fairies' Supreme Mistsmoke Lead Of The Future , 224.00, 489.00, 658.00, 109536.00, 147392.00, 46247.04, 303175.04

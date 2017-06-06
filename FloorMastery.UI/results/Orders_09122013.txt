@@ -1,0 +1,12 @@
+17, "Eumyan, Goddess of Law", Barad Cune, 21.00, Mana-touched Greenglitter Gold Of Giants , 97.00, 783.00, 690.00, 75951.00, 66930.00, 30005.01, 172886.01
+461, "Zepul, Lady of Vengeance", The Citadel of Cheno, 0.00, Pearl Mirrorice Steel Of Changelings , 294.00, 474.00, 715.00, 139356.00, 210210.00, 0.00, 349566.00
+904, Rouge Tombreaper, Hartshill Ward, 11.00, Djinni's Mind Fogiron , 174.00, 387.00, 164.00, 67338.00, 28536.00, 10546.14, 106420.14
+1352, Rouge Roguemist, The Fortress of the Lich Queen, 6.00, Lycanthropes' Gold , 303.00, 213.00, 171.00, 64539.00, 51813.00, 6981.12, 123333.12
+1801, Grave Mistseeker, The Bastion of the Vampire Duke, 18.00, Nymphs' Luminous Rotmercury Of The Skies , 121.00, 453.00, 202.00, 54813.00, 24442.00, 14265.90, 93520.90
+2232, Rose Anchor, Arcanist's Farthing, 6.00, Vampires' Hammer Emeraldmetal , 227.00, 191.00, 47.00, 43357.00, 10669.00, 3241.56, 57267.56
+2690, Sephiroth Drakecaster, The Archer and Blade, 18.00, Hidden Shadowice Lead , 205.00, 241.00, 199.00, 49405.00, 40795.00, 16236.00, 106436.00
+3150, Cult Godseeker, The Fortress of the Lich Queen, 6.00, Vampires' Fang Emeraldsilver , 250.00, 876.00, 971.00, 219000.00, 242750.00, 27705.00, 489455.00
+3610, Lance Knightseraph, Barad Kesa, 17.00, Angels' Adamant , 148.00, 189.00, 157.00, 27972.00, 23236.00, 8705.36, 59913.36
+4071, "Alas, Lord of Plague", The Tower of Aramum, 9.00, Shadow Steel , 184.00, 841.00, 440.00, 154744.00, 80960.00, 21213.36, 256917.36
+4514, "Baltha, Goddess of Knowledge", Castle Village, 17.00, Muck Orichalcum Of Ogres , 119.00, 983.00, 395.00, 116977.00, 47005.00, 27876.94, 191858.94
+4949, "Baltha, Goddess of Knowledge", Grove Farthing, 18.00, Unicorns' Fatal Magma Metal Of The Ocean , 125.00, 142.00, 749.00, 17750.00, 93625.00, 20047.50, 131422.50

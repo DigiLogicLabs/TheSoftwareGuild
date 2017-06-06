@@ -1,0 +1,11 @@
+326, "Uriel, God of Fate", Noble's Village, 5.00, Evilsilver , 238.00, 814.00, 264.00, 193732.00, 62832.00, 12828.20, 269392.20
+769, Tiger Mistmidnight, The Khazahol Crags, 22.00, Sphinxes' Unknown Poisongold Of The Future , 227.00, 43.00, 998.00, 9761.00, 226546.00, 51987.54, 288294.54
+1219, "Melcha, Goddess of Thieves", Archring Borough, 0.00, Spectres' Shadowy Terrorglow Adamant Of Life , 331.00, 944.00, 533.00, 312464.00, 176423.00, 0.00, 488887.00
+1665, Dagger Reaper, Hafeld Keep, 0.00, Stone Soulsteel Of The Skies , 315.00, 493.00, 872.00, 155295.00, 274680.00, 0.00, 429975.00
+2106, "Baltha, Goddess of Knowledge", The Tower of Aces the Accursed, 3.00, Litches' Fatal Mithril Of The Past , 12.00, 654.00, 602.00, 7848.00, 7224.00, 452.16, 15524.16
+2556, Clash Lonedrake, The Fortress of Akkun the Grim, 18.00, Sapphire Mindlead , 215.00, 608.00, 90.00, 130720.00, 19350.00, 27012.60, 177082.60
+3014, Magus Felldrake, The Bastion of Barbos, 18.00, Glittering Orichalcum , 166.00, 425.00, 275.00, 70550.00, 45650.00, 20916.00, 137116.00
+3472, Rouge Roguemist, The Fortress of Akkun the Grim, 18.00, Zephyr Adamant , 148.00, 215.00, 3.00, 31820.00, 444.00, 5807.52, 38071.52
+3937, Flora Amberslayer, Arcanist's Farthing, 6.00, Ensorceled Gold Of The Dawn , 73.00, 512.00, 310.00, 37376.00, 22630.00, 3600.36, 63606.36
+4381, Law Lionwatcher, The Lost Crypts of Sorrows, 24.00, Poison Adamant , 233.00, 952.00, 349.00, 221816.00, 81317.00, 72751.92, 375884.92
+

@@ -1,0 +1,11 @@
+67, "Eumyan, Goddess of Law", Kewold Stronghold, 23.00, Planar Mudtin Of Trolls , 263.00, 817.00, 654.00, 214871.00, 172002.00, 88980.79, 475853.79
+512, Rouge Tombreaper, Archtemple District, 4.00, Unicorns' Evil Mithril , 322.00, 334.00, 705.00, 107548.00, 227010.00, 13382.32, 347940.32
+958, Sephiroth Drakecaster, Peley Keep, 24.00, Primal Adamant , 136.00, 878.00, 482.00, 119408.00, 65552.00, 44390.40, 229350.40
+1405, "Penur, Lord of the Sea", Palace Farthing, 12.00, Djinni's Mind Fogiron , 219.00, 387.00, 164.00, 84753.00, 35916.00, 14480.28, 135149.28
+1848, "Selah, God of Destruction", Citadel Ward, 14.00, Toxic Mistlead Of The Past , 172.00, 788.00, 986.00, 135536.00, 169592.00, 42717.92, 347845.92
+2282, Valentine Lawslayer, The Shadow Downs, 2.00, Unholy Poison Copper Of The Mountains , 207.00, 439.00, 495.00, 90873.00, 102465.00, 3866.76, 197204.76
+2740, "Selik, God of Death", Tower Farthing, 2.00, Angels' Smoke Adamant Of The Mountains , 236.00, 694.00, 967.00, 163784.00, 228212.00, 7839.92, 399835.92
+0,"Iran, Lord of Nightmares",The Dungeon of Merciless Woe,23.00,Otherworldly Truesoul Orichalcum Of The East ,325.00,636.00,780.00,206700.00,253500.00,105846.00,566046.00
+3661, Sephiroth Drakecaster, Love Keep, 4.00, Thunderbirds' Transcendent Dreamiron , 29.00, 989.00, 65.00, 28681.00, 1885.00, 1222.64, 31788.64
+4119, Song Runetomb, The Dark Caverns of Woe, 3.00, Phantasmal Tin Of The Swamps , 126.00, 174.00, 421.00, 21924.00, 53046.00, 2249.10, 77219.10
+4562, Zeal Bladewitch, The Citadel of Tattena the Sinister, 23.00, Thunderbirds' Transcendent Dreamiron , 216.00, 989.00, 65.00, 213624.00, 14040.00, 52362.72, 280026.72

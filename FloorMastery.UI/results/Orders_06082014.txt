@@ -1,0 +1,12 @@
+1, Seraph Jester, The Drunken Thief, 4.00, Shadowy Adamant , 275.00, 585.00, 941.00, 160875.00, 258775.00, 16786.00, 436436.00
+445, "Byzou, God of Animals", Lordsgate Farthing, 17.00, Violetstone Tin Of Death , 151.00, 246.00, 251.00, 37146.00, 37901.00, 12757.99, 87804.99
+889, Tarot Dawn, Archfane District, 18.00, Timeiron , 122.00, 537.00, 965.00, 65514.00, 117730.00, 32983.92, 216227.92
+1336, "Selik, God of Death", The Glano Forest, 22.00, Shadowy Adamant , 171.00, 585.00, 941.00, 100035.00, 160911.00, 57408.12, 318354.12
+1787, Storm Seraphheart, Boiaburh Keep, 11.00, Spectres' Shadowy Terrorglow Adamant Of Life , 91.00, 944.00, 533.00, 85904.00, 48503.00, 14784.77, 149191.77
+2217, Sunrise Godwarlock, Lordsgate Farthing, 17.00, Mithril Of The Tropics , 135.00, 386.00, 319.00, 52110.00, 43065.00, 16179.75, 111354.75
+2674, Sephiroth Drakecaster, Cawold Castle, 4.00, Shadow Metal , 169.00, 881.00, 254.00, 148889.00, 42926.00, 7672.60, 199487.60
+3134, "Eumyan, Goddess of Law", Waleah Castle, 10.00, Otherworldly Mirror Orichalcum , 320.00, 849.00, 283.00, 271680.00, 90560.00, 36224.00, 398464.00
+3594, Bedlam Spiritraven, The Broken Arrow, 22.00, Falserainbow Lead , 175.00, 92.00, 67.00, 16100.00, 11725.00, 6121.50, 33946.503594, Bedlam Spiritraven, The Broken Arrow, 22.00, Falserainbow Lead , 175.00, 92.00, 67.00, 16100.00, 11725.00, 6121.50, 33946.50
+4055, "Sielach, God of Fate", The Temple of Merciless Necromancy, 1.00, Evilsilver , 49.00, 814.00, 264.00, 39886.00, 12936.00, 528.22, 53350.22
+4497, "Maglioneth, Lord of the Sun", Mahyrst Keep, 18.00, Phantasmal Smokezephyr Mercury Of Men , 186.00, 918.00, 965.00, 170748.00, 179490.00, 63042.84, 413280.84
+4934, "Maglioneth, Lord of the Sun", Hafeld Keep, 0.00, Icy Shock Silver , 189.00, 102.00, 540.00, 19278.00, 102060.00, 0.00, 121338.00

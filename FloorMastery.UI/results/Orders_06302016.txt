@@ -1,0 +1,11 @@
+286, "Avriel, God of Death", The Glano Forest, 22.00, Plague Tin , 224.00, 806.00, 444.00, 180544.00, 99456.00, 61600.00, 341600.00
+730, "Alik, Goddess of Trickery", Pawic Keep, 0.00, Incubi's Glittering Tin Of The Future , 118.00, 247.00, 493.00, 29146.00, 58174.00, 0.00, 87320.00
+1176, "Suriel, Lord of Animals", The Desert of Flames, 16.00, Planar Rainfate Mithril , 289.00, 81.00, 151.00, 23409.00, 43639.00, 10727.68, 77775.68
+1629, "Nelalwe, Lady of Fire", The Forsaken Hive of Galima the Mighty, 4.00, Toxic Mistlead Of The Past , 162.00, 788.00, 986.00, 127656.00, 159732.00, 11495.52, 298883.52
+2063, Tarot Dawn, Palace Farthing, 12.00, Golems' Stonesapphire Gold Of The Glacier , 249.00, 705.00, 952.00, 175545.00, 237048.00, 49511.16, 462104.16
+.2515,Rouge Tombreaper,North Grove Ward,.13.00,Stone Soulsteel Of The Skies ,.105.00,.493.00,.872.00,.51765.00,.91560.00,.18632.25,.161957.25
+2971, Fate Ivycaster, Castle Village, 17.00, Golems' Stonesapphire Gold Of The Glacier , 304.00, 705.00, 952.00, 214320.00, 289408.00, 85633.76, 589361.76
+3426, Song Runetomb, Kewold Stronghold, 23.00, Venom Jewelmetal Of The Desert , 161.00, 21.00, 455.00, 3381.00, 73255.00, 17626.28, 94262.28
+3895, Law Lionwatcher, The Tomb of Gothmog of Udun, 1.00, Tin Of The Tundra , 30.00, 479.00, 294.00, 14370.00, 8820.00, 231.90, 23421.90
+4338, Lance Knightseraph, Cawold Castle, 4.00, Planar Obsidian Mercury Of Wizards , 100.00, 707.00, 602.00, 70700.00, 60200.00, 5236.00, 136136.00
+4783, Clash Lonedrake, Peley Keep, 24.00, Mind Lead , 159.00, 143.00, 486.00, 22737.00, 77274.00, 24002.64, 124013.644783, Clash Lonedrake, Peley Keep, 24.00, Mind Lead , 159.00, 143.00, 486.00, 22737.00, 77274.00, 24002.64, 124013.64

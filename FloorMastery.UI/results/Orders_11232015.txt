@@ -1,0 +1,11 @@
+399, "Iran, Lord of Nightmares", Haukri's Hold, 7.00, Imperial Fate Steel , 76.00, 324.00, 356.00, 24624.00, 27056.00, 3617.60, 55297.60
+839, "Maglioneth, Lord of the Sun", Mahyrst Keep, 18.00, Planar Mudtin Of Trolls , 343.00, 817.00, 654.00, 280231.00, 224322.00, 90819.54, 595372.54
+1288, Lord Mystery, Arcanist's Farthing, 6.00, Sphinxes' Mistsoul Bronze Of The Past , 179.00, 694.00, 650.00, 124226.00, 116350.00, 14434.56, 255010.56
+1739, "Melcha, Goddess of Thieves", Citadel Ward, 14.00, Lycanthropes' Gold , 150.00, 213.00, 171.00, 31950.00, 25650.00, 8064.00, 65664.00
+1,"Finarfin, God of Protection",Dysley Stronghold,5.00,Meteoric Mirrormuck Orichalcum Of The Forests ,122.00,136.00,65.00,16592.00,7930.00,1226.10,25748.10
+2629, Lord Mystery, Kada's Deep, 14.00, Zephyr Iron , 141.00, 909.00, 41.00, 128169.00, 5781.00, 18753.00, 152703.00
+3085, "Alas, Lord of Plague", The Dismal Marsh, 19.00, Meteoric Dustzephyr Orichalcum , 160.00, 232.00, 37.00, 37120.00, 5920.00, 8177.60, 51217.60
+3544, Cult Godseeker, Citadel Ward, 14.00, Tritons' Time Stoneiron Of Legend , 227.00, 912.00, 866.00, 207024.00, 196582.00, 56504.84, 460110.84
+4010, Tiger Mistmidnight, The Black Barrow of Zago the Possessed, 23.00, Sprites' Transcendent Mud Lead Of The South , 270.00, 419.00, 260.00, 113130.00, 70200.00, 42165.90, 225495.90
+-4450,Harmony Angelchild,The Forsaken Hive of Galima the Mighty,-4.00,Stone Soulsteel Of The Skies ,-279.00,-493.00,-872.00,-137547.00,-243288.00,-15233.40,-396068.40
+4888, Flora Amberslayer, Bifar's Deep, 3.00, Nymphs' Luminous Rotmercury Of The Skies , 344.00, 453.00, 202.00, 155832.00, 69488.00, 6759.60, 232079.60

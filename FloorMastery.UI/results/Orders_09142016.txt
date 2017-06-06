@@ -1,0 +1,11 @@
+218, "Melcha, Goddess of Thieves", Ring District, 23.00, Trolls' Mist Poisonplatinum Of The Twilight , 219.00, 990.00, 430.00, 216810.00, 94170.00, 71525.40, 382505.40218, "Melcha, Goddess of Thieves", Ring District, 23.00, Trolls' Mist Poisonplatinum Of The Twilight , 219.00, 990.00, 430.00, 216810.00, 94170.00, 71525.40, 382505.40
+669, Rouge Roguemist, Bergfison's Deep, 18.00, Devils' Falserot Silver , 327.00, 755.00, 915.00, 246885.00, 299205.00, 98296.20, 644386.20
+1109, Tarot Dawn, Fellfen Keep, 11.00, Angels' Smoke Adamant Of The Mountains , 195.00, 694.00, 967.00, 135330.00, 188565.00, 35628.45, 359523.45
+1559, Dagger Reaper, The Demon and Toad, 3.00, Lunar Bronze , 32.00, 981.00, 558.00, 31392.00, 17856.00, 1477.44, 50725.44
+1995, "Selik, God of Death", Barad Cune, 21.00, Meteoric Dustzephyr Orichalcum , 223.00, 232.00, 37.00, 51736.00, 8251.00, 12597.27, 72584.27
+2443, "Iran, Lord of Nightmares", The Fortress of Gama, 5.00, Planar Mudtin Of Trolls , 304.00, 817.00, 654.00, 248368.00, 198816.00, 22359.20, 469543.20
+2901, Claw Mist, Kada's Deep, 14.00, White Platinum , 189.00, 795.00, 200.00, 150255.00, 37800.00, 26327.70, 214382.70
+3357, Shadow Tomblion, The Wizard's House, 7.00, Mithril Of Legend , 230.00, 382.00, 657.00, 87860.00, 151110.00, 16727.90, 255697.90
+3823, "Addon, Lord of Death", The Grey Plains, 3.00, White Platinum , 156.00, 795.00, 200.00, 124020.00, 31200.00, 4656.60, 159876.60
+4273, , , , , 192.00, , 796.00, 96192.00, 152832.00, 24902.40, 273926.40
+4713, "Maeglodor, God of Thieves", The Bastion of the Lich Tyrant, 10.00, Ghostly Magic Adamant , 348.00, 499.00, 881.00, 173652.00, 306588.00, 48024.00, 528264.00

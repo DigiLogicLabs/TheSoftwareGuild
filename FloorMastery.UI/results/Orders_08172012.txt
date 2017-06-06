@@ -1,0 +1,12 @@
+38, "Suriel, Lord of Animals", Lordsgate Farthing, 17.00, Legendary Mithril Of The Moon , 290.00, 281.00, 801.00, 81490.00, 232290.00, 53342.60, 367122.60
+481, Storm Seraphheart, Haukri's Hold, 7.00, Poison Adamant , 42.00, 952.00, 349.00, 39984.00, 14658.00, 3824.94, 58466.94
+924, Maverick Wind, The Black Barrow of Bery, 21.00, Dragons' Poison Glitterflesh Steel Of The North , 143.00, 941.00, 559.00, 134563.00, 79937.00, 45045.00, 259545.00
+1372, Tiger Mistmidnight, The Bloody Wand, 2.00, Tin Of The Tundra , 222.00, 479.00, 294.00, 106338.00, 65268.00, 3432.12, 175038.12
+1821, Fate Seeker, The Broken Arrow, 22.00, Hell Mercury Of The East , 228.00, 122.00, 838.00, 27816.00, 191064.00, 48153.60, 267033.60
+2253, Rune Rougehate, Archscepter Borough, 8.00, Fog Lavaplatinum Of Life , 123.00, 967.00, 333.00, 118941.00, 40959.00, 12792.00, 172692.00
+2710, Dagger Reaper, Love Keep, 4.00, Trolls' Rubymercury Of The Sunset , 78.00, 146.00, 782.00, 11388.00, 60996.00, 2895.36, 75279.36
+3171, Song Runetomb, The Citadel of Lord Greywulf, 0.00, Starlight Pearldream Bronze , 324.00, 441.00, 906.00, 142884.00, 293544.00, 0.00, 436428.00
+3630, "Uriel, God of Fate", The Dismal Marsh, 19.00, Magic Adamant , 78.00, 746.00, 526.00, 58188.00, 41028.00, 18851.04, 118067.04
+4089, Wind Dire, Kewold Stronghold, 23.00, Incubi's Iron Of The Dawn , 290.00, 399.00, 800.00, 115710.00, 232000.00, 79973.30, 427683.30
+4535, Storm Squallmourner, The Vaults of the Shadow Emperor, 5.00, Sprites' Transcendent Mud Lead Of The South , 58.00, 419.00, 260.00, 24302.00, 15080.00, 1969.10, 41351.10
+4972, Storm Seraphheart, Citadel Ward, 14.00, Forgotten Mithril , 164.00, 793.00, 940.00, 130052.00, 154160.00, 39789.68, 324001.68

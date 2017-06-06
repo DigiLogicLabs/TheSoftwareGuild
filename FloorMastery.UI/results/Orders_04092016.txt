@@ -1,0 +1,11 @@
+344, Harmony Angelchild, The Lazy Sage, 9.00, Meteoric Mirrormuck Orichalcum Of The Forests , 146.00, 136.00, 65.00, 19856.00, 9490.00, 2641.14, 31987.14
+785, Rose Anchor, The Bastion of Barbos, 18.00, Shadowhell Mithril , 255.00, 231.00, 848.00, 58905.00, 216240.00, 49526.10, 324671.10
+1236, "Iran, Lord of Nightmares", The Tower of Sheshbazzu, 15.00, Mithril Of Legend , 231.00, 382.00, 657.00, 88242.00, 151767.00, 36001.35, 276010.35
+1683, Cult Godseeker, The Fortress of Gama, 5.00, Mind Lead , 150.00, 143.00, 486.00, 21450.00, 72900.00, 4717.50, 99067.50
+2123, Zeal Bladewitch, The Pirate's Pipe, 14.00, Shadowhell Mithril , 87.00, 231.00, 848.00, 20097.00, 73776.00, 13142.22, 107015.22
+2573, Maverick Wind, The Hunter and Rose, 2.00, , , , 65.00, , , , 
+3031, "Maglioneth, Lord of the Sun", The Black Barrow of Bery, 21.00, Violetstone Tin Of Death , 216.00, 246.00, 251.00, 53136.00, 54216.00, 22543.92, 129895.92
+3489, "Addon, Lord of Death", Minas Gilloy, 20.00, Shadow Metal , 262.00, 881.00, 254.00, 230822.00, 66548.00, 59474.00, 356844.00
+3955, "Nelalwe, Lady of Fire", Hafeld Keep, 0.00, Shadow Steel , 170.00, 841.00, 440.00, 142970.00, 74800.00, 0.00, 217770.00
+4398, "Addon, Lord of Death", Grori's Deep, 4.00, Negative Mercury , 332.00, 278.00, 408.00, 92296.00, 135456.00, 9110.08, 236862.084398, "Addon, Lord of Death", Grori's Deep, 4.00, Negative Mercury , 332.00, 278.00, 408.00, 92296.00, 135456.00, 9110.08, 236862.08
+4839, "Byzou, God of Animals", The Black Barrow of Zago the Possessed, 23.00, Goddesses' Spectral Poison Steel , 251.00, 455.00, 483.00, 114205.00, 121233.00, 54150.74, 289588.74

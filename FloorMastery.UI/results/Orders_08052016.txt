@@ -1,0 +1,11 @@
+254, Bedlam Spiritraven, Reyny Keep, 14.00, Timeiron , 296.00, 537.00, 965.00, 158952.00, 285640.00, 62242.88, 506834.88
+703, Dawn Darkzealot, The Bastion of Gothmog of Udun, 18.00, Lunar Bronze , 162.00, 981.00, 558.00, 158922.00, 90396.00, 44877.24, 294195.24
+1145, Grave Mistseeker, The Barrow of Malefic Ages, 13.00, Icy Shock Silver , 214.00, 102.00, 540.00, 21828.00, 115560.00, 17860.44, 155248.44
+1595, Law Lionwatcher, The Black Barrow of Zago the Possessed, 23.00, Heavenly Dreamsilver Of The Night , 97.00, 328.00, 692.00, 31816.00, 67124.00, 22756.20, 121696.20
+2030, Seraph Jester, The Dungeon of Merciless Woe, 23.00, Fleshshock Mercury , 334.00, 667.00, 852.00, 222778.00, 284568.00, 116689.58, 624035.58
+2481, "Azah, Goddess of Fate", The Fortress of the Lich Queen, 6.00, Imperial Fate Steel , 93.00, 324.00, 356.00, 30132.00, 33108.00, 3794.40, 67034.40
+2935, Maverick Wind, Lordsgate Farthing, 17.00, Mistgold Of Men , 240.00, 459.00, 640.00, 110160.00, 153600.00, 44839.20, 308599.20
+3393, "Eumyan, Goddess of Law", Bifar's Deep, 3.00, Incubi's Glittering Tin Of The Future , 197.00, 247.00, 493.00, 48659.00, 97121.00, 4373.40, 150153.40
+3860, Rose Anchor, The Bastion of the Vampire Duke, 18.00, Phantasmal Plague Adamant , 193.00, 831.00, 728.00, 160383.00, 140504.00, 54159.66, 355046.66
+4307, "Alik, Goddess of Trickery", The Archer and Blade, 18.00, Vampires' Hammer Emeraldmetal , 218.00, 191.00, 47.00, 41638.00, 10246.00, 9339.12, 61223.12
+4751, Seraph Jester, The Tower of Sheshbazzu, 15.00, Otherworldly Mirror Orichalcum , 114.00, 849.00, 283.00, 96786.00, 32262.00, 19357.20, 148405.204751, Seraph Jester, The Tower of Sheshbazzu, 15.00, Otherworldly Mirror Orichalcum , 114.00, 849.00, 283.00, 96786.00, 32262.00, 19357.20, 148405.20

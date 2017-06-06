@@ -1,0 +1,11 @@
+295, "Sielach, God of Fate", The Temple of Merciless Necromancy, 1.00, Djinni's Evil Sandobsidian Steel Of The Future , 121.00, 319.00, 845.00, 38599.00, 102245.00, 1408.44, 142252.44
+739, "Maeglodor, God of Thieves", Cawold Castle, 4.00, Rocklava Mithril Of Revenants , 232.00, 169.00, 287.00, 39208.00, 66584.00, 4231.68, 110023.68
+1185, Song Runetomb, The Fortress of Akkun the Grim, 18.00, Unholy Poison Copper Of The Mountains , 342.00, 439.00, 495.00, 150138.00, 169290.00, 57497.04, 376925.04
+1637, Sephiroth Drakecaster, Palace Farthing, 12.00, Primal Adamant , 356.00, 878.00, 482.00, 312568.00, 171592.00, 58099.20, 542259.20
+2071, "Azah, Goddess of Fate", Citadel Ward, 14.00, Toxin Iceplatinum Of The Undead , 208.00, 146.00, 665.00, 30368.00, 138320.00, 23616.32, 192304.32
+2524, Harmony Angelchild, The Barrow of Malefic Ages, 13.00, Hidden Shadowice Lead , 257.00, 241.00, 199.00, 61937.00, 51143.00, 14700.40, 127780.40
+ 2981,    Seraph Jester,  The Nulukkhath Spires,      20.00,   Starlight Pearldream Bronze ,      231.00,      441.00,      906.00,        101871.00,     209286.00,    62231.40,    373388.40
+1,"Eumyan, Goddess of Law",Noble's Village,5.00,Ensorceled Gold Of The Dawn ,223.00,512.00,310.00,114176.00,69130.00,9165.30,192471.30
+3904, "Byzou, God of Animals", The Secret Shrine of the Gargoyle Count, 24.00, Glittering Orichalcum , 288.00, 425.00, 275.00, 122400.00, 79200.00, 48384.00, 249984.00
+4347, "Nelalwe, Lady of Fire", Archfane District, 18.00, Toxic Mistlead Of The Past , 284.00, 788.00, 986.00, 223792.00, 280024.00, 90686.88, 594502.88
+4791, Tiger Mistmidnight, The Shadow Downs, 2.00, Heavenly Dreamsilver Of The Night , 326.00, 328.00, 692.00, 106928.00, 225592.00, 6650.40, 339170.40

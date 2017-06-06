@@ -1,0 +1,11 @@
+434, Cult Godseeker, The Fen of the Necromancer, 15.00, Nymphs' Luminous Rotmercury Of The Skies , 221.00, 453.00, 202.00, 100113.00, 44642.00, 21713.25, 166468.25
+878, "Eumyan, Goddess of Law", The Chuallanto Jungle, 1.00, Nymphs' Luminous Rotmercury Of The Skies , 210.00, 453.00, 202.00, 95130.00, 42420.00, 1375.50, 138925.50
+1325, Rune Rougehate, Bergfison's Deep, 18.00, Thunderbirds' Transcendent Dreamiron , 277.00, 989.00, 65.00, 273953.00, 18005.00, 52552.44, 344510.44
+1776, Harmony Angelchild, The Pilgrim's Cup, 21.00, Swordbronze , 94.00, 860.00, 746.00, 80840.00, 70124.00, 31702.44, 182666.44
+2208, Wind Dire, Tower Farthing, 2.00, Ghostly Magic Adamant , 245.00, 499.00, 881.00, 122255.00, 215845.00, 6762.00, 344862.00
+2666, "Gadriel, God of Resurrection", Gena's Hold, 8.00, Incubi's Mirrorfog Iron Of The Ocean , 319.00, 22.00, 675.00, 7018.00, 215325.00, 17787.44, 240130.44
+3123, "Alik, Goddess of Trickery", The Dungeon of Dismal Terror, 22.00, Incubi's Mirrorfog Iron Of The Ocean , 148.00, 22.00, 675.00, 3256.00, 99900.00, 22694.32, 125850.32
+3583, Fate Seeker, Pawic Keep, 0.00, Mithril Of Legend , 217.00, 382.00, 657.00, 82894.00, 142569.00, 0.00, 225463.00
+4046, Gale Jackalguard, Gili's Delve, 7.00, Yellow Mistearth Copper , 256.00, 408.00, 996.00, 104448.00, 254976.00, 25159.68, 384583.68
+4489, "Sielach, God of Fate", The Desert of Flames, 16.00, Sphinxes' Mistsoul Bronze Of The Past , 221.00, 694.00, 650.00, 153374.00, 143650.00, 47523.84, 344547.84
+4924, Song Runetomb, The Forsaken Delve of Lord Greywulf, 8.00, White Platinum , 258.00, 795.00, 200.00, 205110.00, 51600.00, 20536.80, 277246.80

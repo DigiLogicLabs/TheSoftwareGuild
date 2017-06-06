@@ -1,0 +1,11 @@
+308, "Selik, God of Death", The Broken Arrow, 22.00, Rocklava Mithril Of Revenants , 128.00, 169.00, 287.00, 21632.00, 36736.00, 12840.96, 71208.96
+752, Law Lionwatcher, The Archer and Scroll, 11.00, Rot Silver Of The Past , 250.00, 267.00, 280.00, 66750.00, 70000.00, 15042.50, 151792.50
+1199, Flora Amberslayer, The Cracked Chalice, 22.00, Incubi's Glittering Tin Of The Future , 14.00, 247.00, 493.00, 3458.00, 6902.00, 2279.20, 12639.20
+1648, "Alas, Lord of Plague", Archscepter Borough, 8.00, Primal Adamant , 135.00, 878.00, 482.00, 118530.00, 65070.00, 14688.00, 198288.00
+2084, "Penur, Lord of the Sea", Archtemple District, 4.00, Unholy Poison Copper Of The Mountains , 204.00, 439.00, 495.00, 89556.00, 100980.00, 7621.44, 198157.44
+2536, Lance Knightseraph, Peley Keep, 24.00, Magic Adamant , 72.00, 746.00, 526.00, 53712.00, 37872.00, 21980.16, 113564.16
+2995, "Finarfin, God of Protection", Mahyrst Keep, 18.00, Toxin Iceplatinum Of The Undead , 274.00, 146.00, 665.00, 40004.00, 182210.00, 39998.52, 262212.52
+3449, Seraphim Tsunami, The Desert of Flames, 16.00, Incubi's Iron Of The Dawn , 182.00, 399.00, 800.00, 72618.00, 145600.00, 34914.88, 253132.88
+3917, Sunrise Godwarlock, Archfane District, 18.00, Ensorceled Gold Of The Dawn , 151.00, 512.00, 310.00, 77312.00, 46810.00, 22341.96, 146463.96
+4361, Storm Squallmourner, The Citadel of Lord Greywulf, 0.00, Icy Shock Silver , 173.00, 102.00, 540.00, 17646.00, 93420.00, 0.00, 111066.00
+

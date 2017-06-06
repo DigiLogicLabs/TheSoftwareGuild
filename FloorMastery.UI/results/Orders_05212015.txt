@@ -1,0 +1,11 @@
+429, Lightning Brand, The Scoundrel and Flask, 23.00, Foulopal Copper Of The Skies , 312.00, 170.00, 101.00, 53040.00, 31512.00, 19446.96, 103998.96
+873, "Alik, Goddess of Trickery", The Fen of the Necromancer, 15.00, God-touched Greengem Platinum , 314.00, 501.00, 796.00, 157314.00, 249944.00, 61088.70, 468346.70
+1320, Song Runetomb, The Tower of the Demon Warlord, 3.00, Primal Adamant , 157.00, 878.00, 482.00, 137846.00, 75674.00, 6405.60, 219925.60
+1772, Rouge Tombreaper, The Pirate's Pipe, 14.00, Negative Rockglitter Mercury Of Trolls , 138.00, 216.00, 497.00, 29808.00, 68586.00, 13775.16, 112169.16
+2203, Lightning Brand, The Temple of Merciless Necromancy, 1.00, Sirens' Rockgold , 293.00, 792.00, 901.00, 232056.00, 263993.00, 4960.49, 501009.49
+2661, "Lionare, God of the Lost", Grori's Deep, 4.00, Planar Mudtin Of Trolls , 290.00, 817.00, 654.00, 236930.00, 189660.00, 17063.60, 443653.60
+3119, Sephiroth Drakecaster, The Chuallanto Jungle, 1.00, Toxic Mistlead Of The Past , 254.00, 788.00, 986.00, 200152.00, 250444.00, 4505.96, 455101.96
+3579, Jericho Wolf, The Fortress of Akkun the Grim, 18.00, Planar Mudtin Of Trolls , 138.00, 817.00, 654.00, 112746.00, 90252.00, 36539.64, 239537.64
+4042, "Gono, Goddess of the Earth", Peley Keep, 24.00, Grayplatinum , 30.00, 45.00, 526.00, 1350.00, 15780.00, 4111.20, 21241.20
+4484, Harmony Angelchild, Bergfison's Deep, 18.00, Tin Of The Tundra , 242.00, 479.00, 294.00, 115918.00, 71148.00, 33671.88, 220737.88
+4919, "Finarfin, God of Protection", Archscepter Borough, 8.00, Hidden Shadowice Lead , 165.00, 241.00, 199.00, 39765.00, 32835.00, 5808.00, 78408.00

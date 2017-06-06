@@ -1,0 +1,11 @@
+168, "Iran, Lord of Nightmares", The Bastion of Sthasu the Gruesome, 0.00, Ensorceled Gold Of The Dawn , 321.00, 512.00, 310.00, 164352.00, 99510.00, 0.00, 263862.00
+620, Law Lionwatcher, Shainan's Hold, 15.00, Mind Lead , 194.00, 143.00, 486.00, 27742.00, 94284.00, 18303.90, 140329.90
+1059, "Nelalwe, Lady of Fire", The Tower of Sabiesu the Awesome, 18.00, Angels' Adamant , 355.00, 189.00, 157.00, 67095.00, 55735.00, 22109.40, 144939.40
+1507, Claw Mist, Unicorn's Ward, 1.00, Devils' Falserot Silver , 291.00, 755.00, 915.00, 219705.00, 266265.00, 4859.70, 490829.70
+1948, Clash Lonedrake, The Flying Witch, 13.00, Sirens' Rockgold , 293.00, 792.00, 901.00, 232056.00, 263993.00, 64486.37, 560535.37
+2393, "Nelalwe, Lady of Fire", The Citadel of Lord Greywulf, 0.00, Fleshshock Mercury , 85.00, 667.00, 852.00, 56695.00, 72420.00, 0.00, 129115.00
+.2848,Song Runetomb,Hartshill Ward,.11.00,Starlight Pearldream Bronze ,.310.00,.441.00,.906.00,.136710.00,.280860.00,.45932.70,.463502.70
+3306, "Penur, Lord of the Sea", The Forsaken Sepulcher of Sorrows, 12.00, Tin Of The Tundra , 349.00, 479.00, 294.00, 167171.00, 102606.00, 32373.24, 302150.24
+3773, Tiger Mistmidnight, Minas Gilloy, 20.00, Shadowy Adamant , 229.00, 585.00, 941.00, 133965.00, 215489.00, 69890.80, 419344.80
+4224, "Suriel, Lord of Animals", The Forsaken Hive of Galima the Mighty, 4.00, Dragons' Poison Glitterflesh Steel Of The North , 164.00, 941.00, 559.00, 154324.00, 91676.00, 9840.00, 255840.00
+4666, Rouge Tombreaper, Mahyrst Keep, 18.00, Angels' Smoke Adamant Of The Mountains , 274.00, 694.00, 967.00, 190156.00, 264958.00, 81920.52, 537034.52

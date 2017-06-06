@@ -1,0 +1,12 @@
+16, "Addon, Lord of Death", The Bastion of Barbos, 18.00, Mithril Of The Tropics , 265.00, 386.00, 319.00, 102290.00, 84535.00, 33628.50, 220453.50
+4,Wind Dire,The Tower of Aramum,9.00,Unholy Poison Copper Of The Mountains ,182.00,439.00,495.00,79898.00,90090.00,15298.92,185286.92
+904, "Ariel, God of Luck", Pawic Keep, 0.00, Evilsilver , 128.00, 814.00, 264.00, 104192.00, 33792.00, 0.00, 137984.00
+1351, Clash Lonedrake, Weke Tower, 23.00, Negative Mercury , 172.00, 278.00, 408.00, 47816.00, 70176.00, 27138.16, 145130.16
+1800, Valentine Lawslayer, The Lazy Sage, 9.00, Incubi's Mirrorfog Iron Of The Ocean , 36.00, 22.00, 675.00, 792.00, 24300.00, 2258.28, 27350.28
+2231, Shadow Tomblion, The Forsaken Delve of Lord Greywulf, 8.00, Unknowable Mindsilver , 312.00, 578.00, 938.00, 180336.00, 292656.00, 37839.36, 510831.36
+2689, Song Runetomb, Eved Castle, 2.00, Otherworldly Mirror Orichalcum , 327.00, 849.00, 283.00, 277623.00, 92541.00, 7403.28, 377567.28
+3149, Sunset Knightclaw, The Bastion of the Vampire Duke, 18.00, Starsmoke Bronze Of Life , 176.00, 618.00, 647.00, 108768.00, 113872.00, 40075.20, 262715.20
+3609, Fate Ivycaster, Arcanist's Farthing, 6.00, Sphinxes' Mistsoul Bronze Of The Past , 180.00, 694.00, 650.00, 124920.00, 117000.00, 14515.20, 256435.20
+4070, Bedlam Spiritraven, The Glano Forest, 22.00, Sphinxes' Unknown Poisongold Of The Future , 60.00, 43.00, 998.00, 2580.00, 59880.00, 13741.20, 76201.20
+4513, "Ariel, God of Luck", Reyny Keep, 14.00, Otherworldly Truesoul Orichalcum Of The East , 190.00, 636.00, 780.00, 120840.00, 148200.00, 37665.60, 306705.60
+4949, "Alas, Lord of Plague", Archring Borough, 0.00, Foulopal Copper Of The Skies , 138.00, 170.00, 101.00, 23460.00, 13938.00, 0.00, 37398.00

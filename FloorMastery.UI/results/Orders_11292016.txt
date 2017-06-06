@@ -1,0 +1,11 @@
+ 149,    Storm Seraphheart,      Kada's Deep,   14.00,   Fairies' Supreme Mistsmoke Lead Of The Future ,        181.00,     489.00,     658.00,      88509.00,      119098.00,            29064.98,       236671.98
+601, Dagger Reaper, Cawold Castle, 4.00, Vampires' Hammer Emeraldmetal , 260.00, 191.00, 47.00, 49660.00, 12220.00, 2475.20, 64355.20601, Dagger Reaper, Cawold Castle, 4.00, Vampires' Hammer Emeraldmetal , 260.00, 191.00, 47.00, 49660.00, 12220.00, 2475.20, 64355.20
+1042, Lightning Brand, The Archer and Blade, 18.00, Negative Rockglitter Mercury Of Trolls , 262.00, 216.00, 497.00, 56592.00, 130214.00, 33625.08, 220431.08
+1487, Harmony Angelchild, Gena's Hold, 8.00, Shadowy Adamant , 172.00, 585.00, 941.00, 100620.00, 161852.00, 20997.76, 283469.76
+1931, Lightning Brand, North Arcanist's Farthing, 6.00, Mithril Of Legend , 295.00, 382.00, 657.00, 112690.00, 193815.00, 18390.30, 324895.30
+2373, Slayer Claw, Bergfison's Deep, 18.00, Ensorceled Sandmetal Of Spirits , 168.00, 671.00, 431.00, 112728.00, 72408.00, 33324.48, 218460.48
+2827, Dagger Reaper, The Broken Shield, 7.00, Glowpearl Adamant Of Spirits , 373.00, 669.00, 534.00, 249537.00, 199182.00, 31410.33, 480129.33
+3286, Flora Amberslayer, The Hunter and Rose, 2.00, Swordbronze , 227.00, 860.00, 746.00, 195220.00, 169342.00, 7291.24, 371853.24
+3752, Bane Veil, Palace Farthing, 12.00, God-touched Faterainbow Orichalcum Of Spectres , 152.00, 43.00, 406.00, 6536.00, 61712.00, 8189.76, 76437.76
+4207, "Avriel, God of Death", Barad Kesa, 17.00, Mithril Of The Tropics , 375.00, 386.00, 319.00, 144750.00, 119625.00, 44943.75, 309318.75
+4649, Dawn Darkzealot, Pawic Keep, 0.00, Golems' Stonesapphire Gold Of The Glacier , 223.00, 705.00, 952.00, 157215.00, 212296.00, 0.00, 369511.00

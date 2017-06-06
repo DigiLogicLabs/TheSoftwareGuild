@@ -1,0 +1,11 @@
+297, Slayer Claw, Ring District, 23.00, Sphinxes' Opalpearl Platinum Of Legend , 132.00, 461.00, 403.00, 60852.00, 53196.00, 26231.04, 140279.04
+741, "Maglioneth, Lord of the Sun", Barad Cune, 21.00, Mithril Of The Tropics , 231.00, 386.00, 319.00, 89166.00, 73689.00, 34199.55, 197054.55
+1187, Flora Amberslayer, The Cuitamba Jungle, 22.00, Violetdream Iron , 118.00, 948.00, 922.00, 111864.00, 108796.00, 48545.20, 269205.20
+1639, Valentine Lawslayer, The Forsaken Sepulcher of Sorrows, 12.00, Muck Orichalcum Of Ogres , 251.00, 983.00, 395.00, 246733.00, 99145.00, 41505.36, 387383.36
+2073, "Suriel, Lord of Animals", The Nulukkhath Spires, 20.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 286.00, 313.00, 673.00, 89518.00, 192478.00, 56399.20, 338395.20
+2525, Rouge Roguemist, The Fortress of Akkun the Grim, 18.00, Rainbowglitter Tin , 262.00, 496.00, 595.00, 129952.00, 155890.00, 51451.56, 337293.56
+2983, Maverick Wind, Peley Keep, 24.00, Magicians' Legendary Poison Metal , 151.00, 768.00, 160.00, 115968.00, 24160.00, 33630.72, 173758.72
+3437, "Alas, Lord of Plague", Unicorn's Ward, 1.00, Phantasmal Plague Adamant , 224.00, 831.00, 728.00, 186144.00, 163072.00, 3492.16, 352708.16
+3906, "Prusu, God of Love", The Fen of the Necromancer, 15.00, Pearl Mirrorice Steel Of Changelings , 155.00, 474.00, 715.00, 73470.00, 110825.00, 27644.25, 211939.25
+4349, "Ingwenel, God of War", The Fen of the Necromancer, 15.00, Trolls' Mist Poisonplatinum Of The Twilight , 128.00, 990.00, 430.00, 126720.00, 55040.00, 27264.00, 209024.00
+4793, Lightning Brand, The Tower of Aces the Accursed, 3.00, Otherworldly Mirror Orichalcum , 225.00, 849.00, 283.00, 191025.00, 63675.00, 7641.00, 262341.00

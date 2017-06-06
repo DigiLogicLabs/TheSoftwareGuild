@@ -1,0 +1,11 @@
+397, "Prusu, God of Love", The Citadel of Alammius, 24.00, Fog Lavaplatinum Of Life , 227.00, 967.00, 333.00, 219509.00, 75591.00, 70824.00, 365924.00
+837, Rouge Tombreaper, Shainan's Hold, 15.00, Foul Ice Bronze Of Life , 249.00, 168.00, 97.00, 41832.00, 24153.00, 9897.75, 75882.75
+1286, Clash Lonedrake, Gawold Castle, 6.00, Toxin Iceplatinum Of The Undead , 49.00, 146.00, 665.00, 7154.00, 32585.00, 2384.34, 42123.34
+1737, Bedlam Spiritraven, Archring Borough, 0.00, Golems' Stonesapphire Gold Of The Glacier , 123.00, 705.00, 952.00, 86715.00, 117096.00, 0.00, 203811.00
+2172, "Ahah, Goddess of Knowledge", Reyny Keep, 14.00, Violetstone Tin Of Death , 202.00, 246.00, 251.00, 49692.00, 50702.00, 14055.16, 114449.16
+2627, "Melcha, Goddess of Thieves", Love Keep, 4.00, Litches' Fatal Mithril Of The Past , 232.00, 654.00, 602.00, 151728.00, 139664.00, 11655.68, 303047.68
+3083, Jericho Wolf, Archtemple District, 4.00, Unicorns' Fatal Magma Metal Of The Ocean , 78.00, 142.00, 749.00, 11076.00, 58422.00, 2779.92, 72277.92
+3542, Shadow Tomblion, The Citadel of Cheno, 0.00, Primordial False Gold , 166.00, 354.00, 602.00, 58764.00, 99932.00, 0.00, 158696.00
+4008, Sunrise Godwarlock, Bifar's Deep, 3.00, Incubi's Mirrorfog Iron Of The Ocean , 203.00, 22.00, 675.00, 4466.00, 137025.00, 4244.73, 145735.73
+4448, Tiger Mistmidnight, The Tomb of Hellish Ruin, 14.00, Sphinxes' Mistsoul Bronze Of The Past , 309.00, 694.00, 650.00, 214446.00, 200850.00, 58141.44, 473437.44
+4886, Fate Ivycaster, The Bastion of the Lich Tyrant, 10.00, Djinni's Evil Sandobsidian Steel Of The Future , 241.00, 319.00, 845.00, 76879.00, 203645.00, 28052.40, 308576.404886, Fate Ivycaster, The Bastion of the Lich Tyrant, 10.00, Djinni's Evil Sandobsidian Steel Of The Future , 241.00, 319.00, 845.00, 76879.00, 203645.00, 28052.40, 308576.40

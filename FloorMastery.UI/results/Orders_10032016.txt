@@ -1,0 +1,11 @@
+201, Song Runetomb, The Greedy Wench, 8.00, Dragons' Poison Glitterflesh Steel Of The North , 189.00, 941.00, 559.00, 177849.00, 105651.00, 22680.00, 306180.00
+651, "Iran, Lord of Nightmares", The Secret Catacombs of Ulfang the Black, 0.00, Golems' Stonesapphire Gold Of The Glacier , 286.00, 705.00, 952.00, 201630.00, 272272.00, 0.00, 473902.00
+1091, "Uriel, God of Fate", The Forsaken Delve of Lord Greywulf, 8.00, God-touched Faterainbow Orichalcum Of Spectres , 190.00, 43.00, 406.00, 8170.00, 77140.00, 6824.80, 92134.80
+1542, Valentine Lawslayer, The Desert of Flames, 16.00, Rainbowglitter Tin , 111.00, 496.00, 595.00, 55056.00, 66045.00, 19376.16, 140477.16
+1977, Cult Godseeker, Boiaburh Keep, 11.00, Violetstone Tin Of Death , 167.00, 246.00, 251.00, 41082.00, 41917.00, 9129.89, 92128.89
+2426, Jericho Wolf, Gena's Hold, 8.00, Violetstone Tin Of Death , 210.00, 246.00, 251.00, 51660.00, 52710.00, 8349.60, 112719.60
+2883, "Ahah, Goddess of Knowledge", Bergfison's Deep, 18.00, Muck Orichalcum Of Ogres , 323.00, 983.00, 395.00, 317509.00, 127585.00, 80116.92, 525210.92
+3338, Harmony Angelchild, Bifar's Deep, 3.00, Dragons' Poison Glitterflesh Steel Of The North , 229.00, 941.00, 559.00, 215489.00, 128011.00, 10305.00, 353805.00
+3805, Rouge Tombreaper, Gili's Delve, 7.00, Otherworldly Mirror Orichalcum , 237.00, 849.00, 283.00, 201213.00, 67071.00, 18779.88, 287063.88
+3,"Byzou, God of Animals",The Dark Caverns of Woe,3.00,Meteoric Dustzephyr Orichalcum ,191.00,232.00,37.00,44312.00,7067.00,1541.37,52920.37
+4,"Maeglodor, God of Thieves",The Tower of Aces the Accursed,3.00,Muck Orichalcum Of Ogres ,367.00,983.00,395.00,360761.00,144965.00,15171.78,520897.78

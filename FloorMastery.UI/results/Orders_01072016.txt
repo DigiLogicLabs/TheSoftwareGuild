@@ -1,0 +1,11 @@
+382, "Lionare, God of the Lost", Kada's Deep, 14.00, Sphinxes' Mistsoul Bronze Of The Past , 262.00, 694.00, 650.00, 181828.00, 170300.00, 49297.92, 401425.92
+820, Magus Felldrake, Gena's Hold, 8.00, Unicorns' Fatal Magma Metal Of The Ocean , 235.00, 142.00, 749.00, 33370.00, 176015.00, 16750.80, 226135.80
+1270, "Suriel, Lord of Animals", Reheath Stronghold, 11.00, Unicorns' Fatal Magma Metal Of The Ocean , 107.00, 142.00, 749.00, 15194.00, 80143.00, 10487.07, 105824.07
+1719, , The Archer and Blade, 18.00, Primal Adamant , , 878.00, , 94824.00, 52056.00, 26438.40, 173318.40
+2156, Bedlam Spiritraven, Grori's Deep, 4.00, Swordbronze , 247.00, 860.00, 746.00, 212420.00, 184262.00, 15867.28, 412549.28
+2611, "Melcha, Goddess of Thieves", The Black Barrow of Zago the Possessed, 23.00, Poison Adamant , 136.00, 952.00, 349.00, 129472.00, 47464.00, 40695.28, 217631.28
+3066, Rouge Roguemist, The Barrow of Malefic Ages, 13.00, Legendary Mithril Of The Moon , 229.00, 281.00, 801.00, 64349.00, 183429.00, 32211.14, 279989.14
+3526, Tarot Dawn, The Tomb of Gothmog of Udun, 1.00, Trolls' Mist Poisonplatinum Of The Twilight , 280.00, 990.00, 430.00, 277200.00, 120400.00, 3976.00, 401576.00
+3992, "Melcha, Goddess of Thieves", Khali's Delve, 7.00, Greenlead , 207.00, 518.00, 166.00, 107226.00, 34362.00, 9911.16, 151499.16
+4432, Gale Jackalguard, The Fortress of Gama, 5.00, Devils' Falserot Silver , 106.00, 755.00, 915.00, 80030.00, 96990.00, 8851.00, 185871.00
+4871, Clash Lonedrake, The Black Barrow of Bery, 21.00, Spectres' Shadowy Terrorglow Adamant Of Life , 82.00, 944.00, 533.00, 77408.00, 43706.00, 25433.94, 146547.94

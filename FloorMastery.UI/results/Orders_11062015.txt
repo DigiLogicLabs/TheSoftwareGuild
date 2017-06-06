@@ -1,0 +1,11 @@
+403, Cult Godseeker, The Pilgrim's Cup, 21.00, Shadow Steel , 104.00, 841.00, 440.00, 87464.00, 45760.00, 27977.04, 161201.04
+843, Sephiroth Drakecaster, , , , 178.00, 707.00, 602.00, 125846.00, 107156.00, , 
+1292, "Selik, God of Death", The Fortress of Asmamur, 7.00, Shadow Metal , 303.00, 881.00, 254.00, 266943.00, 76962.00, 24073.35, 367978.35
+1744, Cult Godseeker, Lacot Stronghold, 7.00, Zephyr Adamant , 192.00, 215.00, 3.00, 41280.00, 576.00, 2929.92, 44785.92
+   2178,    Magus Felldrake,    Archfane District,      18.00,     Fog Lavaplatinum Of Life ,      106.00,     967.00,      333.00,        102502.00,   35298.00,      24804.00,     162604.00
+2634, Storm Seraphheart, The Khazahol Crags, 22.00, Ensorceled Sandmetal Of Spirits , 109.00, 671.00, 431.00, 73139.00, 46979.00, 26425.96, 146543.96
+3090, Sunset Knightclaw, The Dread Hive of Illfang the Kobold Lord, 8.00, Angels' Adamant , 197.00, 189.00, 157.00, 37233.00, 30929.00, 5452.96, 73614.96
+3549, "Alas, Lord of Plague", The Dread Hive of Illfang the Kobold Lord, 8.00, Spectres' Shadowy Terrorglow Adamant Of Life , 221.00, 944.00, 533.00, 208624.00, 117793.00, 26113.36, 352530.36
+4014, "Uriel, God of Fate", Arcanist's Farthing, 6.00, Sapphire Mindlead , 105.00, 608.00, 90.00, 63840.00, 9450.00, 4397.40, 77687.40
+4455, Dawn Darkzealot, Grori's Deep, 4.00, Ensorceled Sandmetal Of Spirits , 322.00, 671.00, 431.00, 216062.00, 138782.00, 14193.76, 369037.76
+4892, "Gono, Goddess of the Earth", Gili's Delve, 7.00, Warlocks' Timerot Mithril , 325.00, 368.00, 575.00, 119600.00, 186875.00, 21453.25, 327928.25

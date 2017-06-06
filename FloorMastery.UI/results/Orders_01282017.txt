@@ -1,0 +1,11 @@
+100, "Finarfin, God of Protection", Bergfison's Deep, 18.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 345.00, 313.00, 673.00, 107985.00, 232185.00, 61230.60, 401400.60
+
+989, Rune Rougehate, The Tower of Sheshbazzu, 15.00, Primal Adamant , 165.00, 878.00, 482.00, 144870.00, 79530.00, 33660.00, 258060.00
+1434, Shadow Tomblion, The Tomb of Hellish Ruin, 14.00, Planar Mudtin Of Trolls , 147.00, 817.00, 654.00, 120099.00, 96138.00, 30273.18, 246510.18
+1882, Song Runetomb, Bifar's Deep, 3.00, Negative Rockglitter Mercury Of Trolls , 347.00, 216.00, 497.00, 74952.00, 172459.00, 7422.33, 254833.33
+.2317,"Suriel, Lord of Animals",The Shadow Downs,.2.00,Starsmoke Bronze Of Life ,.75.00,.618.00,.647.00,.46350.00,.48525.00,.1897.50,.96772.50
+2776, "Finarfin, God of Protection", The Tower of Aces the Accursed, 3.00, Legendary Mithril Of The Moon , 176.00, 281.00, 801.00, 49456.00, 140976.00, 5712.96, 196144.96
+3234, Sephiroth Drakecaster, Bergfison's Deep, 18.00, Sprites' Transcendent Mud Lead Of The South , 197.00, 419.00, 260.00, 82543.00, 51220.00, 24077.34, 157840.34
+3694, Bane Veil, The Chuallanto Jungle, 1.00, Swordbronze , 34.00, 860.00, 746.00, 29240.00, 25364.00, 546.04, 55150.04
+4154, "Gadriel, God of Resurrection", The Bastion of Barbos, 18.00, Djinni's Mind Fogiron , 243.00, 387.00, 164.00, 94041.00, 39852.00, 24100.74, 157993.74
+4595, "Gono, Goddess of the Earth", Gawold Castle, 6.00, Hidden Shadowice Lead , 243.00, 241.00, 199.00, 58563.00, 48357.00, 6415.20, 113335.20

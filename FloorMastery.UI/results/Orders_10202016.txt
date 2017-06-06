@@ -1,0 +1,11 @@
+184, Rune Rougehate, The Fen of the Necromancer, 15.00, Shadow Metal , 169.00, 881.00, 254.00, 148889.00, 42926.00, 28772.25, 220587.25
+638, "Ariel, God of Luck", The Tower of Sheshbazzu, 15.00, Shadow Steel , 148.00, 841.00, 440.00, 124468.00, 65120.00, 28438.20, 218026.20
+1074, "Addon, Lord of Death", Tradun Castle, , Trolls' Rubymercury Of The Sunset , 184.00, 146.00, 782.00, 26864.00, , , 
+1526, Sephiroth Drakecaster, Lacot Stronghold, 7.00, Venom Timegold Of Dwarves , 153.00, 614.00, 432.00, 93942.00, 66096.00, 11202.66, 171240.66
+1962, "Suriel, Lord of Animals", The Shadow Downs, 2.00, Ghostly Magic Adamant , 214.00, 499.00, 881.00, 106786.00, 188534.00, 5906.40, 301226.40
+2411, Law Lionwatcher, The Desert of Flames, 16.00, Unknowable Mindsilver , 279.00, 578.00, 938.00, 161262.00, 261702.00, 67674.24, 490638.24
+2867, Claw Mist, Kewold Stronghold, 23.00, Litches' Fatal Mithril Of The Past , 303.00, 654.00, 602.00, 198162.00, 182406.00, 87530.64, 468098.64
+3322, "Ingwenel, God of War", The Lewd King, 17.00, Mana-touched Greenglitter Gold Of Giants , 165.00, 783.00, 690.00, 129195.00, 113850.00, 41317.65, 284362.65
+3791, "Ariel, God of Luck", The Khazahol Crags, 22.00, Imperial Fate Steel , 300.00, 324.00, 356.00, 97200.00, 106800.00, 44880.00, 248880.00
+4241, Magus Felldrake, The Chuallanto Jungle, 1.00, Stone Soulsteel Of The Skies , 180.00, 493.00, 872.00, 88740.00, 156960.00, 2457.00, 248157.00
+4684, "Selik, God of Death", The Fortress of Gama, 5.00, Litches' Fatal Mithril Of The Past , 325.00, 654.00, 602.00, 212550.00, 195650.00, 20410.00, 428610.00

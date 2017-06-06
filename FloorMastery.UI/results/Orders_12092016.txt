@@ -1,0 +1,11 @@
+143, "Uriel, God of Fate", The Pilgrim's Cup, 21.00, Yellow Mistearth Copper , 197.00, 408.00, 996.00, 80376.00, 196212.00, 58083.48, 334671.48
+591, "Melcha, Goddess of Thieves", South Brightcrown Borough, 0.00, Imperial Fate Steel , 256.00, 324.00, 356.00, 82944.00, 91136.00, 0.00, 174080.00
+1033, Sephiroth Drakecaster, The Forsaken Sepulcher of Sorrows, 12.00, Hell Mercury Of The East , 254.00, 122.00, 838.00, 30988.00, 212852.00, 29260.80, 273100.80
+1477, Lord Mystery, Citadel Ward, 14.00, Phantasmal Smokezephyr Mercury Of Men , 202.00, 918.00, 965.00, 185436.00, 194930.00, 53251.24, 433617.24
+1922, "Zepul, Lady of Vengeance", The Bastion of Barbos, 18.00, Shadow Metal , 372.00, 881.00, 254.00, 327732.00, 94488.00, 75999.60, 498219.60
+2363, Rouge Tombreaper, The Forsaken Delve of Lord Greywulf, 8.00, Mana-touched Greenglitter Gold Of Giants , 235.00, 783.00, 690.00, 184005.00, 162150.00, 27692.40, 373847.40
+2818, Dawn Darkzealot, The Fortress of Asmamur, 7.00, Otherworldly Truesoul Orichalcum Of The East , 351.00, 636.00, 780.00, 223236.00, 273780.00, 34791.12, 531807.12
+3276, Magus Felldrake, Ring District, 23.00, Legendary Mithril Of The Moon , 292.00, 281.00, 801.00, 82052.00, 233892.00, 72667.12, 388611.12
+3742, Valentine Lawslayer, Minas Gilloy, 20.00, Ghostly Soul Adamant , 109.00, 56.00, 682.00, 6104.00, 74338.00, 16088.40, 96530.40
+4197, Sunrise Godwarlock, North Grove Ward, 13.00, Phantasmal Tin Of The Swamps , 149.00, 174.00, 421.00, 25926.00, 62729.00, 11525.15, 100180.15
+4640, Tiger Mistmidnight, Hafeld Keep, 0.00, Shadow Metal , 124.00, 881.00, 254.00, 109244.00, 31496.00, 0.00, 140740.00

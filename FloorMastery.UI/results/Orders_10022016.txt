@@ -1,0 +1,11 @@
+202, Rose Anchor, The Lazy Sage, 9.00, Hidden Shadowice Lead , 333.00, 241.00, 199.00, 80253.00, 66267.00, 13186.80, 159706.80
+652, Grave Mistseeker, The Dread Hive of Illfang the Kobold Lord, 8.00, Sphinxes' Mistsoul Bronze Of The Past , 181.00, 694.00, 650.00, 125614.00, 117650.00, 19461.12, 262725.12
+1092, "Maeglodor, God of Thieves", North Arcanist's Farthing, 6.00, Mana-touched Greenglitter Gold Of Giants , 260.00, 783.00, 690.00, 203580.00, 179400.00, 22978.80, 405958.80
+1543, "Uriel, God of Fate", Fellfen Keep, 11.00, Legendary Mithril Of The Moon , 161.00, 281.00, 801.00, 45241.00, 128961.00, 19162.22, 193364.22
+1978, Claw Mist, The Tower of Aramum, 9.00, Meteoric Dustzephyr Orichalcum , 258.00, 232.00, 37.00, 59856.00, 9546.00, 6246.18, 75648.18
+2427, Cult Godseeker, The Barrow of Malefic Ages, 13.00, Foul Ice Bronze Of Life , 94.00, 168.00, 97.00, 15792.00, 9118.00, 3238.30, 28148.30
+2884, Flora Amberslayer, Bifar's Deep, 3.00, Lunar Bronze , 197.00, 981.00, 558.00, 193257.00, 109926.00, 9095.49, 312278.49
+3339, Law Lionwatcher, , 11.00, Yellow Mistearth Copper , 165.00, , 996.00, , , , 
+3806, "Maglioneth, Lord of the Sun", The Barrow of Terrible Horror, 24.00, Venom Timegold Of Dwarves , 373.00, 614.00, 432.00, 229022.00, 161136.00, 93637.92, 483795.92
+4258, Fate Seeker, Archring Borough, 0.00, Rot Silver Of The Past , 228.00, 267.00, 280.00, 60876.00, 63840.00, 0.00, 124716.00
+4698, Jericho Wolf, The Fortress of the Lich Queen, 6.00, Unicorns' Evil Mithril , 280.00, 334.00, 705.00, 93520.00, 197400.00, 17455.20, 308375.20

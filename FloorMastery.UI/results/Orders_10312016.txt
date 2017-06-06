@@ -1,0 +1,11 @@
+175, Tiger Mistmidnight, The Forsaken Hive of Galima the Mighty, 4.00, Yellow Mistearth Copper , 95.00, 408.00, 996.00, , 94620.00, 5335.20, 
+628, Shadow Tomblion, The Broken Arrow, 22.00, Sphinxes' Mistsoul Bronze Of The Past , 297.00, 694.00, 650.00, 206118.00, 193050.00, 87816.96, 486984.96
+1066, Magus Felldrake, Love Keep, 4.00, Incubi's Glittering Tin Of The Future , 256.00, 247.00, 493.00, 63232.00, 126208.00, 7577.60, 197017.60
+1515, "Suriel, Lord of Animals", Archtemple District, 4.00, Incubi's Iron Of The Dawn , 136.00, 399.00, 800.00, 54264.00, 108800.00, 6522.56, 169586.56
+1953, "Nelalwe, Lady of Fire", The Warrior and Flagon, 0.00, Spirits' Living Wordhammer Tin Of The Trees , 245.00, 533.00, 531.00, 130585.00, 130095.00, 0.00, 260680.00
+2400, "Gadriel, God of Resurrection", Noble's Village, 5.00, Planar Mudtin Of Trolls , 211.00, 817.00, 654.00, 172387.00, 137994.00, 15519.05, 325900.05
+2,"Uriel, God of Fate",Archfane District,18.00,Sapphire Mindlead ,196.00,608.00,90.00,119168.00,17640.00,24625.44,161433.44
+3312, Storm Squallmourner, The Fortress of Akkun the Grim, 18.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 175.00, 676.00, 683.00, 118300.00, 119525.00, 42808.50, 280633.50
+3781, Gale Jackalguard, The Tower of Aramum, 9.00, Emerald Orichalcum , 277.00, 711.00, 570.00, 196947.00, 157890.00, 31935.33, 386772.33
+4231, "Eumyan, Goddess of Law", The Fen of the Necromancer, 15.00, Violetstone Tin Of Death , 84.00, 246.00, 251.00, 20664.00, 21084.00, 6262.20, 48010.20
+4674, "Sielach, God of Fate", The Lost Sanctum of Woe, 12.00, Toxic Mistlead Of The Past , 245.00, 788.00, 986.00, 193060.00, 241570.00, 52155.60, 486785.60

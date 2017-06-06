@@ -1,0 +1,11 @@
+314, Shadow Tomblion, The Tower of Sabiesu the Awesome, 18.00, Timeiron , 237.00, 537.00, 965.00, 127269.00, 228705.00, 64075.32, 420049.32
+760, Zeal Bladewitch, The Desert of Flames, 16.00, Glittering Orichalcum , 55.00, 425.00, 275.00, 23375.00, 15125.00, 6160.00, 44660.00
+1206, "Suriel, Lord of Animals", Castle Village, 17.00, Muck Orichalcum Of Ogres , 144.00, 983.00, 395.00, 141552.00, 56880.00, 33733.44, 232165.44
+1655, "Ahah, Goddess of Knowledge", The Beggar and Cask, 16.00, Thunderbirds' Transcendent Dreamiron , 131.00, 989.00, 65.00, 129559.00, 8515.00, 22091.84, 160165.84
+2091, "Maeglodor, God of Thieves", The Archer and Blade, 18.00, Negative Mercury , 359.00, 278.00, 408.00, 99802.00, 146472.00, 44329.32, 290603.32
+2543, Bane Veil, Barad Cune, 21.00, Spectres' Shadowy Terrorglow Adamant Of Life , 46.00, 944.00, 533.00, 43424.00, 24518.00, 14267.82, 82209.82
+3001, Bane Veil, The Tower of Sabiesu the Awesome, 18.00, Devils' Falserot Silver , 48.00, 755.00, 915.00, 36240.00, 43920.00, 14428.80, 94588.80
+
+3924, Bedlam Spiritraven, The Citadel of Alammius, 24.00, Foulopal Copper Of The Skies , 140.00, 170.00, 101.00, 23800.00, 14140.00, 9105.60, 47045.60
+4368, "Azah, Goddess of Fate", The Scoundrel and Flask, 23.00, Negative Rockglitter Mercury Of Trolls , 206.00, 216.00, 497.00, 44496.00, 102382.00, 33781.94, 180659.94
+4811, Shadow Gust, Grove Farthing, 18.00, Phantasmal Plague Adamant , 167.00, 831.00, 728.00, 138777.00, 121576.00, 46863.54, 307216.54

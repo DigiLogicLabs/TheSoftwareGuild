@@ -1,0 +1,11 @@
+313, "Nelalwe, Lady of Fire", The Nulukkhath Spires, 20.00, Foulopal Copper Of The Skies , 267.00, 170.00, 101.00, 45390.00, 26967.00, 14471.40, 86828.40
+759, Shadow Gust, The Bastion of the Lich Tyrant, 10.00, Phantasmal Smokezephyr Mercury Of Men , 223.00, 918.00, 965.00, 204714.00, 215195.00, 41990.90, 461899.90
+1205, Sephiroth Drakecaster, Arcanist's Farthing, 6.00, Tritons' Time Stoneiron Of Legend , 178.00, 912.00, 866.00, 162336.00, 154148.00, 18989.04, 335473.04
+1654, "Ahah, Goddess of Knowledge", The Dark Caverns of Woe, 3.00, Unicorns' Evil Mithril , 151.00, 334.00, 705.00, 50434.00, 106455.00, 4706.67, 161595.67
+2090, "Lionare, God of the Lost", Gili's Delve, 7.00, Poison Adamant , 269.00, 952.00, 349.00, 256088.00, 93881.00, 24497.83, 374466.83
+2542, "Finarfin, God of Protection", The Temple of Merciless Necromancy, 1.00, Ensorceled Sandmetal Of Spirits , 267.00, 671.00, 431.00, 179157.00, 115077.00, 2942.34, 297176.34
+3000, Tiger Mistmidnight, The Dread Hive of Illfang the Kobold Lord, 8.00, Unknown Fatelightning Steel Of The Glacier , 350.00, 837.00, 700.00, 292950.00, 245000.00, 43036.00, 580986.00
+3456, "Azah, Goddess of Fate", Haukri's Hold, 7.00, Dragons' Poison Glitterflesh Steel Of The North , 226.00, 941.00, 559.00, 212666.00, 126334.00, 23730.00, 362730.00
+3923, Rouge Roguemist, The Bastion of the Vampire Duke, 18.00, Nymphs' Luminous Rotmercury Of The Skies , 265.00, 453.00, 202.00, 120045.00, 53530.00, 31243.50, 204818.50
+4367, Tiger Mistmidnight, , 24.00, , , , 627.00, , , 43318.80, 
+4810, Lance Knightseraph, Tradun Castle, 7.00, Negative Mercury , 310.00, 278.00, 408.00, 86180.00, 126480.00, 14886.20, 227546.20

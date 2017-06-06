@@ -1,0 +1,11 @@
+341, "Finarfin, God of Protection", Archscepter Borough, 8.00, Starsmoke Bronze Of Life , 61.00, 618.00, 647.00, 37698.00, 39467.00, 6173.20, 83338.20
+-782,"Maglioneth, Lord of the Sun",The Bastion of the Vampire Duke,-18.00,Grayplatinum ,-305.00,-45.00,-526.00,-13725.00,-160430.00,-31347.90,-205502.90
+1234, Grave Mistseeker, Archtemple District, 4.00, Goddesses' Spectral Poison Steel , 317.00, 455.00, 483.00, 144235.00, 153111.00, 11893.84, 309239.84
+1680, "Sielach, God of Fate", Unicorn's Ward, 1.00, Magicians' Legendary Poison Metal , 247.00, 768.00, 160.00, 189696.00, 39520.00, 2292.16, 231508.16
+2120, Sephiroth Drakecaster, The Fortress of Gama, 5.00, Starsmoke Bronze Of Life , 166.00, 618.00, 647.00, 102588.00, 107402.00, 10499.50, 220489.50
+2570, Sephiroth Drakecaster, The Barrow of Malefic Ages, 13.00, Glowpearl Adamant Of Spirits , 214.00, 669.00, 534.00, 143166.00, 114276.00, 33467.46, 290909.46
+3028, Dawn Darkzealot, Boiaburh Keep, 11.00, Planar Rainfate Mithril , 334.00, 81.00, 151.00, 27054.00, 50434.00, 8523.68, 86011.68
+3486, "Ariel, God of Luck", The Forsaken Hive of Galima the Mighty, 4.00, Ensorceled Sandmetal Of Spirits , 228.00, 671.00, 431.00, 152988.00, 98268.00, 10050.24, 261306.24
+3952, Tiger Mistmidnight, The Greedy Wench, 8.00, Evilsilver , 102.00, 814.00, 264.00, 83028.00, 26928.00, 8796.48, 118752.48
+4395, Dagger Reaper, Archscepter Borough, 8.00, Mistgold Of Men , 273.00, 459.00, 640.00, 125307.00, 174720.00, 24002.16, 324029.16
+4836, "Lionare, God of the Lost", The Forsaken Delve of Lord Greywulf, 8.00, Shadowy Adamant , 148.00, 585.00, 941.00, 86580.00, 139268.00, 18067.84, 243915.84

@@ -1,0 +1,11 @@
+334, "Prusu, God of Love", The Forsaken Sepulcher of Sorrows, 12.00, Unholy Poison Copper Of The Mountains , 12.00, 439.00, 495.00, 5268.00, 5940.00, 1344.96, 12552.96
+776, Zeal Bladewitch, Weke Tower, 23.00, Legendary Mithril Of The Moon , 331.00, 281.00, 801.00, 93011.00, 265131.00, 82372.66, 440514.66
+1,Cult Godseeker,The Dancing Minstrel,14.00,Magicians' Legendary Poison Metal ,252.00,768.00,160.00,193536.00,40320.00,32739.84,266595.84
+1673, Rouge Tombreaper, Peley Keep, 24.00, God-touched Faterainbow Orichalcum Of Spectres , 323.00, 43.00, 406.00, 13889.00, 131138.00, 34806.48, 179833.48
+2113, Gale Jackalguard, The Flying Witch, 13.00, Mind Lead , 329.00, 143.00, 486.00, 47047.00, 159894.00, 26902.33, 233843.33
+2562, "Baltha, Goddess of Knowledge", The Pilgrim's Cup, 21.00, Phantasmal Lead , 24.00, 88.00, 927.00, 2112.00, 22248.00, 5115.60, 29475.60
+3021, "Selik, God of Death", The Black Barrow of Bery, 21.00, Lycanthropes' Gold , 146.00, 213.00, 171.00, 31098.00, 24966.00, 11773.44, 67837.44
+3478, "Alik, Goddess of Trickery", The Chuallanto Jungle, 1.00, Shadowy Adamant , 43.00, 585.00, 941.00, 25155.00, 40463.00, 656.18, 66274.18
+3945, Rune Rougehate, The Shadow Downs, 2.00, Mind Lead , 128.00, 143.00, 486.00, 18304.00, 62208.00, 1610.24, 82122.24
+4387, Zeal Bladewitch, The Greedy Wench, 8.00, Phantasmal Lead , 184.00, 88.00, 927.00, 16192.00, 170568.00, 14940.80, 201700.80
+4829, "Melcha, Goddess of Thieves", The Citadel of Cheno, 0.00, Phantasmal Tin Of The Swamps , 217.00, 174.00, 421.00, 37758.00, 91357.00, 0.00, 129115.00

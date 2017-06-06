@@ -1,0 +1,11 @@
+383, Jericho Wolf, The Citadel of Alammius, 24.00, Unknowable Mindsilver , 155.00, 578.00, 938.00, 89590.00, 145390.00, 56395.20, 291375.20
+822, "Penur, Lord of the Sea", Weke Tower, 23.00, Mana-touched Greenglitter Gold Of Giants , 134.00, 783.00, 690.00, 104922.00, 92460.00, 45397.86, 242779.86
+1272, "Suriel, Lord of Animals", The Hunter and Rose, 2.00, Unholy Poison Copper Of The Mountains , 293.00, 439.00, 495.00, 128627.00, 145035.00, 5473.24, 279135.24
+1721, Bedlam Spiritraven, Grori's Deep, 4.00, White Platinum , 257.00, 795.00, 200.00, 204315.00, 51400.00, 10228.60, 265943.60
+2158, Shadow Gust, The Chuallanto Jungle, 1.00, Vampires' Hammer Emeraldmetal , 126.00, 191.00, 47.00, 24066.00, 5922.00, 299.88, 30287.88
+2613, "Ahah, Goddess of Knowledge", Grove Farthing, 18.00, Ghostly Magic Adamant , 290.00, 499.00, 881.00, 144710.00, 255490.00, 72036.00, 472236.00
+3068, Dagger Reaper, The Lazy Sage, 9.00, Unspeakable Rotsoul Mithril Of Souls , 154.00, 255.00, 25.00, 39270.00, 3850.00, 3880.80, 47000.80
+3528, Dagger Reaper, The Lazy Sage, 9.00, Shadow Steel , 118.00, 841.00, 440.00, 99238.00, 51920.00, 13604.22, 164762.22
+3994, Fate Seeker, The Archer and Blade, 18.00, Mithril Of Legend , 202.00, 382.00, 657.00, 77164.00, 132714.00, 37778.04, 247656.043994, Fate Seeker, The Archer and Blade, 18.00, Mithril Of Legend , 202.00, 382.00, 657.00, 77164.00, 132714.00, 37778.04, 247656.04
+4434, Tiger Mistmidnight, The Lost Sanctum of Woe, 12.00, Goddesses' Spectral Poison Steel , 133.00, 455.00, 483.00, 60515.00, 64239.00, 14970.48, 139724.48
+4873, Maverick Wind, The Lost Sanctum of Woe, 12.00, Unicorns' Evil Mithril , 188.00, 334.00, 705.00, 62792.00, 132540.00, 23439.84, 218771.84

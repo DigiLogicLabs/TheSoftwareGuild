@@ -1,0 +1,11 @@
+388, Clash Lonedrake, The Cracked Chalice, 22.00, Phantasmal Smokezephyr Mercury Of Men , 143.00, 918.00, 965.00, 131274.00, 137995.00, 59239.18, 328508.18
+-829,"Gono, Goddess of the Earth",The Barrow of Malefic Ages,-13.00,Succubi's Evil Mindzephyr Adamant Of The Desert ,-214.00,-676.00,-683.00,-144664.00,-146162.00,-37807.38,-328633.38
+1279, "Lenwenye, Goddess of Travel", The Bastion of Barbos, 18.00, Emerald Orichalcum , 127.00, 711.00, 570.00, 90297.00, 72390.00, 29283.66, 191970.66
+1728, "Lionare, God of the Lost", The Bastion of Barbos, 18.00, Magicians' Legendary Poison Metal , 314.00, 768.00, 160.00, 241152.00, 50240.00, 52450.56, 343842.56
+2165, Sephiroth Drakecaster, Gawold Castle, 6.00, Otherworldly Mirror Orichalcum , 245.00, 849.00, 283.00, 208005.00, 69335.00, 16640.40, 293980.40
+2620, Law Lionwatcher, Castle Village, 17.00, Angels' Adamant , 150.00, 189.00, 157.00, 28350.00, 23550.00, 8823.00, 60723.00
+3075, Song Runetomb, The Scoundrel and Flask, 23.00, Lycanthropes' Gold , 182.00, 213.00, 171.00, 38766.00, 31122.00, 16074.24, 85962.24
+3534, Claw Mist, The Cuitamba Jungle, 22.00, Negative Mercury , 361.00, 278.00, 408.00, 100358.00, 147288.00, 54482.12, 302128.12
+4001, Rouge Tombreaper, The Cracked Chalice, 22.00, Negative Rockglitter Mercury Of Trolls , 41.00, 216.00, 497.00, 8856.00, 20377.00, 6431.26, 35664.26
+4440, Seraph Jester, Lamp Borough, 15.00, Otherworldly Truesoul Orichalcum Of The East , 171.00, 636.00, 780.00, 108756.00, 133380.00, 36320.40, 278456.40
+4878, Fate Seeker, Gena's Hold, 8.00, Primal Adamant , 118.00, 878.00, 482.00, 103604.00, 56876.00, 12838.40, 173318.40

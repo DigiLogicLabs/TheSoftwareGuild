@@ -1,0 +1,11 @@
+1,Magus Felldrake,Archring Borough,0.00,Phantasmal Lead ,267.00,88.00,927.00,23496.00,247509.00,0.00,271005.00
+707, Sunrise Godwarlock, The Grey Plains, 3.00, Violetstone Tin Of Death , 18.00, 246.00, 251.00, 4428.00, 4518.00, 268.38, 9214.38
+1151, Jericho Wolf, Barad Kesa, 17.00, Poison Adamant , 283.00, 952.00, 349.00, 269416.00, 98767.00, 62591.11, 430774.11
+1602, "Ahah, Goddess of Knowledge", The Fortress of Akkun the Grim, 18.00, Poison Adamant , 127.00, 952.00, 349.00, 120904.00, 44323.00, 29740.86, 194967.86
+2036, "Suriel, Lord of Animals", The Grey Plains, 3.00, Foul Ice Bronze Of Life , 359.00, 168.00, 97.00, 60312.00, 34823.00, 2854.05, 97989.05
+2488, "Selik, God of Death", Tower Farthing, 2.00, Icy Shock Silver , 244.00, 102.00, 540.00, 24888.00, 131760.00, 3132.96, 159780.96
+2942, "Ahah, Goddess of Knowledge", Grori's Deep, 4.00, Primordial Mud Orichalcum , 291.00, 328.00, 627.00, 95448.00, 182457.00, 11116.20, 289021.20
+3399, Slayer Claw, The Desert of Flames, 16.00, Incubi's Mirrorfog Iron Of The Ocean , 251.00, 22.00, 675.00, 5522.00, 169425.00, 27991.52, 202938.52
+3867, Magus Felldrake, Khali's Delve, 7.00, Planar Obsidian Mercury Of Wizards , 152.00, 707.00, 602.00, 107464.00, 91504.00, 13927.76, 212895.76
+4313, Valentine Lawslayer, The Greedy Wench, 8.00, Goddesses' Spectral Poison Steel , 114.00, 455.00, 483.00, 51870.00, 55062.00, 8554.56, 115486.56
+4758, Fate Seeker, The Tower of the Demon Warlord, 3.00, Mithril Of The Tropics , 101.00, 386.00, 319.00, 38986.00, 32219.00, 2136.15, 73341.15

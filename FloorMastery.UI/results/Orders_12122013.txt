@@ -1,0 +1,12 @@
+11, Bane Veil, Kada's Deep, 14.00, Hell Mercury Of The East , 238.00, 122.00, 838.00, 29036.00, 199444.00, 31987.20, 260467.20
+456, Storm Seraphheart, Moor Village, 0.00, Primordial False Gold , 246.00, 354.00, 602.00, 87084.00, 148092.00, 0.00, 235176.00
+899, "Maglioneth, Lord of the Sun", The Tower of the Demon Warlord, 3.00, Shadow Metal , 297.00, 881.00, 254.00, 261657.00, 75438.00, 10112.85, 347207.85
+1346, Shadow Tomblion, Reyny Keep, 14.00, Djinni's Evil Sandobsidian Steel Of The Future , 370.00, 319.00, 845.00, 118030.00, 312650.00, 60295.20, 490975.20
+1795, "Uriel, God of Fate", Dysley Stronghold, 5.00, Sphinxes' Opalpearl Platinum Of Legend , 159.00, 461.00, 403.00, 73299.00, 64077.00, 6868.80, 144244.80
+2226, "Finarfin, God of Protection", Minas Gilloy, 20.00, Venom Timegold Of Dwarves , 155.00, 614.00, 432.00, 95170.00, 66960.00, 32426.00, 194556.00
+2685, Shadow Tomblion, The Dismal Marsh, 19.00, Hidden Shadowice Lead , 246.00, 241.00, 199.00, 59286.00, 48954.00, 20565.60, 128805.60
+3144, "Melcha, Goddess of Thieves", The Nulukkhath Spires, 20.00, Glowpearl Adamant Of Spirits , 370.00, 669.00, 534.00, 247530.00, 197580.00, 89022.00, 534132.00
+.3605,Storm Seraphheart,The Pirate's Pipe,.14.00,God-touched Faterainbow Orichalcum Of Spectres ,.190.00,.43.00,.406.00,.8170.00,.77140.00,.11943.40,.97253.40
+4066, Tarot Dawn, The Flying Witch, 13.00, Fleshshock Mercury , 197.00, 667.00, 852.00, 131399.00, 167844.00, 38901.59, 338144.59
+4508, Wind Dire, The Citadel of Alammius, 24.00, Angels' Adamant , 295.00, 189.00, 157.00, 55755.00, 46315.00, 24496.80, 126566.80
+4945, Clash Lonedrake, The Nulukkhath Spires, 20.00, Djinni's Mind Fogiron , 188.00, 387.00, 164.00, 72756.00, 30832.00, 20717.60, 124305.60

@@ -1,0 +1,11 @@
+169, Seraph Jester, The Tower of Sheshbazzu, 15.00, Lunar Bronze , 282.00, 981.00, 558.00, 276642.00, 157356.00, 65099.70, 499097.70
+621, "Eumyan, Goddess of Law", The Citadel of Cheno, 0.00, Glowpearl Adamant Of Spirits , 102.00, 669.00, 534.00, 68238.00, 54468.00, 0.00, 122706.00
+1060, Maverick Wind, Grori's Deep, 4.00, Undeads' Mind Orichalcum Of The Twilight , 118.00, 495.00, 573.00, 58410.00, 67614.00, 5040.96, 131064.96
+1508, "Ingwenel, God of War", The Lazy Sage, 9.00, Venom Jewelmetal Of The Desert , 224.00, 21.00, 455.00, 4704.00, 101920.00, 9596.16, 116220.16
+1949, "Alik, Goddess of Trickery", The Glano Forest, 22.00, White Platinum , 124.00, 795.00, 200.00, 98580.00, 24800.00, 27143.60, 150523.60
+2394, Lightning Brand, Gifeld Castle, 16.00, Djinni's Spectral Shadowlead Of Life , 239.00, 969.00, 997.00, 231591.00, 238283.00, 75179.84, 545053.84
+2849, "Prusu, God of Love", The Tower of Aramum, 9.00, Spirits' Living Wordhammer Tin Of The Trees , 81.00, 533.00, 531.00, 43173.00, 43011.00, 7756.56, 93940.56
+3307, Rose Anchor, Tower Farthing, 2.00, Green Dustlightning Mercury , 241.00, 906.00, 964.00, 218346.00, 232324.00, 9013.40, 459683.40
+3774, Valentine Lawslayer, North Arcanist's Farthing, 6.00, Zephyr Iron , 175.00, 909.00, 41.00, 159075.00, 7175.00, 9975.00, 176225.00
+4225, Tarot Dawn, The Archer and Scroll, 11.00, Sphinxes' Opalpearl Platinum Of Legend , 286.00, 461.00, 403.00, 131846.00, 115258.00, 27181.44, 274285.44
+4667, "Melcha, Goddess of Thieves", The Archer and Scroll, 11.00, Ghostly Soul Adamant , 105.00, 56.00, 682.00, 5880.00, 71610.00, 8523.90, 86013.90

@@ -1,0 +1,12 @@
+6, "Sielach, God of Fate", The Tower of Sheshbazzu, 15.00, Green Dustlightning Mercury , 188.00, 906.00, 964.00, 170328.00, 181232.00, 52734.00, 404294.00
+-451,Tiger Mistmidnight,The Lost Sanctum of Woe,-12.00,Phantasmal Plague Adamant ,-207.00,-831.00,-728.00,-172017.00,-150696.00,-38725.56,-361438.56
+894, "Uriel, God of Fate", The Vaults of the Shadow Emperor, 5.00, Unknown Fatelightning Steel Of The Glacier , 249.00, 837.00, 700.00, 208413.00, 174300.00, 19135.65, 401848.65
+-1342,Slayer Claw,The Temple of Merciless Necromancy,-1.00,Golems' Stonesapphire Gold Of The Glacier ,-384.00,-705.00,-952.00,-270720.00,-365568.00,-6362.88,-642650.88
+1792, "Suriel, Lord of Animals", Reheath Stronghold, 11.00, Glittering Orichalcum , 211.00, 425.00, 275.00, 89675.00, 58025.00, 16247.00, 163947.00
+2222, Dagger Reaper, The Dancing Minstrel, 14.00, Yellow Mistearth Copper , 248.00, 408.00, 996.00, 101184.00, 247008.00, 48746.88, 396938.88
+2680, "Selik, God of Death", The Chuallanto Jungle, 1.00, Stone Soulsteel Of The Skies , 316.00, 493.00, 872.00, 155788.00, 275552.00, 4313.40, 435653.40
+3139, Bedlam Spiritraven, Love Keep, 4.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 317.00, 676.00, 683.00, 214292.00, 216511.00, 17232.12, 448035.12
+3600, "Maglioneth, Lord of the Sun", The Flying Witch, 13.00, Undeads' Mind Orichalcum Of The Twilight , 377.00, 495.00, 573.00, 186615.00, 216021.00, 52342.68, 454978.68
+4061, "Lenwenye, Goddess of Travel", The Forsaken Hive of Galima the Mighty, 4.00, Hell Mercury Of The East , 197.00, 122.00, 838.00, 24034.00, 165086.00, 7564.80, 196684.80
+4503, "Nelalwe, Lady of Fire", The Secret Catacombs of Ulfang the Black, 0.00, Glittering Orichalcum , 177.00, 425.00, 275.00, 75225.00, 48675.00, 0.00, 123900.00
+4940, Fate Ivycaster, Kewold Stronghold, 23.00, Rainbowglitter Tin , 265.00, 496.00, 595.00, 131440.00, 157675.00, 66496.45, 355611.45

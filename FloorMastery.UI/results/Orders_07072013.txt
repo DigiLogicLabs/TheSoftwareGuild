@@ -1,0 +1,12 @@
+24, Fate Seeker, The Fortress of Gama, 5.00, Shadow Metal , 72.00, 881.00, 254.00, 63432.00, 18288.00, 4086.00, 85806.00
+
+911, "Baltha, Goddess of Knowledge", Arcanist's Farthing, 6.00, Starlight Pearldream Bronze , 180.00, 441.00, 906.00, 79380.00, 163080.00, 14547.60, 257007.60
+1358, Rouge Tombreaper, The Temple of Merciless Necromancy, 1.00, Meteoric Mirrormuck Orichalcum Of The Forests , 107.00, 136.00, 65.00, 14552.00, 6955.00, 215.07, 21722.07
+1808, "Ahah, Goddess of Knowledge", The Demon and Toad, 3.00, Lycanthropes' Gold , 90.00, 213.00, 171.00, 19170.00, 15390.00, 1036.80, 35596.80
+2237, Bedlam Spiritraven, Archring Borough, 0.00, Spectres' Shadowy Terrorglow Adamant Of Life , 229.00, 944.00, 533.00, 216176.00, 122057.00, 0.00, 338233.00
+2696, "Selik, God of Death", The Tower of the Demon Warlord, 3.00, Lycanthropes' Gold , 159.00, 213.00, 171.00, 33867.00, 27189.00, 1831.68, 62887.68
+3156, Dawn Darkzealot, The Broken Shield, 7.00, God-touched Greengem Platinum , 199.00, 501.00, 796.00, 99699.00, 158404.00, 18067.21, 276170.21
+3616, "Iran, Lord of Nightmares", Gili's Delve, 7.00, Phantasmal Tin Of The Swamps , 213.00, 174.00, 421.00, 37062.00, 89673.00, 8871.45, 135606.45
+4078, Sunrise Godwarlock, The Greedy Wench, 8.00, Spirits' Living Wordhammer Tin Of The Trees , 232.00, 533.00, 531.00, 123656.00, 123192.00, 19747.84, 266595.84
+4521, "Addon, Lord of Death", The Tower of Sheshbazzu, 15.00, Sirens' Rockgold , 136.00, 792.00, 901.00, 107712.00, 122536.00, 34537.20, 264785.20
+4956, "Baltha, Goddess of Knowledge", The Secret Catacombs of Ulfang the Black, 0.00, Primordial Plague Mercury Of Legend , 197.00, 304.00, 578.00, 59888.00, 113866.00, 0.00, 173754.00

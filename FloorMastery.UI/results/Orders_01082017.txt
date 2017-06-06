@@ -1,0 +1,11 @@
+119, Rune Rougehate, Barad Kesa, 17.00, Primordial Mud Orichalcum , 332.00, 328.00, 627.00, 108896.00, 208164.00, 53900.20, 370960.20
+562, "Gono, Goddess of the Earth", The Greedy Wench, 8.00, Muck Orichalcum Of Ogres , 131.00, 983.00, 395.00, 128773.00, 51745.00, 14441.44, 194959.44
+1007, "Finarfin, God of Protection", The Bastion of the Lich Tyrant, 10.00, Venom Jewelmetal Of The Desert , 206.00, 21.00, 455.00, 4326.00, 93730.00, 9805.60, 107861.60
+1449, "Avriel, God of Death", The Broken Shield, 7.00, Zephyr Iron , 174.00, 909.00, 41.00, 158166.00, 7134.00, 11571.00, 176871.00
+1900, "Iran, Lord of Nightmares", Arcanist's Farthing, 6.00, Falserainbow Lead , 250.00, 92.00, 67.00, 23000.00, 16750.00, 2385.00, 42135.00
+2336, "Nelalwe, Lady of Fire", The Archer and Blade, 18.00, Transcendent Gold , 196.00, 39.00, 451.00, 7644.00, 88396.00, 17287.20, 113327.20
+2794, "Ariel, God of Luck", The Bastion of Barbos, 18.00, Shadow Metal , 148.00, 881.00, 254.00, 130388.00, 37592.00, 30236.40, 198216.40
+3251, "Selah, God of Destruction", Barad Kesa, 17.00, Phantasmal Plague Adamant , 276.00, 831.00, 728.00, 229356.00, 200928.00, 73148.28, 503432.28
+3712, "Alik, Goddess of Trickery", Kewold Stronghold, 23.00, Heavenly Dreamsilver Of The Night , 196.00, 328.00, 692.00, 64288.00, 135632.00, 45981.60, 245901.60
+4172, "Uriel, God of Fate", Archfane District, 18.00, Glittering Orichalcum , 262.00, 425.00, 275.00, 111350.00, 72050.00, 33012.00, 216412.00
+4612, Fate Seeker, The Lewd King, 17.00, Fairies' Supreme Mistsmoke Lead Of The Future , 48.00, 489.00, 658.00, 23472.00, 31584.00, 9359.52, 64415.52

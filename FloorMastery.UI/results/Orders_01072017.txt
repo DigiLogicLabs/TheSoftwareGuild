@@ -1,0 +1,11 @@
+120, Storm Seraphheart, The Tower of the Demon Warlord, 3.00, Evilsilver , 332.00, 814.00, 264.00, 270248.00, 87648.00, 10736.88, 368632.88
+563, Flora Amberslayer, The Demon and Toad, 3.00, Primordial Plague Mercury Of Legend , 138.00, 304.00, 578.00, 41952.00, 79764.00, 3651.48, 125367.48
+1008, Storm Seraphheart, Archscepter Borough, 8.00, Shadowy Adamant , 198.00, 585.00, 941.00, 115830.00, 186318.00, 24171.84, 326319.84
+1450, Magus Felldrake, The Bastion of the Lich Tyrant, 10.00, Zephyr Adamant , 314.00, 215.00, 3.00, 67510.00, 942.00, 6845.20, 75297.20
+1900, Fate Seeker, The Archer and Blade, 18.00, Trolls' Mist Poisonplatinum Of The Twilight , 348.00, 990.00, 430.00, 344520.00, 149640.00, 88948.80, 583108.80
+2337, "Maglioneth, Lord of the Sun", The Secret Catacombs of Ulfang the Black, 0.00, Tin Of The Tundra , 288.00, 479.00, 294.00, 137952.00, 84672.00, 0.00, 222624.00
+
+3251, Lance Knightseraph, The Khazahol Crags, 22.00, Glowpearl Adamant Of Spirits , 274.00, 669.00, 534.00, 183306.00, 146316.00, 72516.84, 402138.84
+3713, "Maeglodor, God of Thieves", The Lazy Sage, 9.00, Ensorceled Sandmetal Of Spirits , 233.00, 671.00, 431.00, 156343.00, 100423.00, 23108.94, 279874.94
+4173, "Eumyan, Goddess of Law", The Forsaken Delve of Lord Greywulf, 8.00, Rocklava Mithril Of Revenants , 175.00, 169.00, 287.00, 29575.00, 50225.00, 6384.00, 86184.00
+4613, Jericho Wolf, The Broken Shield, 7.00, Ensorceled Sandmetal Of Spirits , 163.00, 671.00, 431.00, 109373.00, 70253.00, 12573.82, 192199.82

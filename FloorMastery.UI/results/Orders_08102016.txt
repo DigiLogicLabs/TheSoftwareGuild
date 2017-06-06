@@ -1,0 +1,11 @@
+250, "Penur, Lord of the Sea", The Scoundrel and Flask, 23.00, Mana-touched Greenglitter Gold Of Giants , 197.00, 783.00, 690.00, 154251.00, 135930.00, 66741.63, 356922.63
+698, "Avriel, God of Death", The Archer and Blade, 18.00, Djinni's Evil Sandobsidian Steel Of The Future , 41.00, 319.00, 845.00, 13079.00, 34645.00, 8590.32, 56314.32
+1140, Fate Ivycaster, Archfane District, 18.00, Stone Soulsteel Of The Skies , 214.00, 493.00, 872.00, 105502.00, 186608.00, 52579.80, 344689.80
+1591, "Azah, Goddess of Fate", Mahyrst Keep, 18.00, Witchs' Forbidden Rockrainbow Bronze , 320.00, 172.00, 423.00, 55040.00, 135360.00, 34272.00, 224672.00
+2026, Tarot Dawn, The Fortress of Gama, 5.00, Plague Tin , 145.00, 806.00, 444.00, 116870.00, 64380.00, 9062.50, 190312.50
+2476, Magus Felldrake, The Greedy Wench, 8.00, Rocklava Mithril Of Revenants , 210.00, 169.00, 287.00, 35490.00, 60270.00, 7660.80, 103420.80
+2930, "Ahah, Goddess of Knowledge", The Tomb of Gothmog of Udun, 1.00, Falserainbow Lead , 173.00, 92.00, 67.00, 15916.00, 11591.00, 275.07, 27782.07
+
+3855, Storm Squallmourner, The Broken Shield, 7.00, Plague Tin , 337.00, 806.00, 444.00, 271622.00, 149628.00, 29487.50, 450737.50
+4304, "Sielach, God of Fate", The Wizard's House, 7.00, Yellow Mistearth Copper , 110.00, 408.00, 996.00, 44880.00, 109560.00, 10810.80, 165250.80
+4746, "Penur, Lord of the Sea", The Secret Catacombs of Ulfang the Black, 0.00, Magic Adamant , 92.00, 746.00, 526.00, 68632.00, 48392.00, 0.00, 117024.00

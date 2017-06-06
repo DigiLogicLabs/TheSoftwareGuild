@@ -1,0 +1,11 @@
+372, Valentine Lawslayer, Boiaburh Keep, 11.00, Djinni's Evil Sandobsidian Steel Of The Future , 282.00, 319.00, 845.00, 89958.00, 238290.00, 36107.28, 364355.28
+811, "Avriel, God of Death", Cawold Castle, 4.00, Primordial False Gold , 220.00, 354.00, 602.00, 77880.00, 132440.00, 8412.80, 218732.80
+1262, Maverick Wind, The Scoundrel and Flask, 23.00, Plague Tin , 130.00, 806.00, 444.00, 104780.00, 57720.00, 37375.00, 199875.00
+1709, Rouge Tombreaper, The Citadel of Lord Greywulf, 0.00, Warlocks' Timerot Mithril , 168.00, 368.00, 575.00, 61824.00, 96600.00, 0.00, 158424.00
+2146, "Addon, Lord of Death", The Citadel of Lord Greywulf, 0.00, Sphinxes' Mistsoul Bronze Of The Past , 176.00, 694.00, 650.00, 122144.00, 114400.00, 0.00, 236544.00
+2601, Seraph Jester, Hartshill Ward, 11.00, Rot Silver Of The Past , 227.00, 267.00, 280.00, 60609.00, 63560.00, 13658.59, 137827.59
+3057, Rouge Roguemist, The Fortress of Asmamur, 7.00, Starlight Pearldream Bronze , 361.00, 441.00, 906.00, 159201.00, 327066.00, 34038.69, 520305.69
+3516, Maverick Wind, Kewold Stronghold, 23.00, Violetstone Tin Of Death , 111.00, 246.00, 251.00, 27306.00, 27861.00, 12688.41, 67855.41
+3983, "Ariel, God of Luck", The Khazahol Crags, 22.00, Yellow Mistearth Copper , 197.00, 408.00, 996.00, 80376.00, 196212.00, 60849.36, 337437.36
+4424, Lightning Brand, The Pilgrim's Cup, 21.00, Forgotten Mithril , 206.00, 793.00, 940.00, 163358.00, 193640.00, 74969.58, 431967.58
+   4863,    Shadow Gust,    The Black Barrow of Bery,   21.00,          Emerald Orichalcum ,    292.00,      711.00,   570.00,      207612.00,   166440.00,          78550.92,      452602.92

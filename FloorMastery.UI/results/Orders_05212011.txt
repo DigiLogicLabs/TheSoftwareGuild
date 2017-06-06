@@ -1,0 +1,12 @@
+59, Rune Rougehate, Moor Village, 0.00, Incubi's Glittering Tin Of The Future , 310.00, 247.00, 493.00, 76570.00, 152830.00, 0.00, 229400.00
+503, "Penur, Lord of the Sea", Grove Farthing, 18.00, Mana-touched Greenglitter Gold Of Giants , 193.00, 783.00, 690.00, 151119.00, 133170.00, 51172.02, 335461.02
+948, Bane Veil, The Citadel of Cheno, 0.00, Unholy Poison Copper Of The Mountains , 217.00, 439.00, 495.00, 95263.00, 107415.00, 0.00, 202678.00
+1395, "Ahah, Goddess of Knowledge", Gawold Castle, 6.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 276.00, 676.00, 683.00, 186576.00, 188508.00, 22505.04, 397589.04
+1839, Lord Mystery, The Citadel of Cheno, 0.00, Devils' Falserot Silver , 244.00, 755.00, 915.00, 184220.00, 223260.00, 0.00, 407480.00
+2274, Maverick Wind, The Forsaken Sepulcher of Sorrows, 12.00, White Platinum , 336.00, 795.00, 200.00, 267120.00, 67200.00, 40118.40, 374438.40
+2732, "Suriel, Lord of Animals", The Chuallanto Jungle, 1.00, Swordbronze , 206.00, 860.00, 746.00, 177160.00, 153676.00, 3308.36, 334144.36
+3193, Jericho Wolf, The Lost Sanctum of Woe, 12.00, Fairies' Supreme Mistsmoke Lead Of The Future , 129.00, 489.00, 658.00, 63081.00, 84882.00, 17755.56, 165718.56
+3651, Cult Godseeker, Reyny Keep, 14.00, Negative Rockglitter Mercury Of Trolls , 200.00, 216.00, 497.00, 43200.00, 99400.00, 19964.00, 162564.00
+4110, Zeal Bladewitch, Kewold Stronghold, 23.00, Shadowy Adamant , 280.00, 585.00, 941.00, 163800.00, 263480.00, 98274.40, 525554.40
+4553, "Ahah, Goddess of Knowledge", The Citadel of Cheno, 0.00, Heavenly Dreamsilver Of The Night , 149.00, 328.00, 692.00, 48872.00, 103108.00, 0.00, 151980.00
+4995, Tiger Mistmidnight, The Tomb of Hellish Ruin, 14.00, Mana-touched Greenglitter Gold Of Giants , 148.00, 783.00, 690.00, 115884.00, 102120.00, 30520.56, 248524.56

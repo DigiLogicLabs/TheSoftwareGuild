@@ -1,0 +1,11 @@
+73, Magus Felldrake, The Archer and Scroll, 11.00, Nymphs' Luminous Rotmercury Of The Skies , 258.00, 453.00, 202.00, 116874.00, 52116.00, 18588.90, 187578.90
+516, Seraphim Tsunami, Peley Keep, 24.00, Sphinxes' Unknown Poisongold Of The Future , 214.00, 43.00, 998.00, 9202.00, 213572.00, 53465.76, 276239.76
+961, Sunset Knightclaw, The Flying Witch, 13.00, Negative Mercury , 77.00, 278.00, 408.00, 21406.00, 31416.00, 6866.86, 59688.86
+1409, Fate Seeker, The Temple of Merciless Necromancy, 1.00, Violetdream Iron , 59.00, 948.00, 922.00, 55932.00, 54398.00, 1103.30, 111433.30
+1854, Song Runetomb, Arcanist's Farthing, 6.00, Hidden Shadowice Lead , 316.00, 241.00, 199.00, 76156.00, 62884.00, 8342.40, 147382.40
+.2288,"Byzou, God of Animals",Castle Village,.17.00,Zephyr Adamant ,.198.00,.215.00,.3.00,.42570.00,.594.00,.7337.88,.50501.88
+2746, "Suriel, Lord of Animals", Gawold Castle, 6.00, Litches' Fatal Mithril Of The Past , 153.00, 654.00, 602.00, 100062.00, 92106.00, 11530.08, 203698.08
+3207, "Alas, Lord of Plague", Bergfison's Deep, 18.00, Lunar Bronze , 150.00, 981.00, 558.00, 147150.00, 83700.00, 41553.00, 272403.00
+3667, "Nelalwe, Lady of Fire", Tower Farthing, 2.00, Sirens' Rockgold , 76.00, 792.00, 901.00, 60192.00, 68476.00, 2573.36, 131241.36
+4124, Slayer Claw, The Forsaken Hive of Galima the Mighty, 4.00, Legendary Mithril Of The Moon , 105.00, 281.00, 801.00, 29505.00, 84105.00, 4544.40, 118154.40
+4568, Shadow Gust, The Chuallanto Jungle, 1.00, Foulopal Copper Of The Skies , 160.00, 170.00, 101.00, 27200.00, 16160.00, 433.60, 43793.60

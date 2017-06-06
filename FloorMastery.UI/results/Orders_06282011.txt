@@ -1,0 +1,12 @@
+59, "Uriel, God of Fate", The Nulukkhath Spires, 20.00, Swordbronze , 270.00, 860.00, 746.00, 232200.00, 201420.00, 86724.00, 520344.00
+502, Fate Seeker, The Tower of the Demon Warlord, 3.00, Shadow Steel , 312.00, 841.00, 440.00, 262392.00, 137280.00, 11990.16, 411662.16
+-947,Song Runetomb,The Fortress of Gama,-5.00,Swordbronze ,-254.00,-860.00,-746.00,-218440.00,-189484.00,-20396.20,-428320.20
+1394, "Gadriel, God of Resurrection", The Bastion of Sthasu the Gruesome, 0.00, Muck Orichalcum Of Ogres , 198.00, 983.00, 395.00, 194634.00, 78210.00, 0.00, 272844.00
+1838, "Selah, God of Destruction", Archtemple District, 4.00, Venom Jewelmetal Of The Desert , 117.00, 21.00, 455.00, 2457.00, 53235.00, 2227.68, 57919.68
+.2273,"Suriel, Lord of Animals",Gena's Hold,.8.00,Phantasmal Tin Of The Swamps ,.248.00,.174.00,.421.00,.43152.00,.104408.00,.11804.80,.159364.80
+2731, "Lenwenye, Goddess of Travel", Fellfen Keep, 11.00, Green Dustlightning Mercury , 106.00, 906.00, 964.00, 96036.00, 102184.00, 21804.20, 220024.20
+3192, "Avriel, God of Death", Ring District, 23.00, Devils' Falserot Silver , 361.00, 755.00, 915.00, 272555.00, 330315.00, 138660.10, 741530.10
+3650, "Eumyan, Goddess of Law", Pawic Keep, 0.00, Shadow Steel , 249.00, 841.00, 440.00, 209409.00, 109560.00, 0.00, 318969.00
+4109, "Ariel, God of Luck", Khali's Delve, 7.00, Djinni's Mind Fogiron , 91.00, 387.00, 164.00, 35217.00, 14924.00, 3509.87, 53650.87
+4552, Wind Dire, The Warrior and Flagon, 0.00, Unknown Fatelightning Steel Of The Glacier , 126.00, 837.00, 700.00, 105462.00, 88200.00, 0.00, 193662.00
+4994, Seraphim Tsunami, Citadel Ward, 14.00, Glittering Orichalcum , 331.00, 425.00, 275.00, 140675.00, 91025.00, 32438.00, 264138.00

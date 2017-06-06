@@ -1,0 +1,11 @@
+438, Lightning Brand, Gawold Castle, 6.00, Yellow Mistearth Copper , 192.00, 408.00, 996.00, 78336.00, 191232.00, 16174.08, 285742.08
+882, "Nelalwe, Lady of Fire", The Forsaken Tomb of Devastation, 12.00, Goddesses' Spectral Poison Steel , 296.00, 455.00, 483.00, 134680.00, 142968.00, 33317.76, 310965.76
+1329, Maverick Wind, The Bastion of Barbos, 18.00, Stone Soulsteel Of The Skies , 126.00, 493.00, 872.00, 62118.00, 109872.00, 30958.20, 202948.20
+1780, "Selik, God of Death", Barad Kesa, 17.00, Sapphire Mindlead , 172.00, 608.00, 90.00, 104576.00, 15480.00, 20409.52, 140465.52
+2210, Lightning Brand, Cawold Castle, 4.00, Shadowhell Mithril , 174.00, 231.00, 848.00, 40194.00, 147552.00, 7509.84, 195255.842210, Lightning Brand, Cawold Castle, 4.00, Shadowhell Mithril , 174.00, 231.00, 848.00, 40194.00, 147552.00, 7509.84, 195255.84
+2670, Magus Felldrake, Barad Kesa, 17.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 253.00, 676.00, 683.00, 171028.00, 172799.00, 58450.59, 402277.59
+3127, Lord Mystery, The Scoundrel and Flask, 23.00, Transcendent Gold , 22.00, 39.00, 451.00, 858.00, 9922.00, 2479.40, 13259.40
+3587, "Gono, Goddess of the Earth", The Desert of Flames, 16.00, Magic Adamant , 275.00, 746.00, 526.00, 205150.00, 144650.00, 55968.00, 405768.00
+4049, "Baltha, Goddess of Knowledge", Hafeld Keep, 0.00, Spirits' Living Wordhammer Tin Of The Trees , 303.00, 533.00, 531.00, 161499.00, 160893.00, 0.00, 322392.00
+-4493,"Selah, God of Destruction",The Tower of Aramum,-9.00,Tritons' Time Stoneiron Of Legend ,-116.00,-912.00,-866.00,-105792.00,-100456.00,-18562.32,-224810.32
+4928, "Lionare, God of the Lost", Grove Farthing, 18.00, Sprites' Transcendent Mud Lead Of The South , 102.00, 419.00, 260.00, 42738.00, 26520.00, 12466.44, 81724.44

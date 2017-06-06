@@ -1,0 +1,11 @@
+431, "Selik, God of Death", Minas Gilloy, 20.00, , , , 965.00, , , 18925.20, 
+875, Grave Mistseeker, The Fortress of Akkun the Grim, 18.00, Meteoric Dustzephyr Orichalcum , 177.00, 232.00, 37.00, 41064.00, 6549.00, 8570.34, 56183.34
+1322, Seraph Jester, Citadel Ward, 14.00, Rot Silver Of The Past , 271.00, 267.00, 280.00, 72357.00, 75880.00, 20753.18, 168990.18
+1774, "Gadriel, God of Resurrection", The Citadel of Alammius, 24.00, Shadowhell Mithril , 170.00, 231.00, 848.00, 39270.00, 144160.00, 44023.20, 227453.20
+2205, Seraphim Tsunami, Bergfison's Deep, 18.00, Sapphire Mindlead , 251.00, 608.00, 90.00, 152608.00, 22590.00, 31535.64, 206733.64
+2663, "Gono, Goddess of the Earth", The Secret Shrine of the Gargoyle Count, 24.00, Spirits' Living Wordhammer Tin Of The Trees , 187.00, 533.00, 531.00, 99671.00, 99297.00, 47752.32, 246720.32
+3121, "Lionare, God of the Lost", , 7.00, , , , , , , 15862.70, 242472.70
+3581, Dagger Reaper, Archfane District, 18.00, Unholy Poison Copper Of The Mountains , 270.00, 439.00, 495.00, 118530.00, 133650.00, 45392.40, 297572.40
+4044, "Byzou, God of Animals", Pawic Keep, 0.00, Lycanthropes' Gold , 237.00, 213.00, 171.00, 50481.00, 40527.00, 0.00, 91008.00
+4486, Grave Mistseeker, The Citadel of Lord Greywulf, 0.00, Djinni's Evil Sandobsidian Steel Of The Future , 137.00, 319.00, 845.00, 43703.00, 115765.00, 0.00, 159468.00
+4921, Sunrise Godwarlock, The Dark Caverns of Woe, 3.00, Ghostly Magic Adamant , 233.00, 499.00, 881.00, 116267.00, 205273.00, 9646.20, 331186.20

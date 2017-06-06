@@ -1,0 +1,11 @@
+77, "Byzou, God of Animals", The Temple of Merciless Necromancy, 1.00, God-touched Faterainbow Orichalcum Of Spectres , 224.00, 43.00, 406.00, 9632.00, 90944.00, 1005.76, 101581.76
+522, Storm Squallmourner, The Dread Hive of Illfang the Kobold Lord, 8.00, Djinni's Mind Fogiron , 62.00, 387.00, 164.00, 23994.00, 10168.00, 2732.96, 36894.96
+966, Rouge Roguemist, The Bloody Wand, 2.00, Starsmoke Bronze Of Life , 280.00, 618.00, 647.00, 173040.00, 181160.00, 7084.00, 361284.00
+1415, "Suriel, Lord of Animals", The Khazahol Crags, 22.00, Glittering Orichalcum , 194.00, 425.00, 275.00, 82450.00, 53350.00, 29876.00, 165676.00
+1860, Grave Mistseeker, Moor Village, 0.00, Hidden Shadowice Lead , 66.00, 241.00, 199.00, 15906.00, 13134.00, 0.00, 29040.00
+2294, Bane Veil, Peley Keep, 24.00, , , 707.00, , 147763.00, , 65659.44, 339240.44
+2752, Clash Lonedrake, The Nulukkhath Spires, 20.00, Evilsilver , 105.00, 814.00, 264.00, 85470.00, 27720.00, 22638.00, 135828.00
+3213, Rose Anchor, The Barrow of Terrible Horror, 24.00, Trolls' Mist Poisonplatinum Of The Twilight , 212.00, 990.00, 430.00, 209880.00, 91160.00, 72249.60, 373289.60
+
+4130, "Sielach, God of Fate", Peley Keep, 24.00, Planar Obsidian Mercury Of Wizards , 217.00, 707.00, 602.00, 153419.00, 130634.00, 68172.72, 352225.72
+4574, Rouge Roguemist, The Archer and Scroll, 11.00, Plague Tin , 95.00, 806.00, 444.00, 76570.00, 42180.00, 13062.50, 131812.50

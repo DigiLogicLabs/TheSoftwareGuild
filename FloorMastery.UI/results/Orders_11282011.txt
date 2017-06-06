@@ -1,0 +1,12 @@
+50, Rune Rougehate, The Tower of Sheshbazzu, 15.00, Fairies' Supreme Mistsmoke Lead Of The Future , 121.00, 489.00, 658.00, 59169.00, 79618.00, 20818.05, 159605.0550, Rune Rougehate, The Tower of Sheshbazzu, 15.00, Fairies' Supreme Mistsmoke Lead Of The Future , 121.00, 489.00, 658.00, 59169.00, 79618.00, 20818.05, 159605.05
+493, "Nelalwe, Lady of Fire", The Bastion of the Vampire Duke, 18.00, Trolls' Rubymercury Of The Sunset , 300.00, 146.00, 782.00, 43800.00, 234600.00, 50112.00, 328512.00
+937, "Maeglodor, God of Thieves", Grove Farthing, 18.00, Dragons' Poison Glitterflesh Steel Of The North , 212.00, 941.00, 559.00, 199492.00, 118508.00, 57240.00, 375240.00937, "Maeglodor, God of Thieves", Grove Farthing, 18.00, Dragons' Poison Glitterflesh Steel Of The North , 212.00, 941.00, 559.00, 199492.00, 118508.00, 57240.00, 375240.00
+1384, "Addon, Lord of Death", The Forsaken Sepulcher of Sorrows, 12.00, Incubi's Iron Of The Dawn , 186.00, 399.00, 800.00, 74214.00, 148800.00, 26761.68, 249775.68
+1829, "Lenwenye, Goddess of Travel", The Forsaken Tomb of Devastation, 12.00, Sphinxes' Opalpearl Platinum Of Legend , 355.00, 461.00, 403.00, 163655.00, 143065.00, 36806.40, 343526.40
+2266, Jericho Wolf, Hartshill Ward, 11.00, Dragons' Poison Glitterflesh Steel Of The North , 224.00, 941.00, 559.00, 210784.00, 125216.00, 36960.00, 372960.00
+2722, Gale Jackalguard, Reheath Stronghold, 11.00, Unholy Poison Copper Of The Mountains , 166.00, 439.00, 495.00, 72874.00, 82170.00, 17054.84, 172098.84
+3183, "Azah, Goddess of Fate", Archscepter Borough, 8.00, Phantasmal Plague Adamant , 141.00, 831.00, 728.00, 117171.00, 102648.00, 17585.52, 237404.52
+3641, Law Lionwatcher, The Secret Shrine of the Gargoyle Count, 24.00, Trolls' Mist Poisonplatinum Of The Twilight , 275.00, 990.00, 430.00, 272250.00, 118250.00, 93720.00, 484220.00
+4100, Slayer Claw, The Tower of the Demon Warlord, 3.00, Stone Soulsteel Of The Skies , 128.00, 493.00, 872.00, 63104.00, 111616.00, 5241.60, 179961.60
+4544, "Finarfin, God of Protection", Arcanist's Farthing, 6.00, Mana-touched Greenglitter Gold Of Giants , 202.00, 783.00, 690.00, 158166.00, 139380.00, 17852.76, 315398.76
+4985, Grave Mistseeker, The Chuallanto Jungle, 1.00, Angels' Adamant , 17.00, 189.00, 157.00, 3213.00, 2669.00, 58.82, 5940.82

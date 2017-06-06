@@ -1,0 +1,11 @@
+417, Sunrise Godwarlock, The Barrow of Terrible Horror, 24.00, Stone Soulsteel Of The Skies , 138.00, 493.00, 872.00, 68034.00, 120336.00, 45208.80, 233578.80
+859, "Alas, Lord of Plague", Minas Gilloy, 20.00, Unicorns' Fatal Magma Metal Of The Ocean , 276.00, 142.00, 749.00, 39192.00, 206724.00, 49183.20, 295099.20
+1307, Song Runetomb, The Chuallanto Jungle, 1.00, Warlocks' Timerot Mithril , 139.00, 368.00, 575.00, 51152.00, 79925.00, 1310.77, 132387.77
+1759, "Iran, Lord of Nightmares", The Forsaken Tomb of Devastation, 12.00, Golems' Stonesapphire Gold Of The Glacier , 143.00, 705.00, 952.00, 100815.00, 136136.00, 28434.12, 265385.12
+2191, Lord Mystery, The Secret Shrine of the Gargoyle Count, 24.00, Falserainbow Lead , 366.00, 92.00, 67.00, 33672.00, 24522.00, 13966.56, 72160.56
+2647, Sunset Knightclaw, The Glano Forest, 22.00, Planar Mudtin Of Trolls , 127.00, 817.00, 654.00, 103759.00, 83058.00, 41099.74, 227916.74
+3104, Magus Felldrake, The Bastion of Barbos, 18.00, Succubi's Evil Mindzephyr Adamant Of The Desert , 168.00, 676.00, 683.00, 113568.00, 114744.00, 41096.16, 269408.16
+3565, "Finarfin, God of Protection", The Broken Arrow, 22.00, Angels' Smoke Adamant Of The Mountains , 193.00, 694.00, 967.00, 133942.00, 186631.00, 70526.06, 391099.06
+4029, "Penur, Lord of the Sea", The Cuitamba Jungle, 22.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 216.00, 313.00, 673.00, 67608.00, 145368.00, 46854.72, 259830.72
+4470, Law Lionwatcher, The Temple of Merciless Necromancy, 1.00, Poison Adamant , 238.00, 952.00, 349.00, 226576.00, 83062.00, 3096.38, 312734.38
+4906, Jericho Wolf, Minas Gilloy, 20.00, Phantasmal Lead , 183.00, 88.00, 927.00, 16104.00, 169641.00, 37149.00, 222894.00

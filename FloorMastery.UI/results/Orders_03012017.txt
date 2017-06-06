@@ -1,0 +1,11 @@
+72, "Finarfin, God of Protection", Bergfison's Deep, 18.00, Heavenly Dreamsilver Of The Night , 173.00, 328.00, 692.00, 56744.00, 119716.00, 31762.80, 208222.80
+515, Law Lionwatcher, The Nulukkhath Spires, 20.00, Timeiron , 275.00, 537.00, 965.00, 147675.00, 265375.00, 82610.00, 495660.00
+960, Dawn Darkzealot, Barad Kesa, 17.00, Mithril Of Legend , 86.00, 382.00, 657.00, 32852.00, 56502.00, 15190.18, 104544.18
+1409, "Ariel, God of Luck", The Glano Forest, 22.00, Angels' Adamant , 181.00, 189.00, 157.00, 34209.00, 28417.00, 13777.72, 76403.72
+
+2287, "Ahah, Goddess of Knowledge", Haukri's Hold, 7.00, Unicorns' Evil Mithril , 240.00, 334.00, 705.00, 80160.00, 169200.00, 17455.20, 266815.20
+
+3206, Flora Amberslayer, Dysley Stronghold, 5.00, God-touched Greengem Platinum , 208.00, 501.00, 796.00, 104208.00, 165568.00, 13488.80, 283264.80
+3666, Bane Veil, Minas Gilloy, 20.00, Djinni's Spectral Shadowlead Of Life , 190.00, 969.00, 997.00, 184110.00, 189430.00, 74708.00, 448248.00
+4123, "Uriel, God of Fate", The Fortress of Gama, 5.00, Mithril Of The Tropics , 191.00, 386.00, 319.00, 73726.00, 60929.00, 6732.75, 141387.75
+4567, "Zepul, Lady of Vengeance", The Barrow of Terrible Horror, 24.00, Negative Mercury , 259.00, 278.00, 408.00, 72002.00, 105672.00, 42641.76, 220315.76

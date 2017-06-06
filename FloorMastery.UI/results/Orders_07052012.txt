@@ -1,0 +1,12 @@
+41, Sephiroth Drakecaster, Waleah Castle, 10.00, Unicorns' Fatal Magma Metal Of The Ocean , 193.00, 142.00, 749.00, 27406.00, 144557.00, 17196.30, 189159.30
+485, Tarot Dawn, Archscepter Borough, 8.00, Falserainbow Lead , 227.00, 92.00, 67.00, 20884.00, 15209.00, 2887.44, 38980.44
+928, "Ingwenel, God of War", The Archer and Scroll, 11.00, Primordial Plague Mercury Of Legend , 331.00, 304.00, 578.00, 100624.00, 191318.00, 32113.62, 324055.62
+1375, Lord Mystery, The Fortress of the Lich Queen, 6.00, Legendary Mithril Of The Moon , 191.00, 281.00, 801.00, 53671.00, 152991.00, 12399.72, 219061.721375, Lord Mystery, The Fortress of the Lich Queen, 6.00, Legendary Mithril Of The Moon , 191.00, 281.00, 801.00, 53671.00, 152991.00, 12399.72, 219061.72
+1824, Valentine Lawslayer, The Glano Forest, 22.00, Violetdream Iron , 226.00, 948.00, 922.00, 214248.00, 208372.00, 92976.40, 515596.40
+2257, Bedlam Spiritraven, The Tomb of Hellish Ruin, 14.00, Unknowable Mindsilver , 271.00, 578.00, 938.00, 156638.00, 254198.00, 57517.04, 468353.04
+2714, Gale Jackalguard, Bergfison's Deep, 18.00, Spectres' Shadowy Terrorglow Adamant Of Life , 156.00, 944.00, 533.00, 147264.00, 83148.00, 41474.16, 271886.16
+3175, Tiger Mistmidnight, The Nulukkhath Spires, 20.00, Primordial False Gold , 51.00, 354.00, 602.00, 18054.00, 30702.00, 9751.20, 58507.20
+3632, "Addon, Lord of Death", The Lazy Sage, 9.00, Phantasmal Tin Of The Swamps , 161.00, 174.00, 421.00, 28014.00, 67781.00, 8621.55, 104416.55
+4092, Fate Seeker, The Warrior and Flagon, 0.00, Magicians' Legendary Poison Metal , 313.00, 768.00, 160.00, 240384.00, 50080.00, 0.00, 290464.00
+4537, "Ariel, God of Luck", The Warrior and Flagon, 0.00, Mithril Of The Tropics , 304.00, 386.00, 319.00, 117344.00, 96976.00, 0.00, 214320.00
+4976, "Finarfin, God of Protection", The Pirate's Pipe, 14.00, Litches' Fatal Mithril Of The Past , 280.00, 654.00, 602.00, 183120.00, 168560.00, 49235.20, 400915.20

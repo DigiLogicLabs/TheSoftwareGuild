@@ -1,0 +1,11 @@
+223, "Penur, Lord of the Sea", The Desert of Flames, 16.00, Incubi's Iron Of The Dawn , 168.00, 399.00, 800.00, 67032.00, 134400.00, 32229.12, 233661.12
+675, "Selik, God of Death", The Citadel of Lord Greywulf, 0.00, Spectres' Shadowy Terrorglow Adamant Of Life , 155.00, 944.00, 533.00, 146320.00, 82615.00, 0.00, 228935.00
+1115, "Suriel, Lord of Animals", Gawold Castle, 6.00, Green Dustlightning Mercury , 182.00, 906.00, 964.00, 164892.00, 175448.00, 20420.40, 360760.40
+1565, "Eumyan, Goddess of Law", Eved Castle, 2.00, Magic Adamant , 266.00, 746.00, 526.00, 198436.00, 139916.00, 6767.04, 345119.04
+2000, Claw Mist, Minas Gilloy, 20.00, Pearl Mirrorice Steel Of Changelings , 83.00, 474.00, 715.00, 39342.00, 59345.00, 19737.40, 118424.40
+2449, "Ariel, God of Luck", The Citadel of Alammius, 24.00, Planar Mudtin Of Trolls , 307.00, 817.00, 654.00, 250819.00, 200778.00, 108383.28, 559980.28
+2906, "Iran, Lord of Nightmares", The Tomb of Hellish Ruin, 14.00, Primal Adamant , 190.00, 878.00, 482.00, 166820.00, 91580.00, 36176.00, 294576.00
+3362, , The Lewd King, , , , , 497.00, 48168.00, , , 186028.83
+3828, "Gono, Goddess of the Earth", The Pirate's Pipe, 14.00, Phantasmal Lead , 215.00, 88.00, 927.00, 18920.00, 199305.00, 30551.50, 248776.50
+4278, Dagger Reaper, The Grey Plains, 3.00, Nymphs' Luminous Rotmercury Of The Skies , 243.00, 453.00, 202.00, 110079.00, 49086.00, 4774.95, 163939.95
+4719, Shadow Gust, Fellfen Keep, 11.00, Phantasmal Plague Adamant , 166.00, 831.00, 728.00, 137946.00, 120848.00, 28467.34, 287261.34

@@ -1,0 +1,11 @@
+106, Dawn Darkzealot, The Secret Catacombs of Ulfang the Black, 0.00, Evilsilver , 183.00, 814.00, 264.00, 148962.00, 48312.00, 0.00, 197274.00
+550, "Sielach, God of Fate", The Pirate's Pipe, 14.00, Shadow Metal , 231.00, 881.00, 254.00, 203511.00, 58674.00, 36705.90, 298890.90
+995, "Gadriel, God of Resurrection", The Bastion of Sthasu the Gruesome, 0.00, Fleshshock Mercury , 150.00, 667.00, 852.00, 100050.00, 127800.00, 0.00, 227850.00
+1440, Gale Jackalguard, The Black Barrow of Zago the Possessed, 23.00, Falserainbow Lead , 240.00, 92.00, 67.00, 22080.00, 16080.00, 8776.80, 46936.80
+1889, "Iran, Lord of Nightmares", The Wizard's House, 7.00, Djinni's Mind Fogiron , 300.00, 387.00, 164.00, 116100.00, 49200.00, 11571.00, 176871.00
+2324, "Ingwenel, God of War", The Grey Plains, 3.00, Fog Lavaplatinum Of Life , 80.00, 967.00, 333.00, 77360.00, 26640.00, 3120.00, 107120.00
+2782, Shadow Gust, The Temple of Merciless Necromancy, 1.00, Spirits' Living Wordhammer Tin Of The Trees , 313.00, 533.00, 531.00, 166829.00, 166203.00, 3330.32, 336362.32
+3240, Sunrise Godwarlock, The Citadel of Lord Greywulf, 0.00, Mind Lead , 152.00, 143.00, 486.00, 21736.00, 73872.00, 0.00, 95608.00
+
+4161, Zeal Bladewitch, Ring District, 23.00, Emerald Orichalcum , 212.00, 711.00, 570.00, 150732.00, 120840.00, 62461.56, 334033.56
+4601, "Prusu, God of Love", Peley Keep, 24.00, Tin Of The Tundra , 200.00, 479.00, 294.00, 95800.00, 58800.00, 37104.00, 191704.00

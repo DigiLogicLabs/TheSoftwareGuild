@@ -1,0 +1,12 @@
+44, "Zepul, Lady of Vengeance", The Bastion of Barbos, 18.00, Falserainbow Lead , 267.00, 92.00, 67.00, 24564.00, 17889.00, 7641.54, 50094.54
+488, Sunrise Godwarlock, The Broken Arrow, 22.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 136.00, 313.00, 673.00, 42568.00, 91528.00, 29501.12, 163597.12
+931, Seraph Jester, Hafeld Keep, 0.00, Sapphire Mindlead , 231.00, 608.00, 90.00, 140448.00, 20790.00, 0.00, 161238.00
+1378, "Melcha, Goddess of Thieves", Khali's Delve, 7.00, Otherworldly Truesoul Orichalcum Of The East , 48.00, 636.00, 780.00, 30528.00, 37440.00, 4757.76, 72725.76
+1825, Tarot Dawn, Tower Farthing, 2.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 244.00, 313.00, 673.00, 76372.00, 164212.00, 4811.68, 245395.68
+-2260,Storm Seraphheart,The Citadel of Lord Greywulf,-0.00,Violetdream Iron ,-259.00,-948.00,-922.00,-245532.00,-238798.00,-0.00,-484330.00
+2717, Clash Lonedrake, The Wizard's House, 7.00, Negative Rockglitter Mercury Of Trolls , 56.00, 216.00, 497.00, 12096.00, 27832.00, 2794.96, 42722.96
+ 3178,    "Addon, Lord of Death",  The Flying Witch,     13.00,          Mistgold Of Men ,    378.00,    459.00,     640.00,        173502.00,      241920.00,            54004.86,    469426.86
+3635, "Gadriel, God of Resurrection", Archring Borough, 0.00, Zephyr Adamant , 195.00, 215.00, 3.00, 41925.00, 585.00, 0.00, 42510.00
+4095, Valentine Lawslayer, The Bastion of the Vampire Duke, 18.00, Meteoric Mirrormuck Orichalcum Of The Forests , 138.00, 136.00, 65.00, 18768.00, 8970.00, 4992.84, 32730.84
+.4538,Fate Seeker,Reyny Keep,.14.00,Goddesses' Spectral Poison Steel ,.19.00,.455.00,.483.00,.8645.00,.9177.00,.2495.08,.20317.08
+4979, Rouge Tombreaper, The Bastion of the Lich Tyrant, 10.00, Rot Silver Of The Past , 227.00, 267.00, 280.00, 60609.00, 63560.00, 12416.90, 136585.90

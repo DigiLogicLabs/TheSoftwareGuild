@@ -1,0 +1,9 @@
+c:\users\csharpener\documents\visual studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\bin\Debug\FloorMastery.UI.dll
+c:\users\csharpener\documents\visual studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\bin\Debug\FloorMastery.UI.pdb
+c:\users\csharpener\documents\visual studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\obj\Debug\FloorMastery.UI.csprojResolveAssemblyReference.cache
+c:\users\csharpener\documents\visual studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\obj\Debug\FloorMastery.UI.dll
+c:\users\csharpener\documents\visual studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\obj\Debug\FloorMastery.UI.pdb
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\bin\Debug\FloorMastery.BLL.dll
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\bin\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\bin\Debug\FloorMastery.BLL.pdb
+C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.UI\bin\Debug\FloorMastery.Models.pdb

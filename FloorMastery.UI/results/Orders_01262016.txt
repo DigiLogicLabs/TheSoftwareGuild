@@ -1,0 +1,11 @@
+379, Rouge Tombreaper, Khali's Delve, 7.00, Timeiron , 262.00, 537.00, 965.00, 140694.00, 252830.00, 27546.68, 421070.68
+817, Dawn Darkzealot, The Secret Catacombs of Ulfang the Black, 0.00, Planar Obsidian Mercury Of Wizards , 158.00, 707.00, 602.00, 111706.00, 95116.00, 0.00, 206822.00
+1268, Seraphim Tsunami, The Demon and Toad, 3.00, Golems' Stonesapphire Gold Of The Glacier , 184.00, 705.00, 952.00, 129720.00, 175168.00, 9146.64, 314034.64
+1716, Rouge Roguemist, The Forsaken Sepulcher of Sorrows, 12.00, Sapphire Mindlead , 184.00, 608.00, 90.00, 111872.00, 16560.00, 15411.84, 143843.84
+2153, Magus Felldrake, Kada's Deep, 14.00, Djinni's Evil Sandobsidian Steel Of The Future , 152.00, 319.00, 845.00, 48488.00, 128440.00, 24769.92, 201697.92
+2608, Rouge Roguemist, Grori's Deep, 4.00, Rot Silver Of The Past , 94.00, 267.00, 280.00, 25098.00, 26320.00, 2056.72, 53474.72
+3063, "Gadriel, God of Resurrection", Archscepter Borough, 8.00, Violetstone Tin Of Death , 233.00, 246.00, 251.00, 57318.00, 58483.00, 9264.08, 125065.08
+3523, Valentine Lawslayer, The Forsaken Sepulcher of Sorrows, 12.00, Foulopal Copper Of The Skies , 86.00, 170.00, 101.00, 14620.00, 8686.00, 2796.72, 26102.72
+3989, Maverick Wind, Reheath Stronghold, 11.00, Unicorns' Evil Mithril , 40.00, 334.00, 705.00, 13360.00, 28200.00, 4571.60, 46131.60
+4430, Maverick Wind, The Demon and Toad, 3.00, Meteoric Mirrormuck Orichalcum Of The Forests , 144.00, 136.00, 65.00, 19584.00, 9360.00, 868.32, 29812.32
+4869, Song Runetomb, The Fen of the Necromancer, 15.00, Mithril Of The Tropics , 227.00, 386.00, 319.00, 87622.00, 72413.00, 24005.25, 184040.25

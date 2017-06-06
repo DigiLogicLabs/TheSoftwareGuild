@@ -1,0 +1,11 @@
+75, "Maglioneth, Lord of the Sun", The Beggar and Cask, 16.00, Primordial False Gold , 76.00, 354.00, 602.00, 26904.00, 45752.00, 11624.96, 84280.96
+520, Rouge Roguemist, The Fen of the Necromancer, 15.00, Fog Lavaplatinum Of Life , 105.00, 967.00, 333.00, 101535.00, 34965.00, 20475.00, 156975.00
+964, Lance Knightseraph, Reyny Keep, 14.00, Meteoric Mirrormuck Orichalcum Of The Forests , 172.00, 136.00, 65.00, 23392.00, 11180.00, 4840.08, 39412.08
+1413, "Addon, Lord of Death", The Tower of the Demon Warlord, 3.00, Vampires' Fang Emeraldsilver , 207.00, 876.00, 971.00, 181332.00, 200997.00, 11469.87, 393798.87
+1858, Lance Knightseraph, The Flying Witch, 13.00, Hell Mercury Of The East , 143.00, 122.00, 838.00, 17446.00, 119834.00, 17846.40, 155126.40
+2292, "Alas, Lord of Plague", Haukri's Hold, 7.00, Djinni's Evil Sandobsidian Steel Of The Future , 248.00, 319.00, 845.00, 79112.00, 209560.00, 20207.04, 308879.04
+2750, Sunset Knightclaw, The Bastion of the Lich Tyrant, 10.00, Primordial Mud Orichalcum , 246.00, 328.00, 627.00, 80688.00, 154242.00, 23493.00, 258423.00
+3211, "Penur, Lord of the Sea", The Warrior and Flagon, 0.00, Toxic Mistlead Of The Past , 156.00, 788.00, 986.00, 122928.00, 153816.00, 0.00, 276744.00
+3670, Bane Veil, Barad Kesa, 17.00, Lunar Bronze , 142.00, 981.00, 558.00, 139302.00, 79236.00, 37151.46, 255689.46
+4128, Rouge Roguemist, North Grove Ward, 13.00, Mithril Of The Tropics , 192.00, 386.00, 319.00, 74112.00, 61248.00, 17596.80, 152956.80
+4572, Lightning Brand, Arcanist's Farthing, 6.00, Hell Mercury Of The East , 160.00, 122.00, 838.00, 19520.00, 134080.00, 9216.00, 162816.00

@@ -1,0 +1,11 @@
+162, Claw Mist, Bifar's Deep, 3.00, Goddesses' Spectral Poison Steel , 165.00, 455.00, 483.00, 75075.00, 79695.00, 4643.10, 159413.10
+613, Law Lionwatcher, Pawic Keep, 0.00, Vampires' Hammer Emeraldmetal , 88.00, 191.00, 47.00, 16808.00, 4136.00, 0.00, 20944.00
+1054, "Ariel, God of Luck", The Hunter and Rose, 2.00, Angels' Smoke Adamant Of The Mountains , 215.00, 694.00, 967.00, 149210.00, 207905.00, 7142.30, 364257.30
+1500, Rouge Roguemist, The Bastion of Sthasu the Gruesome, 0.00, Sphinxes' Opalpearl Platinum Of Legend , 118.00, 461.00, 403.00, 54398.00, 47554.00, 0.00, 101952.00
+1942, Rune Rougehate, The Archer and Blade, 18.00, Foulopal Copper Of The Skies , 294.00, 170.00, 101.00, 49980.00, 29694.00, 14341.32, 94015.32
+2387, "Selik, God of Death", Archscepter Borough, 8.00, Vampires' Fang Emeraldsilver , 316.00, 876.00, 971.00, 276816.00, 306836.00, 46692.16, 630344.16
+2841, "Gadriel, God of Resurrection", The Archer and Scroll, 11.00, Zephyr Adamant , 203.00, 215.00, 3.00, 43645.00, 609.00, 4867.94, 49121.94
+3300, Cult Godseeker, The Beggar and Cask, 16.00, Stone Soulsteel Of The Skies , 268.00, 493.00, 872.00, 132124.00, 233696.00, 58531.20, 424351.20
+3766, Storm Seraphheart, The Fortress of Asmamur, 7.00, Shadowy Adamant , 115.00, 585.00, 941.00, 67275.00, 108215.00, 12284.30, 187774.30
+4217, "Avriel, God of Death", Kada's Deep, 14.00, Stone Soulsteel Of The Skies , 235.00, 493.00, 872.00, 115855.00, 204920.00, 44908.50, 365683.50
+4661, "Lenwenye, Goddess of Travel", The Tower of Sheshbazzu, 15.00, Planar Rainfate Mithril , 183.00, 81.00, 151.00, 14823.00, 27633.00, 6368.40, 48824.40

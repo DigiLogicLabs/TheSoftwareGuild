@@ -1,0 +1,11 @@
+410, Storm Seraphheart, The Tomb of Gothmog of Udun, 1.00, God-touched Greengem Platinum , 154.00, 501.00, 796.00, 77154.00, 122584.00, 1997.38, 201735.38
+851, "Ahah, Goddess of Knowledge", Gena's Hold, 8.00, Shadow Steel , 77.00, 841.00, 440.00, 64757.00, 33880.00, 7890.96, 106527.96
+1299, Lance Knightseraph, The Dark Caverns of Woe, 3.00, Warlocks' Timerot Mithril , 92.00, 368.00, 575.00, 33856.00, 52900.00, 2602.68, 89358.68
+1752, Wind Dire, Haukri's Hold, 7.00, Sirens' Rockgold , 270.00, 792.00, 901.00, 213840.00, 243270.00, 31997.70, 489107.70
+2184, "Prusu, God of Love", Moor Village, 0.00, Unknowable Mindsilver , 146.00, 578.00, 938.00, 84388.00, 136948.00, 0.00, 221336.00
+2640, Wind Dire, Gifeld Castle, 16.00, Hidden Shadowice Lead , 193.00, 241.00, 199.00, 46513.00, 38407.00, 13587.20, 98507.20
+3097, Bane Veil, Reheath Stronghold, 11.00, Hidden Shadowice Lead , 93.00, 241.00, 199.00, 22413.00, 18507.00, 4501.20, 45421.20
+3557, Gale Jackalguard, The Citadel of Alammius, 24.00, Fleshshock Mercury , 315.00, 667.00, 852.00, 210105.00, 268380.00, 114836.40, 593321.40
+4021, Dagger Reaper, Archtemple District, 4.00, Mana-touched Greenglitter Gold Of Giants , 180.00, 783.00, 690.00, 140940.00, 124200.00, 10605.60, 275745.60
+4462, "Lenwenye, Goddess of Travel", Shainan's Hold, 15.00, Ghostly Magic Adamant , 340.00, 499.00, 881.00, 169660.00, 299540.00, 70380.00, 539580.00
+4898, "Penur, Lord of the Sea", The Dungeon of Merciless Woe, 23.00, Incubi's Glittering Tin Of The Future , 254.00, 247.00, 493.00, 62738.00, 125222.00, 43230.80, 231190.80

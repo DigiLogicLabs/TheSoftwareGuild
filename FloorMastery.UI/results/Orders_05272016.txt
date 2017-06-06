@@ -1,0 +1,11 @@
+315, Bedlam Spiritraven, Grove Farthing, 18.00, Warlocks' Timerot Mithril , 13.00, 368.00, 575.00, 4784.00, 7475.00, 2206.62, 14465.62
+761, "Ingwenel, God of War", The Lost Crypts of Sorrows, 24.00, Planar Rainfate Mithril , 138.00, 81.00, 151.00, 11178.00, 20838.00, 7683.84, 39699.84
+1207, Grave Mistseeker, Castle Village, 17.00, Rocklava Mithril Of Revenants , 25.00, 169.00, 287.00, 4225.00, 7175.00, 1938.00, 13338.00
+1656, "Gono, Goddess of the Earth", The Desert of Flames, 16.00, Unspeakable Rotsoul Mithril Of Souls , 234.00, 255.00, 25.00, 59670.00, 5850.00, 10483.20, 76003.20
+2093, Lightning Brand, Gena's Hold, 8.00, Rainbowglitter Tin , 315.00, 496.00, 595.00, 156240.00, 187425.00, 27493.20, 371158.20
+2545, "Alik, Goddess of Trickery", The Flying Witch, 13.00, Ghostly Magic Adamant , 140.00, 499.00, 881.00, 69860.00, 123340.00, 25116.00, 218316.00
+3002, Zeal Bladewitch, Cawold Castle, 4.00, Venom Jewelmetal Of The Desert , 259.00, 21.00, 455.00, 5439.00, 117845.00, 4931.36, 128215.36
+3459, Lightning Brand, Tower Farthing, 2.00, Plague Tin , 271.00, 806.00, 444.00, 218426.00, 120324.00, 6775.00, 345525.00
+3925, "Gadriel, God of Resurrection", The Black Barrow of Bery, 21.00, Starsmoke Bronze Of Life , 80.00, 618.00, 647.00, 49440.00, 51760.00, 21252.00, 122452.00
+4370, "Uriel, God of Fate", Archring Borough, 0.00, Violetdream Iron , 155.00, 948.00, 922.00, 146940.00, 142910.00, 0.00, 289850.00
+4812, "Melcha, Goddess of Thieves", The Secret Shrine of the Gargoyle Count, 24.00, Rot Silver Of The Past , 288.00, 267.00, 280.00, 76896.00, 80640.00, 37808.64, 195344.64

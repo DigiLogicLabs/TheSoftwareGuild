@@ -1,0 +1,11 @@
+345, Tarot Dawn, The Vaults of the Shadow Emperor, 5.00, Evilsilver , 229.00, 814.00, 264.00, 186406.00, 60456.00, 12343.10, 259205.10
+
+1237, "Lionare, God of the Lost", Tradun Castle, 7.00, Greenlead , 201.00, 518.00, 166.00, 104118.00, 33366.00, 9623.88, 147107.88
+1683, "Sielach, God of Fate", The Tower of Aces the Accursed, 3.00, Icy Shock Silver , 136.00, 102.00, 540.00, 13872.00, 73440.00, 2619.36, 89931.36
+2124, Bedlam Spiritraven, Fellfen Keep, 11.00, Starsmoke Bronze Of Life , 124.00, 618.00, 647.00, 76632.00, 80228.00, 17254.60, 174114.60
+2574, Fate Seeker, The Flying Witch, 13.00, Mistgold Of Men , 280.00, 459.00, 640.00, 128520.00, 179200.00, 40003.60, 347723.60
+3032, "Iran, Lord of Nightmares", The Lewd King, 17.00, Sapphire Mindlead , 342.00, 608.00, 90.00, 207936.00, 30780.00, 40581.72, 279297.72
+3490, "Suriel, Lord of Animals", Lamp Borough, 15.00, Djinni's Spectral Shadowlead Of Life , 77.00, 969.00, 997.00, 74613.00, 76769.00, 22707.30, 174089.30
+3956, Seraph Jester, The Broken Shield, 7.00, Mithril Of Legend , 219.00, 382.00, 657.00, 83658.00, 143883.00, 15927.87, 243468.87
+4399, Harmony Angelchild, The Dungeon of Dismal Terror, 22.00, Glittering Orichalcum , 302.00, 425.00, 275.00, 128350.00, 83050.00, 46508.00, 257908.00
+4839, "Baltha, Goddess of Knowledge", The Warrior and Flagon, 0.00, Angels' Smoke Adamant Of The Mountains , 43.00, 694.00, 967.00, 29842.00, 41581.00, 0.00, 71423.00

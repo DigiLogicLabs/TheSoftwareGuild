@@ -1,0 +1,11 @@
+2,Claw Mist,The Grey Plains,3.00,Thunderbirds' Transcendent Dreamiron ,284.00,989.00,65.00,280876.00,18460.00,8980.08,308316.08
+   586,    "Maeglodor, God of Thieves",  The Dungeon of Dismal Terror,    22.00,   Unspeakable Rotsoul Mithril Of Souls ,        181.00,     255.00,    25.00,      46155.00,   4525.00,          11149.60,     61829.60
+1028, Harmony Angelchild, The Drunken Thief, 4.00, Stone Soulsteel Of The Skies , 309.00, 493.00, 872.00, 152337.00, 269448.00, 16871.40, 438656.40
+1473, "Ariel, God of Luck", The Forsaken Delve of Lord Greywulf, 8.00, Toxin Iceplatinum Of The Undead , 318.00, 146.00, 665.00, 46428.00, 211470.00, 20631.84, 278529.84
+1919, Rose Anchor, The Lost Crypts of Sorrows, 24.00, Phantasmal Lead , 172.00, 88.00, 927.00, 15136.00, 159444.00, 41899.20, 216479.20
+2359, "Zepul, Lady of Vengeance", The Forsaken Delve of Lord Greywulf, 8.00, White Platinum , 107.00, 795.00, 200.00, 85065.00, 21400.00, 8517.20, 114982.20
+2813, Bedlam Spiritraven, The Vaults of the Shadow Emperor, 5.00, Hidden Shadowice Lead , 218.00, 241.00, 199.00, 52538.00, 43382.00, 4796.00, 100716.002813, Bedlam Spiritraven, The Vaults of the Shadow Emperor, 5.00, Hidden Shadowice Lead , 218.00, 241.00, 199.00, 52538.00, 43382.00, 4796.00, 100716.00
+3272, "Suriel, Lord of Animals", Haukri's Hold, 7.00, Mistgold Of Men , 167.00, 459.00, 640.00, 76653.00, 106880.00, 12847.31, 196380.31
+3737, "Baltha, Goddess of Knowledge", The Bastion of the Lich Tyrant, 10.00, Imperial Fate Steel , 251.00, 324.00, 356.00, 81324.00, 89356.00, 17068.00, 187748.00
+4194, "Penur, Lord of the Sea", Archscepter Borough, 8.00, Transcendent Gold , 167.00, 39.00, 451.00, 6513.00, 75317.00, 6546.40, 88376.40
+.4635,Magus Felldrake,Arcanist's Farthing,.6.00,Rot Silver Of The Past ,.113.00,.267.00,.280.00,.30171.00,.31640.00,.3708.66,.65519.66

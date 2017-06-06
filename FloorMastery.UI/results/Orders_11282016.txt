@@ -1,0 +1,11 @@
+150, "Alas, Lord of Plague", The Scoundrel and Flask, 23.00, Transcendent Gold , 253.00, 39.00, 451.00, 9867.00, 114103.00, 28513.10, 152483.10
+602, Fate Ivycaster, The Black Barrow of Bery, 21.00, Djinni's Mind Fogiron , 310.00, 387.00, 164.00, 119970.00, 50840.00, 35870.10, 206680.10
+1043, "Iran, Lord of Nightmares", The Bloody Wand, 2.00, Sirens' Rockgold , 213.00, 792.00, 901.00, 168696.00, 191913.00, 7212.18, 367821.18
+1488, "Ariel, God of Luck", Archscepter Borough, 8.00, Poison Adamant , 210.00, 952.00, 349.00, 199920.00, 73290.00, 21856.80, 295066.80
+1932, "Nelalwe, Lady of Fire", The Fortress of the Lich Queen, 6.00, Meteoric Dustzephyr Orichalcum , 154.00, 232.00, 37.00, 35728.00, 5698.00, 2485.56, 43911.56
+2374, Sephiroth Drakecaster, Noble's Village, 5.00, Vampires' Fang Emeraldsilver , 185.00, 876.00, 971.00, 162060.00, 179635.00, 17084.75, 358779.75
+2828, Bane Veil, The Citadel of Lord Greywulf, 0.00, Mind Lead , 259.00, 143.00, 486.00, 37037.00, 125874.00, 0.00, 162911.00
+3287, "Melcha, Goddess of Thieves", The Beggar and Cask, 16.00, Unknown Fatelightning Steel Of The Glacier , 139.00, 837.00, 700.00, 116343.00, 97300.00, 34182.88, 247825.88
+3753, "Uriel, God of Fate", The Dismal Marsh, 19.00, Greenlead , 63.00, 518.00, 166.00, 32634.00, 10458.00, 8187.48, 51279.48
+4208, "Selah, God of Destruction", The Beggar and Cask, 16.00, Mana-touched Greenglitter Gold Of Giants , 208.00, 783.00, 690.00, 162864.00, 143520.00, 49021.44, 355405.44
+4650, "Suriel, Lord of Animals", The Khazahol Crags, 22.00, Zephyr Adamant , 284.00, 215.00, 3.00, 61060.00, 852.00, 13620.64, 75532.64

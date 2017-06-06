@@ -1,0 +1,11 @@
+135, "Byzou, God of Animals", The Barrow of Malefic Ages, 13.00, Angels' Adamant , 217.00, 189.00, 157.00, 41013.00, 34069.00, 9760.66, 84842.66
+580, Wind Dire, The Forsaken Delve of Lord Greywulf, 8.00, Rot Silver Of The Past , 267.00, 267.00, 280.00, 71289.00, 74760.00, 11683.92, 157732.92
+1,"Melcha, Goddess of Thieves",Noble's Village,5.00,Lycanthropes' Gold ,213.00,213.00,171.00,45369.00,36423.00,4089.60,85881.60
+1467, Slayer Claw, The Shadow Downs, 2.00, Violetstone Tin Of Death , 295.00, 246.00, 251.00, 72570.00, 74045.00, 2932.30, 149547.30
+1915, Maverick Wind, Tradun Castle, , , 87.00, 368.00, 575.00, , 50025.00, , 
+2354, Fate Ivycaster, Gili's Delve, 7.00, Spirits' Living Wordhammer Tin Of The Trees , 193.00, 533.00, 531.00, 102869.00, 102483.00, 14374.64, 219726.64
+2810, Lance Knightseraph, The Lewd King, 17.00, Toxic Mistlead Of The Past , 282.00, 788.00, 986.00, 222216.00, 278052.00, 85045.56, 585313.56
+3266, "Iran, Lord of Nightmares", The Secret Shrine of the Gargoyle Count, 24.00, Zephyr Adamant , 308.00, 215.00, 3.00, 66220.00, 924.00, 16114.56, 83258.56
+3731, Jericho Wolf, The Dread Hive of Illfang the Kobold Lord, 8.00, Trolls' Rubymercury Of The Sunset , 210.00, 146.00, 782.00, 30660.00, 164220.00, 15590.40, 210470.40
+4190, Fate Ivycaster, Mahyrst Keep, 18.00, Shadowhell Mithril , 226.00, 231.00, 848.00, 52206.00, 191648.00, 43893.72, 287747.72
+4630, "Alik, Goddess of Trickery", Hafeld Keep, 0.00, Tritons' Time Stoneiron Of Legend , 171.00, 912.00, 866.00, 155952.00, 148086.00, 0.00, 304038.00

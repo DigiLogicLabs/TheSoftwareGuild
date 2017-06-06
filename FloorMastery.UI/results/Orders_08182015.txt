@@ -1,0 +1,11 @@
+422, Storm Squallmourner, The Bastion of Gothmog of Udun, 18.00, Negative Mercury , 155.00, 278.00, 408.00, 43090.00, 63240.00, 19139.40, 125469.40
+865, Dagger Reaper, The Dancing Minstrel, 14.00, Transcendent Gold , 67.00, 39.00, 451.00, 2613.00, 30217.00, 4596.20, 37426.20
+1311, "Avriel, God of Death", The Tower of Aces the Accursed, 3.00, Sphinxes' Unknown Poisongold Of The Future , 57.00, 43.00, 998.00, 2451.00, 56886.00, 1780.11, 61117.11
+1765, "Maglioneth, Lord of the Sun", Grori's Deep, 4.00, Incubi's Iron Of The Dawn , 161.00, 399.00, 800.00, 64239.00, 128800.00, 7721.56, 200760.56
+2194, Storm Squallmourner, The Tower of Sheshbazzu, 15.00, Greenlead , 176.00, 518.00, 166.00, 91168.00, 29216.00, 18057.60, 138441.60
+2652, Flora Amberslayer, Haukri's Hold, 7.00, Ghouls' Imperial Soulzephyr Mithril Of The Seas , 196.00, 313.00, 673.00, 61348.00, 131908.00, 13527.92, 206783.92
+3110, Lord Mystery, The Drunken Thief, 4.00, Unicorns' Fatal Magma Metal Of The Ocean , 248.00, 142.00, 749.00, 35216.00, 185752.00, 8838.72, 229806.72
+3570, Song Runetomb, The Wizard's House, 7.00, Timeiron , 329.00, 537.00, 965.00, 176673.00, 317485.00, 34591.06, 528749.06
+4035, Shadow Gust, Kada's Deep, 14.00, Trolls' Mist Poisonplatinum Of The Twilight , 230.00, 990.00, 430.00, 227700.00, 98900.00, 45724.00, 372324.00
+4476, "Suriel, Lord of Animals", The Broken Arrow, 22.00, Rainbowglitter Tin , 296.00, 496.00, 595.00, 146816.00, 176120.00, 71045.92, 393981.92
+4911, Tarot Dawn, The Pilgrim's Cup, 21.00, Incubi's Iron Of The Dawn , 353.00, 399.00, 800.00, 140847.00, 282400.00, 88881.87, 512128.87

@@ -1,0 +1,11 @@
+251, Wind Dire, Grori's Deep, 4.00, Planar Rainfate Mithril , 90.00, 81.00, 151.00, 7290.00, 13590.00, 835.20, 21715.20
+699, Sunset Knightclaw, Mahyrst Keep, 18.00, Starlight Pearldream Bronze , 199.00, 441.00, 906.00, 87759.00, 180294.00, 48249.54, 316302.54
+1141, Lord Mystery, Unicorn's Ward, 1.00, Phantasmal Lead , 243.00, 88.00, 927.00, 21384.00, 225261.00, 2466.45, 249111.45
+1592, Rose Anchor, The Vaults of the Shadow Emperor, 5.00, Starlight Pearldream Bronze , 293.00, 441.00, 906.00, 129213.00, 265458.00, 19733.55, 414404.55
+2027, Seraph Jester, Minas Gilloy, 20.00, Lunar Bronze , 244.00, 981.00, 558.00, 239364.00, 136152.00, 75103.20, 450619.20
+2477, Lightning Brand, The Dread Hive of Illfang the Kobold Lord, 8.00, Planar Rainfate Mithril , 101.00, 81.00, 151.00, 8181.00, 15251.00, 1874.56, 25306.56
+2931, "Ariel, God of Luck", The Bastion of Barbos, 18.00, Glowpearl Adamant Of Spirits , 94.00, 669.00, 534.00, 62886.00, 50196.00, 20354.76, 133436.76
+3389, Fate Seeker, Hartshill Ward, 11.00, Grayplatinum , 170.00, 45.00, 526.00, 7650.00, 89420.00, 10677.70, 107747.70
+3856, Jericho Wolf, The Cuitamba Jungle, 22.00, Angels' Smoke Adamant Of The Mountains , 295.00, 694.00, 967.00, 204730.00, 285265.00, 107798.90, 597793.90
+4304, Grave Mistseeker, Citadel Ward, 14.00, Vampires' Hammer Emeraldmetal , 377.00, 191.00, 47.00, 72007.00, 17719.00, 12561.64, 102287.64
+4747, Grave Mistseeker, The Broken Arrow, 22.00, Ghostly Soul Adamant , 286.00, 56.00, 682.00, 16016.00, 195052.00, 46434.96, 257502.964747, Grave Mistseeker, The Broken Arrow, 22.00, Ghostly Soul Adamant , 286.00, 56.00, 682.00, 16016.00, 195052.00, 46434.96, 257502.96

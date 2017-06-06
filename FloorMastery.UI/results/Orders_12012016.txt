@@ -1,0 +1,11 @@
+147, "Baltha, Goddess of Knowledge", Dysley Stronghold, 5.00, Mithril Of Legend , 254.00, 382.00, 657.00, 97028.00, 166878.00, 13195.30, 277101.30
+599, Maverick Wind, The Hunter and Rose, 2.00, Phantasmal Lead , 189.00, 88.00, 927.00, 16632.00, 175203.00, 3836.70, 195671.70
+1040, Rouge Roguemist, The Forsaken Tomb of Devastation, 12.00, Unicorns' Evil Mithril , 126.00, 334.00, 705.00, 42084.00, 88830.00, 15709.68, 146623.68
+1485, Lance Knightseraph, The Broken Arrow, 22.00, Angels' Smoke Adamant Of The Mountains , 285.00, 694.00, 967.00, 197790.00, 275595.00, 104144.70, 577529.70
+1929, "Maglioneth, Lord of the Sun", The Bastion of the Vampire Duke, 18.00, Shadowhell Mithril , 109.00, 231.00, 848.00, 25179.00, 92432.00, 21169.98, 138780.98
+2371, "Alik, Goddess of Trickery", Archtemple District, 4.00, White Platinum , 35.00, 795.00, 200.00, 27825.00, 7000.00, 1393.00, 36218.00
+2825, "Selik, God of Death", Reyny Keep, 14.00, Planar Rainfate Mithril , 324.00, 81.00, 151.00, 26244.00, 48924.00, 10523.52, 85691.52
+3284, "Zepul, Lady of Vengeance", Gili's Delve, 7.00, Shadow Metal , 25.00, 881.00, 254.00, 22025.00, 6350.00, 1986.25, 30361.25
+3750, "Eumyan, Goddess of Law", The Desert of Flames, 16.00, Sirens' Rockgold , 121.00, 792.00, 901.00, 95832.00, 109021.00, 32776.48, 237629.48
+4205, Tiger Mistmidnight, The Fen of the Necromancer, 15.00, Grayplatinum , 138.00, 45.00, 526.00, 6210.00, 72588.00, 11819.70, 90617.70
+4647, Lightning Brand, Kada's Deep, 14.00, Incubi's Mirrorfog Iron Of The Ocean , 164.00, 22.00, 675.00, 3608.00, 110700.00, 16003.12, 130311.12

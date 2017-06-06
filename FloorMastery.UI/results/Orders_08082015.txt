@@ -1,0 +1,11 @@
+423, Rouge Tombreaper, Mahyrst Keep, 18.00, Phantasmal Tin Of The Swamps , 209.00, 174.00, 421.00, 36366.00, 87989.00, 22383.90, 146738.90
+1,"Lionare, God of the Lost",The Vaults of the Shadow Emperor,5.00,Trolls' Rubymercury Of The Sunset ,85.00,146.00,782.00,12410.00,66470.00,3944.00,82824.00
+1312, Claw Mist, Palace Farthing, 12.00, Ensorceled Gold Of The Dawn , 191.00, 512.00, 310.00, 97792.00, 59210.00, 18840.24, 175842.24
+1765, "Gono, Goddess of the Earth", Pawic Keep, 0.00, Incubi's Mirrorfog Iron Of The Ocean , 175.00, 22.00, 675.00, 3850.00, 118125.00, 0.00, 121975.00
+   2195,    "Maglioneth, Lord of the Sun",    The Secret Shrine of the Gargoyle Count,     24.00,        Meteoric Mirrormuck Orichalcum Of The Forests ,    226.00,    136.00,     65.00,      30736.00,      14690.00,      10902.24,    56328.24
+2653, Storm Squallmourner, The Forsaken Tomb of Devastation, 12.00, Djinni's Spectral Shadowlead Of Life , 101.00, 969.00, 997.00, 97869.00, 100697.00, 23827.92, 222393.92
+3111, "Byzou, God of Animals", Tower Farthing, 2.00, Starsmoke Bronze Of Life , 77.00, 618.00, 647.00, 47586.00, 49819.00, 1948.10, 99353.10
+3571, Rose Anchor, Eved Castle, 2.00, Grayplatinum , 282.00, 45.00, 526.00, 12690.00, 148332.00, 3220.44, 164242.44
+4036, "Gadriel, God of Resurrection", The Nulukkhath Spires, 20.00, Imperial Fate Steel , 99.00, 324.00, 356.00, 32076.00, 35244.00, 13464.00, 80784.00
+4477, "Uriel, God of Fate", The Dismal Marsh, 19.00, Djinni's Spectral Shadowlead Of Life , 163.00, 969.00, 997.00, 157947.00, 162511.00, 60887.02, 381345.02
+4912, Magus Felldrake, The Forsaken Hive of Galima the Mighty, 4.00, Angels' Smoke Adamant Of The Mountains , 230.00, 694.00, 967.00, 159620.00, 222410.00, 15281.20, 397311.20

@@ -1,0 +1,11 @@
+362, Grave Mistseeker, The Warrior and Flagon, 0.00, God-touched Greengem Platinum , 103.00, 501.00, 796.00, 51603.00, 81988.00, 0.00, 133591.00
+802, "Byzou, God of Animals", The Grey Plains, 3.00, Shadowy Adamant , 258.00, 585.00, 941.00, 150930.00, 242778.00, 11811.24, 405519.24
+1253, Harmony Angelchild, Lamp Borough, 15.00, Mithril Of The Tropics , 232.00, 386.00, 319.00, 89552.00, 74008.00, 24534.00, 188094.00
+1699, "Azah, Goddess of Fate", The Fortress of Akkun the Grim, 18.00, Unicorns' Evil Mithril , 247.00, 334.00, 705.00, 82498.00, 174135.00, 46193.94, 302826.94
+2140, "Azah, Goddess of Fate", The Tower of Aramum, 9.00, Fog Lavaplatinum Of Life , 201.00, 967.00, 333.00, 194367.00, 66933.00, 23517.00, 284817.00
+2591, Bane Veil, Arcanist's Farthing, 6.00, Fog Lavaplatinum Of Life , 213.00, 967.00, 333.00, 205971.00, 70929.00, 16614.00, 293514.00
+3048, Sunset Knightclaw, The Forsaken Hive of Galima the Mighty, 4.00, Tritons' Time Stoneiron Of Legend , 187.00, 912.00, 866.00, 170544.00, 161942.00, 13299.44, 345785.44
+3507, Seraph Jester, The Chuallanto Jungle, 1.00, Grayplatinum , 339.00, 45.00, 526.00, 15255.00, 178314.00, 1935.69, 195504.69
+3973, "Alas, Lord of Plague", Archscepter Borough, 8.00, Shadow Steel , 221.00, 841.00, 440.00, 185861.00, 97240.00, 22648.08, 305749.08
+4415, Sunset Knightclaw, The Citadel of Lord Greywulf, 0.00, Forgotten Mithril , 239.00, 793.00, 940.00, 189527.00, 224660.00, 0.00, 414187.00
+4856, "Melcha, Goddess of Thieves", The Lazy Sage, 9.00, Angels' Smoke Adamant Of The Mountains , 85.00, 694.00, 967.00, 58990.00, 82195.00, 12706.65, 153891.65

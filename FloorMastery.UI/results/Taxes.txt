@@ -1,0 +1,119 @@
+The Black Barrow of Zago the Possessed, 23.00
+The Grey Plains, 3.00
+The Nulukkhath Spires, 20.00
+The Warrior and Flagon, 0.00
+The Fortress of Akkun the Grim, 18.00
+The Barrow of Terrible Horror, 24.00
+The Tomb of Hellish Ruin, 14.00
+North Grove Ward, 13.00
+The Citadel of Tattena the Sinister, 23.00
+Eved Castle, 2.00
+The Tower of Sheshbazzu, 15.00
+Unicorn's Ward, 1.00
+Love Keep, 4.00
+Hartshill Ward, 11.00
+The Archer and Blade, 18.00
+The Bastion of Barbos, 18.00
+The Demon and Toad, 3.00
+The Lewd King, 17.00
+Moor Village, 0.00
+Kewold Stronghold, 23.00
+Barad Kesa, 17.00
+Archscepter Borough, 8.00
+Ring District, 23.00
+Dysley Stronghold, 5.00
+The Dread Hive of Illfang the Kobold Lord, 8.00
+Tower Farthing, 2.00
+The Tower of Aces the Accursed, 3.00
+Lamp Borough, 15.00
+Shainan's Hold, 15.00
+The Cracked Chalice, 22.00
+The Broken Arrow, 22.00
+The Lost Sanctum of Woe, 12.00
+Bergfison's Deep, 18.00
+The Tower of the Demon Warlord, 3.00
+Gena's Hold, 8.00
+Gifeld Castle, 16.00
+Hafeld Keep, 0.00
+The Scoundrel and Flask, 23.00
+Archtemple District, 4.00
+Palace Farthing, 12.00
+The Hunter and Rose, 2.00
+The Bastion of Sthasu the Gruesome, 0.00
+The Citadel of Cheno, 0.00
+The Forsaken Sepulcher of Sorrows, 12.00
+Khali's Delve, 7.00
+The Glano Forest, 22.00
+The Drunken Thief, 4.00
+The Citadel of Alammius, 24.00
+The Lost Crypts of Sorrows, 24.00
+North Arcanist's Farthing, 6.00
+Castle Village, 17.00
+The Fortress of Asmamur, 7.00
+Bifar's Deep, 3.00
+Pawic Keep, 0.00
+The Dismal Marsh, 19.00
+Tradun Castle, 7.00
+The Barrow of Malefic Ages, 13.00
+The Wizard's House, 7.00
+The Bastion of the Lich Tyrant, 10.00
+The Dungeon of Merciless Woe, 23.00
+The Desert of Flames, 16.00
+The Fortress of Gama, 5.00
+The Tomb of Gothmog of Udun, 1.00
+Gili's Delve, 7.00
+Boiaburh Keep, 11.00
+Citadel Ward, 14.00
+South Brightcrown Borough, 0.00
+The Fortress of the Lich Queen, 6.00
+The Cuitamba Jungle, 22.00
+Peley Keep, 24.00
+Lordsgate Farthing, 17.00
+The Tower of Sabiesu the Awesome, 18.00
+The Black Barrow of Bery, 21.00
+Cawold Castle, 4.00
+The Broken Shield, 7.00
+The Lazy Sage, 9.00
+The Secret Shrine of the Gargoyle Count, 24.00
+The Tower of Aramum, 9.00
+The Dark Caverns of Woe, 3.00
+The Khazahol Crags, 22.00
+The Shadow Downs, 2.00
+The Forsaken Hive of Galima the Mighty, 4.00
+The Bastion of Gothmog of Udun, 18.00
+The Pilgrim's Cup, 21.00
+The Forsaken Tomb of Devastation, 12.00
+Barad Cune, 21.00
+Arcanist's Farthing, 6.00
+Kada's Deep, 14.00
+The Beggar and Cask, 16.00
+The Citadel of Lord Greywulf, 0.00
+The Dancing Minstrel, 14.00
+The Secret Catacombs of Ulfang the Black, 0.00
+Weke Tower, 23.00
+Haukri's Hold, 7.00
+Mahyrst Keep, 18.00
+The Temple of Merciless Necromancy, 1.00
+Reheath Stronghold, 11.00
+The Vaults of the Shadow Emperor, 5.00
+Archfane District, 18.00
+The Forsaken Delve of Lord Greywulf, 8.00
+The Pirate's Pipe, 14.00
+The Bastion of the Vampire Duke, 18.00
+Archring Borough, 0.00
+The Flying Witch, 13.00
+Reyny Keep, 14.00
+Grori's Deep, 4.00
+Grove Farthing, 18.00
+Minas Gilloy, 20.00
+Fellfen Keep, 11.00
+Gawold Castle, 6.00
+Noble's Village, 5.00
+The Bloody Wand, 2.00
+The Chuallanto Jungle, 1.00
+The Greedy Wench, 8.00
+The Archer and Scroll, 11.00
+Waleah Castle, 10.00
+Lacot Stronghold, 7.00
+The Fen of the Necromancer, 15.00
+The Dungeon of Dismal Terror, 22.00

@@ -1,0 +1,11 @@
+130, Lightning Brand, Moor Village, 0.00, Shadowhell Mithril , 43.00, 231.00, 848.00, 9933.00, 36464.00, 0.00, 46397.00
+574, Seraph Jester, The Archer and Blade, 18.00, Green Dustlightning Mercury , 76.00, 906.00, 964.00, 68856.00, 73264.00, 25581.60, 167701.60
+1019, Lightning Brand, The Demon and Toad, 3.00, Hidden Shadowice Lead , 192.00, 241.00, 199.00, 46272.00, 38208.00, 2534.40, 87014.401019, Lightning Brand, The Demon and Toad, 3.00, Hidden Shadowice Lead , 192.00, 241.00, 199.00, 46272.00, 38208.00, 2534.40, 87014.40
+1461, Rouge Roguemist, The Shadow Downs, 2.00, Emerald Orichalcum , 121.00, 711.00, 570.00, 86031.00, 68970.00, 3100.02, 158101.02
+1909, Maverick Wind, The Broken Shield, 7.00, Glowpearl Adamant Of Spirits , 283.00, 669.00, 534.00, 189327.00, 151122.00, 23831.43, 364280.43
+2349, Jericho Wolf, Lacot Stronghold, 7.00, Trolls' Rubymercury Of The Sunset , 211.00, 146.00, 782.00, 30806.00, 165002.00, 13706.56, 209514.56
+2804, "Selik, God of Death", The Citadel of Tattena the Sinister, 23.00, Rocklava Mithril Of Revenants , 260.00, 169.00, 287.00, 43940.00, 74620.00, 27268.80, 145828.80
+3260, Storm Seraphheart, Archtemple District, 4.00, Starlight Pearldream Bronze , 130.00, 441.00, 906.00, 57330.00, 117780.00, 7004.40, 182114.40
+3725, Rouge Roguemist, Ring District, 23.00, Djinni's Mind Fogiron , 192.00, 387.00, 164.00, 74304.00, 31488.00, 24332.16, 130124.16
+4184, "Ariel, God of Luck", Lacot Stronghold, 7.00, Starsmoke Bronze Of Life , 244.00, 618.00, 647.00, 150792.00, 157868.00, 21606.20, 330266.20
+4625, "Baltha, Goddess of Knowledge", The Lazy Sage, 9.00, Tin Of The Tundra , 297.00, 479.00, 294.00, 142263.00, 87318.00, 20662.29, 250243.29
