@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using FloorMastery.UI.Wokflows;
+﻿using FloorMastery.UI.Wokflows;
+using System;
 
 namespace FloorMastery.UI
 {
@@ -11,26 +7,28 @@ namespace FloorMastery.UI
     {
         public static void Start()
         {
-
             while (true)
             {
-                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("********************************************");
-                Console.WriteLine("Flooring Program");
-                Console.WriteLine("*");
-                Console.WriteLine("*1.Display Orders");
-                Console.WriteLine("*2.Add an Order");
-                Console.WriteLine("*3.Edit an Order");
-                Console.WriteLine("*4.Remove an Order");
-                Console.WriteLine("*5.Quit");
-                Console.WriteLine("*");
+                Console.WriteLine("            Flooring Program                ");
+                Console.WriteLine(" * ");
+                Console.WriteLine(" * 1. Display Orders");
+                Console.WriteLine(" * 2. Add an Order");
+                Console.WriteLine(" * 3. Edit an Order");
+                Console.WriteLine(" * 4. Remove an Order");
+                Console.WriteLine(" * 5. Quit");
+                Console.WriteLine(" * ");
                 Console.WriteLine("********************************************");
-                Console.Write("\nEnter selection: ");
-
-                Console.ReadLine();
-
+                Console.Write("          Enter selection:                ");
+                Console.ResetColor();
 
                 string userinput = Console.ReadLine();
+                if (userinput == "")
+                {
+                    Console.Clear();
+                    Start();
+                }
 
                 switch (userinput)
                 {
@@ -38,20 +36,27 @@ namespace FloorMastery.UI
                         DisplayOrderWorkflow displayWorkflow = new DisplayOrderWorkflow();
                         displayWorkflow.Execute(); //Loads accountmanager from factory, no matter what's put in, we should get our freeaccount object back
                         break;
+
                     case "2":
                         AddOrderWorkflow addWorkflow = new AddOrderWorkflow();
-//                        addWorkflow.Execute();
+                        addWorkflow.Execute();
                         break;
+
                     case "3":
                         EditOrderWorkflow editWorkflow = new EditOrderWorkflow();
-//                        editWorkflow.Execute();
+                        editWorkflow.Execute();
                         break;
+
                     case "4":
                         RemoveOrderWorkflow removeWorkflow = new RemoveOrderWorkflow();
-//                        removeWorkflow.Execute();
+                        removeWorkflow.Execute();
                         break;
-                        
+
                     case "5":
+                        Console.ForegroundColor = ConsoleColor.Gray;
+                        Console.WriteLine("Press Enter to Quit.");
+                        Console.ReadLine();
+
                         return;
                 }
             }

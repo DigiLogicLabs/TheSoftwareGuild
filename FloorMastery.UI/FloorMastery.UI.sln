@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.UI", "FloorMas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.BLL", "FloorMastery.BLL\FloorMastery.BLL.csproj", "{8B28243D-2E55-4942-A248-A797C5874BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.Data", "FloorMastery.Data\FloorMastery.Data.csproj", "{AFA6CC23-0B14-4033-9D0E-A0E9BBC536A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.Models", "FloorMastery.Data\FloorMastery.Models.csproj", "{AFA6CC23-0B14-4033-9D0E-A0E9BBC536A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.Tests", "FloorMastery.Tests\FloorMastery.Tests.csproj", "{537B7E17-8E79-43A2-BB02-51D698F82CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.Models", "FloorMastery.Models\FloorMastery.Models.csproj", "{0AE3270B-14B8-4BF3-BFE7-FBC53A2082F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorMastery.Data", "FloorMastery.Models\FloorMastery.Data.csproj", "{0AE3270B-14B8-4BF3-BFE7-FBC53A2082F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FloorMastery.Data.LiveDataFeed
+namespace FloorMastery.Data.Classes
 {
-    public class OrdersTestRepo
+    public enum FunctionsEnum
     {
-
+        Display = 1,
+        Add,
+        Edit,
+        Remove
 
     }
 }

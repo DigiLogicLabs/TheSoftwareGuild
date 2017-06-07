@@ -3,3 +3,8 @@ C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorM
 C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Models\obj\Debug\FloorMastery.Models.csprojResolveAssemblyReference.cache
 C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Models\obj\Debug\FloorMastery.Models.dll
 C:\Users\Csharpener\Documents\Visual Studio 2017\Projects\FloorMastery.UI\FloorMastery.Models\obj\Debug\FloorMastery.Models.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Models\bin\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Models\bin\Debug\FloorMastery.Models.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Models\obj\Debug\FloorMastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Models\obj\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Models\obj\Debug\FloorMastery.Models.pdb

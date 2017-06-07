@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0AE3270B-14B8-4BF3-BFE7-FBC53A2082F4}</ProjectGuid>
+    <ProjectGuid>{AFA6CC23-0B14-4033-9D0E-A0E9BBC536A7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FloorMastery.Models</RootNamespace>
-    <AssemblyName>FloorMastery.Models</AssemblyName>
+    <RootNamespace>FloorMastery.Data</RootNamespace>
+    <AssemblyName>FloorMastery.Data</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,16 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\IAddOrder.cs" />
-    <Compile Include="Interfaces\IEditOrder.cs" />
-    <Compile Include="Interfaces\IOrderRepository.cs" />
-    <Compile Include="Interfaces\IRemoveOrder.cs" />
+    <Compile Include="Classes\FunctionsEnum.cs" />
+    <Compile Include="Classes\Order.cs" />
+    <Compile Include="Classes\ProductInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Responses\AddResponse.cs" />
-    <Compile Include="Responses\DisplayOrderResponse.cs" />
-    <Compile Include="Responses\EditResponse.cs" />
-    <Compile Include="Responses\RemoveResponse.cs" />
+    <Compile Include="Responses\OrderResponse.cs" />
+    <Compile Include="Responses\ProductResponse.cs" />
     <Compile Include="Responses\Response.cs" />
+    <Compile Include="Responses\TaxesResponse.cs" />
+    <Compile Include="Classes\StateInfo.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -43,16 +43,18 @@
     <Compile Include="Add, Edit, Remove\Add.cs" />
     <Compile Include="Add, Edit, Remove\Edit.cs" />
     <Compile Include="Add, Edit, Remove\Remove.cs" />
+    <Compile Include="OrderManager.cs" />
+    <Compile Include="OrdersFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FloorMastery.Data\FloorMastery.Data.csproj">
+    <ProjectReference Include="..\FloorMastery.Data\FloorMastery.Models.csproj">
       <Project>{afa6cc23-0b14-4033-9d0e-a0e9bbc536a7}</Project>
-      <Name>FloorMastery.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\FloorMastery.Models\FloorMastery.Models.csproj">
-      <Project>{0ae3270b-14b8-4bf3-bfe7-fbc53a2082f4}</Project>
       <Name>FloorMastery.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FloorMastery.Models\FloorMastery.Data.csproj">
+      <Project>{0ae3270b-14b8-4bf3-bfe7-fbc53a2082f4}</Project>
+      <Name>FloorMastery.Data</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

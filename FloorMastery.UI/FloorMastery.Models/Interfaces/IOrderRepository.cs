@@ -1,15 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using FloorMastery.Models.Responses;
+using FloorMastery.Models;
 
-namespace FloorMastery.Models.Interfaces
+namespace FloorMastery.Data.Interfaces
 {
     public interface IOrderRepository
     {
-        DisplayOrderResponse ProcessOrderInfo();
-        
+        Order OrdersDateAndNumber(DateTime orderDate, int orderNumber);
+
+        List<Order> OrdersByDateList(DateTime orderDateTime);
+
+        bool EditOrder(Order order, DateTime orderDate, int orderNumber);
+
+        bool RemoveOrder(Order order, int orderNumber);
+
+        bool AddOrder(Order order);
     }
 }

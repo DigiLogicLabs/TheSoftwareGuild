@@ -1,0 +1,5 @@
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Data\bin\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Data\bin\Debug\FloorMastery.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Data\obj\Debug\FloorMastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Data\obj\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery.UI\FloorMastery.Data\obj\Debug\FloorMastery.Data.pdb
