@@ -8,22 +8,19 @@ namespace FloorMastery.Data.Factories
 {
     public class OrderFactory
     {
-        public const string _filepathProducts = @"C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\results\Products.txt";
-        public const string _filepathTaxes = @"C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\results\Taxes.txt";
-        public const string _filepathOrders = @"C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\results";
-
-
         public static IOrderRepository CreateOrderRepository()
         {
            // IOrderRepository repository;
 
-            string mode = ConfigurationManager.AppSettings["mode"].ToString();
+            string mode = ConfigurationManager.AppSettings["Mode"].ToString();
 
-            switch (mode.ToUpper())
+            switch (mode)
             {
-                case "PROD":
-//                    repository = new OrdersTestRepo();
+                case "Test":
                     break;
+                    
+                case "Prod":
+//                    return new OrdersManager;
                 default:
                     throw new Exception("Mode doesn't exist.");
             }

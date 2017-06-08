@@ -17,7 +17,7 @@ namespace FloorMastery.UI
                 Console.WriteLine(" * 2. Add an Order");
                 Console.WriteLine(" * 3. Edit an Order");
                 Console.WriteLine(" * 4. Remove an Order");
-                Console.WriteLine(" * 5. Quit");
+                Console.WriteLine(" * 5/Q. Quit");
                 Console.WriteLine(" * ");
                 Console.WriteLine("********************************************");
                 Console.Write("          Enter selection:                ");
@@ -53,11 +53,17 @@ namespace FloorMastery.UI
                         break;
 
                     case "5":
-                        Console.ForegroundColor = ConsoleColor.Gray;
-                        Console.WriteLine("Press Enter to Quit.");
-                        Console.ReadLine();
-
+                        Console.ReadKey();
                         return;
+                    case "Q":
+                        Console.ReadKey();
+                        return;
+                    case "q":
+                        Console.ReadKey();
+                        return;
+
+
+
                 }
             }
         }

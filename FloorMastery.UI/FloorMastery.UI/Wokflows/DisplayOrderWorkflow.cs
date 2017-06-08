@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using FloorMastery.Data.Repos;
+using FloorMastery.Models;
+using FloorMastery.Models.Helpers;
 
 namespace FloorMastery.UI.Wokflows
 {
@@ -6,6 +10,8 @@ namespace FloorMastery.UI.Wokflows
     {
         public void Execute()
         {
+
+            
             Console.Clear();
 
             Console.ForegroundColor = ConsoleColor.Cyan;
@@ -18,24 +24,36 @@ namespace FloorMastery.UI.Wokflows
             Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
             var orderDateInput = Console.ReadLine();
 
+            OrdersTestRepo repo = new OrdersTestRepo(Settings._filepathOrders);
+            List<Order> orders = repo.ListingOrders();
+
+            ConsoleIO.PrintOrdersListHeader();
+
+            foreach (var order in orders)
+            {
+                Console.WriteLine(ConsoleIO.OrderLineFormat, order.OrdersDateTime
+                    + "," + order.OrdersNumber, order.CustomersName, order.Area);
+            }
+
 
             DateTime result;
 
-            if (DateTime.TryParse(orderDateInput, out result))
-            {
-                return;
-            }
+            
             if (orderDateInput == "")
             {
                 Console.WriteLine("Can't convert a blank string to a Date!");
                 Console.ReadKey();
                 Console.Clear();
-                Menu.Start();
+                Execute();
+            }
+            if (DateTime.TryParse(orderDateInput, out result))
+            {
+                return;
             }
             else
             {
                 Console.WriteLine("Please enter an order date in SimpleDateFormat (MM-dd-yyyy) ");
-                Console.WriteLine();
+                Console.WriteLine(ConsoleIO.SeparatorBar);
                 Console.WriteLine("Press Enter to try again...");
                 Console.ReadLine();
                 Execute();

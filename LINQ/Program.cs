@@ -35,8 +35,8 @@ namespace LINQ
             //Exercise17();
               //Exercise18();
             //Exercise19();
-            //Exercise20();
-            Exercise21();
+            Exercise20();
+            //Exercise21();
            // Exercise22();
             //Exercise23();
              // Exercise24();
@@ -426,13 +426,18 @@ namespace LINQ
         {
             List<Product> products = DataLoader.LoadProducts();
 
-            var productOrder =
-                from prod in products
-                group prod by prod.Category
-                into g
-                select new {c = g.Key, p = g};
+            var byCategory = products.GroupBy
+                (product => product.Category);
 
-            PrintProductInformation(products);
+            foreach (var category in byCategory)
+            {
+                Console.WriteLine(category.Key);
+                foreach (var product in category)
+                {
+                    Console.WriteLine(product.ProductName);
+                }
+                Console.WriteLine();
+            }
 
         }
 

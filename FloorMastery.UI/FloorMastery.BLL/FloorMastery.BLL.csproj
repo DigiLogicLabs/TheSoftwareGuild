@@ -40,11 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Add, Edit, Remove\Add.cs" />
-    <Compile Include="Add, Edit, Remove\Edit.cs" />
-    <Compile Include="Add, Edit, Remove\Remove.cs" />
     <Compile Include="OrderManager.cs" />
-    <Compile Include="OrdersFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

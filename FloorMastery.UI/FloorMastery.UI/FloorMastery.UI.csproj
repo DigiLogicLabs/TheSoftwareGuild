@@ -56,6 +56,10 @@
       <Project>{8b28243d-2e55-4942-a248-a797c5874bd4}</Project>
       <Name>FloorMastery.BLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FloorMastery.Data\FloorMastery.Models.csproj">
+      <Project>{AFA6CC23-0B14-4033-9D0E-A0E9BBC536A7}</Project>
+      <Name>FloorMastery.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FloorMastery.Models\FloorMastery.Data.csproj">
       <Project>{0ae3270b-14b8-4bf3-bfe7-fbc53a2082f4}</Project>
       <Name>FloorMastery.Data</Name>

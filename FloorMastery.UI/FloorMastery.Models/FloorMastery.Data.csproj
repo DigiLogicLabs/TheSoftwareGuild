@@ -44,6 +44,8 @@
     <Compile Include="Factories\OrderFactory.cs" />
     <Compile Include="Factories\ProductFactory.cs" />
     <Compile Include="Factories\TaxesFactory.cs" />
+    <Compile Include="Helpers\ConsoleIO.cs" />
+    <Compile Include="Helpers\Settings.cs" />
     <Compile Include="Interfaces\IOrderRepository.cs" />
     <Compile Include="Interfaces\IProductRepository.cs" />
     <Compile Include="Interfaces\ITaxesRepository.cs" />
