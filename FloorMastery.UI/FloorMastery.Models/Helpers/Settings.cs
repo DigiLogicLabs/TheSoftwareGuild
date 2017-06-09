@@ -12,6 +12,6 @@ namespace FloorMastery.Models.Helpers
 
         public const string _filepathTaxes = @"C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\results\Taxes.txt";
 
-        public const string _filepathOrders = @"C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\results";
+        public const string _filepathOrders = @"C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\Orders_06012013.txt";
     }
 }

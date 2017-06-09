@@ -11,7 +11,9 @@ namespace FloorMastery.UI
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("********************************************");
-                Console.WriteLine("            Flooring Program                ");
+                Console.WriteLine("     ╔═══════════════════════════════╗");
+                Console.WriteLine("     ║        Flooring Program       ║");
+                Console.WriteLine("     ╚═══════════════════════════════╝");
                 Console.WriteLine(" * ");
                 Console.WriteLine(" * 1. Display Orders");
                 Console.WriteLine(" * 2. Add an Order");
@@ -56,8 +58,6 @@ namespace FloorMastery.UI
                         Console.ReadKey();
                         return;
                     case "Q":
-                        Console.ReadKey();
-                        return;
                     case "q":
                         Console.ReadKey();
                         return;

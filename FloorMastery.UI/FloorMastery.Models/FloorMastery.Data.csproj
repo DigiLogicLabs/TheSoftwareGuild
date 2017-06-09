@@ -41,18 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Factories\OrderFactory.cs" />
-    <Compile Include="Factories\ProductFactory.cs" />
-    <Compile Include="Factories\TaxesFactory.cs" />
     <Compile Include="Helpers\ConsoleIO.cs" />
     <Compile Include="Helpers\Settings.cs" />
     <Compile Include="Interfaces\IOrderRepository.cs" />
     <Compile Include="Interfaces\IProductRepository.cs" />
     <Compile Include="Interfaces\ITaxesRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repos\OrdersTestRepo.cs" />
-    <Compile Include="Repos\ProductsTestRepo.cs" />
-    <Compile Include="Repos\TaxesTestRepo.cs" />
+    <Compile Include="Repos\OrdersProdRepo.cs" />
+    <Compile Include="TestRepos\OrdersTestRepo.cs" />
+    <Compile Include="Repos\ProductsProdRepo.cs" />
+    <Compile Include="Repos\TaxesProdRepo.cs" />
+    <Compile Include="TestRepos\ProductsTestRepo.cs" />
+    <Compile Include="TestRepos\TaxesTestRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FloorMastery.Data\FloorMastery.Models.csproj">

@@ -24,7 +24,12 @@ namespace FloorMastery.UI.Wokflows
             Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
             var orderDateInput = Console.ReadLine();
 
-            OrdersTestRepo repo = new OrdersTestRepo(Settings._filepathOrders);
+
+            //Instead, call factory method to call the right type of manager - creates the right repo to instantiate
+            //workflow calls factory for right manager
+            //Manager makes calls to whatever repo it was created with - has interface object that it
+
+            OrdersProdRepo repo = new OrdersProdRepo(Settings._filepathOrders);
             List<Order> orders = repo.ListingOrders();
 
             ConsoleIO.PrintOrdersListHeader();
