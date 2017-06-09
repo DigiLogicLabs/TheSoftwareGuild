@@ -34,19 +34,19 @@ namespace FloorMastery.Data.Repos
 
                     string[] columns = line.Split(',');
 
-                    newOrder.OrdersDateTime = DateTime.Parse(columns[0]);
-                    newOrder.OrdersNumber = int.Parse(columns[2]);
-                    newOrder.CustomersName = columns[3];
-                    newOrder.State = columns[4];
-                    newOrder.TaxRate = decimal.Parse(columns[5]);
-                    newOrder.ProductsType = columns[6];
-                    newOrder.Area = decimal.Parse(columns[7]);
-                    newOrder.CostPerSquareFoot = decimal.Parse(columns[8]);
-                    newOrder.LaborCostsPerSquareFoot = decimal.Parse(columns[9]);
-                    newOrder.MaterialCost = decimal.Parse(columns[10]);
-                    newOrder.LaborCost = decimal.Parse(columns[11]);
-                    newOrder.Tax = decimal.Parse(columns[12]);
-                    newOrder.Total = decimal.Parse(columns[13]);
+                   
+                    newOrder.OrdersNumber = int.Parse(columns[0]);
+                    newOrder.CustomersName = columns[1];
+                    newOrder.State = columns[2];
+                    newOrder.TaxRate = decimal.Parse(columns[3]);
+                    newOrder.ProductsType = columns[4];
+                    newOrder.Area = decimal.Parse(columns[5]);
+                    newOrder.CostPerSquareFoot = decimal.Parse(columns[6]);
+                    newOrder.LaborCostsPerSquareFoot = decimal.Parse(columns[7]);
+                    newOrder.MaterialCost = decimal.Parse(columns[8]);
+                    newOrder.LaborCost = decimal.Parse(columns[9]);
+                    newOrder.Tax = decimal.Parse(columns[10]);
+                    newOrder.Total = decimal.Parse(columns[11]);
 
                     orders.Add(newOrder);
 

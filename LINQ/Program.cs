@@ -29,13 +29,13 @@ namespace LINQ
             //Exercise11();
             //Exercise12();
             //Exercise13();
-            //Exercise14();
+            Exercise14();
            // Exercise15();
             //Exercise16();
             //Exercise17();
               //Exercise18();
             //Exercise19();
-            Exercise20();
+           // Exercise20();
             //Exercise21();
            // Exercise22();
             //Exercise23();
@@ -328,9 +328,11 @@ namespace LINQ
         /// <summary>
         /// Print all the numbers in NumbersC until a number is >= 6
         /// </summary>
+        /// public static int[] NumbersC = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+        /// 
         static void Exercise14()
         {
-            var numbers = DataLoader.NumbersC.Where(o => o < 6);
+            var numbers = DataLoader.NumbersC.TakeWhile(o => o <= 6);
             foreach (var numb in numbers)
             {
                 Console.WriteLine(numb);

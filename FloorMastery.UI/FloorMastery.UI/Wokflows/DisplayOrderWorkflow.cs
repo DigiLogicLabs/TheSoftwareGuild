@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using FloorMastery.Data.Repos;
 using FloorMastery.Models;
 using FloorMastery.Models.Helpers;
+using Microsoft.SqlServer.Server;
 
 namespace FloorMastery.UI.Wokflows
 {
@@ -32,39 +33,64 @@ namespace FloorMastery.UI.Wokflows
             OrdersProdRepo repo = new OrdersProdRepo(Settings._filepathOrders);
             List<Order> orders = repo.ListingOrders();
 
-            ConsoleIO.PrintOrdersListHeader();
+            var dateString = "MM/dd/yyyy";
 
-            foreach (var order in orders)
+           DateTime orderDate = Convert.ToDateTime(dateString);
+
+            if (orderDateInput != orderDate.ToShortDateString())
             {
-                Console.WriteLine(ConsoleIO.OrderLineFormat, order.OrdersDateTime
-                    + "," + order.OrdersNumber, order.CustomersName, order.Area);
+                
             }
+            if (orderDateInput != orderDate.ToString())
+            {
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.WriteLine("Please enter a valid Date Time Format");
+                Console.WriteLine(ConsoleIO.SeparatorBar);
 
-
-            DateTime result;
-
-            
+            }
             if (orderDateInput == "")
             {
+                Console.WriteLine(ConsoleIO.SeparatorBar);
                 Console.WriteLine("Can't convert a blank string to a Date!");
+                Console.WriteLine(ConsoleIO.SeparatorBar);
                 Console.ReadKey();
                 Console.Clear();
                 Execute();
             }
-            if (DateTime.TryParse(orderDateInput, out result))
+
+
+            ConsoleIO.PrintOrdersListHeader();
+
+            foreach (var order in orders)
             {
-                return;
-            }
-            else
-            {
-                Console.WriteLine("Please enter an order date in SimpleDateFormat (MM-dd-yyyy) ");
-                Console.WriteLine(ConsoleIO.SeparatorBar);
-                Console.WriteLine("Press Enter to try again...");
+                Console.WriteLine(ConsoleIO.ProductInfoLineFormat, order.OrdersNumber,
+                    order.CustomersName, order.State, order.TaxRate,
+                    order.ProductsType, order.Area, order.CostPerSquareFoot,
+                    order.LaborCostsPerSquareFoot, order.MaterialCost, order.LaborCost,
+                    order.Tax, order.Total);
                 Console.ReadLine();
-                Execute();
             }
+
+
+            DateTime result;
             Console.Clear();
             return;
+
+
+
+//            if (DateTime.TryParse(orderDateInput, out result))
+//            {
+//                return;
+//            }
+//            else
+//            {
+//                Console.WriteLine("Please enter an order date in SimpleDateFormat (MM-dd-yyyy) ");
+//                
+//                Console.WriteLine("Press Enter to try again...");
+//                Console.ReadLine();
+//                Execute();
+//            }
+//            
             { 
             // string correctFormat = $"{String.Format("MM-dd-yyyy")}";
 

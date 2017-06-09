@@ -8,10 +8,10 @@ namespace FloorMastery.Models.Helpers
 {
     public class ConsoleIO
     {
-        public const string SeparatorBar = "===================================================";
+        public const string SeparatorBar = "===================================================================================================";
         public const string OrderLineFormat = "{0,-20} {1,-15} {2, 5}";
         public const string PickOrderLineFormat = "{0,2} {1,-20} {2,-15} {3, 5}";
-        public const string ProductInfoLineFormat = "{0,2} {1,-20} {2,-15} {3, 5} {4, 10} {5,15} {6,20} {7,25}";
+        public const string ProductInfoLineFormat = "{0,2} {1,-20} {2,-15} {3, 5} {4, 10} {5,15} {6,20} {7,25} {8,30} {9,35} {10,40} {11,45} {12,50}";
 
         public static void PrintOrdersListHeader()
         {
