@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Runtime.Remoting.Messaging;
 using FloorMastery.Data.Interfaces;
@@ -60,7 +61,7 @@ namespace FloorMastery.Data.Repos
         private string CreateCsvForOrder(Order order)
         {
             return string.Format("{0},{1},{2},{3},{4},{5}", order.OrdersDateTime,
-                order.CustomersName, order.State, order.ProductsType, order.Area.ToString());
+                order.CustomersName, order.State, order.ProductsType, order.Area);
         }
 
         private void CreateOrdersFile(List<Order> orders)

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,15 +9,22 @@ namespace FloorMastery.Models.Helpers
 {
     public class ConsoleIO
     {
+        public static Order order = new Order();
         public const string SeparatorBar = "===================================================================================================";
-        public const string OrderLineFormat = "{0,-20} {1,-15} {2, 5}";
+        public const string OrderLineFormat = "{1,10} {1,10} {2,20} {3, 10} {4, 20} {5,30} {6,40} {7,50} {8,60} {9,70} {10,80} {11,90} {12,100}";
         public const string PickOrderLineFormat = "{0,2} {1,-20} {2,-15} {3, 5}";
-        public const string ProductInfoLineFormat = "{0,2} {1,-20} {2,-15} {3, 5} {4, 10} {5,15} {6,20} {7,25} {8,30} {9,35} {10,40} {11,45} {12,50}";
-
+        public const string ProductInfoLineFormat = "{1,10} {1,10} {2,20} {3, 10} {4, 20} {5,30} {6,40} {7,50} {8,60} {9,70} {10,80} {11,90} {12,100}";
+         
         public static void PrintOrdersListHeader()
         {
             Console.WriteLine(SeparatorBar);
-            Console.WriteLine(OrderLineFormat, "OrdersDate", "OrdersNumber", "CustomerName", "Area");
+           Console.WriteLine("Ordr# | CtName | St. | Tax% | Product | Area | Cost/Sq.ft | Labor/Sq.ft | MatsCost | LaborCost | Tax | Total");
+            Console.WriteLine(SeparatorBar);
+        }
+        public static void PrintAddListHeader()
+        {
+            Console.WriteLine(SeparatorBar);
+            Console.WriteLine("Order Date | Customer Name | State | Product | Area |");
             Console.WriteLine(SeparatorBar);
         }
 
@@ -111,12 +119,36 @@ namespace FloorMastery.Models.Helpers
             {
                 Console.Write(prompt + " (Y/N)? ");
                 string input = Console.ReadLine();
+                switch (input)
+                {
+                    case "Y":
+                    case "y":
+                        Console.WriteLine("You've chosen yes");
+                        
+                        Console.ReadKey();
+                        Console.Clear();
+
+
+
+                        break;
+                    case "N":
+                    case "n":
+                        Console.WriteLine("You've chosen no");
+                        
+                        Console.ReadKey();
+                        
+
+                        break;
+                }
+
 
                 if (string.IsNullOrEmpty(input))
                 {
                     Console.WriteLine("You must enter Y/N.");
                     Console.WriteLine("Press any key to continue...");
+                    
                     Console.ReadKey();
+                    Console.Clear();
                 }
                 else
                 {
@@ -124,12 +156,16 @@ namespace FloorMastery.Models.Helpers
                     {
                         Console.WriteLine("You must enter Y/N.");
                         Console.WriteLine("Press any key to continue...");
+                        
                         Console.ReadKey();
+                        Console.Clear();
                         continue;
                     }
 
+                    
                     return input;
                 }
+
             }
         }
 
@@ -161,6 +197,11 @@ namespace FloorMastery.Models.Helpers
                     return output;
                 }
             }
+        }
+
+        public static void FilterForMe(string prompt)
+        {
+            
         }
 
 

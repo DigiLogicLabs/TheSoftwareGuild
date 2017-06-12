@@ -42,7 +42,6 @@ namespace FloorMastery.UI.Wokflows
                 Execute();
             }
             Console.Clear();
-            return;
         }
     }
 }
