@@ -1,4 +1,6 @@
 ﻿using System;
+using FloorMastery.Models.Helpers;
+
 namespace FloorMastery.UI.Workflows
 {
     public class RemoveOrderWorkflow
@@ -7,14 +9,7 @@ namespace FloorMastery.UI.Workflows
         {
             Console.Clear();
 
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.Clear();
-            Console.WriteLine("     ╔═══════════════════════════════╗");
-            Console.WriteLine("     ║          Remove Orders        ║");
-            Console.WriteLine("     ╚═══════════════════════════════╝");
-            Console.WriteLine("           Press Enter To Start:      ");
-            Console.ReadLine();
-            Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
+            ConsoleIO.PrintRemoveHeader();
 
 
             var orderRemove = Console.ReadLine();

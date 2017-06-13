@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,6 +21,15 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine(SeparatorBar);
            Console.WriteLine("Ordr# | CtName | St. | Tax% | Product | Area | Cost/Sq.ft | Labor/Sq.ft | MatsCost | LaborCost | Tax | Total");
             Console.WriteLine(SeparatorBar);
+//            foreach (var order in )
+//            {
+//                Console.WriteLine($" #{order.OrdersNumber},    {order.CustomersName},     {order.State},  {order.TaxRate}%," +
+//                                  $"   {order.ProductsType},    {order.Area},    ${order.CostPerSquareFoot},    ${order.LaborCostsPerSquareFoot}," +
+//                                  $"    ${order.MaterialCost},     ${order.LaborCost},    ${order.Tax},     ${order.Total}");
+//
+//                Console.ReadLine();
+//            }
+//            Console.Clear();
         }
         public static void PrintAddListHeader()
         {
@@ -227,6 +237,70 @@ namespace FloorMastery.Models.Helpers
                 Console.WriteLine($"Labor Cost: {order.LaborCost}");
                 Console.WriteLine($"Tax: {order.Tax}");
                 Console.WriteLine($"Total: {order.Total}");
+            }
+            
+        }
+
+        public static void PrintDisplayHeader()
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.Clear();
+            Console.WriteLine("     ╔═══════════════════════════════╗");
+            Console.WriteLine("     ║        Display Orders         ║");
+            Console.WriteLine("     ╚═══════════════════════════════╝");
+            Console.WriteLine("           Press Enter To Start:      ");
+            Console.ReadLine();
+            Console.Write("Enter Date of Order (MMddyyyy): ");
+        }
+
+        public static void PrintAddHeader()
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Clear();
+            Console.WriteLine("     ╔═══════════════════════════════╗");
+            Console.WriteLine("     ║           Add Orders          ║");
+            Console.WriteLine("     ╚═══════════════════════════════╝");
+            Console.WriteLine("           Press Enter To Start:      ");
+            Console.ReadLine();
+            Console.WriteLine("Enter Date of Order (MMddyyyy): ");
+        }
+
+        public static void PrintEditHeader()
+        {
+
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.Clear();
+            Console.WriteLine("     ╔═══════════════════════════════╗");
+            Console.WriteLine("     ║           Edit Orders         ║");
+            Console.WriteLine("     ╚═══════════════════════════════╝");
+            Console.WriteLine("           Press Enter To Start:      ");
+            Console.ReadLine();
+            Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
+        }
+
+        public static void PrintRemoveHeader()
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Clear();
+            Console.WriteLine("     ╔═══════════════════════════════╗");
+            Console.WriteLine("     ║          Remove Orders        ║");
+            Console.WriteLine("     ╚═══════════════════════════════╝");
+            Console.WriteLine("           Press Enter To Start:      ");
+            Console.ReadLine();
+            Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
+        }
+
+        public static void IfEmptyString()
+        {
+            var userInput = Console.ReadLine();
+            if (userInput == "")
+            {
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.WriteLine("Can't convert a blank string to a Date!");
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.ReadKey();
+                Console.Clear();
+                
             }
         }
     }

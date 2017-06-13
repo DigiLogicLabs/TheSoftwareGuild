@@ -1,4 +1,6 @@
 ﻿using System;
+using FloorMastery.Models.Helpers;
+
 namespace FloorMastery.UI.Workflows
 {
     public class EditOrderWorkflow
@@ -7,16 +9,8 @@ namespace FloorMastery.UI.Workflows
         {
             Console.Clear();
 
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.Clear();
-            Console.WriteLine("     ╔═══════════════════════════════╗");
-            Console.WriteLine("     ║           Edit Orders         ║");
-            Console.WriteLine("     ╚═══════════════════════════════╝");
-            Console.WriteLine("           Press Enter To Start:      ");
-            Console.ReadLine();
-            Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
 
-
+            ConsoleIO.PrintEditHeader();
             
             var orderEdit = Console.ReadLine();
 

@@ -18,29 +18,12 @@ namespace FloorMastery.UI.Workflows
 
         public void Execute()
         {
-//            OrdersProdRepo repo = new OrdersProdRepo(Settings._filepathOrders);// public ListingOrders method which will read the file, skipping the first line, and split it on
-            //the commas,has 12 properties that were asigned to each split comma section
-            
-//            List<Order> orders = repo.ListingOrders();
-
-            //has about 15 properties that the order can provide
-
-
             Console.Clear();
-
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.Clear();
-            Console.WriteLine("     ╔═══════════════════════════════╗");
-            Console.WriteLine("     ║        Display Orders         ║");
-            Console.WriteLine("     ╚═══════════════════════════════╝");
-            Console.WriteLine("           Press Enter To Start:      ");
-            Console.ReadLine();
-            Console.Write("Enter Date of Order (MMddyyyy): ");
-
+            ConsoleIO.PrintDisplayHeader();
             var orderDateInput = ConsoleIO.GetOrderDate();
 
-            var manager = OrderManagerFactory.Create();
 
+            var manager = OrderManagerFactory.Create();
             DisplayOrdersResponse response = manager.GetOrdersFromDate(orderDateInput);
 
             if (response.Success == true)
@@ -84,11 +67,6 @@ namespace FloorMastery.UI.Workflows
             //workflow calls factory for right manager
             //Manager makes calls to whatever repo it was created with - has interface object that it
 
-            
-
-            
-
-
             ConsoleIO.PrintOrdersListHeader();
 
             foreach (var order in response.Orders)
@@ -102,46 +80,5 @@ namespace FloorMastery.UI.Workflows
             Console.Clear();
 
         }
-
-        //                Console.WriteLine(ConsoleIO.ProductInfoLineFormat, order.OrdersNumber,
-        //                    order.CustomersName, order.State, order.TaxRate,
-        //                    order.ProductsType, order.Area, order.CostPerSquareFoot,
-        //                    order.LaborCostsPerSquareFoot, order.MaterialCost, order.LaborCost,
-        //                    order.Tax, order.Total);
-
-            //What I used initally for printing the names, had a format but kept getting an index error so I made it easier on myself
-
-        //was going to have some sort of switch statement to grab the Yes or No response from user when 
-        // an order doesn't exist, and they want to add it. wanted a direct linked to AddOrderWorkflow somehow.
-
-
-
-
-
-
-
-        //                AccountManager accountManager = AccountManagerFactory.Create();
-        //
-        //                Console.Write("Enter an account number: ");
-        //                string accountNumber = Console.ReadLine();
-        //
-        //                Console.Write("Enter a deposit amount: ");
-        //                decimal amount = decimal.Parse(Console.ReadLine()); //User validation for if they enter a decimal
-
-        //                AccountDepositResponse response = accountManager.Deposit(accountNumber, amount);
-        //
-        //                if (response.Success)
-        //                {
-        //                    Console.WriteLine("Deposit completed!");
-        //                    Console.WriteLine($"Account Number: {response.Account.AccountNumber}");
-        //                    Console.WriteLine($"Old Balance: {response.OldBalance:C}");
-        //                    Console.WriteLine($"Amount Deposited: {response.Amount:C}");
-        //                    Console.WriteLine($"New Balance: {response.Account.Balance:C}");
-        //                }
-        //                else
-        //                {
-        //                    Console.WriteLine("An error occurred: ");
-        //                    Console.WriteLine(response.Message);
-        //                }
     }
 }

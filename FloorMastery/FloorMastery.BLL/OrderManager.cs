@@ -16,7 +16,20 @@ namespace FloorMastery.BLL
 
         public DisplayOrdersResponse GetOrdersFromDate(DateTime orderDateInput)
         {
-            throw new NotImplementedException();
+            DisplayOrdersResponse response = new DisplayOrdersResponse();
+
+            response.Orders = _orderRepository.OrdersByDateList(orderDateInput);
+
+            if (response.Orders == null)
+            {
+                response.Success = false;
+                response.Message = $"{orderDateInput} isn't valid";
+                
+            }
+
+
+            return response;
+
         }
     }
 }

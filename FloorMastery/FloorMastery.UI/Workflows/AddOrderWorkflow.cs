@@ -19,15 +19,8 @@ namespace FloorMastery.UI.Workflows
             Order newOrder = new Order();
 
             Console.Clear();
-
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.Clear();
-            Console.WriteLine("     ╔═══════════════════════════════╗");
-            Console.WriteLine("     ║           Add Orders          ║");
-            Console.WriteLine("     ╚═══════════════════════════════╝");
-            Console.WriteLine("           Press Enter To Start:      ");
-            Console.ReadLine();
-            Console.Write("Enter a Date you'd like to Order for (MMddyyyy): ");
+            ConsoleIO.PrintAddHeader();
+            
             var orderDateInput = Console.ReadLine();
 
            
@@ -108,29 +101,7 @@ namespace FloorMastery.UI.Workflows
            
 
             // Checking for an empty string input, will return to menu if so
-            if (orderDateInput == "")
-            {
-                Console.WriteLine(ConsoleIO.SeparatorBar);
-                Console.WriteLine("Can't convert a blank string to a Date!");
-                Console.WriteLine(ConsoleIO.SeparatorBar);
-                Console.ReadKey();
-                Console.Clear();
-                Execute();
-            }
-
-
-            //If it doesn't equal the file path.. in this case (06012013) file path exists, so it will skip it
             
-
-
-            //Instead, call factory method to call the right type of manager - creates the right repo to instantiate
-            //workflow calls factory for right manager
-            //Manager makes calls to whatever repo it was created with - has interface object that it
-
-
-
-
-
 
             ConsoleIO.PrintOrdersListHeader();
 
