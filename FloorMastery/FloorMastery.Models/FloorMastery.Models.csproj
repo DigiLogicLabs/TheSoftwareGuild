@@ -40,15 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\FunctionsEnum.cs" />
     <Compile Include="Classes\Order.cs" />
-    <Compile Include="Classes\ProductInfo.cs" />
+    <Compile Include="Classes\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Responses\DeleteOrderResponse.cs" />
     <Compile Include="Responses\DisplayOrdersResponse.cs" />
+    <Compile Include="Responses\FindingProductTypeResponse.cs" />
     <Compile Include="Responses\ProductResponse.cs" />
+    <Compile Include="Responses\RemoveOrderResponse.cs" />
     <Compile Include="Responses\Response.cs" />
     <Compile Include="Responses\TaxesResponse.cs" />
-    <Compile Include="Classes\StateInfo.cs" />
+    <Compile Include="Classes\StateTax.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

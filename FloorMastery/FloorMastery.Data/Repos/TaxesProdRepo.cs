@@ -15,7 +15,7 @@ namespace FloorMastery.Data.Repos
             _filepathTaxes = filePathTaxes;
         }
 
-        public StateInfo TheState(string stateInput)
+        public StateTax TheState(string stateInput)
         {
             throw new System.NotImplementedException();
         }

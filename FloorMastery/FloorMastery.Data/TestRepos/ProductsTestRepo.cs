@@ -10,15 +10,58 @@ namespace FloorMastery.Models.TestRepos
 {
     public class ProductsTestRepo : IProductRepository
     {
-        private string _filepathProducts = Settings._filepathProducts;
+//        ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+//            Carpet,2.25,2.10
+//        Laminate,1.75,2.10
+//        Tile,3.50,4.15
+//        Wood,5.15,4.75
 
-
-        public ProductsTestRepo(string filePathProducts)
+        private List<Product> _products = new List<Product>()
         {
+            new Product
+            {
+                ProductsType = "Wood",
+                CostPerSquareFoot = 5.15M,
+                LaborCostPerSquareFoot = 4.75M
 
-            _filepathProducts = filePathProducts;
+            },
+            new Product
+            {
+                ProductsType = "Tile",
+                CostPerSquareFoot = 3.5M,
+                LaborCostPerSquareFoot = 4.15M
+            },
+            new Product
+            {
+                ProductsType = "Laminate",
+                CostPerSquareFoot = 1.75M,
+                LaborCostPerSquareFoot = 2.10M
+            },
+            new Product
+            {
+                ProductsType = "Carpet",
+                CostPerSquareFoot = 2.25M,
+                LaborCostPerSquareFoot = 2.10M
+            }
+            
+            
+   
+        };
+
+
+
+
+
+
+
+
+              
+        public Product GetProductByName(string productType)
+        {
+            throw new NotImplementedException();
         }
-        public Order ProductsType(string productType)
+
+        public List<Product> List()
         {
             throw new NotImplementedException();
         }

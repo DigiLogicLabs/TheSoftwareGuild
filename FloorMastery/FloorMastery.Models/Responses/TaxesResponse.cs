@@ -6,7 +6,7 @@ namespace FloorMastery.Models.Responses
 {
     public class TaxesResponse : Response
     {
-        public StateInfo TaxInfo { get; set; }
+        public StateTax TaxTax { get; set; }
         public List<Order> TaxList { get; set; }
     }
 }

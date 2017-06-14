@@ -4,14 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FloorMastery.Data.Classes
+namespace FloorMastery.Models.Responses
 {
-    public enum FunctionsEnum
+    public class DeleteOrderResponse : Response
     {
-        Display = 1,
-        Add,
-        Edit,
-        Remove
+        public Order order { get; set; }
 
     }
 }

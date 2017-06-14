@@ -1,10 +1,13 @@
-﻿using FloorMastery.Models;
+﻿using System.Collections.Generic;
+using FloorMastery.Models;
 
 namespace FloorMastery.Data.Interfaces
 {
     public interface IProductRepository
     {
-        Order ProductsType(string productType);
+        Product GetProductByName(string productType);
+
+        List<Product> List();
 
     }
 }

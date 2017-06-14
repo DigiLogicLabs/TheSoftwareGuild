@@ -24,7 +24,7 @@ namespace FloorMastery.BLL.Factories
             switch (mode)
             {
                 case "Test":
-                   orderMan = new OrderManager(new OrdersTestRepo(Settings._filepathOrders));
+                   orderMan = new OrderManager(new OrdersTestRepo());
                     break;
 
                 case "Prod":

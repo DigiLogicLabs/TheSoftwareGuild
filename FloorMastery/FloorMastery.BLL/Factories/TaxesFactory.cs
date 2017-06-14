@@ -19,7 +19,7 @@ namespace FloorMastery.BLL.Factories
             switch (mode)
             {
                 case "Test":
-                    taxesMan = new TaxesManager(new TaxesTestRepo(Settings._filepathTaxes));
+                    taxesMan = new TaxesManager(new TaxesTestRepo());
                     break;
 
                 case "Prod":

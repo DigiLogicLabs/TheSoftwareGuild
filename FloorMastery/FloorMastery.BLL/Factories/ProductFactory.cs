@@ -21,8 +21,8 @@ namespace FloorMastery.BLL.Factories
             switch (mode)
             {
                 case "Test":
-                    productMan = new ProductManager(new ProductsTestRepo(Settings._filepathProducts));
-                    break;
+                    productMan= new ProductManager(new ProductsTestRepo());
+                    break;  
 
                 case "Prod":
                     productMan = new ProductManager(new ProductsProdRepo(Settings._filepathProducts));

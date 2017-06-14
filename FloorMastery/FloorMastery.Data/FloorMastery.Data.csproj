@@ -60,5 +60,10 @@
       <Name>FloorMastery.Models</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Helpers\Orders_06012013.txt" />
+    <Content Include="Helpers\Products.txt" />
+    <Content Include="Helpers\Taxes.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

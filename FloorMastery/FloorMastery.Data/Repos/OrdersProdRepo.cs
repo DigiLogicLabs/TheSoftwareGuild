@@ -18,8 +18,6 @@ namespace FloorMastery.Data.Repos
             _filePathOrders = filePathOrders;
         }
 
-        //ListingOrders uses the file reading path to split the different order segments on the comma, grabbing all 13 properties -- All of the orders information
-
         public List<Order> ListingOrders()
         {
             List<Order> orders = new List<Order>();
@@ -56,8 +54,6 @@ namespace FloorMastery.Data.Repos
                                 return orders;
         }
 
-
-        //Format adding Order - needs verification for future date
         private string CreateCsvForOrder(Order order)
         {
             return string.Format("{0},{1},{2},{3},{4},{5}", order.OrdersDateTime,
@@ -70,7 +66,7 @@ namespace FloorMastery.Data.Repos
                 File.Delete(_filePathOrders);
             using (StreamWriter sr = new StreamWriter(_filePathOrders))
             {
-                sr.WriteLine("OrdersDateTime,CustomersName,State,ProductsType,Area");
+                sr.WriteLine("OrdersDateTime,CustomersName,State,GetProductByName,Area");
                 foreach (var order in orders)
                 {
                     sr.WriteLine(CreateCsvForOrder(order));
@@ -78,17 +74,58 @@ namespace FloorMastery.Data.Repos
             }
         }
 
-        //Can use the orders Date and number to make a comparison to existing orders, if OrdersDateAndNumber is already existent, promt user for a new entry
+
         public Order OrdersDateAndNumber(DateTime orderDate, int orderNumber)
         {
             throw new NotImplementedException();
         }
 
 
-        //List all the orders on the specified date. 
         public List<Order> OrdersByDateList(DateTime orderDateTime)
         {
-            throw new NotImplementedException();
+            List<Order> orders = new List<Order>();
+            if (orderDateTime.ToString() == _filePathOrders)
+            {
+                Console.WriteLine("Not an order: ");
+
+            }
+            else
+            {
+
+
+
+                using (StreamReader sr = new StreamReader(_filePathOrders))
+                {
+
+                    sr.ReadLine();
+                    string line;
+
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        Order newOrder = new Order();
+
+                        string[] columns = line.Split(',');
+
+
+                        newOrder.OrdersNumber = int.Parse(columns[0]);
+                        newOrder.CustomersName = columns[1];
+                        newOrder.State = columns[2];
+                        newOrder.TaxRate = decimal.Parse(columns[3]);
+                        newOrder.ProductsType = columns[4];
+                        newOrder.Area = decimal.Parse(columns[5]);
+                        newOrder.CostPerSquareFoot = decimal.Parse(columns[6]);
+                        newOrder.LaborCostsPerSquareFoot = decimal.Parse(columns[7]);
+                        newOrder.MaterialCost = decimal.Parse(columns[8]);
+                        newOrder.LaborCost = decimal.Parse(columns[9]);
+                        newOrder.Tax = decimal.Parse(columns[10]);
+                        newOrder.Total = decimal.Parse(columns[11]);
+
+                        orders.Add(newOrder);
+
+                    }
+                }
+            }
+            return orders;
         }
 
 

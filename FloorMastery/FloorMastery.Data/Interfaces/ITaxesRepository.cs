@@ -4,6 +4,6 @@ namespace FloorMastery.Data.Interfaces
 {
     public interface ITaxesRepository
     {
-        StateInfo TheState(string stateInput);
+        StateTax TheState(string stateInput);
     }
 }

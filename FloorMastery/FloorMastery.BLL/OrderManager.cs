@@ -7,14 +7,16 @@ namespace FloorMastery.BLL
     public class OrderManager
     {
         //factory method returns one of these
-        private IOrderRepository _orderRepository = null;
+        //Can I keep this as readonly?
+
+        private readonly IOrderRepository _orderRepository;
 
         public OrderManager(IOrderRepository orderRepository)
         {
             _orderRepository = orderRepository;
         }
 
-        public DisplayOrdersResponse GetOrdersFromDate(DateTime orderDateInput)
+        public DisplayOrdersResponse LookUpAccount(DateTime orderDateInput)
         {
             DisplayOrdersResponse response = new DisplayOrdersResponse();
 
@@ -26,10 +28,8 @@ namespace FloorMastery.BLL
                 response.Message = $"{orderDateInput} isn't valid";
                 
             }
-
-
             return response;
-
         }
+//        public DeleteOrderRespone DeleteOrder
     }
 }

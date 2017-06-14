@@ -8,18 +8,61 @@ using FloorMastery.Models.Helpers;
 
 namespace FloorMastery.Models.TestRepos
 {
+//    StateAbbreviation,StateName,TaxRate
+//    OH, Ohio,6.25
+//    PA,Pennsylvania,6.75
+//    MI,Michigan,5.75
+//    IN,Indiana,6.00
+
+
     public class TaxesTestRepo : ITaxesRepository
     {
-        private string _filepathTaxes = Settings._filepathTaxes;
+        private List<StateTax> _stateTaxs = new List<StateTax>()
+        {
+            new StateTax
+            {
+                StatesAbbreviation = "OH",
+                StatesName = "Ohio",
+                TaxRate = 6.25M
+            },
+            new StateTax
+            {
+                StatesAbbreviation = "PA",
+                StatesName = "Pennsylvania",
+                TaxRate = 6.75M
+            },
+            new StateTax
+            {
+                StatesAbbreviation = "MI",
+                StatesName = "Michigan",
+                TaxRate = 5.75M
+            },
+            new StateTax
+            {
+                StatesAbbreviation = "IN",
+                StatesName = "Indiana",
+                TaxRate = 6.00M
+
+            }
+            
+        };
 
 
-        public TaxesTestRepo(string filePathTaxes)
+
+
+
+
+
+        
+
+
+        public TaxesTestRepo()
         {
 
-            _filepathTaxes = filePathTaxes;
+           
         }
 
-        public StateInfo TheState(string stateInput)
+        public StateTax TheState(string stateInput)
         {
             throw new NotImplementedException();
         }

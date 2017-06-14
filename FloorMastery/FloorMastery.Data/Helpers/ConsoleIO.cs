@@ -24,7 +24,7 @@ namespace FloorMastery.Models.Helpers
 //            foreach (var order in )
 //            {
 //                Console.WriteLine($" #{order.OrdersNumber},    {order.CustomersName},     {order.State},  {order.TaxRate}%," +
-//                                  $"   {order.ProductsType},    {order.Area},    ${order.CostPerSquareFoot},    ${order.LaborCostsPerSquareFoot}," +
+//                                  $"   {order.GetProductByName},    {order.Area},    ${order.CostPerSquareFoot},    ${order.LaborCostsPerSquareFoot}," +
 //                                  $"    ${order.MaterialCost},     ${order.LaborCost},    ${order.Tax},     ${order.Total}");
 //
 //                Console.ReadLine();
@@ -209,12 +209,24 @@ namespace FloorMastery.Models.Helpers
             }
         }
 
-        public static DateTime GetOrderDate()
+        public static DateTime GetOrderDate(string prompt)
         {
-            Console.WriteLine("Please enter date for order: ");
+            Console.WriteLine(prompt);
             string userInput = Console.ReadLine();
 
-            DateTime orderDate = Convert.ToDateTime(userInput);
+            if (userInput == "")
+            {
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.WriteLine("Can't convert a blank string to a Date!");
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.ReadKey();
+                Console.Clear();
+                GetOrderDate("Try again!: ");
+
+            }
+//           
+
+            DateTime orderDate = DateTime.Parse(userInput);
 
             return orderDate;
         }
@@ -250,7 +262,7 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine("     ╚═══════════════════════════════╝");
             Console.WriteLine("           Press Enter To Start:      ");
             Console.ReadLine();
-            Console.Write("Enter Date of Order (MMddyyyy): ");
+            Console.WriteLine();
         }
 
         public static void PrintAddHeader()
@@ -262,7 +274,7 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine("     ╚═══════════════════════════════╝");
             Console.WriteLine("           Press Enter To Start:      ");
             Console.ReadLine();
-            Console.WriteLine("Enter Date of Order (MMddyyyy): ");
+            Console.WriteLine();
         }
 
         public static void PrintEditHeader()
@@ -275,7 +287,7 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine("     ╚═══════════════════════════════╝");
             Console.WriteLine("           Press Enter To Start:      ");
             Console.ReadLine();
-            Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
+            Console.WriteLine();
         }
 
         public static void PrintRemoveHeader()
@@ -287,21 +299,30 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine("     ╚═══════════════════════════════╝");
             Console.WriteLine("           Press Enter To Start:      ");
             Console.ReadLine();
-            Console.Write("Enter Date of Order (SimpleDateFormat (MM-dd-yyyy)): ");
+            Console.WriteLine();
         }
 
-        public static void IfEmptyString()
+        public static void PrintMainMenu()
         {
-            var userInput = Console.ReadLine();
-            if (userInput == "")
-            {
-                Console.WriteLine(ConsoleIO.SeparatorBar);
-                Console.WriteLine("Can't convert a blank string to a Date!");
-                Console.WriteLine(ConsoleIO.SeparatorBar);
-                Console.ReadKey();
-                Console.Clear();
-                
-            }
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("********************************************");
+            Console.WriteLine("     ╔═══════════════════════════════╗");
+            Console.WriteLine("     ║        Flooring Program       ║");
+            Console.WriteLine("     ╚═══════════════════════════════╝");
+            Console.WriteLine(" * ");
+            Console.WriteLine(" * 1. Display Orders");
+            Console.WriteLine(" * 2. Add an Order");
+            Console.WriteLine(" * 3. Edit an Order");
+            Console.WriteLine(" * 4. Remove an Order");
+            Console.WriteLine(" * 5/Q. Quit");
+            Console.WriteLine(" * ");
+            Console.WriteLine("********************************************");
+            Console.Write("          Enter selection:                ");
+            Console.ResetColor();
         }
+
+        
+
+        
     }
 }

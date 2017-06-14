@@ -1,5 +1,6 @@
 ﻿
 using System;
+using FloorMastery.Models.Helpers;
 using FloorMastery.UI.Workflows;
 
 namespace FloorMastery.UI
@@ -10,21 +11,8 @@ namespace FloorMastery.UI
         {
             while (true)
             {
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("********************************************");
-                Console.WriteLine("     ╔═══════════════════════════════╗");
-                Console.WriteLine("     ║        Flooring Program       ║");
-                Console.WriteLine("     ╚═══════════════════════════════╝");
-                Console.WriteLine(" * ");
-                Console.WriteLine(" * 1. Display Orders");
-                Console.WriteLine(" * 2. Add an Order");
-                Console.WriteLine(" * 3. Edit an Order");
-                Console.WriteLine(" * 4. Remove an Order");
-                Console.WriteLine(" * 5/Q. Quit");
-                Console.WriteLine(" * ");
-                Console.WriteLine("********************************************");
-                Console.Write("          Enter selection:                ");
-                Console.ResetColor();
+                ConsoleIO.PrintMainMenu();
+                
 
                 string userinput = Console.ReadLine();
                 if (userinput == "")
