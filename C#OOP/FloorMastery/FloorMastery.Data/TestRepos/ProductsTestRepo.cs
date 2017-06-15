@@ -16,28 +16,28 @@ namespace FloorMastery.Models.TestRepos
 //        Tile,3.50,4.15
 //        Wood,5.15,4.75
 
-        private static readonly List<Product> Products = new List<Product>()
+        private static readonly List<ProductData> Products = new List<ProductData>()
         {
-            new Product
+            new ProductData
             {
                 ProductsType = "Wood",
                 CostPerSquareFoot = 5.15M,
                 LaborCostPerSquareFoot = 4.75M
 
             },
-            new Product
+            new ProductData
             {
                 ProductsType = "Tile",
                 CostPerSquareFoot = 3.5M,
                 LaborCostPerSquareFoot = 4.15M
             },
-            new Product
+            new ProductData
             {
                 ProductsType = "Laminate",
                 CostPerSquareFoot = 1.75M,
                 LaborCostPerSquareFoot = 2.10M
             },
-            new Product
+            new ProductData
             {
                 ProductsType = "Carpet",
                 CostPerSquareFoot = 2.25M,
@@ -46,9 +46,9 @@ namespace FloorMastery.Models.TestRepos
 
         };   
         
-        public Product GetProductByName(string productType)
+        public ProductData GetProductDataForType(string productType)
         {
-            List<Product> result = new List<Product>();
+            List<ProductData> result = new List<ProductData>();
             foreach (var product in Products)
             {
                 if (product.ProductsType == productType)
@@ -59,7 +59,7 @@ namespace FloorMastery.Models.TestRepos
             throw new NotImplementedException();
         }
 
-        public List<Product> List()
+        public List<ProductData> List()
         {
             throw new NotImplementedException();
         }

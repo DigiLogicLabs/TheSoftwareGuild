@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Order.cs" />
-    <Compile Include="Classes\Product.cs" />
+    <Compile Include="Classes\ProductData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Responses\AddOrderResponse.cs" />
     <Compile Include="Responses\DeleteOrderResponse.cs" />
@@ -51,7 +51,7 @@
     <Compile Include="Responses\RemoveOrderResponse.cs" />
     <Compile Include="Responses\Response.cs" />
     <Compile Include="Responses\TaxesResponse.cs" />
-    <Compile Include="Classes\StateTax.cs" />
+    <Compile Include="Classes\StateTaxData.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

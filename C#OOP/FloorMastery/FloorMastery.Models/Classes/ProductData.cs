@@ -1,6 +1,6 @@
 ﻿namespace FloorMastery.Models
 {
-    public class Product
+    public class ProductData
     {
         public string ProductsType { get; set; }
         public decimal CostPerSquareFoot { get; set; }

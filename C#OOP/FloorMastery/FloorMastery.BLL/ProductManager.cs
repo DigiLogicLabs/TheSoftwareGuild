@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FloorMastery.Data.Interfaces;
+using FloorMastery.Models.Responses;
 
 namespace FloorMastery.BLL
 {
@@ -16,6 +17,14 @@ namespace FloorMastery.BLL
         {
             _productRepository = productRepository;
         }
+
+//        public FindingProductTypeResponse ProductTypeData(string productType)
+//        {
+//            FindingProductTypeResponse response = new FindingProductTypeResponse();
+//
+//            response.ProductData = _productRepository
+//                
+//        }
 
     }
 }

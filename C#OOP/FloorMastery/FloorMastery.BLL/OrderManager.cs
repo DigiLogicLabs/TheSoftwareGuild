@@ -38,10 +38,9 @@ namespace FloorMastery.BLL
         }
 
 
-
         public AddOrderResponse AddOrder(Order order)
         {
-            //Will need to take the Product & State to look up the full product and tax objects -- then we can do calculations on them
+            //Will need to take the ProductData & State to look up the full productData and tax objects -- then we can do calculations on them
 
             AddOrderResponse response = new AddOrderResponse();
             if (response.Success == false)
@@ -50,13 +49,23 @@ namespace FloorMastery.BLL
             }
             else
             {
-                response.order = order;
+                response.Order = order;
                     _orderRepository.AddOrder(order);
             }
            
 
             return new AddOrderResponse();
         }
+
+        public AddOrderResponse SaveNewOrder(Order order)
+        {
+            AddOrderResponse response = new AddOrderResponse();
+
+            response.Order = order;
+//            response.Success = _orderRepository.
+            throw new NotImplementedException();
+        }
+
     }
 
      

@@ -28,7 +28,7 @@ namespace FloorMastery.UI.Workflows
             if (response.Success)
             {
                 Console.WriteLine(response.Message);
-                ConsoleIO.DisplayTheOrder(response.Orders);
+                ConsoleIO.DisplayOrderDetails(response.Orders);
             }
             else
                 Console.WriteLine("An Error has occured: ");

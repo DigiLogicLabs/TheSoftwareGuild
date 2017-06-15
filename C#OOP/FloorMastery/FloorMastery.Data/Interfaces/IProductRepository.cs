@@ -5,9 +5,9 @@ namespace FloorMastery.Data.Interfaces
 {
     public interface IProductRepository
     {
-        Product GetProductByName(string productType);
+        ProductData GetProductDataForType(string productType);
 
-        List<Product> List();
+        List<ProductData> List();
 
     }
 }

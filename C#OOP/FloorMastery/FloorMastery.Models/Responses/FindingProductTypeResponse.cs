@@ -8,6 +8,6 @@ namespace FloorMastery.Models.Responses
 {
     public class FindingProductTypeResponse : Response
     {
-        public Product Product { get; set; }
+        public ProductData ProductData { get; set; }
     }
 }

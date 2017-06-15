@@ -20,6 +20,7 @@ namespace FloorMastery.BLL.Factories
             string mode = ConfigurationManager.AppSettings["Mode"].ToString();
 
             
+            
 
             switch (mode)
             {

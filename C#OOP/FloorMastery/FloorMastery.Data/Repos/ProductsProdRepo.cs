@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using FloorMastery.Data.Interfaces;
 using FloorMastery.Models;
 using FloorMastery.Models.Helpers;
@@ -19,12 +20,13 @@ namespace FloorMastery.Data.Repos
             throw new System.NotImplementedException();
         }
 
-        public Product GetProductByName(string productType)
+
+        public ProductData GetProductDataForType(string productType)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public List<Product> List()
+        public List<ProductData> List()
         {
             throw new System.NotImplementedException();
         }

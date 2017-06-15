@@ -17,27 +17,27 @@ namespace FloorMastery.Models.TestRepos
 
     public class TaxesTestRepo : ITaxesRepository
     {
-        private static readonly List<StateTax> StateTaxs = new List<StateTax>()
+        private static readonly List<StateTaxData> StateTaxs = new List<StateTaxData>()
         {
-            new StateTax
+            new StateTaxData
             {
                 StatesAbbreviation = "OH",
                 StatesName = "Ohio",
                 TaxRate = 6.25M
             },
-            new StateTax
+            new StateTaxData
             {
                 StatesAbbreviation = "PA",
                 StatesName = "Pennsylvania",
                 TaxRate = 6.75M
             },
-            new StateTax
+            new StateTaxData
             {
                 StatesAbbreviation = "MI",
                 StatesName = "Michigan",
                 TaxRate = 5.75M
             },
-            new StateTax
+            new StateTaxData
             {
                 StatesAbbreviation = "IN",
                 StatesName = "Indiana",
@@ -51,7 +51,7 @@ namespace FloorMastery.Models.TestRepos
 
            
         }
-        public StateTax TheState(string stateInput)
+        public StateTaxData TheState(string stateInput)
         {
             throw new NotImplementedException();
         }

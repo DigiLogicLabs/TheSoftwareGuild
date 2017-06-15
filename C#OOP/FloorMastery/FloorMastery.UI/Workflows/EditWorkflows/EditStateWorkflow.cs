@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FloorMastery.Models.Responses
+namespace FloorMastery.UI.Workflows.EditWorkflows
 {
-    public class AddOrderResponse : Response
+    public class EditStateWorkflow
     {
-        public Order Order { get; set; }
     }
 }

@@ -23,8 +23,8 @@ namespace FloorMastery.UI.Workflows
 
             newOrder.CreationDateTime = ConsoleIO.AddOrderDate("Please input a date to Add order: ");
             newOrder.CustomersName = ConsoleIO.GetRequiredStringFromUser("Please enter customer name: ");
-            newOrder.State = ConsoleIO.GetRequiredStringFromUser("Please enter your State: ");
-            newOrder.ProductsType = ConsoleIO.GetRequiredStringFromUser("Please enter the Products type: ");
+            newOrder.TaxData.StatesName = ConsoleIO.GetRequiredStringFromUser("Please enter your State: ");
+            newOrder.ProductData.ProductsType = ConsoleIO.GetRequiredStringFromUser("Please enter the Products type: ");
             
             newOrder.Area = ConsoleIO.GetRequiredDecimalFromUser("Please enter your Area: ");
 
@@ -32,8 +32,8 @@ namespace FloorMastery.UI.Workflows
             Console.WriteLine("Add this new Order?");
             Console.WriteLine(newOrder.CreationDateTime);
             Console.WriteLine(newOrder.CustomersName);
-            Console.WriteLine(newOrder.State);
-            Console.WriteLine(newOrder.ProductsType);
+            Console.WriteLine(newOrder.TaxData.StatesName);
+            Console.WriteLine(newOrder.ProductData.ProductsType);
             Console.WriteLine(newOrder.Area);
             var confirmInput = ConsoleIO.GetYesNoAnswerFromUser("Confirm: Y/N");
 

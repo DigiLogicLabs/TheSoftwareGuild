@@ -1,6 +1,6 @@
 ﻿namespace FloorMastery.Models
 {
-    public class StateTax
+    public class StateTaxData
     {
         public string StatesAbbreviation { get; set; }
         public string StatesName { get; set; }

@@ -17,15 +17,17 @@ namespace FloorMastery.Models.TestRepos
         {
             new Order
             {
+
+                //Errors once I changed the structure of my properties in the classes. TaxRate now belongs to the TaxData Class
                 CreationDateTime = DateTime.Parse("06/01/2013"),
                 OrdersNumber = 1,
                 CustomersName = "Wise",
-                State = "OH",
+                StatesName = "OH",
                 TaxRate = 6.25M,
                 ProductsType = "Wood",
                 Area = 100.00M,
                 CostPerSquareFoot = 5.15M,
-                LaborCostsPerSquareFoot = 4.75M,
+                LaborCostPerSquareFoot = 4.75M,
                 MaterialCost = 515.00M,
                 LaborCost = 475.00M,
                 Tax = 61.88M,
@@ -38,12 +40,12 @@ namespace FloorMastery.Models.TestRepos
                 CreationDateTime = DateTime.Parse("05/22/1995"),
                 OrdersNumber = 2,
                 CustomersName = "Soligny",
-                State = "MN",
+                StatesName = "MN",
                 TaxRate = 5.25M,
                 ProductsType = "Metal",
                 Area = 100.00M,
                 CostPerSquareFoot = 6.15M,
-                LaborCostsPerSquareFoot = 4.00M,
+                LaborCostPerSquareFoot = 4.00M,
                 MaterialCost = 615.00M,
                 LaborCost = 400.00M,
                 Tax = 53.29M,
@@ -54,12 +56,12 @@ namespace FloorMastery.Models.TestRepos
                 CreationDateTime = DateTime.Parse("01/01/1337"),
                 OrdersNumber = 3,
                 CustomersName = "Jack",
-                State = "WI",
+                StatesName = "WI",
                 TaxRate = 7.25M,
                 ProductsType = "Cheese",
                 Area = 100.00M,
                 CostPerSquareFoot = 6.15M,
-                LaborCostsPerSquareFoot = 4.75M,
+                LaborCostPerSquareFoot = 4.75M,
                 MaterialCost = 615.00M,
                 LaborCost = 475.00M,
                 Tax = 79.03M,
@@ -70,12 +72,12 @@ namespace FloorMastery.Models.TestRepos
                 CreationDateTime = DateTime.Parse("04/20/2010"),
                 OrdersNumber = 4,
                 CustomersName = "BradPitt",
-                State = "CA",
+                StatesName = "CA",
                 TaxRate = 8.25M,
                 ProductsType = "Life",
                 Area = 100.00M,
                 CostPerSquareFoot = 9.15M,
-                LaborCostsPerSquareFoot = 4.75M,
+                LaborCostPerSquareFoot = 4.75M,
                 MaterialCost = 915.00M,
                 LaborCost = 475.00M,
                 Tax = 114.68M,
@@ -84,6 +86,22 @@ namespace FloorMastery.Models.TestRepos
             
         };
 
+//        private static Order _order = new Order
+//        {
+//            CreationDateTime = DateTime.Parse("06/01/2013"),
+//            OrdersNumber = 1,
+//            CustomersName = "Wise",
+//            State = "OH",
+//            TaxRate = 6.25M,
+//            ProductsType = "Wood",
+//            Area = 100.00M,
+//            CostPerSquareFoot = 5.15M,
+//            LaborCostsPerSquareFoot = 4.75M,
+//            MaterialCost = 515.00M,
+//            LaborCost = 475.00M,
+//            Tax = 61.88M,
+//            Total = 1051.88M
+//        };
 
 
 

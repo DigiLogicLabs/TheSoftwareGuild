@@ -8,7 +8,7 @@ namespace FloorMastery.Models.Responses
 {
     public class DeleteOrderResponse : Response
     {
-        public Order order { get; set; }
+        public Order Order { get; set; }
 
     }
 }

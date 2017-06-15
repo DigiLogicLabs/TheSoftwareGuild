@@ -49,6 +49,10 @@
     <Compile Include="Workflows\AddOrderWorkflow.cs" />
     <Compile Include="Workflows\DisplayOrderWorkflow.cs" />
     <Compile Include="Workflows\EditOrderWorkflow.cs" />
+    <Compile Include="Workflows\EditWorkflows\EditAreaWorkflow.cs" />
+    <Compile Include="Workflows\EditWorkflows\EditCustomerNameWorkflow.cs" />
+    <Compile Include="Workflows\EditWorkflows\EditProductTypeWorkflow.cs" />
+    <Compile Include="Workflows\EditWorkflows\EditStateWorkflow.cs" />
     <Compile Include="Workflows\RemoveOrderWorkflow.cs" />
   </ItemGroup>
   <ItemGroup>

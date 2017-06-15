@@ -40,12 +40,12 @@ namespace FloorMastery.Data.Repos
                    
                     newOrder.OrdersNumber = int.Parse(columns[0]);
                     newOrder.CustomersName = columns[1];
-                    newOrder.State = columns[2];
-                    newOrder.TaxRate = decimal.Parse(columns[3]);
-                    newOrder.ProductsType = columns[4];
+                    newOrder.TaxData.StatesName = columns[2];
+                    newOrder.TaxData.TaxRate = decimal.Parse(columns[3]);
+                    newOrder.ProductData.ProductsType = columns[4];
                     newOrder.Area = decimal.Parse(columns[5]);
-                    newOrder.CostPerSquareFoot = decimal.Parse(columns[6]);
-                    newOrder.LaborCostsPerSquareFoot = decimal.Parse(columns[7]);
+                    newOrder.ProductData.CostPerSquareFoot = decimal.Parse(columns[6]);
+                    newOrder.ProductData.LaborCostPerSquareFoot = decimal.Parse(columns[7]);
                     newOrder.MaterialCost = decimal.Parse(columns[8]);
                     newOrder.LaborCost = decimal.Parse(columns[9]);
                     newOrder.Tax = decimal.Parse(columns[10]);
@@ -61,7 +61,7 @@ namespace FloorMastery.Data.Repos
         private string CreateCsvForOrder(Order order)
         {
             return string.Format("{0},{1},{2},{3},{4},{5}", order.CreationDateTime,
-                order.CustomersName, order.State, order.ProductsType, order.Area);
+                order.CustomersName, order.TaxData.StatesName, order.ProductData.ProductsType, order.Area);
         }
 
         private void CreateOrdersFile(List<Order> orders)
@@ -70,7 +70,7 @@ namespace FloorMastery.Data.Repos
                 File.Delete(_filePathOrders);
             using (StreamWriter sr = new StreamWriter(_filePathOrders))
             {
-                sr.WriteLine("CreationDateTime,CustomersName,State,GetProductByName,Area");
+                sr.WriteLine("CreationDateTime,CustomersName,State,GetProductDataForType,Area");
                 foreach (var order in orders)
                 {
                     sr.WriteLine(CreateCsvForOrder(order));
@@ -112,12 +112,12 @@ namespace FloorMastery.Data.Repos
 
                         newOrder.OrdersNumber = int.Parse(columns[0]);
                         newOrder.CustomersName = columns[1];
-                        newOrder.State = columns[2];
-                        newOrder.TaxRate = decimal.Parse(columns[3]);
-                        newOrder.ProductsType = columns[4];
+                        newOrder.TaxData.StatesName = columns[2];
+                        newOrder.TaxData.TaxRate = decimal.Parse(columns[3]);
+                        newOrder.ProductData.ProductsType = columns[4];
                         newOrder.Area = decimal.Parse(columns[5]);
-                        newOrder.CostPerSquareFoot = decimal.Parse(columns[6]);
-                        newOrder.LaborCostsPerSquareFoot = decimal.Parse(columns[7]);
+                        newOrder.ProductData.CostPerSquareFoot = decimal.Parse(columns[6]);
+                        newOrder.ProductData.LaborCostPerSquareFoot = decimal.Parse(columns[7]);
                         newOrder.MaterialCost = decimal.Parse(columns[8]);
                         newOrder.LaborCost = decimal.Parse(columns[9]);
                         newOrder.Tax = decimal.Parse(columns[10]);

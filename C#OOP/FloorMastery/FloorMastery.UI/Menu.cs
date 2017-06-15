@@ -15,10 +15,10 @@ namespace FloorMastery.UI
     {
         
          
-//        public Menu(IOrderRepository order, IProductRepository product, ITaxesRepository taxes)
+//        public Menu(IOrderRepository order, IProductRepository productData, ITaxesRepository taxes)
 //        {
 //            _orderManager = new OrderManager(order);
-//            _productManager = new ProductManager(product);
+//            _productManager = new ProductManager(productData);
 //            _taxesManager = new TaxesManager(taxes);
 //        }
 
