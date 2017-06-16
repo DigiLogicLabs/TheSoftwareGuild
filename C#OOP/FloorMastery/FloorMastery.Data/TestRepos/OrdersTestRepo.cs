@@ -14,7 +14,7 @@ namespace FloorMastery.Models.TestRepos
 //    1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
     public class OrdersTestRepo : IOrderRepository
     {
-        private static readonly List<Order> Order = new List<Order>
+        private static readonly List<Order> _orders = new List<Order>
         {
             new Order
             {
@@ -87,7 +87,7 @@ namespace FloorMastery.Models.TestRepos
             
         };
 
-//        private static Order _order = new Order
+//        private static _orders _order = new _orders
 //        {
 //            CreationDateTime = DateTime.Parse("06/01/2013"),
 //            OrdersNumber = 1,
@@ -115,7 +115,7 @@ namespace FloorMastery.Models.TestRepos
         {
             List<Order> result = new List<Order>();
 
-            foreach (var order in Order)
+            foreach (var order in _orders)
             {
                 if (order.CreationDateTime == orderDateTime)
                 {
@@ -134,23 +134,23 @@ namespace FloorMastery.Models.TestRepos
 
         public bool RemoveOrder(Order order)
         {
-            List<Order> orderList = OrdersByDateList(order.CreationDateTime);
-            orderList.Remove(order);
+//            List<Order> orderList = OrdersByDateList(order.CreationDateTime);
+            _orders.Remove(order);
 
-            foreach (var singleOrder in orderList)
-            {
-                if (singleOrder.OrdersNumber == order.OrdersNumber)
-                {
-
-                }
-                else
-                {
-                    string row =
-                        $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.StatesName}{singleOrder.TaxRate}{singleOrder.ProductsType}{singleOrder.Area}{singleOrder.CostPerSquareFoot}" +
-                        $"{singleOrder.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
-                    Console.WriteLine(row);
-                }
-            }
+//            foreach (var singleOrder in orderList)
+//            {
+//                if (singleOrder.OrdersNumber == order.OrdersNumber)
+//                {
+//
+//                }
+//                else
+//                {
+//                    string row =
+//                        $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.StatesName}{singleOrder.TaxRate}{singleOrder.ProductsType}{singleOrder.Area}{singleOrder.CostPerSquareFoot}" +
+//                        $"{singleOrder.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
+//                    Console.WriteLine(row);
+//                }
+//            }
 
 
 
@@ -174,17 +174,15 @@ namespace FloorMastery.Models.TestRepos
 
         public bool SavingBrandNewOrder(Order order)
         {
-            throw new NotImplementedException();
+           _orders.Add(order);
+            return true;
         }
 
-        public bool SaveNewOrder(Order order)
-        {
-            throw new NotImplementedException();
-        }
 
         public bool SaveExistingOrder(Order order)
         {
-           throw new NotImplementedException();
+          _orders.Add(order);
+            return true;
         }
 
 

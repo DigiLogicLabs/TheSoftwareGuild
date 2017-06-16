@@ -38,11 +38,11 @@ namespace FloorMastery.BLL
         }
 
 
-        public AddOrderResponse AddOrder(Order order)
+        public LookupOrderResponse AddOrder(Order order)
         {
             //Will need to take the ProductData & State to look up the full productData and tax objects -- then we can do calculations on them
 
-            AddOrderResponse response = new AddOrderResponse();
+            LookupOrderResponse response = new LookupOrderResponse();
             if (response.Success == false)
             {
                 response.Message = "Can't add the Order: ";
@@ -54,12 +54,12 @@ namespace FloorMastery.BLL
             }
            
 
-            return new AddOrderResponse();
+            return new LookupOrderResponse();
         }
 
-        public AddOrderResponse AccountByNumberAndDate(DateTime date, int orderNumber)
+        public LookupOrderResponse AccountByNumberAndDate(DateTime date, int orderNumber)
         {
-            AddOrderResponse response = new AddOrderResponse();
+            LookupOrderResponse response = new LookupOrderResponse();
 
             response.Order = _orderRepository.LoadOrder(date, orderNumber);
 
@@ -75,18 +75,18 @@ namespace FloorMastery.BLL
             return response;
         }
 
-        public AddOrderResponse SaveExistingOrder(Order order)
+        public LookupOrderResponse SaveExistingOrder(Order order)
         {
-            AddOrderResponse response = new AddOrderResponse();
+            LookupOrderResponse response = new LookupOrderResponse();
 
             response.Order = order;
             response.Success = _orderRepository.SaveExistingOrder(order);
 
             return response;
         }
-        public AddOrderResponse SaveNewOrder(Order order)
+        public LookupOrderResponse SaveNewOrder(Order order)
         {
-            AddOrderResponse response = new AddOrderResponse();
+            LookupOrderResponse response = new LookupOrderResponse();
 
             response.Order = order;
             response.Success = _orderRepository.SavingBrandNewOrder(order);

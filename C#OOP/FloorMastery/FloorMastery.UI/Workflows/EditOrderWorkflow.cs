@@ -22,7 +22,7 @@ namespace FloorMastery.UI.Workflows
 
             int orderNumInput = ConsoleIO.AskOrderNumber();
 
-            AddOrderResponse response = manager.AccountByNumberAndDate(orderDate, orderNumInput);
+            LookupOrderResponse response = manager.AccountByNumberAndDate(orderDate, orderNumInput);
 
             if (response.Success)
             {

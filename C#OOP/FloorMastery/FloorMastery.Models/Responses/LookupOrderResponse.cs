@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FloorMastery.Models.Responses
 {
-    public class AddOrderResponse : Response
+    public class LookupOrderResponse : Response
     {
         public Order Order { get; set; }
     }

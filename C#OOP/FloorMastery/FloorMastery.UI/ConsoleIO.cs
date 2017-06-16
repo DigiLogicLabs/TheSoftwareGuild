@@ -331,10 +331,11 @@ namespace FloorMastery.Models.Helpers
                 GetOrderDateTime();
             }
             DateTime orderDate = DateTime.Parse(userInput);
-            if (orderDate == DateTime.Now.AddDays(1))
+            if (orderDate <= DateTime.Now.AddDays(1))
             {
-                Console.WriteLine("Sorry, has to be at least be 1 day prior to booking");
+                Console.WriteLine("Sorry, has to be booked for a future date! Can't book for same day.");
                 Console.ReadKey();
+                Console.Clear();
                 GetOrderDateTime();
 
             }
@@ -493,8 +494,7 @@ namespace FloorMastery.Models.Helpers
                         EditAreaWorkflow editAreaWorkflow = new EditAreaWorkflow();
                         editAreaWorkflow.EditArea(order);
                         break;
-                    default:
-                        break;
+
                 }
 
             }          
@@ -503,8 +503,13 @@ namespace FloorMastery.Models.Helpers
         public static decimal EditArea()
         {
             Console.WriteLine("Enter a new Area: ");
-            var userInput = decimal.Parse(Console.ReadLine());
 
+            var userInput = decimal.Parse(Console.ReadLine());
+            if (userInput < 100)
+            {
+                Console.WriteLine("Order must be over 100 sq.Feet!");
+                EditArea();
+            }
             return userInput;
         }
 
@@ -523,8 +528,9 @@ namespace FloorMastery.Models.Helpers
 
         public static string EditProductType()
         {
-            Console.WriteLine("Enter a new ProductData for your Order: ");
+            Console.WriteLine("Enter a new Product for your Order: ");
             var userInput = Console.ReadLine();
+            
 
             return userInput;
         }
@@ -533,6 +539,12 @@ namespace FloorMastery.Models.Helpers
         {
             Console.WriteLine("Enter a new State: ");
             string userInput = Console.ReadLine();
+            if (userInput == "")
+            {
+                Console.WriteLine("State can't be blank!");
+                Console.ReadKey();
+                EditStateName();
+            }
 
             return userInput;
         }

@@ -21,7 +21,21 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
 
             var newState = ConsoleIO.EditStateName();
 
-//            FindingStateResponse response = taxManager
+            FindingStateResponse response = taxManager.StateTaxDate(newState);
+
+            if (response.Success)
+            {
+                order.TaxData = response.StateTaxData;
+
+                orderManager.SaveExistingOrder(order);
+                ConsoleIO.DisplaySingleOrderDetails(order);
+                Console.ReadKey();
+                Console.Clear();
+            }
+            else
+            {
+                response.Success = false;
+            }
         }
     }
 }
