@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Configuration;
+using System.Runtime.Remoting.Messaging;
 using FloorMastery.Data.Repos;
 using FloorMastery.Models.Helpers;
 using FloorMastery.Models.TestRepos;
@@ -13,23 +14,25 @@ namespace FloorMastery.BLL.Factories
 
         public static ProductManager Create()
         {
-           
 
+            ProductManager productMan = null;
 
             string mode = ConfigurationManager.AppSettings["Mode"].ToString();
 
             switch (mode)
             {
                 case "Test":
-                throw new Exception("Mode value in app config isn't valid");
+                    productMan = new ProductManager(new ProductsTestRepo());
+                    break;
 
                 case "Prod":
-                    return new ProductManager(new ProductsProdRepo());
-                default:
-                    throw new Exception("Mode doesn't exist.");
+                    productMan= new ProductManager(new ProductsProdRepo());
+                    break;
+                    
             }
-
+            return productMan;
         }
+        
 
     }
 

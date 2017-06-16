@@ -8,7 +8,7 @@ using FloorMastery.Models.Responses;
 
 namespace FloorMastery.Data.Repos
 {
-    public class TaxesProdRepo
+    public class TaxesProdRepo : ITaxesRepository
     {
         private Dictionary<string, StateTaxData> _statesDictionary;
 
@@ -54,6 +54,16 @@ namespace FloorMastery.Data.Repos
             {
                 return null;
             }
+        }
+
+        public StateTaxData TheState(string stateInput)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public List<StateTaxData> List()
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

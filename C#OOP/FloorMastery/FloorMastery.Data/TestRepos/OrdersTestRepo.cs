@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -133,7 +134,27 @@ namespace FloorMastery.Models.TestRepos
 
         public bool RemoveOrder(Order order)
         {
-            throw new NotImplementedException();
+            List<Order> orderList = OrdersByDateList(order.CreationDateTime);
+            orderList.Remove(order);
+
+            foreach (var singleOrder in orderList)
+            {
+                if (singleOrder.OrdersNumber == order.OrdersNumber)
+                {
+
+                }
+                else
+                {
+                    string row =
+                        $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.StatesName}{singleOrder.TaxRate}{singleOrder.ProductsType}{singleOrder.Area}{singleOrder.CostPerSquareFoot}" +
+                        $"{singleOrder.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
+                    Console.WriteLine(row);
+                }
+            }
+
+
+
+            return true;
         }
 
         public bool AddOrder(Order orderAdd)
@@ -151,11 +172,27 @@ namespace FloorMastery.Models.TestRepos
             throw new NotImplementedException();
         }
 
+        public bool SavingBrandNewOrder(Order order)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool SaveNewOrder(Order order)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool SaveExistingOrder(Order order)
+        {
+           throw new NotImplementedException();
+        }
 
 
         public Order LoadOrder(DateTime date, int orderNumber)
         {
-            throw new NotImplementedException();
+            var dailyOrders = OrdersByDateList(date);
+            var selectedOrder = dailyOrders.SingleOrDefault(s => s.OrdersNumber == orderNumber);
+            return selectedOrder;
         }
     }
 }

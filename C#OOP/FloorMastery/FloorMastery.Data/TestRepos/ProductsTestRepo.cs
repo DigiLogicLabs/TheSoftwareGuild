@@ -56,7 +56,7 @@ namespace FloorMastery.Models.TestRepos
                     result.Add(product);
                 }
             }
-            throw new NotImplementedException();
+            return new ProductData();
         }
 
         public List<ProductData> List()

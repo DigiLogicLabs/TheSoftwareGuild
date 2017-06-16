@@ -21,7 +21,7 @@ namespace FloorMastery.UI.Workflows
             var manager = OrderManagerFactory.Create();
 
             Order newOrder = new Order();
-            string dateInput = ConsoleIO.AskOrderDate();
+            var dateInput = ConsoleIO.GetOrderDateTime();
             DateTime orderDate = Convert.ToDateTime(dateInput);
 
             string customerInput = ConsoleIO.EditCustomerName();

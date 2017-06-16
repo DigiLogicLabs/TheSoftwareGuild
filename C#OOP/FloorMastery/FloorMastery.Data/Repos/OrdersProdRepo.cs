@@ -152,10 +152,7 @@ namespace FloorMastery.Data.Repos
             throw new NotImplementedException();
         }
 
-        public bool RemoveOrder(Order order, int orderNumber)
-        {
-            throw new NotImplementedException();
-        }
+     
 
 
         //Removes an order, grab the order number and information - confirm if they want to remove this item from the orders list
@@ -209,6 +206,7 @@ namespace FloorMastery.Data.Repos
             }
             return true;
         }
+
 
         public Order LoadOrder(DateTime date, int orderNumber)
         {

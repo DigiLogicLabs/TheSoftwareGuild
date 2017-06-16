@@ -11,9 +11,10 @@ namespace FloorMastery.BLL
 {
     public class ProductManager
     {
-        private ProductsProdRepo _productTypeRepo;
+        
+        private IProductRepository _productTypeRepo;
 
-        public ProductManager(ProductsProdRepo productRepo)
+        public ProductManager(IProductRepository productRepo)
         {
             _productTypeRepo = productRepo;
         }

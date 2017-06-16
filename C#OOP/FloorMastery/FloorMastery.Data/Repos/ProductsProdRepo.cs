@@ -8,7 +8,7 @@ using FloorMastery.Models.Helpers;
 
 namespace FloorMastery.Data.Repos
 {
-    public class ProductsProdRepo
+    public class ProductsProdRepo : IProductRepository
     {
         private Dictionary<string, ProductData> _productDictionary;
 

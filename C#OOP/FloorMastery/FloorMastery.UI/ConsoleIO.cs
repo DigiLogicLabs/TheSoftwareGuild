@@ -313,20 +313,31 @@ namespace FloorMastery.Models.Helpers
                 return orderDate;
         }
 
-        public static DateTime GetOrderDateTime(string prompt)
+        public static DateTime GetOrderDateTime()
         {
-            Console.WriteLine(prompt);
+            
+            Console.WriteLine(ConsoleIO.SeparatorBar);
+            Console.WriteLine("Enter the Orders Date: ");
+            Console.WriteLine(ConsoleIO.SeparatorBar);
             var userInput = Console.ReadLine();
             if (userInput == "")
             {
                 Console.WriteLine(ConsoleIO.SeparatorBar);
                 Console.WriteLine("Empty string - Not Valid Date");
                 Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.WriteLine("Try again!");
                 Console.ReadKey();
                 Console.Clear();
-                GetOrderDateTime("Enter a new Date: ");
+                GetOrderDateTime();
             }
             DateTime orderDate = DateTime.Parse(userInput);
+            if (orderDate == DateTime.Now.AddDays(1))
+            {
+                Console.WriteLine("Sorry, has to be at least be 1 day prior to booking");
+                Console.ReadKey();
+                GetOrderDateTime();
+
+            }
 
             return orderDate;
         }
@@ -338,12 +349,12 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine(ConsoleIO.SeparatorBar);
             Console.WriteLine($"Order Number:           #{order.OrdersNumber}");
             Console.WriteLine($"Customer Name:       {order.CustomersName}");
-            Console.WriteLine($"State:                 {order.TaxData.StatesName}");
-            Console.WriteLine($"Tax Rate:             {order.TaxData.TaxRate}%");
-            Console.WriteLine($"ProductData Type:        {order.ProductData.ProductsType}");
+            Console.WriteLine($"State:                 {order.StatesName}");
+            Console.WriteLine($"Tax Rate:             {order.TaxRate}%");
+            Console.WriteLine($"ProductData Type:        {order.ProductsType}");
             Console.WriteLine($"Area:                {order.Area}Sq/Ft");
-            Console.WriteLine($"Cost/Sq. Foot:       ${order.ProductData.CostPerSquareFoot}");
-            Console.WriteLine($"LaborCost/Sq. Foot:  ${order.ProductData.LaborCostPerSquareFoot}");
+            Console.WriteLine($"Cost/Sq. Foot:       ${order.CostPerSquareFoot}");
+            Console.WriteLine($"LaborCost/Sq. Foot:  ${order.LaborCostPerSquareFoot}");
             Console.WriteLine($"Material Cost:       ${order.MaterialCost}");
             Console.WriteLine($"Labor Cost:          ${order.LaborCost}");
             Console.WriteLine($"Tax:                 ${order.Tax}");
@@ -400,7 +411,7 @@ namespace FloorMastery.Models.Helpers
         public static void PrintEditHeader()
         {
 
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Magenta;
             Console.Clear();
             Console.WriteLine("     ╔═══════════════════════════════╗");
             Console.WriteLine("     ║           Edit Orders         ║");
@@ -501,6 +512,11 @@ namespace FloorMastery.Models.Helpers
         {
             Console.WriteLine("Enter a new Name for your Order: ");
             var userInput = Console.ReadLine();
+            if (userInput =="")
+            {
+                Console.WriteLine("Names can't be blank!");
+                EditCustomerName();
+            }
 
             return userInput;
         }

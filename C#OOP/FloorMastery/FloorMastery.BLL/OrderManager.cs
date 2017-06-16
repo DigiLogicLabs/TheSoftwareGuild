@@ -75,12 +75,23 @@ namespace FloorMastery.BLL
             return response;
         }
 
+        public AddOrderResponse SaveExistingOrder(Order order)
+        {
+            AddOrderResponse response = new AddOrderResponse();
+
+            response.Order = order;
+            response.Success = _orderRepository.SaveExistingOrder(order);
+
+            return response;
+        }
         public AddOrderResponse SaveNewOrder(Order order)
         {
             AddOrderResponse response = new AddOrderResponse();
 
             response.Order = order;
-//            response.Success= _orderRepository.
+            response.Success = _orderRepository.SavingBrandNewOrder(order);
+
+            return response;
         }
 
         public DeleteOrderResponse DeleteOrder(Order order)

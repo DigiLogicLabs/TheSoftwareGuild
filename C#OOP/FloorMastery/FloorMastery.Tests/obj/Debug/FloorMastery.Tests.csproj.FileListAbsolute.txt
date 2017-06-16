@@ -27,3 +27,13 @@ C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\Fl
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\obj\Debug\FloorMastery.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\obj\Debug\FloorMastery.Tests.dll
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\obj\Debug\FloorMastery.Tests.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.Tests.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.Tests.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.BLL.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.BLL.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\FloorMastery.Models.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Tests\bin\Debug\nunit.framework.xml

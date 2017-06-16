@@ -15,6 +15,8 @@ namespace FloorMastery.Data.Interfaces
         bool RemoveOrder(Order order);
 
         bool AddOrder(Order order);
+        bool SavingBrandNewOrder(Order order);
+        bool SaveExistingOrder(Order order);
 
         Order LoadOrder(DateTime date, int orderNumber);
     }

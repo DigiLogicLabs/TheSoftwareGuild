@@ -12,9 +12,9 @@ namespace FloorMastery.BLL
 {
     public class TaxesManager
     {
-        public TaxesProdRepo _stateTaxRepo;
+        public ITaxesRepository _stateTaxRepo;
 
-        public TaxesManager(TaxesProdRepo stateTaxRepo)
+        public TaxesManager(ITaxesRepository stateTaxRepo)
         {
             _stateTaxRepo = stateTaxRepo;
         }
@@ -28,7 +28,7 @@ namespace FloorMastery.BLL
         {
             FindingStateResponse response = new FindingStateResponse();
 
-            response.StateTaxData = _stateTaxRepo.GetTaxDataForState(state);
+            response.StateTaxData = _stateTaxRepo.TheState(state);
 
             if (response.StateTaxData == null)
             {
