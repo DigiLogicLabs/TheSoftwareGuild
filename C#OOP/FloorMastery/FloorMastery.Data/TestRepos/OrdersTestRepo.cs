@@ -131,7 +131,7 @@ namespace FloorMastery.Models.TestRepos
             throw new NotImplementedException();
         }
 
-        public bool RemoveOrder(Order order, int orderNumber)
+        public bool RemoveOrder(Order order)
         {
             throw new NotImplementedException();
         }

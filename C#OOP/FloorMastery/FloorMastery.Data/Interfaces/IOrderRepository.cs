@@ -12,7 +12,7 @@ namespace FloorMastery.Data.Interfaces
 
         bool EditOrder(Order order, DateTime orderDate, int orderNumber);
 
-        bool RemoveOrder(Order order, int orderNumber);
+        bool RemoveOrder(Order order);
 
         bool AddOrder(Order order);
 

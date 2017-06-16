@@ -12,12 +12,12 @@ namespace FloorMastery.Tests
             {
                 OrdersNumber = 1337,
                 CustomersName = "Soligny",
-                State = "MN",
+                StatesName = "MN",
                 TaxRate = 3.5M,
                 ProductsType = "Brains",
                 Area = 110.00M,
                 CostPerSquareFoot = 3.2M,
-                LaborCostsPerSquareFoot = 2.5M,
+                LaborCostPerSquareFoot = 2.5M,
                 MaterialCost = 352M,
                 LaborCost = 275M,
                 Tax = 21.95M, //(MaterialCost+LaborCost) * TaxRate

@@ -4,27 +4,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FloorMastery.Data.Interfaces;
+using FloorMastery.Data.Repos;
 using FloorMastery.Models.Responses;
 
 namespace FloorMastery.BLL
 {
     public class ProductManager
     {
-        //factory method returns one of these
-        private IProductRepository _productRepository = null;
+        private ProductsProdRepo _productTypeRepo;
 
-        public ProductManager(IProductRepository productRepository)
+        public ProductManager(ProductsProdRepo productRepo)
         {
-            _productRepository = productRepository;
+            _productTypeRepo = productRepo;
         }
 
-//        public FindingProductTypeResponse ProductTypeData(string productType)
-//        {
-//            FindingProductTypeResponse response = new FindingProductTypeResponse();
-//
-//            response.ProductData = _productRepository
-//                
-//        }
+        public FindingProductTypeResponse ProductTypeData(string productType)
+        {
+            FindingProductTypeResponse response = new FindingProductTypeResponse();
+
+            response.ProductData = _productTypeRepo.GetProductDataForType(productType);
+            if (response.ProductData == null)
+            {
+                response.Success = false;
+                response.Message = $"{productType} is not valid";
+
+            }
+            else
+            {
+                response.Success = true;
+            }
+            return response;
+        }
 
     }
 }

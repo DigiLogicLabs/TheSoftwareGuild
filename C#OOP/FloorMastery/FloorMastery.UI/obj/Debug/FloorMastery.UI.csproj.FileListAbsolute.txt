@@ -33,3 +33,12 @@ C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\Fl
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\obj\Debug\FloorMastery.UI.csprojResolveAssemblyReference.cache
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\obj\Debug\FloorMastery.UI.exe
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\obj\Debug\FloorMastery.UI.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.UI.exe.config
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.UI.exe
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.UI.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.BLL.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.BLL.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.UI\bin\Debug\FloorMastery.Models.pdb

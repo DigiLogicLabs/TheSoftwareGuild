@@ -13,7 +13,7 @@ namespace FloorMastery.BLL.Factories
 
         public static ProductManager Create()
         {
-            ProductManager productMan = null;
+           
 
 
             string mode = ConfigurationManager.AppSettings["Mode"].ToString();
@@ -21,17 +21,13 @@ namespace FloorMastery.BLL.Factories
             switch (mode)
             {
                 case "Test":
-                    productMan= new ProductManager(new ProductsTestRepo());
-                    break;  
+                throw new Exception("Mode value in app config isn't valid");
 
                 case "Prod":
-                    productMan = new ProductManager(new ProductsProdRepo(Settings._filepathProducts));
-                    break;
-
+                    return new ProductManager(new ProductsProdRepo());
                 default:
                     throw new Exception("Mode doesn't exist.");
             }
-            return productMan;
 
         }
 

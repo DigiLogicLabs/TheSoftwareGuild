@@ -47,6 +47,7 @@
     <Compile Include="Responses\DeleteOrderResponse.cs" />
     <Compile Include="Responses\DisplayOrdersResponse.cs" />
     <Compile Include="Responses\FindingProductTypeResponse.cs" />
+    <Compile Include="Responses\FindingStateResponse.cs" />
     <Compile Include="Responses\ProductResponse.cs" />
     <Compile Include="Responses\RemoveOrderResponse.cs" />
     <Compile Include="Responses\Response.cs" />

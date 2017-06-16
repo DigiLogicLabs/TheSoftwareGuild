@@ -22,7 +22,20 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
 
             var newProductType = ConsoleIO.EditProductType();
 
-//            FindingProductTypeResponse response = productMan.
+            FindingProductTypeResponse response = productMan.ProductTypeData(newProductType);
+            if (response.Success)
+            {
+                order.ProductData = response.ProductData;
+
+                orderMan.SaveNewOrder(order);
+                ConsoleIO.DisplaySingleOrderDetails(order);
+                Console.ReadKey();
+                Console.Clear();
+            }
+            else
+            {
+                response.Success = false;
+            }
         }
 
     }

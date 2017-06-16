@@ -57,13 +57,48 @@ namespace FloorMastery.BLL
             return new AddOrderResponse();
         }
 
+        public AddOrderResponse AccountByNumberAndDate(DateTime date, int orderNumber)
+        {
+            AddOrderResponse response = new AddOrderResponse();
+
+            response.Order = _orderRepository.LoadOrder(date, orderNumber);
+
+            if (response.Order == null)
+            {
+                response.Success = false;
+                response.Message = $"{date} is not a valid order";
+            }
+            else
+            {
+                response.Success = true;
+            }
+            return response;
+        }
+
         public AddOrderResponse SaveNewOrder(Order order)
         {
             AddOrderResponse response = new AddOrderResponse();
 
             response.Order = order;
-//            response.Success = _orderRepository.
-            throw new NotImplementedException();
+//            response.Success= _orderRepository.
+        }
+
+        public DeleteOrderResponse DeleteOrder(Order order)
+        {
+            DeleteOrderResponse response = new DeleteOrderResponse();
+
+            response.Order = order;
+            if (response.Order ==null)
+            {
+                response.Success = false;
+                response.Message = $"{order} is not a valid order!";
+            }
+            else
+            {
+                response.Success = true;
+                response.Success = _orderRepository.RemoveOrder(order);
+            }
+            return response;
         }
 
     }

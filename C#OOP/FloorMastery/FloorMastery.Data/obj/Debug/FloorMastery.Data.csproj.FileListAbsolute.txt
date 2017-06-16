@@ -21,3 +21,7 @@ C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\FloorMastery\Fl
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\obj\Debug\FloorMastery.Data.csprojResolveAssemblyReference.cache
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\obj\Debug\FloorMastery.Data.dll
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\obj\Debug\FloorMastery.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\bin\Debug\FloorMastery.Data.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\bin\Debug\FloorMastery.Data.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\bin\Debug\FloorMastery.Models.dll
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Data\bin\Debug\FloorMastery.Models.pdb

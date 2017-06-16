@@ -11,7 +11,7 @@ namespace FloorMastery.BLL.Factories
 
         public static TaxesManager Create()
         {
-            TaxesManager taxesMan = null;
+           
 
 
             string mode = ConfigurationManager.AppSettings["Mode"].ToString();
@@ -19,17 +19,13 @@ namespace FloorMastery.BLL.Factories
             switch (mode)
             {
                 case "Test":
-                    taxesMan = new TaxesManager(new TaxesTestRepo());
-                    break;
+                    throw new Exception("Mode value in app config is not valid");
 
                 case "Prod":
-                    taxesMan = new TaxesManager(new TaxesProdRepo(Settings._filepathTaxes));
-                    break;
-
+                return new TaxesManager(new TaxesProdRepo());
                 default:
                     throw new Exception("Mode doesn't exist.");
             }
-            return taxesMan;
 
         }
     }

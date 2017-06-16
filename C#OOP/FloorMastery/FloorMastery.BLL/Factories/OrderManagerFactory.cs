@@ -19,7 +19,8 @@ namespace FloorMastery.BLL.Factories
 
             string mode = ConfigurationManager.AppSettings["Mode"].ToString();
 
-            
+            TaxesProdRepo stateTaxRepo = new TaxesProdRepo();
+            ProductsProdRepo productTypeRepo = new ProductsProdRepo();
             
 
             switch (mode)
@@ -29,7 +30,7 @@ namespace FloorMastery.BLL.Factories
                     break;
 
                 case "Prod":
-                    orderMan = new OrderManager(new OrdersProdRepo(Settings._filepathOrders));
+                    orderMan = new OrderManager(new OrdersProdRepo(stateTaxRepo, productTypeRepo));
                     break;
 
                     default:
