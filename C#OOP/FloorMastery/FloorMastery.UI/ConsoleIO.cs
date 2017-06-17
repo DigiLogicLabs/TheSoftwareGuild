@@ -541,6 +541,9 @@ namespace FloorMastery.Models.Helpers
                 Console.WriteLine("Order must be over 100 sq.Feet!");
                 EditArea();
             }
+            Console.WriteLine($"You've entered {userInput}");
+            Console.ReadKey();
+            
             return userInput;
         }
 
@@ -591,7 +594,7 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine("Enter a new State: ");
             while (!successfulInput)
             {
-                userInput = Console.ReadLine().ToUpper();
+               
 
                 if (userInput == "")
                 {
@@ -600,14 +603,15 @@ namespace FloorMastery.Models.Helpers
                 }
                 foreach (var state in states)
                 {
-                    Console.WriteLine(state);
+                    
+                    Console.WriteLine(state.StatesAbbreviation);
                 }
 
                 Console.WriteLine("Enter a new State for your Order: ");
 
                 userInput = Console.ReadLine();
 
-                successfulInput = states.Any(m => m.StatesName == userInput);
+                successfulInput = states.Any(m => m.StatesAbbreviation == userInput);
             }
 
             return userInput;

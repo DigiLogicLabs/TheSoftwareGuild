@@ -8,15 +8,15 @@ namespace FloorMastery.Data.Interfaces
     {
         Order OrdersDateAndNumber(DateTime orderDate, int orderNumber);
 
-        List<Order> OrdersByDateList(DateTime orderDateTime);
+        List<Order> LoadOrders(DateTime orderDateTime);
 
         bool EditOrder(Order order, DateTime orderDate, int orderNumber);
 
         bool RemoveOrder(Order order);
 
-        bool AddOrder(Order order);
+        
         bool SavingBrandNewOrder(Order order);
-        bool SaveExistingOrder(Order order);
+        bool SaveExistingOrder(Order updatedOrder);
 
 
 

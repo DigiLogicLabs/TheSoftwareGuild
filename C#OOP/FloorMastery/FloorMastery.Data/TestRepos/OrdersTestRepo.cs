@@ -55,7 +55,7 @@ namespace FloorMastery.Models.TestRepos
             throw new NotImplementedException();
         }
 
-        public List<Order> OrdersByDateList(DateTime orderDateTime)
+        public List<Order> LoadOrders(DateTime orderDateTime)
         {
             List<Order> result = new List<Order>();
 
@@ -96,9 +96,9 @@ namespace FloorMastery.Models.TestRepos
         }
 
 
-        public bool SaveExistingOrder(Order order)
+        public bool SaveExistingOrder(Order updatedOrder)
         {
-          _orders.Add(order);
+          _orders.Add(updatedOrder);
             return true;
         }
 
@@ -107,7 +107,7 @@ namespace FloorMastery.Models.TestRepos
         {
             
 
-            var dailyOrders = OrdersByDateList(date);
+            var dailyOrders = LoadOrders(date);
             var selectedOrder = dailyOrders.SingleOrDefault(s => s.OrdersNumber == orderNumber);
             return selectedOrder;
         }

@@ -30,49 +30,49 @@ namespace FloorMastery.Data.Repos
 
 
 
-        public List<Order> ListingOrders(DateTime orderDate)
-        {
-            List<Order> ordersList = new List<Order>();
-
-            string orderString = "Orders_";
-
-            string userInput = _directoryPath + orderString + String.Format(orderDate.ToString("MMddyyyy")) + ".txt";
-
-            if (File.Exists(userInput))
-            {
-                using (StreamReader sr = new StreamReader(userInput))
-                {
-                    sr.ReadLine();
-                    string line;
-
-                    while ((line = sr.ReadLine()) != null)
-                    {
-                        
-
-                        string[] columns = line.Split(',');
-
-
-                        Order newOrder = new Order(
-                            orderDate, 
-                            int.Parse(columns[0]), 
-                            columns[1], 
-                            _productTypeRepo.GetProductDataForType(columns[4]), //may have to change the index location for the columns after refactoring
-                            _stateTaxRepo.GetTaxDataForState(columns[2]),
-                            decimal.Parse(columns[5]));
-
-                        ordersList.Add(newOrder);
-
-                    }
-                }
-            }
-            return ordersList;
-        }
+//        public List<Order> ListingOrders(DateTime orderDate)
+//        {
+//            List<Order> ordersList = new List<Order>();
+//
+//            string orderString = "Orders_";
+//
+//            string userInput = _directoryPath + orderString + String.Format(orderDate.ToString("MMddyyyy")) + ".txt";
+//
+//            if (File.Exists(userInput))
+//            {
+//                using (StreamReader sr = new StreamReader(userInput))
+//                {
+//                    sr.ReadLine();
+//                    string line;
+//
+//                    while ((line = sr.ReadLine()) != null)
+//                    {
+//                        
+//
+//                        string[] columns = line.Split(',');
+//
+//
+//                        Order newOrder = new Order(
+//                            orderDate, 
+//                            int.Parse(columns[0]), 
+//                            columns[1], 
+//                            _productTypeRepo.GetProductDataForType(columns[4]), //may have to change the index location for the columns after refactoring
+//                            _stateTaxRepo.GetTaxDataForState(columns[2]),
+//                            decimal.Parse(columns[5]));
+//
+//                        ordersList.Add(newOrder);
+//
+//                    }
+//                }
+//            }
+//            return ordersList;
+//        }
 
         public string FilePathCreated(DateTime orderDate)
         {
             string orderString = "Orders_";
 
-            string userInput = _directoryPath + orderString + String.Format(orderDate.ToString("MMddyyyy")) + ".txt";
+            string userInput =Path.Combine( _directoryPath, orderString + String.Format(orderDate.ToString("MMddyyyy")) + ".txt");
 
             return userInput;
         }
@@ -103,20 +103,20 @@ namespace FloorMastery.Data.Repos
             throw new NotImplementedException();
         }
 
-     
 
-        public List<Order> OrdersByDateList(DateTime orderDateTime)
+
+        public List<Order> LoadOrders(DateTime orderDateTime)
         {
             List<Order> orders = new List<Order>();
-            if (orderDateTime.ToString() == _directoryPath)
-            {
-                Console.WriteLine("Not an order: ");
 
-            }
-            else
+            var path = FilePathCreated(orderDateTime);
+
+            if (File.Exists(path))
             {
 
-                using (StreamReader sr = new StreamReader(_directoryPath))
+
+
+                using (StreamReader sr = new StreamReader(path))
                 {
 
                     sr.ReadLine();
@@ -130,7 +130,10 @@ namespace FloorMastery.Data.Repos
                             orderDateTime,
                             int.Parse(columns[0]),
                             columns[1],
-                            _productTypeRepo.GetProductDataForType(columns[4]), //may have to change the index location for the columns after refactoring
+                            _productTypeRepo
+                                .GetProductDataForType(
+                                    columns[
+                                        4]), //may have to change the index location for the columns after refactoring
                             _stateTaxRepo.GetTaxDataForState(columns[2]),
                             decimal.Parse(columns[5]));
 
@@ -140,14 +143,15 @@ namespace FloorMastery.Data.Repos
                     }
                 }
             }
+
             return orders;
         }
 
 
-        //Edit Orders looked up by Date - shows order number and what's in the order
+        //Edit Orders looked up by Date - shows updatedOrder number and what's in the updatedOrder
         public bool EditOrder(Order order, DateTime orderDate, int orderNumber)
         {
-            var orders = ListingOrders(orderDate);
+            var orders = LoadOrders(orderDate);
             orders[orderNumber] = order;
 
             CreateOrdersFile(orders);
@@ -157,117 +161,92 @@ namespace FloorMastery.Data.Repos
      
 
 
-        //Removes an order, grab the order number and information - confirm if they want to remove this item from the orders list
+        //Removes an updatedOrder, grab the updatedOrder number and information - confirm if they want to remove this item from the orders list
         public bool RemoveOrder(Order order)
         {
-            string topLine = "Order#,CustomerName,State,TaxRate,ProductType,Area,Cost/Sq.Foot,LaborCost/Sq.Foot, MaterialCost,LaborCost,Tax,Total";
+            
 
-            List<Order> orderList = ListingOrders(order.CreationDateTime);
-            orderList.Remove(order);
-
-            string orderString = "Orders_";
-
-            string userInput = _directoryPath + orderString + String.Format(order.CreationDateTime.ToString("MMddyyyy")) + ".txt";
-
-            using (StreamWriter sw = new StreamWriter(userInput))
-            {
-                sw.WriteLine(topLine);
-
-                foreach (var singleOrder in orderList)
-                {
-                    if (singleOrder.OrdersNumber == order.OrdersNumber)
-                    {
-                       
-                    }
-                    else
-                    {
-                        string row = $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.TaxData.StatesName}{singleOrder.TaxData.TaxRate}{singleOrder.Product.ProductsType}{singleOrder.Area}{singleOrder.Product.CostPerSquareFoot}" +
-                                     $"{singleOrder.Product.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
-                        sw.WriteLine(row);
-                    }
-                }
-            }
+            List<Order> orderList = LoadOrders(order.CreationDateTime)
+                .Where(m => m.OrdersNumber != order.OrdersNumber).ToList();
+            
 
 
+
+            SpitOutInfo(orderList, order.CreationDateTime);
             return true;
         }
         
 
 
-        //Adding a new order, should be a date that's greater than todays DateTime.. if the order exists, prompt for re-entry
-        public bool AddOrder(Order order)
-        {
-            List<Order> orderList = new List<Order>();
-
-
-            using (StreamWriter sw = new StreamWriter(_directoryPath, true))
-            {
-                string line = CreateCsvForOrder(order);
-
-                sw.WriteLine(line);
-            }
-            return true;
-        }
+        //Adding a new updatedOrder, should be a date that's greater than todays DateTime.. if the updatedOrder exists, prompt for re-entry
+        
 
 
         public Order LoadOrder(DateTime date, int orderNumber)
         {
-            var dailyOrders = ListingOrders(date);
+            var dailyOrders = LoadOrders(date);
             var selectedOrder = dailyOrders.SingleOrDefault(s => s.OrdersNumber == orderNumber);
             return selectedOrder;
         }
 
-        public bool SaveExistingOrder(Order order)
+        public bool SaveExistingOrder(Order updatedOrder)
         {
-            string topLine = "Order#,CustomerName,State,TaxRate,ProductType,Area,Cost/Sq.Foot,LaborCost/Sq.Foot, MaterialCost,LaborCost,Tax,Total";
-            string orderString = "Orders_";
+           
 
-            List<Order> orderList = ListingOrders(order.CreationDateTime);
 
-            string userInput = _directoryPath + orderString + String.Format(order.CreationDateTime.ToString("MMddyyyy")) + ".txt";
+            List<Order> orderList = LoadOrders(updatedOrder.CreationDateTime)
+                .Where(m => m.OrdersNumber != updatedOrder.OrdersNumber).ToList();
 
-            using (StreamWriter sw = new StreamWriter(userInput))
-            {
-                sw.WriteLine(topLine);
-                foreach (var orderO in orderList)
-                {
-                    Order orderSave = orderO;
-                    if (orderO.OrdersNumber == order.OrdersNumber)
-                    {
-                        orderSave = order;
-                    }
-                    string row = $"{orderSave.OrdersNumber}{orderSave.CustomersName}{orderSave.TaxData.StatesName}{orderSave.TaxData.TaxRate}{orderSave.Product.ProductsType}{orderSave.Area}{orderSave.Product.CostPerSquareFoot}" +
-                                 $"{orderSave.Product.LaborCostPerSquareFoot}{orderSave.MaterialCost}{orderSave.LaborCost}{orderSave.Tax}{orderSave.Total}";
-                    sw.WriteLine(row);
-                }
-            }
+                        orderList.Add(updatedOrder);
+
+            SpitOutInfo(orderList, updatedOrder.CreationDateTime);
             return true;
         }
 
         public bool SavingBrandNewOrder(Order order)
         {
-            List<Order> orderList = ListingOrders(order.CreationDateTime);
+            List<Order> orderList = LoadOrders(order.CreationDateTime);
             order.OrdersNumber = (orderList.Count > 0) ? orderList.Max(m => m.OrdersNumber) + 1 : 1;
             orderList.Add(order);
 
-            string topLine = "Order#,CustomerName,State,TaxRate,ProductType,Area,Cost/Sq.Foot,LaborCost/Sq.Foot, MaterialCost,LaborCost,Tax,Total";
-            string orderString = "Orders_";
+            SpitOutInfo(orderList, order.CreationDateTime);
 
-            string userInput = _directoryPath + orderString + String.Format(order.CreationDateTime.ToString("MMddyyyy")) + ".txt";
+            return true;
+        }
 
-            using (StreamWriter sw = new StreamWriter(userInput))
+        public void SpitOutInfo(List<Order> orders, DateTime date)
+        {
+            string userInput = FilePathCreated(date);
+
+            if (orders.Count > 0)
             {
-                sw.WriteLine(topLine);
-                foreach (var indivOrder in orderList)
-                {
-                    Order orderSave = indivOrder;
 
-                    string row = $"{orderSave.OrdersNumber}{orderSave.CustomersName}{orderSave.TaxData.StatesName}{orderSave.TaxData.TaxRate}{orderSave.Product.ProductsType}{orderSave.Area}{orderSave.Product.CostPerSquareFoot}" +
-                                 $"{orderSave.Product.LaborCostPerSquareFoot}{orderSave.MaterialCost}{orderSave.LaborCost}{orderSave.Tax}{orderSave.Total}";
-                    sw.WriteLine(row);
+
+                string topLine =
+                    "Order#,CustomerName,State,TaxRate,ProductType,Area,Cost/Sq.Foot,LaborCost/Sq.Foot, MaterialCost,LaborCost,Tax,Total";
+
+
+                
+
+                using (StreamWriter sw = new StreamWriter(userInput))
+                {
+                    sw.WriteLine(topLine);
+                    foreach (var indivOrder in orders)
+                    {
+                        Order orderSave = indivOrder;
+
+                        string row =
+                            $"{orderSave.OrdersNumber},{orderSave.CustomersName},{orderSave.TaxData.StatesAbbreviation}," +
+                            $"{orderSave.TaxData.TaxRate},{orderSave.Product.ProductsType},{orderSave.Area},{orderSave.Product.CostPerSquareFoot}," +
+                            $"{orderSave.Product.LaborCostPerSquareFoot},{orderSave.MaterialCost},{orderSave.LaborCost},{orderSave.Tax},{orderSave.Total}";
+                        sw.WriteLine(row);
+                    }
                 }
             }
-            return true;
+            else
+            {
+                File.Delete(userInput);
+            }
         }
     }
 }

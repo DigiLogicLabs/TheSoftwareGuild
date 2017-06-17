@@ -7,7 +7,7 @@ namespace FloorMastery.Data.Interfaces
     {
         ProductData GetProductDataForType(string productType);
 
-        List<ProductData> GetAllProducts();
+        List<ProductData> LoadProductData();
 
     }
 }

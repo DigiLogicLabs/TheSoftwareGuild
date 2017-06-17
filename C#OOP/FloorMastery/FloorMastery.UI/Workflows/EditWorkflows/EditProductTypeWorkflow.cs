@@ -29,7 +29,7 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
             {
                 order.Product = response.ProductData;
 
-                orderMan.AddOrder(order);
+                orderMan.SaveExistingOrder(order);
                 ConsoleIO.DisplaySingleOrderDetails(order);
                 Console.ReadKey();
                 Console.Clear();

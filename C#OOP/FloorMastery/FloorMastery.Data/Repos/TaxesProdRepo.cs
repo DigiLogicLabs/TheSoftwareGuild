@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using FloorMastery.Data.Interfaces;
@@ -19,31 +20,7 @@ namespace FloorMastery.Data.Repos
             _statesDictionary = LoadStateTaxData().ToDictionary(m => m.StatesAbbreviation);
         }
 
-        private List<StateTaxData> LoadStateTaxData()
-        {
-            List<StateTaxData> taxList = new List<StateTaxData>();
-
-            using (StreamReader sr = new StreamReader(_taxPath))
-            {
-                sr.ReadLine();
-                string line;
-
-                while ((line = sr.ReadLine()) != null)
-                {
-                    StateTaxData stateTax = new StateTaxData();
-
-                    string[] columns = line.Split(',');
-
-                    stateTax.StatesAbbreviation = columns[0];
-                    stateTax.StatesName = columns[1];
-                    stateTax.TaxRate = decimal.Parse(columns[2]);
-
-                    taxList.Add(stateTax);
-                }
-            }
-            return taxList;
-        }
-
+       
         public StateTaxData GetTaxDataForState(string stateTax)
         {
             if (_statesDictionary.ContainsKey(stateTax))
@@ -68,9 +45,29 @@ namespace FloorMastery.Data.Repos
             }
         }
 
-        public List<StateTaxData> List()
+        public List<StateTaxData> LoadStateTaxData()
         {
-            throw new System.NotImplementedException();
+            List<StateTaxData> taxList = new List<StateTaxData>();
+
+            using (StreamReader sr = new StreamReader(_taxPath))
+            {
+                sr.ReadLine();
+                string line;
+
+                while ((line = sr.ReadLine()) != null)
+                {
+                    StateTaxData stateTax = new StateTaxData();
+
+                    string[] columns = line.Split(',');
+
+                    stateTax.StatesAbbreviation = columns[0];
+                    stateTax.StatesName = columns[1];
+                    stateTax.TaxRate = decimal.Parse(columns[2]);
+
+                    taxList.Add(stateTax);
+                }
+            }
+            return taxList;
         }
     }
 }

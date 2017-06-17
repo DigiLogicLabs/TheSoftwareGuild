@@ -17,4 +17,3 @@ C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMast
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Models\bin\Debug\FloorMastery.Models.pdb
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Models\obj\Debug\FloorMastery.Models.dll
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Models\obj\Debug\FloorMastery.Models.pdb
-C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#OOP\FloorMastery\FloorMastery.Models\obj\Debug\FloorMastery.Models.csprojResolveAssemblyReference.cache

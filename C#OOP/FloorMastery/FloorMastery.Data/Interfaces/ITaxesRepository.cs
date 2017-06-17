@@ -7,6 +7,6 @@ namespace FloorMastery.Data.Interfaces
     {
         StateTaxData TheState(string stateInput);
 
-        List<StateTaxData> List();
+        List<StateTaxData> LoadStateTaxData();
     }
 }

@@ -26,7 +26,7 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
             {
                 order.TaxData = response.StateTaxData;
 
-                orderManager.AddOrder(order);
+                orderManager.SaveExistingOrder(order);
                 ConsoleIO.DisplaySingleOrderDetails(order);
                 Console.ReadKey();
                 Console.Clear();

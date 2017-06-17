@@ -18,7 +18,7 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
 
             order.Area = ConsoleIO.EditArea();
 
-            orderMan.AddOrder(order);
+            orderMan.SaveExistingOrder(order);
             ConsoleIO.DisplaySingleOrderDetails(order);
             Console.ReadKey();
             Console.Clear();

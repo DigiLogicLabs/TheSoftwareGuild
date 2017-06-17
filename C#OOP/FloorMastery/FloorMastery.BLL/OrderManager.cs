@@ -23,7 +23,7 @@ namespace FloorMastery.BLL
         {
             DisplayOrdersResponse response = new DisplayOrdersResponse();
 
-            response.Orders = _orderRepository.OrdersByDateList(orderDateInput);
+            response.Orders = _orderRepository.LoadOrders(orderDateInput);
 
             if (response.Orders == null)
             {
@@ -51,7 +51,7 @@ namespace FloorMastery.BLL
             else
             {
                 response.Order = order;
-                    _orderRepository.AddOrder(order);
+                    _orderRepository.SavingBrandNewOrder(order);
             }
            
 
@@ -115,8 +115,13 @@ namespace FloorMastery.BLL
 
         public int GetNextID(DateTime date)
         {
-           return LookUpAccount(date).Orders.Max(m => m.OrdersNumber) + 1;
-            
+            var results = LookUpAccount(date);
+
+            if (results.Orders.Count > 0)
+            {
+                return results.Orders.Max(m => m.OrdersNumber) + 1;
+            }          
+            return 1;
         }
     }
 

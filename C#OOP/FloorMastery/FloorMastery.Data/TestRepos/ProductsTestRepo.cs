@@ -51,7 +51,7 @@ namespace FloorMastery.Models.TestRepos
             return Products.SingleOrDefault(m => m.ProductsType == productType);
         }
 
-        public List<ProductData> GetAllProducts()
+        public List<ProductData> LoadProductData()
         {
             return Products;
         }

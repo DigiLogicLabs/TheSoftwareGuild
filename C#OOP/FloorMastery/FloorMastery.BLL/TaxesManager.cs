@@ -45,7 +45,10 @@ namespace FloorMastery.BLL
 
         public List<StateTaxData> GetAllTaxInfo()
         {
-            return _stateTaxRepo.List();
+
+            Console.WriteLine("* * * * * * * * * * * *");
+            return _stateTaxRepo.LoadStateTaxData();
+
         }
     }
 }

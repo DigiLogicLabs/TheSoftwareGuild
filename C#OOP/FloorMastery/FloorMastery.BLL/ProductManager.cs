@@ -46,7 +46,7 @@ namespace FloorMastery.BLL
         {
             Console.WriteLine("* * * * * * * * * * * *");
             
-            return _productTypeRepo.GetAllProducts();
+            return _productTypeRepo.LoadProductData();
 
         }
     }

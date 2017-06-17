@@ -57,7 +57,7 @@ namespace FloorMastery.Models.TestRepos
             return StateTaxs.SingleOrDefault(m => m.StatesName == stateInput);
         }
 
-        public List<StateTaxData> List()
+        public List<StateTaxData> LoadStateTaxData()
         {
             return StateTaxs;
         }

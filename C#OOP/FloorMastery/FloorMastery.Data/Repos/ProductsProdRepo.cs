@@ -19,7 +19,26 @@ namespace FloorMastery.Data.Repos
             _productDictionary = LoadProductData().ToDictionary(l => l.ProductsType);
         }
 
-        private List<ProductData> LoadProductData()
+        
+        public Order ProductsType(string productType)
+        {
+            throw new System.NotImplementedException();
+        }
+
+
+        public ProductData GetProductDataForType(string productType)
+        {
+            if (_productDictionary.ContainsKey(productType))
+            {
+                return _productDictionary[productType];
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        public List<ProductData> LoadProductData()
         {
             List<ProductData> productDataList = new List<ProductData>();
 
@@ -42,28 +61,6 @@ namespace FloorMastery.Data.Repos
                 }
             }
             return productDataList;
-        }
-        public Order ProductsType(string productType)
-        {
-            throw new System.NotImplementedException();
-        }
-
-
-        public ProductData GetProductDataForType(string productType)
-        {
-            if (_productDictionary.ContainsKey(productType))
-            {
-                return _productDictionary[productType];
-            }
-            else
-            {
-                return null;
-            }
-        }
-
-        public List<ProductData> GetAllProducts()
-        {
-            throw new System.NotImplementedException();
         }
     }
 }
