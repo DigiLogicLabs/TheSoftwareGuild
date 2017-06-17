@@ -8,37 +8,39 @@ namespace FloorMastery.Tests
     {
        
 
-            private static Order _order = new Order
-            {
-                OrdersNumber = 1337,
-                CustomersName = "Soligny",
-                StatesName = "MN",
-                TaxRate = 3.5M,
-                ProductsType = "Brains",
-                Area = 110.00M,
-                CostPerSquareFoot = 3.2M,
-                LaborCostPerSquareFoot = 2.5M,
-                MaterialCost = 352M,
-                LaborCost = 275M,
-                Tax = 21.95M, //(MaterialCost+LaborCost) * TaxRate
-                Total = 648.95M //MaterialCost + LaborCost + Tax
+//            private static Order _order = new Order()
+//            {
+//                
+//                OrdersNumber = 1337,
+//                CustomersName = "Soligny",
+//                TaxData = new StateTaxData()
+//                {
+//                    StatesName = "Minnesota",
+//                    StatesAbbreviation = "MN",
+//                    TaxRate = 3.5M,
+//                },
+//                Product = new ProductData()
+//                {
+//                    ProductsType = "Brains",
+//                    CostPerSquareFoot = 3.2M,
+//                    LaborCostPerSquareFoot = 2.5M
+//                },
+//                Area = 110.00M,
+//            };
 
 
-            };
-
-
-            public Order OrdersDateAndNumber(DateTime orderDate, int orderNumber)
-            {
-                if (orderDate != _order.CreationDateTime)
-                {
-                    return null;
-                }
-                else if (orderNumber != _order.OrdersNumber)
-                {
-                    return null;
-                }
-                return _order;
-            }
+//            public Order OrdersDateAndNumber(DateTime orderDate, int orderNumber)
+//            {
+//                if (orderDate != _order.CreationDateTime)
+//                {
+//                    return null;
+//                }
+//                else if (orderNumber != _order.OrdersNumber)
+//                {
+//                    return null;
+//                }
+//                return _order;
+//            }
 
             public List<Order> OrdersByDateList(DateTime orderDateTime)
             {

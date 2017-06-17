@@ -19,15 +19,15 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
 
             TaxesManager taxManager = TaxesFactory.Create();
 
-            var newState = ConsoleIO.EditStateName();
+            order.TaxData.StatesName = ConsoleIO.EditStateName();
 
-            FindingStateResponse response = taxManager.StateTaxDate(newState);
+            FindingStateResponse response = taxManager.StateTaxDate(order.TaxData.StatesName);
 
             if (response.Success)
             {
                 order.TaxData = response.StateTaxData;
 
-                orderManager.SaveExistingOrder(order);
+                orderManager.AddOrder(order);
                 ConsoleIO.DisplaySingleOrderDetails(order);
                 Console.ReadKey();
                 Console.Clear();

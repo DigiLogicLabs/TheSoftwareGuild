@@ -59,9 +59,9 @@ namespace FloorMastery.Models.TestRepos
             return new ProductData();
         }
 
-        public List<ProductData> List()
+        public List<ProductData> GetAllProducts()
         {
-            throw new NotImplementedException();
+            return Products;
         }
     }
 }

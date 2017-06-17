@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FloorMastery.Data.Interfaces;
 using FloorMastery.Data.Repos;
+using FloorMastery.Models;
 using FloorMastery.Models.Responses;
 
 namespace FloorMastery.BLL
@@ -37,5 +38,12 @@ namespace FloorMastery.BLL
             return response;
         }
 
+        public List<ProductData> GetAllProducts()
+        {
+            Console.WriteLine("* * * * * * * * * * * *");
+            
+            return _productTypeRepo.GetAllProducts();
+
+        }
     }
 }

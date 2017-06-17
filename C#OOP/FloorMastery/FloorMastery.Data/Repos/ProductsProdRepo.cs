@@ -61,7 +61,7 @@ namespace FloorMastery.Data.Repos
             }
         }
 
-        public List<ProductData> List()
+        public List<ProductData> GetAllProducts()
         {
             throw new System.NotImplementedException();
         }

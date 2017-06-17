@@ -22,7 +22,7 @@ namespace FloorMastery.Models.Helpers
         public static void PrintOrdersListHeader()
         {
             Console.WriteLine(SeparatorBar);
-           Console.WriteLine("Ordr# | CtName | St. | Tax% | ProductData | Area | Cost/Sq.ft | Labor/Sq.ft | MatsCost | LaborCost | Tax | Total");
+           Console.WriteLine("Ordr# | CtName | St. | Tax% | Product | Area | Cost/Sq.ft | Labor/Sq.ft | MatsCost | LaborCost | Tax | Total");
             Console.WriteLine(SeparatorBar);
 //            foreach (var order in )
 //            {
@@ -37,7 +37,7 @@ namespace FloorMastery.Models.Helpers
         public static void PrintAddListHeader()
         {
             Console.WriteLine(SeparatorBar);
-            Console.WriteLine("Order Date | Customer Name | State | ProductData | Area |");
+            Console.WriteLine("Order Date | Customer Name | State | Product | Area |");
             Console.WriteLine(SeparatorBar);
         }
 
@@ -53,6 +53,11 @@ namespace FloorMastery.Models.Helpers
         {
             Console.WriteLine("Please enter an order number: ");
             string orderNumbInput = Console.ReadLine();
+            if (orderNumbInput == "")
+            {
+                Console.WriteLine("Order number can't be blank.");
+                AskOrderNumber();
+            }
 
             return int.Parse(orderNumbInput);
         }
@@ -191,7 +196,7 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine(SeparatorBar);
             for (int i = 0; i < orders.Count(); i++)
             {
-                Console.WriteLine(ProductInfoLineFormat, i+1, orders[i].ProductData.ProductsType + "," +  orders[i].Area, orders[i].ProductData.CostPerSquareFoot, orders[i].ProductData.LaborCostPerSquareFoot,
+                Console.WriteLine(ProductInfoLineFormat, i+1, orders[i].Product.ProductsType + "," +  orders[i].Area, orders[i].Product.CostPerSquareFoot, orders[i].Product.LaborCostPerSquareFoot,
                     orders[i].MaterialCost, orders[i].LaborCost, orders[i].Tax, orders[i].Total);
             }
             Console.WriteLine();
@@ -343,6 +348,28 @@ namespace FloorMastery.Models.Helpers
             return orderDate;
         }
 
+        public static DateTime DisplayOrderDate()
+        {
+            Console.WriteLine(ConsoleIO.SeparatorBar);
+            Console.WriteLine("Enter the Orders Date: ");
+            Console.WriteLine(ConsoleIO.SeparatorBar);
+            var userInput = Console.ReadLine();
+            if (userInput == "")
+            {
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.WriteLine("Empty string - Not Valid Date");
+                Console.WriteLine(ConsoleIO.SeparatorBar);
+                Console.WriteLine("Try again!");
+                Console.ReadKey();
+                Console.Clear();
+                GetOrderDateTime();
+            }
+            DateTime orderDate = DateTime.Parse(userInput);
+            
+
+            return orderDate;
+        }
+
         public static void DisplaySingleOrderDetails(Order order)
         {
             Console.WriteLine(ConsoleIO.SeparatorBar);
@@ -350,12 +377,12 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine(ConsoleIO.SeparatorBar);
             Console.WriteLine($"Order Number:           #{order.OrdersNumber}");
             Console.WriteLine($"Customer Name:       {order.CustomersName}");
-            Console.WriteLine($"State:                 {order.StatesName}");
-            Console.WriteLine($"Tax Rate:             {order.TaxRate}%");
-            Console.WriteLine($"ProductData Type:        {order.ProductsType}");
+            Console.WriteLine($"State:                 {order.TaxData.StatesName}");
+            Console.WriteLine($"Tax Rate:             {order.TaxData.TaxRate}%");
+            Console.WriteLine($"Product Type:        {order.Product.ProductsType}");
             Console.WriteLine($"Area:                {order.Area}Sq/Ft");
-            Console.WriteLine($"Cost/Sq. Foot:       ${order.CostPerSquareFoot}");
-            Console.WriteLine($"LaborCost/Sq. Foot:  ${order.LaborCostPerSquareFoot}");
+            Console.WriteLine($"Cost/Sq. Foot:       ${order.Product.CostPerSquareFoot}");
+            Console.WriteLine($"LaborCost/Sq. Foot:  ${order.Product.LaborCostPerSquareFoot}");
             Console.WriteLine($"Material Cost:       ${order.MaterialCost}");
             Console.WriteLine($"Labor Cost:          ${order.LaborCost}");
             Console.WriteLine($"Tax:                 ${order.Tax}");
@@ -369,18 +396,20 @@ namespace FloorMastery.Models.Helpers
 
             foreach (var order in orders)
             {
+                Console.WriteLine(ConsoleIO.SeparatorBar);
                 Console.WriteLine($"Order Number:           #{order.OrdersNumber}");
                 Console.WriteLine($"Customer Name:       {order.CustomersName}");
-                Console.WriteLine($"State:                 {order.StatesName}");
-                Console.WriteLine($"Tax Rate:             {order.TaxRate}%");
-                Console.WriteLine($"ProductData Type:        {order.ProductsType}");
+                Console.WriteLine($"State:                 {order.TaxData.StatesName}");
+                Console.WriteLine($"Tax Rate:             {order.TaxData.TaxRate}%");
+                Console.WriteLine($"Product Type:        {order.Product.ProductsType}");
                 Console.WriteLine($"Area:                {order.Area}Sq/Ft");
-                Console.WriteLine($"Cost/Sq. Foot:       ${order.CostPerSquareFoot}");
-                Console.WriteLine($"LaborCost/Sq. Foot:  ${order.LaborCostPerSquareFoot}");
+                Console.WriteLine($"Cost/Sq. Foot:       ${order.Product.CostPerSquareFoot}");
+                Console.WriteLine($"LaborCost/Sq. Foot:  ${order.Product.LaborCostPerSquareFoot}");
                 Console.WriteLine($"Material Cost:       ${order.MaterialCost}");
                 Console.WriteLine($"Labor Cost:          ${order.LaborCost}");
                 Console.WriteLine($"Tax:                 ${order.Tax}");
                 Console.WriteLine($"Total:               ${order.Total}");
+                Console.WriteLine(ConsoleIO.SeparatorBar);
             }
             
         }
@@ -466,7 +495,7 @@ namespace FloorMastery.Models.Helpers
                 Console.WriteLine(ConsoleIO.SeparatorBar);
                 Console.WriteLine("1. Customer Name ");
                 Console.WriteLine("2. State ");
-                Console.WriteLine("3.  ProductData Type ");
+                Console.WriteLine("3.  Product Type ");
                 Console.WriteLine("4. Area ");
                 Console.WriteLine();
 
@@ -526,9 +555,15 @@ namespace FloorMastery.Models.Helpers
             return userInput;
         }
 
-        public static string EditProductType()
+        public static string AddProductType(List<ProductData> products)
         {
+            foreach (var product in products)
+            {
+                Console.WriteLine(product);
+            }
+
             Console.WriteLine("Enter a new Product for your Order: ");
+            
             var userInput = Console.ReadLine();
             
 
@@ -538,7 +573,7 @@ namespace FloorMastery.Models.Helpers
         public static string EditStateName()
         {
             Console.WriteLine("Enter a new State: ");
-            string userInput = Console.ReadLine();
+            string userInput = Console.ReadLine().ToUpper();
             if (userInput == "")
             {
                 Console.WriteLine("State can't be blank!");
@@ -568,9 +603,9 @@ namespace FloorMastery.Models.Helpers
             Console.WriteLine($"Customer Name: {order.CustomersName}");
             Console.WriteLine($"State: {order.TaxData.StatesName}");
             Console.WriteLine($"Tax Rate: {order.TaxData.TaxRate}");
-            Console.WriteLine($"Product Type: {order.ProductData.ProductsType}");
+            Console.WriteLine($"Product Type: {order.Product.ProductsType}");
             Console.WriteLine($"Area: {order.Area}");
-            Console.WriteLine($"Cost/ Sq.Foot: {order.ProductData.CostPerSquareFoot}");
+            Console.WriteLine($"Cost/ Sq.Foot: {order.Product.CostPerSquareFoot}");
             Console.WriteLine($"Material Cost: {order.MaterialCost}");
             Console.WriteLine($"Labor Cost: {order.LaborCost}");
             Console.WriteLine($"Tax: {order.Tax}");

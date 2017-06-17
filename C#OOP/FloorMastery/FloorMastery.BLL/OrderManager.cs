@@ -40,7 +40,7 @@ namespace FloorMastery.BLL
 
         public LookupOrderResponse AddOrder(Order order)
         {
-            //Will need to take the ProductData & State to look up the full productData and tax objects -- then we can do calculations on them
+            //Will need to take the Product & State to look up the full productData and tax objects -- then we can do calculations on them
 
             LookupOrderResponse response = new LookupOrderResponse();
             if (response.Success == false)

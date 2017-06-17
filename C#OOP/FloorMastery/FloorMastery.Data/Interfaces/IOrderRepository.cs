@@ -18,6 +18,8 @@ namespace FloorMastery.Data.Interfaces
         bool SavingBrandNewOrder(Order order);
         bool SaveExistingOrder(Order order);
 
+
+
         Order LoadOrder(DateTime date, int orderNumber);
     }
 }

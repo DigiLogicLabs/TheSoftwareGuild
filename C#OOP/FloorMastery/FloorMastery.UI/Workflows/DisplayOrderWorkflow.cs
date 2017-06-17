@@ -21,7 +21,7 @@ namespace FloorMastery.UI.Workflows
 
             var manager = OrderManagerFactory.Create();
 
-            var orderDateInput = ConsoleIO.GetOrderDateTime();
+            var orderDateInput = ConsoleIO.DisplayOrderDate();
 
                         DisplayOrdersResponse response = manager.LookUpAccount(orderDateInput);
 

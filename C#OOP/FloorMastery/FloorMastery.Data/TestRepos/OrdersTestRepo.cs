@@ -16,94 +16,92 @@ namespace FloorMastery.Models.TestRepos
     {
         private static readonly List<Order> _orders = new List<Order>
         {
+
             new Order
             {
-
-                //Errors once I changed the structure of my properties in the classes. TaxRate now belongs to the TaxData Class
-                CreationDateTime = DateTime.Parse("06/01/2013"),
+                CreationDateTime = DateTime.Parse("06/01/2018"),
                 OrdersNumber = 1,
                 CustomersName = "Wise",
-                StatesName = "OH",
-                TaxRate = 6.25M,
-                ProductsType = "Wood",
-                Area = 100.00M,
-                CostPerSquareFoot = 5.15M,
-                LaborCostPerSquareFoot = 4.75M,
-                MaterialCost = 515.00M,
-                LaborCost = 475.00M,
-                Tax = 61.88M,
-                Total = 1051.88M
-
-
-            },
+                TaxData = new StateTaxData()
+                {
+                    StatesName = "Ohio",
+                    StatesAbbreviation = "OH",
+                    TaxRate = 6.25M,
+                },
+                Product = new ProductData()
+                {
+                    ProductsType = "Wood",
+                    CostPerSquareFoot = 5.15M,
+                    LaborCostPerSquareFoot = 4.75M
+                },
+                Area = 100.00M
+                },
             new Order
             {
                 CreationDateTime = DateTime.Parse("05/22/1995"),
-                OrdersNumber = 2,
-                CustomersName = "Soligny",
-                StatesName = "MN",
-                TaxRate = 5.25M,
-                ProductsType = "Metal",
-                Area = 100.00M,
-                CostPerSquareFoot = 6.15M,
-                LaborCostPerSquareFoot = 4.00M,
-                MaterialCost = 615.00M,
-                LaborCost = 400.00M,
-                Tax = 53.29M,
-                Total = 1068.9M
-            },
-            new Order
-            {
-                CreationDateTime = DateTime.Parse("01/01/1337"),
                 OrdersNumber = 3,
-                CustomersName = "Jack",
-                StatesName = "WI",
-                TaxRate = 7.25M,
-                ProductsType = "Cheese",
+                CustomersName = "Soligny",
+                TaxData = new StateTaxData()
+                {
+                    StatesName = "Minnesota",
+                    StatesAbbreviation = "MN",
+                    TaxRate = 5.25M,
+                },
+                Product = new ProductData()
+                {
+                    ProductsType = "Metal",
+                    CostPerSquareFoot = 6.15M,
+                    LaborCostPerSquareFoot = 4.00M
+                },
+
+
                 Area = 100.00M,
-                CostPerSquareFoot = 6.15M,
-                LaborCostPerSquareFoot = 4.75M,
-                MaterialCost = 615.00M,
-                LaborCost = 475.00M,
-                Tax = 79.03M,
-                Total = 1169.03M
+
             },
             new Order
             {
-                CreationDateTime = DateTime.Parse("04/20/2010"),
+                CreationDateTime = DateTime.Parse("06/01/2018"),
+                OrdersNumber = 2,
+                CustomersName = "Jack",
+                TaxData = new StateTaxData()
+                {
+                    StatesName = "Wisconsin",
+                    StatesAbbreviation = "WI",
+                    TaxRate = 7.25M,
+                },
+                Product = new ProductData()
+                {
+                    ProductsType = "Cheese",
+                    CostPerSquareFoot = 6.15M,
+                    LaborCostPerSquareFoot = 4.75M
+                },
+
+
+                Area = 100.00M,
+            },
+            new Order
+            {
+                CreationDateTime = DateTime.Parse("04/20/2018"),
                 OrdersNumber = 4,
                 CustomersName = "BradPitt",
-                StatesName = "CA",
-                TaxRate = 8.25M,
-                ProductsType = "Life",
+                TaxData = new StateTaxData()
+                {
+                    StatesName = "California",
+                    StatesAbbreviation = "CA",
+                    TaxRate = 8.25M,
+                },
+                Product = new ProductData()
+                {
+                    ProductsType = "Life",
+                    CostPerSquareFoot = 9.15M,
+                    LaborCostPerSquareFoot = 4.75M
+                },
+
+
                 Area = 100.00M,
-                CostPerSquareFoot = 9.15M,
-                LaborCostPerSquareFoot = 4.75M,
-                MaterialCost = 915.00M,
-                LaborCost = 475.00M,
-                Tax = 114.68M,
-                Total = 1504.68M
             }
             
         };
-
-//        private static _orders _order = new _orders
-//        {
-//            CreationDateTime = DateTime.Parse("06/01/2013"),
-//            OrdersNumber = 1,
-//            CustomersName = "Wise",
-//            State = "OH",
-//            TaxRate = 6.25M,
-//            ProductsType = "Wood",
-//            Area = 100.00M,
-//            CostPerSquareFoot = 5.15M,
-//            LaborCostsPerSquareFoot = 4.75M,
-//            MaterialCost = 515.00M,
-//            LaborCost = 475.00M,
-//            Tax = 61.88M,
-//            Total = 1051.88M
-//        };
-
 
 
         public Order OrdersDateAndNumber(DateTime orderDate, int orderNumber)
@@ -134,25 +132,7 @@ namespace FloorMastery.Models.TestRepos
 
         public bool RemoveOrder(Order order)
         {
-//            List<Order> orderList = OrdersByDateList(order.CreationDateTime);
             _orders.Remove(order);
-
-//            foreach (var singleOrder in orderList)
-//            {
-//                if (singleOrder.OrdersNumber == order.OrdersNumber)
-//                {
-//
-//                }
-//                else
-//                {
-//                    string row =
-//                        $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.StatesName}{singleOrder.TaxRate}{singleOrder.ProductsType}{singleOrder.Area}{singleOrder.CostPerSquareFoot}" +
-//                        $"{singleOrder.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
-//                    Console.WriteLine(row);
-//                }
-//            }
-
-
 
             return true;
         }
@@ -188,6 +168,8 @@ namespace FloorMastery.Models.TestRepos
 
         public Order LoadOrder(DateTime date, int orderNumber)
         {
+            
+
             var dailyOrders = OrdersByDateList(date);
             var selectedOrder = dailyOrders.SingleOrDefault(s => s.OrdersNumber == orderNumber);
             return selectedOrder;

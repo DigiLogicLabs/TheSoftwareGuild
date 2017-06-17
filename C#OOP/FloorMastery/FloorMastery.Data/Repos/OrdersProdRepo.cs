@@ -47,18 +47,18 @@ namespace FloorMastery.Data.Repos
 
                     while ((line = sr.ReadLine()) != null)
                     {
-                        Order newOrder = new Order();
+                        
 
                         string[] columns = line.Split(',');
 
 
-                        newOrder.OrdersNumber = int.Parse(columns[0]);
-                        newOrder.CustomersName = columns[1];
-                        newOrder.TaxData = _stateTaxRepo.GetTaxDataForState(columns[2]);
-                        newOrder.ProductData = _productTypeRepo.GetProductDataForType(columns[4]);
-                        newOrder.Area = decimal.Parse(columns[5]);
-
-                        newOrder.CreationDateTime = orderDate;
+                        Order newOrder = new Order(
+                            orderDate, 
+                            int.Parse(columns[0]), 
+                            columns[1], 
+                            _productTypeRepo.GetProductDataForType(columns[4]), //may have to change the index location for the columns after refactoring
+                            _stateTaxRepo.GetTaxDataForState(columns[2]),
+                            decimal.Parse(columns[5]));
 
                         ordersList.Add(newOrder);
 
@@ -71,7 +71,7 @@ namespace FloorMastery.Data.Repos
         private string CreateCsvForOrder(Order order)
         {
             return string.Format("{0},{1},{2},{3},{4},{5}", order.CreationDateTime,
-                order.CustomersName, order.TaxData.StatesName, order.ProductData.ProductsType, order.Area);
+                order.CustomersName, order.TaxData.StatesName, order.Product.ProductsType, order.Area);
         }
 
         private void CreateOrdersFile(List<Order> orders)
@@ -115,23 +115,16 @@ namespace FloorMastery.Data.Repos
 
                     while ((line = sr.ReadLine()) != null)
                     {
-                        Order newOrder = new Order();
-
                         string[] columns = line.Split(',');
 
+                        Order newOrder = new Order(
+                            orderDateTime,
+                            int.Parse(columns[0]),
+                            columns[1],
+                            _productTypeRepo.GetProductDataForType(columns[4]), //may have to change the index location for the columns after refactoring
+                            _stateTaxRepo.GetTaxDataForState(columns[2]),
+                            decimal.Parse(columns[5]));
 
-                        newOrder.OrdersNumber = int.Parse(columns[0]);
-                        newOrder.CustomersName = columns[1];
-                        newOrder.TaxData.StatesName = columns[2];
-                        newOrder.TaxData.TaxRate = decimal.Parse(columns[3]);
-                        newOrder.ProductData.ProductsType = columns[4];
-                        newOrder.Area = decimal.Parse(columns[5]);
-                        newOrder.ProductData.CostPerSquareFoot = decimal.Parse(columns[6]);
-                        newOrder.ProductData.LaborCostPerSquareFoot = decimal.Parse(columns[7]);
-                        newOrder.MaterialCost = decimal.Parse(columns[8]);
-                        newOrder.LaborCost = decimal.Parse(columns[9]);
-                        newOrder.Tax = decimal.Parse(columns[10]);
-                        newOrder.Total = decimal.Parse(columns[11]);
 
                         orders.Add(newOrder);
 
@@ -179,8 +172,8 @@ namespace FloorMastery.Data.Repos
                     }
                     else
                     {
-                        string row = $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.StatesName}{singleOrder.TaxRate}{singleOrder.ProductsType}{singleOrder.Area}{singleOrder.CostPerSquareFoot}" +
-                                     $"{singleOrder.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
+                        string row = $"{singleOrder.OrdersNumber}{singleOrder.CustomersName}{singleOrder.TaxData.StatesName}{singleOrder.TaxData.TaxRate}{singleOrder.Product.ProductsType}{singleOrder.Area}{singleOrder.Product.CostPerSquareFoot}" +
+                                     $"{singleOrder.Product.LaborCostPerSquareFoot}{singleOrder.MaterialCost}{singleOrder.LaborCost}{singleOrder.Tax}{singleOrder.Total}";
                         sw.WriteLine(row);
                     }
                 }
@@ -234,8 +227,8 @@ namespace FloorMastery.Data.Repos
                     {
                         orderSave = order;
                     }
-                    string row = $"{orderSave.OrdersNumber}{orderSave.CustomersName}{orderSave.StatesName}{orderSave.TaxRate}{orderSave.ProductsType}{orderSave.Area}{orderSave.CostPerSquareFoot}" +
-                                 $"{orderSave.LaborCostPerSquareFoot}{orderSave.MaterialCost}{orderSave.LaborCost}{orderSave.Tax}{orderSave.Total}";
+                    string row = $"{orderSave.OrdersNumber}{orderSave.CustomersName}{orderSave.TaxData.StatesName}{orderSave.TaxData.TaxRate}{orderSave.Product.ProductsType}{orderSave.Area}{orderSave.Product.CostPerSquareFoot}" +
+                                 $"{orderSave.Product.LaborCostPerSquareFoot}{orderSave.MaterialCost}{orderSave.LaborCost}{orderSave.Tax}{orderSave.Total}";
                     sw.WriteLine(row);
                 }
             }
@@ -260,8 +253,8 @@ namespace FloorMastery.Data.Repos
                 {
                     Order orderSave = indivOrder;
 
-                    string row = $"{orderSave.OrdersNumber}{orderSave.CustomersName}{orderSave.StatesName}{orderSave.TaxRate}{orderSave.ProductsType}{orderSave.Area}{orderSave.CostPerSquareFoot}" +
-                                 $"{orderSave.LaborCostPerSquareFoot}{orderSave.MaterialCost}{orderSave.LaborCost}{orderSave.Tax}{orderSave.Total}";
+                    string row = $"{orderSave.OrdersNumber}{orderSave.CustomersName}{orderSave.TaxData.StatesName}{orderSave.TaxData.TaxRate}{orderSave.Product.ProductsType}{orderSave.Area}{orderSave.Product.CostPerSquareFoot}" +
+                                 $"{orderSave.Product.LaborCostPerSquareFoot}{orderSave.MaterialCost}{orderSave.LaborCost}{orderSave.Tax}{orderSave.Total}";
                     sw.WriteLine(row);
                 }
             }

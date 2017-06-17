@@ -41,12 +41,16 @@ namespace FloorMastery.UI.Workflows
             {
                 stateResponse.Success = false;
             }
-            string productInput = ConsoleIO.EditProductType();
             ProductManager productManager = ProductFactory.Create();
+
+            List<ProductData> productsList = productManager.GetAllProducts();
+
+            string productInput = ConsoleIO.AddProductType(productsList);
+           
             FindingProductTypeResponse productResponse = productManager.ProductTypeData(productInput);
             if (productResponse.Success)
             {
-                newOrder.ProductData = productResponse.ProductData;
+                newOrder.Product = productResponse.ProductData;
             }
             else
             {
@@ -58,25 +62,6 @@ namespace FloorMastery.UI.Workflows
 
             manager.SaveNewOrder(newOrder);
             Console.ReadKey();
-
-
-
-            //            newOrder.CreationDateTime = ConsoleIO.AddOrderDate("Please input a date to Add order: ");
-            //            newOrder.CustomersName = ConsoleIO.GetRequiredStringFromUser("Please enter customer name: ");
-            //            newOrder.StatesName = ConsoleIO.GetRequiredStringFromUser("Please enter your State: ");
-            //            newOrder.ProductsType = ConsoleIO.RequiredStringForProductList("Please enter the Products type: ");
-            //            
-            //            newOrder.Area = ConsoleIO.GetRequiredDecimalFromUser("Please enter your Area: ");
-            //
-            //
-            //            Console.WriteLine("Add this new Order?");
-            //            Console.WriteLine(newOrder.CreationDateTime);
-            //            Console.WriteLine(newOrder.CustomersName);
-            //            Console.WriteLine(newOrder.StatesName);
-            //            Console.WriteLine(newOrder.ProductsType);
-            //            Console.WriteLine(newOrder.Area);
-            //            var confirmInput = ConsoleIO.GetYesNoAnswerFromUser("Confirm: Y/N");
-
 
         }
     }

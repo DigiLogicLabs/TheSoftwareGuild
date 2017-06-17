@@ -4,27 +4,43 @@ namespace FloorMastery.Models
 {
     public class Order
     {
+
+
         public DateTime CreationDateTime { get; set; }
         public int OrdersNumber { get; set; }
         public string CustomersName { get; set; }
 
-        public string ProductsType { get; set; }
-        public decimal CostPerSquareFoot { get; set; }
-        public decimal LaborCostPerSquareFoot { get; set; }
 
-        public ProductData ProductData { get; set; }
+        public ProductData Product { get; set; }
         public StateTaxData TaxData { get; set; }
-
-        public string StatesAbbreviation { get; set; }
-        public string StatesName { get; set; }
-        public decimal TaxRate { get; set; }
-
         public decimal Area { get; set; }
-        public decimal MaterialCost { get; set; }
-        public decimal LaborCost { get; set; }
-        public decimal Tax { get; set; }
-        public decimal Total { get; set; }
 
-       
+        public Order()
+        {
+            
+        }
+
+        public Order(
+            DateTime date,
+            int ordernumber,
+            string customername,
+            ProductData proddata,
+            StateTaxData stateTax,
+            decimal area)
+        {
+            CreationDateTime = date;
+            OrdersNumber = ordernumber;
+            CustomersName = customername;
+            Product = proddata;
+            TaxData = stateTax;
+            Area = area;
+        }
+
+        public decimal MaterialCost => Area * Product.CostPerSquareFoot;
+        public decimal LaborCost => Area * Product.LaborCostPerSquareFoot;
+        public decimal Tax => ((MaterialCost + LaborCost) * (Tax / 100));
+        public decimal Total => (MaterialCost + LaborCost + Tax);
+
+
     }
 }
