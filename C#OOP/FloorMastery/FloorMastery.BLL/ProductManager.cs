@@ -20,6 +20,8 @@ namespace FloorMastery.BLL
             _productTypeRepo = productRepo;
         }
 
+
+
         public FindingProductTypeResponse ProductTypeData(string productType)
         {
             FindingProductTypeResponse response = new FindingProductTypeResponse();
@@ -37,6 +39,8 @@ namespace FloorMastery.BLL
             }
             return response;
         }
+
+
 
         public List<ProductData> GetAllProducts()
         {

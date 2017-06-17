@@ -43,5 +43,9 @@ namespace FloorMastery.BLL
             return response;
         }
 
+        public List<StateTaxData> GetAllTaxInfo()
+        {
+            return _stateTaxRepo.List();
+        }
     }
 }

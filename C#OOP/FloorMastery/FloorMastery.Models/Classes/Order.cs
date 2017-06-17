@@ -15,10 +15,7 @@ namespace FloorMastery.Models
         public StateTaxData TaxData { get; set; }
         public decimal Area { get; set; }
 
-        public Order()
-        {
-            
-        }
+        
 
         public Order(
             DateTime date,
@@ -36,9 +33,11 @@ namespace FloorMastery.Models
             Area = area;
         }
 
+       
+        
         public decimal MaterialCost => Area * Product.CostPerSquareFoot;
         public decimal LaborCost => Area * Product.LaborCostPerSquareFoot;
-        public decimal Tax => ((MaterialCost + LaborCost) * (Tax / 100));
+        public decimal Tax => ((MaterialCost + LaborCost) * (TaxData.TaxRate / 100));
         public decimal Total => (MaterialCost + LaborCost + Tax);
 
 

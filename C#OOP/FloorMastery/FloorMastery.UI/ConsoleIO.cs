@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Linq;
 using System.Net;
+using System.Runtime.Remoting.Messaging;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +14,8 @@ namespace FloorMastery.Models.Helpers
 {
     public class ConsoleIO
     {
-        public static Order order = new Order();
+        
+
         public const string SeparatorBar = "===================================================================================================";
         public const string OrderLineFormat = "{1,10} {1,10} {2,20} {3, 10} {4, 20} {5,30} {6,40} {7,50} {8,60} {9,70} {10,80} {11,90} {12,100}";
         public const string PickOrderLineFormat = "{0,2} {1,-20} {2,-15} {3, 5}";
@@ -557,28 +559,55 @@ namespace FloorMastery.Models.Helpers
 
         public static string AddProductType(List<ProductData> products)
         {
-            foreach (var product in products)
-            {
-                Console.WriteLine(product);
-            }
+            string userInput = null;
 
-            Console.WriteLine("Enter a new Product for your Order: ");
+            bool successfulInput = false;
+            while (!successfulInput)
+            {
+                foreach (var product in products)
+                {
+                    Console.WriteLine(product);
+                }
+
+                Console.WriteLine("Enter a new Product for your Order: ");
+
+                 userInput = Console.ReadLine();
+
+                successfulInput = products.Any(m => m.ProductsType == userInput);
+            }
             
-            var userInput = Console.ReadLine();
             
 
             return userInput;
         }
 
-        public static string EditStateName()
+        public static string EditStateName(List<StateTaxData> states)
         {
+            string userInput = null;
+            bool successfulInput = false;
+
+//            state.Sort((a,b) => a.StatesName.CompareTo(b.StatesName)); That's a delegate. Dude.
+
             Console.WriteLine("Enter a new State: ");
-            string userInput = Console.ReadLine().ToUpper();
-            if (userInput == "")
+            while (!successfulInput)
             {
-                Console.WriteLine("State can't be blank!");
-                Console.ReadKey();
-                EditStateName();
+                userInput = Console.ReadLine().ToUpper();
+
+                if (userInput == "")
+                {
+                    Console.WriteLine("State can't be blank!");
+                    Console.ReadKey();
+                }
+                foreach (var state in states)
+                {
+                    Console.WriteLine(state);
+                }
+
+                Console.WriteLine("Enter a new State for your Order: ");
+
+                userInput = Console.ReadLine();
+
+                successfulInput = states.Any(m => m.StatesName == userInput);
             }
 
             return userInput;

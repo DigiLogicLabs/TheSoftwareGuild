@@ -20,9 +20,11 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
 
             ProductManager productMan = ProductFactory.Create();
 
-            order.Product.ProductsType = ConsoleIO.AddProductType(productMan.GetAllProducts());
 
-            FindingProductTypeResponse response = productMan.ProductTypeData(order.Product.ProductsType);
+            FindingProductTypeResponse response = productMan.ProductTypeData(ConsoleIO.AddProductType(productMan.GetAllProducts()));
+            
+
+            
             if (response.Success)
             {
                 order.Product = response.ProductData;

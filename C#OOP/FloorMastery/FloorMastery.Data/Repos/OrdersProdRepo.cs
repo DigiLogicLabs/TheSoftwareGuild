@@ -68,6 +68,15 @@ namespace FloorMastery.Data.Repos
             return ordersList;
         }
 
+        public string FilePathCreated(DateTime orderDate)
+        {
+            string orderString = "Orders_";
+
+            string userInput = _directoryPath + orderString + String.Format(orderDate.ToString("MMddyyyy")) + ".txt";
+
+            return userInput;
+        }
+
         private string CreateCsvForOrder(Order order)
         {
             return string.Format("{0},{1},{2},{3},{4},{5}", order.CreationDateTime,

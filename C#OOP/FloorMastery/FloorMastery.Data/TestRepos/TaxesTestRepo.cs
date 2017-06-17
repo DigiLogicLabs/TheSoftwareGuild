@@ -53,22 +53,13 @@ namespace FloorMastery.Models.TestRepos
         }
         public StateTaxData TheState(string stateInput)
         {
-            
-            List<StateTaxData> result = new List<StateTaxData>();
 
-            foreach (var taxData in StateTaxs)
-            {
-                if (taxData.StatesName == stateInput)
-                {
-                    result.Add(taxData);
-                }
-            }
-            return new StateTaxData();
+            return StateTaxs.SingleOrDefault(m => m.StatesName == stateInput);
         }
 
         public List<StateTaxData> List()
         {
-            throw new NotImplementedException();
+            return StateTaxs;
         }
     }
 }

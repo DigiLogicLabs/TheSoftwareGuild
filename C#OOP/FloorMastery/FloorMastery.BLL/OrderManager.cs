@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using FloorMastery.Data.Interfaces;
 using FloorMastery.Models;
 using FloorMastery.Models.Responses;
@@ -112,6 +113,11 @@ namespace FloorMastery.BLL
             return response;
         }
 
+        public int GetNextID(DateTime date)
+        {
+           return LookUpAccount(date).Orders.Max(m => m.OrdersNumber) + 1;
+            
+        }
     }
 
      

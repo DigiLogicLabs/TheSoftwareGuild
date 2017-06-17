@@ -17,89 +17,35 @@ namespace FloorMastery.Models.TestRepos
         private static readonly List<Order> _orders = new List<Order>
         {
 
-            new Order
-            {
-                CreationDateTime = DateTime.Parse("06/01/2018"),
-                OrdersNumber = 1,
-                CustomersName = "Wise",
-                TaxData = new StateTaxData()
-                {
-                    StatesName = "Ohio",
-                    StatesAbbreviation = "OH",
-                    TaxRate = 6.25M,
-                },
-                Product = new ProductData()
-                {
-                    ProductsType = "Wood",
-                    CostPerSquareFoot = 5.15M,
-                    LaborCostPerSquareFoot = 4.75M
-                },
-                Area = 100.00M
-                },
-            new Order
-            {
-                CreationDateTime = DateTime.Parse("05/22/1995"),
-                OrdersNumber = 3,
-                CustomersName = "Soligny",
-                TaxData = new StateTaxData()
-                {
-                    StatesName = "Minnesota",
-                    StatesAbbreviation = "MN",
-                    TaxRate = 5.25M,
-                },
-                Product = new ProductData()
-                {
-                    ProductsType = "Metal",
-                    CostPerSquareFoot = 6.15M,
-                    LaborCostPerSquareFoot = 4.00M
-                },
+            new Order( 
+                DateTime.Parse("06/01/2018"),
+                1, 
+                "Wise", 
+                new ProductData(){ProductsType = "Wood", CostPerSquareFoot = 5.15M, LaborCostPerSquareFoot = 4.75M},
+                new StateTaxData(){StatesName = "Ohio" , StatesAbbreviation = "OH", TaxRate = 6.25M}, 100M)
+            { },
+            new Order(
+                    DateTime.Parse("05/22/1995"),
+                    3,
+                    "Soligny",
+                    new ProductData(){ProductsType = "Metal", CostPerSquareFoot = 6.15M, LaborCostPerSquareFoot = 4.00M},
+                    new StateTaxData(){StatesName = "Minnesota" , StatesAbbreviation = "MN", TaxRate = 5.25M}, 100M)
+                { },
+            new Order(
+                    DateTime.Parse("06/01/2018"),
+                    2,
+                    "Rick",
+                    new ProductData(){ProductsType = "Cheese", CostPerSquareFoot = 6.15M, LaborCostPerSquareFoot = 4.75M},
+                    new StateTaxData(){StatesName = "Wisconsin" , StatesAbbreviation = "WI", TaxRate = 7.25M}, 100M)
+                { },
+            new Order(
+                    DateTime.Parse("04/20/2018"),
+                    4,
+                    "BradPitt",
+                    new ProductData(){ProductsType = "Life", CostPerSquareFoot = 9.15M, LaborCostPerSquareFoot = 4.75M},
+                    new StateTaxData(){StatesName = "California" , StatesAbbreviation = "CA", TaxRate = 8.25M}, 100M)
+                { },         
 
-
-                Area = 100.00M,
-
-            },
-            new Order
-            {
-                CreationDateTime = DateTime.Parse("06/01/2018"),
-                OrdersNumber = 2,
-                CustomersName = "Jack",
-                TaxData = new StateTaxData()
-                {
-                    StatesName = "Wisconsin",
-                    StatesAbbreviation = "WI",
-                    TaxRate = 7.25M,
-                },
-                Product = new ProductData()
-                {
-                    ProductsType = "Cheese",
-                    CostPerSquareFoot = 6.15M,
-                    LaborCostPerSquareFoot = 4.75M
-                },
-
-
-                Area = 100.00M,
-            },
-            new Order
-            {
-                CreationDateTime = DateTime.Parse("04/20/2018"),
-                OrdersNumber = 4,
-                CustomersName = "BradPitt",
-                TaxData = new StateTaxData()
-                {
-                    StatesName = "California",
-                    StatesAbbreviation = "CA",
-                    TaxRate = 8.25M,
-                },
-                Product = new ProductData()
-                {
-                    ProductsType = "Life",
-                    CostPerSquareFoot = 9.15M,
-                    LaborCostPerSquareFoot = 4.75M
-                },
-
-
-                Area = 100.00M,
-            }
             
         };
 
@@ -139,16 +85,7 @@ namespace FloorMastery.Models.TestRepos
 
         public bool AddOrder(Order orderAdd)
         {
-//            if (b)
-            {
-                List<Order> result = new List<Order>
-                {
-                    new Order
-                    {
-//                    CreationDateTime = 
-                    }
-                };
-            }
+
             throw new NotImplementedException();
         }
 

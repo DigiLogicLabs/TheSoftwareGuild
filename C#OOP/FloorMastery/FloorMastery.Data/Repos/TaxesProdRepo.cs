@@ -58,7 +58,14 @@ namespace FloorMastery.Data.Repos
 
         public StateTaxData TheState(string stateInput)
         {
-            throw new System.NotImplementedException();
+            if (_statesDictionary.ContainsKey(stateInput))
+            {
+                return _statesDictionary[stateInput];
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public List<StateTaxData> List()

@@ -48,15 +48,7 @@ namespace FloorMastery.Models.TestRepos
         
         public ProductData GetProductDataForType(string productType)
         {
-            List<ProductData> result = new List<ProductData>();
-            foreach (var product in Products)
-            {
-                if (product.ProductsType == productType)
-                {
-                    result.Add(product);
-                }
-            }
-            return new ProductData();
+            return Products.SingleOrDefault(m => m.ProductsType == productType);
         }
 
         public List<ProductData> GetAllProducts()

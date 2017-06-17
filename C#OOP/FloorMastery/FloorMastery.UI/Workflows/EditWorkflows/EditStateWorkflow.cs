@@ -19,10 +19,9 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
 
             TaxesManager taxManager = TaxesFactory.Create();
 
-            order.TaxData.StatesName = ConsoleIO.EditStateName();
 
-            FindingStateResponse response = taxManager.StateTaxDate(order.TaxData.StatesName);
-
+            FindingStateResponse response = taxManager.StateTaxDate(ConsoleIO.EditStateName(taxManager.GetAllTaxInfo()));
+            
             if (response.Success)
             {
                 order.TaxData = response.StateTaxData;
@@ -35,6 +34,7 @@ namespace FloorMastery.UI.Workflows.EditWorkflows
             else
             {
                 response.Success = false;
+                
             }
         }
     }
