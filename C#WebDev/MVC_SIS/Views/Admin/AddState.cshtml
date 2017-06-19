@@ -1,14 +1,13 @@
-﻿@model Exercises.Models.Data.Major
-
+﻿@model Exercises.Models.Data.State
 @{
-    ViewBag.Title = "Add Major";
+    ViewBag.Title = "AddState";
 }
 
-
 <div class="row">
+    
     <div class="col-xs-12">
-        <h2>Add Major</h2>
-        @Html.ActionLink("Return to List", "Majors", "Admin")
+        <h2>AddState</h2>
+        @Html.ActionLink("Return to List", "States", "Admin")
     </div>
 </div>
 <div class="row">
@@ -16,10 +15,11 @@
         @using (Html.BeginForm())
         {
             <div class="form-group">
-                <label>Major</label>
-                @Html.TextBoxFor(m => m.MajorName, new {@class = "form-control", placeholder = "Major"})
+                <label>State</label>
+                @Html.TextBoxFor(m => m.StateAbbreviation, new { @class = "form-control", placeholder = "State" })
             </div>
             <button type="submit" class="btn btn-sm btn-primary">Save</button>
         }
     </div>
 </div>      
+

@@ -30,3 +30,4 @@ C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#WebDev\MVC_SI
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#WebDev\MVC_SIS\bin\System.Web.Mvc.xml
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#WebDev\MVC_SIS\obj\Debug\Exercises.dll
 C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#WebDev\MVC_SIS\obj\Debug\Exercises.pdb
+C:\Users\Csharpener\Desktop\Repos\conner-soligny-individual-work\C#WebDev\MVC_SIS\obj\Debug\MVC_SIS.csprojResolveAssemblyReference.cache

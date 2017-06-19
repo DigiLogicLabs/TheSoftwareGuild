@@ -60,10 +60,32 @@ namespace Exercises.Controllers
         }
 
         [HttpGet]
-        public ActionResult States(List<State> state)
+        public ActionResult States()
         {
-            return View(state);
+            var model = StudentRepository.GetAll();
+            return View(model.ToList());
         }
 
+        [HttpGet]
+        public ActionResult AddState()
+        {
+            return View(new State());
+        }
+        [HttpPost]
+        public ActionResult AddState(State state)
+        {
+           StateRepository.Add(state);
+            return RedirectToAction("States");
+        }
+
+        public ActionResult EditState(object id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ActionResult DeleteState(object id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
