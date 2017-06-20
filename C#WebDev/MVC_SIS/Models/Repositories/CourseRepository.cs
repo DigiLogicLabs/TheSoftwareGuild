@@ -49,7 +49,7 @@ namespace Exercises.Models.Repositories
         {
             var selectedCourse = _courses.FirstOrDefault(c => c.CourseId == course.CourseId);
 
-            selectedCourse.CourseName = course.CourseName;
+            if (selectedCourse != null) selectedCourse.CourseName = course.CourseName;
         }
 
         public static void Delete(int courseId)

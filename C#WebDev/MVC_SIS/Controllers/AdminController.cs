@@ -80,7 +80,7 @@ namespace Exercises.Controllers
         {
             if (ModelState.IsValid)
             {
-                StateRepository.Add(state);
+                StateRepository.Add(state.StateName);
                 return RedirectToAction("States");
             }
             else
@@ -90,9 +90,9 @@ namespace Exercises.Controllers
         }
 
         [HttpGet]
-        public ActionResult EditState(string stateAbbreviation)
+        public ActionResult EditState(string id)
         {
-            var state = StateRepository.Get(stateAbbreviation);
+            var state = StateRepository.Get(id);
             return View(state);
         }
 

@@ -31,8 +31,12 @@ namespace Exercises.Models.Repositories
             return _courses.FirstOrDefault(c => c.StateAbbreviation == stateAbbreviation);
         }
 
-        public static void Add(State state)
+        public static void Add(string stateName)
         {
+            State state = new State();
+            state.StateName = stateName;
+            state.StateAbbreviation = _courses.Max(c => c.StateAbbreviation) + 1;
+
             _courses.Add(state);
         }
 
@@ -40,7 +44,7 @@ namespace Exercises.Models.Repositories
         {
             var selectedState = _courses.FirstOrDefault(c => c.StateAbbreviation == state.StateAbbreviation);
 
-            selectedState.StateName = state.StateName;
+            if (selectedState != null) selectedState.StateName = state.StateName;
         }
 
         public static void Delete(string stateAbbreviation)

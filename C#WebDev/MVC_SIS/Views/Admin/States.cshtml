@@ -20,8 +20,8 @@
             <tr>
                 <td>@state.StateName</td>
                 <td>
-                    @Html.ActionLink("Edit", "EditState", "Admin", new { stateAbbrev = state.StateAbbreviation }, null) | 
-                    @Html.ActionLink("Delete", "DeleteState", "Admin", new { stateAbbrev = state.StateAbbreviation }, null)
+                    @Html.ActionLink("Edit", "EditState", "Admin", new { id = state.StateAbbreviation }, null) | 
+                    @Html.ActionLink("Delete", "DeleteState", "Admin", new { id = state.StateAbbreviation }, null)
                 </td>
             </tr>
         }

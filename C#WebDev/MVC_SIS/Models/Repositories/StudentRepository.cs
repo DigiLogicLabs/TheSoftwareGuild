@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Exercises.Models.ViewModels;
 
 namespace Exercises.Models.Repositories
 {
@@ -98,21 +99,24 @@ namespace Exercises.Models.Repositories
             return _students.FirstOrDefault(s => s.StudentId == studentId);
         }
 
-        public static void Add(Student state)
+        public static void Add(Student student)
         {
-            _students.Add(state);
+            _students.Add(student);
         }
 
         public static void Edit(Student student)
         {
-            Student selectedStudent = new Student();
-             selectedStudent = _students.FirstOrDefault(s => s.StudentId == student.StudentId);
+            
+             var selectedStudent = _students.FirstOrDefault(s => s.StudentId == student.StudentId);
 
-            selectedStudent.FirstName = student.FirstName;
-            selectedStudent.LastName = student.LastName;
-            selectedStudent.GPA = student.GPA;
-            selectedStudent.Major = student.Major;
-            selectedStudent.Courses = student.Courses;
+            if (selectedStudent != null)
+            {
+                selectedStudent.FirstName = student.FirstName;
+                selectedStudent.LastName = student.LastName;
+                selectedStudent.GPA = student.GPA;
+                selectedStudent.Major = student.Major;
+                selectedStudent.Courses = student.Courses;
+            }
         }
 
         public static void Delete(int studentId)

@@ -64,27 +64,37 @@ namespace Exercises.Controllers
         public ActionResult EditStudent(int studentId)
         {
             var student = StudentRepository.Get(studentId);
-            var model = new StudentVM();
+            StudentVM studentVm = new StudentVM();
 
-            model.Student.StudentId = student.StudentId;
-            model.Student.FirstName = student.FirstName;
-            model.Student.LastName = student.LastName;
-            model.Student.Major = student.Major;
-            model.Student.GPA = student.GPA;
-            model.Student.Address = student.Address;
+            //studentVm.Student.StudentId = student.StudentId;
+            //studentVm.Student.FirstName = student.FirstName;
+            //studentVm.Student.LastName = student.LastName;
+            //studentVm.Student.Major = student.Major;
+            //studentVm.Student.GPA = student.GPA;
+            //studentVm.Student.Address = student.Address;
 
-            return View(model);
+            studentVm.Student = student;
+            studentVm.SetCourseItems(CourseRepository.GetAll());
+            studentVm.SetMajorItems(MajorRepository.GetAll());
+            studentVm.SetStateItems(StateRepository.GetAll());
+            
+
+            return View(studentVm);
         }
+
         [HttpPost]
-        [ActionName("EditStudent")]
-        public ActionResult EditStudent(StudentVM student)
+        public ActionResult EditStudent(StudentVM s)
         {
-            
-            
-                StudentRepository.Edit(student.Student);
-            
-            
-            return RedirectToAction("EditStudent");
+            if (ModelState.IsValid)
+            {
+                StudentRepository.Edit(s.Student);
+            }
+            else
+            {
+                return View(s);
+            }
+
+            return RedirectToAction("List");
         }
 
         [HttpGet]
