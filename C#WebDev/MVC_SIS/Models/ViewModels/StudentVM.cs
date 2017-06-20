@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -10,6 +11,7 @@ namespace Exercises.Models.ViewModels
 {
     public class StudentVM
     {
+        [Required(ErrorMessage = "Please enter the name")]
         public Student Student { get; set; }
         public List<SelectListItem> CourseItems { get; set; }
         public List<SelectListItem> MajorItems { get; set; }

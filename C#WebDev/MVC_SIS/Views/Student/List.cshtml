@@ -31,6 +31,10 @@
                                 <td>@student.Major.MajorName</td>
                                 <td>@student.GPA</td>
                             </tr>
+                            <td>
+                                @Html.ActionLink("Edit", "EditStudent", "Student", new {studentId = student.StudentId}, null) |
+                                @Html.ActionLink("Delete", "DeleteStudent", "Student", new {studentId = student.StudentId}, null)
+                            </td>
                         }
                     </tbody>
                 </table>

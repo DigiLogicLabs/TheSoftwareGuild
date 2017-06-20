@@ -6,7 +6,7 @@
 <div class="row">
     
     <div class="col-xs-12">
-        <h2>AddState</h2>
+        <h2>Add State</h2>
         @Html.ActionLink("Return to List", "States", "Admin")
     </div>
 </div>
@@ -15,8 +15,14 @@
         @using (Html.BeginForm())
         {
             <div class="form-group">
-                <label>State</label>
-                @Html.TextBoxFor(m => m.StateAbbreviation, new { @class = "form-control", placeholder = "State" })
+                <div class="form-control">
+                <label>StateAbbreviation</label>
+                @Html.TextBoxFor(m => m.StateAbbreviation, new {@class = "form-control", placeholder = "State"})
+                </div>
+                <div class="=form-control">
+                    <label>StateName</label>
+                    @Html.TextBoxFor(m => m.StateName, new {@class = "form-control", placeholder = "State"})
+                </div>
             </div>
             <button type="submit" class="btn btn-sm btn-primary">Save</button>
         }

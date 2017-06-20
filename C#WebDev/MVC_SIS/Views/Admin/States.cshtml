@@ -1,4 +1,4 @@
-﻿@using Exercises.Models.Data
+﻿
 @model List<Exercises.Models.Data.State>
 @{
     ViewBag.Title = "States";
@@ -18,7 +18,7 @@
         @foreach(var state in Model)
         {
             <tr>
-                <td>@state.</td>
+                <td>@state.StateName</td>
                 <td>
                     @Html.ActionLink("Edit", "EditState", "Admin", new { stateAbbrev = state.StateAbbreviation }, null) | 
                     @Html.ActionLink("Delete", "DeleteState", "Admin", new { stateAbbrev = state.StateAbbreviation }, null)

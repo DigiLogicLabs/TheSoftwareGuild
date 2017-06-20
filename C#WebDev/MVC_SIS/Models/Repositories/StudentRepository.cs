@@ -61,10 +61,30 @@ namespace Exercises.Models.Repositories
                 },
                 new Student {
                     StudentId=3,
-                    FirstName="Megan",
-                    LastName="Smith",
-                    Major=new Major { MajorId=3,  MajorName="Computer Science" }
-                },
+                    FirstName="Conner",
+                    LastName="Soligny",
+                    GPA = 3.2M,
+                    Major=new Major { MajorId=3,  MajorName="Computer Science" },
+                    Address = new Address
+                    {
+                        AddressId = 3,
+                        Street1 = "1337 OG St. S",
+                        Street2 = "Apartment 22",
+                        City = "Maple Grove",
+                        State = new State
+                        {
+                            StateAbbreviation = "MN",
+                            StateName = "Minnesota"
+                        }, 
+                        PostalCode = "51337"
+                    },
+                    Courses = new List<Course>
+                    {
+                        new Course { CourseId=7, CourseName="Java Fundamentals" },
+                        new Course { CourseId=5, CourseName="C# Fundamentals" },
+                        new Course { CourseId=3, CourseName="Biology 101" },
+                    }
+                }
             };
         }
 
@@ -85,7 +105,8 @@ namespace Exercises.Models.Repositories
 
         public static void Edit(Student student)
         {
-            var selectedStudent = _students.First(s => s.StudentId == student.StudentId);
+            Student selectedStudent = new Student();
+             selectedStudent = _students.FirstOrDefault(s => s.StudentId == student.StudentId);
 
             selectedStudent.FirstName = student.FirstName;
             selectedStudent.LastName = student.LastName;
