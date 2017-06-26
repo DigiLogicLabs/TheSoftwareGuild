@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Vending Machine</title>
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/home.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="navbar-header">
+            <ul class="nav navbar-nav">
+                <li><a href="#aFew">The</a></li>
+                <li><a href="#button">Best</a></li>
+                <li><a href="#to">Vending Machine</a></li>
+                <li><a href="#press">Ever</a></li>
+            </ul>
+        </div>
+    </nav>
+    <br/>
+    <br/>
+    <hr/>
+
+    <div class="jumbotron">
+        <h1 align="center">Vending Machine</h1>
+    </div>
+    <ul class="list-group" id="errorMessages"></ul>
+    <div class="container" id="container">
+        <div class="col-xs-8">
+            <div class="jumbotron col-xs-12" id="mainButtons">
+                <br>
+                <hr>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item1" role="button" onclick="itemTotals()">
+                            <h4 id="name1"></h4>
+                            <p id="price1"></p>
+                            <p id="quantity1"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item2" role="button" onclick="itemTotals()">
+                            <h4 id="name2"></h4>
+                            <p id="price2"></p>
+                            <p id="quantity2"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" href="#" id="item3" role="button" onclick="itemTotals()">
+                            <h4 id="name3"></h4>
+                            <p id="price3"></p>
+                            <p id="quantity3"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item4" role="button" onclick="itemTotals()">
+                            <h4 id="name4"></h4>
+                            <p id="price4"></p>
+                            <p id="quantity4"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item5" role="button" onclick="itemTotals()">
+                            <h4 id="name5"></h4>
+                            <p id="price5"></p>
+                            <p id="quantity5"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item6" role="button" onclick="itemTotals()">
+                            <h4 id="name6"></h4>
+                            <p id="price6"></p>
+                            <p id="quantity6"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item7" role="button" onclick="itemTotals()">
+                            <h4 id="name7"></h4>
+                            <p id="price7"></p>
+                            <p id="quantity7"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item8" role="button" onclick="itemTotals()">
+                            <h4 id="name8"></h4>
+                            <p id="price8"></p>
+                            <p id="quantity8"></p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a class="btn btn-default" id="item9" role="button" onclick="itemTotals()">
+                            <h4 id="name9"></h4>
+                            <p id="price9"></p>
+                            <p id="quantity9"></p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class=" jumbotron col-xs-4" id="sideButtons">
+            <br>
+            <h3 align="center">Total $ In</h3>
+            <div align="center"><input placeholder="Amount" type="text" id="totalForItem"></input>
+            </div>
+            <div class="list-group">
+                <div class="list-group" id="addMoney">
+                    <button type="button" id="addDollarButton" class="amountBox" onclick="addMoney()">
+				Add Dollar
+				        </button>
+                    <button type="button" id="addQuarterButton" class="amountBox" onclick="addMoney()">
+				Add Quarter
+				        </button>
+                    <button type="button" id="addDimeButton" class="amountBox" onclick="addMoney()">
+				Add Dime
+				        </button>
+                    <button type="button" id="addNickelButton" class="amountBox" onclick="addMoney()">
+				Add Nickel
+				        </button>
+                </div>
+                </hr>
+            </div>
+            <br>
+            <br>
+
+            <div class="list-group">
+                <h3 align="center">Messages</h3>
+                <div align="center"><input placeholder="Messages" type="text" id="purchaseMessage"></input>
+                </div>
+
+
+                <h5 align="left">Item:</h5>
+                <div align="center"><input placeholder="Item" type="text" id="itemsCost"></input>
+                </div>
+                <div class="col-xs-6">
+                    <br>
+                    <button align="center" type="button" id="makePurchaseButton" class="col-md-12">
+				Make Purchase
+				        </button>
+                </div>
+            </div>
+            </hr>
+            <br>
+            <br>
+            <div class="list-group">
+                <h3 align="center">Change</h3>
+                <div align="center">
+                    <p id="changeQuarters"></p>
+                    <p id="changeDimes"></p>
+                    <p id="changeNickels"></p>
+                    <p id="changePennies"></p>
+                <button id="changeButton" type="button" name="button">Make Change</button>
+                </div>
+            </div>
+            </hr>
+        </div>
+    </div>
+    </div>
+
+    <footer><img src="http://i.huffpost.com/gen/1353049/images/o-KIDS-CRYING-facebook.jpg">This is currently my footer, even though
+        we don't need one</img>
+    </footer>
+</body>
+
+</html>

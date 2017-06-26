@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>DVD API</title>
+ <link href="css/bootstrap.css"rel="stylesheet">
+	<script src="js/jquery-2.2.4.min.js"></script>
+	<script src="js/home.js"></script>
+</head>
+	<body>
+	<h1>DVD's</h1>
+	<hr>
+	<table>
+		<div class="container" id="initialState">
+	<div class="col-md-3" id="button1">
+		<button type="button" 
+				id="actualButton1" 
+				class="btn btn-default">
+				Create DVD
+				</button>
+	</div>
+				
+	<div class="col-md-3" id="button2">
+	<button type="button" 
+				id="actualButton2" 
+				class="btn btn-default">
+				Search
+				</button>
+				
+			</div>
+	<div class="col-md-3" id="dropDownList">
+	<select>
+		<option value="search"> Search Category</option>
+		<option value="movie1"> movie1</option>
+		<option value="movie2"> movie2</option>
+		<option value="movie3"> movie3</option>
+		<option value="movie4"> movie4</option>
+	</select>
+	</div>
+	<div class="col-md-3">
+		<input type="text" id="searchTerm">
+			Search Term
+		</input>
+	</div>
+	<div id="contactTableDiv">
+                        <h2>Movie List</h2>
+
+                        <table id="contactTable" class="table table-hover">
+                            <tr>
+                                <th width="25%" id="dvdTitle"> Title</th>
+                                <th width="25%" id="dvdReleaseDate"> Release Date</th>
+                                <th width="15%" id="dvdDirector"> Director</th>
+                                <th width="10%" id="dvdRating"> Rating</th>
+								<th width="25%"><a id ="editMovie">Edit</a> | 
+								<a id="deleteMovie">Delete</a></th>
+                            </tr>
+                            <!--
+                             #3: This holds the list of contacts - we will add rows
+                            dynamically
+                             using jQuery
+                             -->
+                            <tbody id="contentRows"></tbody>
+                        </table>
+                    </div>
+		</div>
+	</table>
+	</body>
+</html>

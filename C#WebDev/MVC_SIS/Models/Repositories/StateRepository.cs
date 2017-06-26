@@ -31,13 +31,10 @@ namespace Exercises.Models.Repositories
             return _courses.FirstOrDefault(c => c.StateAbbreviation == stateAbbreviation);
         }
 
-        public static void Add(string stateName)
+        public static void Add(State stateName)
         {
-            State state = new State();
-            state.StateName = stateName;
-            state.StateAbbreviation = _courses.Max(c => c.StateAbbreviation) + 1;
 
-            _courses.Add(state);
+            _courses.Add(stateName);
         }
 
         public static void Edit(State state)

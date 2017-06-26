@@ -19,6 +19,7 @@
         {
             <tr>
                 <td>@state.StateName</td>
+                <td>@state.StateAbbreviation</td>
                 <td>
                     @Html.ActionLink("Edit", "EditState", "Admin", new { id = state.StateAbbreviation }, null) | 
                     @Html.ActionLink("Delete", "DeleteState", "Admin", new { id = state.StateAbbreviation }, null)

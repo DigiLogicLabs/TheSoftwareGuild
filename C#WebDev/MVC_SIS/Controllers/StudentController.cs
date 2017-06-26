@@ -66,6 +66,12 @@ namespace Exercises.Controllers
             var student = StudentRepository.Get(studentId);
             StudentVM studentVm = new StudentVM();
 
+            
+
+            studentVm.Student = student;
+            studentVm.SetCourseItems(CourseRepository.GetAll());
+            studentVm.SetMajorItems(MajorRepository.GetAll());
+            studentVm.SetStateItems(StateRepository.GetAll());
             //studentVm.Student.StudentId = student.StudentId;
             //studentVm.Student.FirstName = student.FirstName;
             //studentVm.Student.LastName = student.LastName;
@@ -73,11 +79,6 @@ namespace Exercises.Controllers
             //studentVm.Student.GPA = student.GPA;
             //studentVm.Student.Address = student.Address;
 
-            studentVm.Student = student;
-            studentVm.SetCourseItems(CourseRepository.GetAll());
-            studentVm.SetMajorItems(MajorRepository.GetAll());
-            studentVm.SetStateItems(StateRepository.GetAll());
-            
 
             return View(studentVm);
         }

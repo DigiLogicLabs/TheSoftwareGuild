@@ -80,7 +80,7 @@ namespace Exercises.Controllers
         {
             if (ModelState.IsValid)
             {
-                StateRepository.Add(state.StateName);
+                StateRepository.Add(state);
                 return RedirectToAction("States");
             }
             else
