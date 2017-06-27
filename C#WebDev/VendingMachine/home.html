@@ -34,66 +34,66 @@
                 <hr>
                 <div class="row">
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item1" role="button" onclick="itemTotals()">
-                            <h4 id="name1"></h4>
-                            <p id="price1"></p>
-                            <p id="quantity1"></p>
+                        <a class="itemClass btn btn-default" id="item1" role="button">
+                            <h4 class= "nameClass" id="name1"></h4>
+                            <p class= "priceClass" id="price1"></p>
+                            <p class= "quantityClass" id="quantity1"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item2" role="button" onclick="itemTotals()">
-                            <h4 id="name2"></h4>
-                            <p id="price2"></p>
-                            <p id="quantity2"></p>
+                        <a class="itemClass btn btn-default" id="item2" role="button">
+                            <h4 class= "nameClass" id="name2"></h4>
+                            <p class= "priceClass" id="price2"></p>
+                            <p class= "quantityClass" id="quantity2"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" href="#" id="item3" role="button" onclick="itemTotals()">
-                            <h4 id="name3"></h4>
-                            <p id="price3"></p>
-                            <p id="quantity3"></p>
+                        <a class="itemClass btn btn-default" id="item3" role="button">
+                            <h4 class= "nameClass" id="name3"></h4>
+                            <p class= "priceClass" id="price3"></p>
+                            <p class= "quantityClass" id="quantity3"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item4" role="button" onclick="itemTotals()">
-                            <h4 id="name4"></h4>
-                            <p id="price4"></p>
-                            <p id="quantity4"></p>
+                        <a class="itemClass btn btn-default" id="item4" role="button">
+                            <h4 class= "nameClass" id="name4"></h4>
+                            <p class= "priceClass" id="price4"></p>
+                            <p class= "quantityClass" id="quantity4"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item5" role="button" onclick="itemTotals()">
-                            <h4 id="name5"></h4>
-                            <p id="price5"></p>
-                            <p id="quantity5"></p>
+                        <a class="itemClass btn btn-default" id="item5" role="button">
+                            <h4 class= "nameClass" id="name5"></h4>
+                            <p class= "priceClass" id="price5"></p>
+                            <p class= "quantityClass" id="quantity5"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item6" role="button" onclick="itemTotals()">
-                            <h4 id="name6"></h4>
-                            <p id="price6"></p>
-                            <p id="quantity6"></p>
+                        <a class="itemClass btn btn-default" id="item6" role="button">
+                            <h4 class= "nameClass" id="name6"></h4>
+                            <p class= "priceClass" id="price6"></p>
+                            <p class= "quantityClass" id="quantity6"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item7" role="button" onclick="itemTotals()">
-                            <h4 id="name7"></h4>
-                            <p id="price7"></p>
-                            <p id="quantity7"></p>
+                        <a class="itemClass btn btn-default" id="item7" role="button">
+                            <h4 class= "nameClass" id="name7"></h4>
+                            <p class= "priceClass" id="price7"></p>
+                            <p class= "quantityClass" id="quantity7"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item8" role="button" onclick="itemTotals()">
-                            <h4 id="name8"></h4>
-                            <p id="price8"></p>
-                            <p id="quantity8"></p>
+                        <a class="itemClass btn btn-default" id="item8" role="button">
+                            <h4 class= "nameClass" id="name8"></h4>
+                            <p class= "priceClass" id="price8"></p>
+                            <p class= "quantityClass" id="quantity8"></p>
                         </a>
                     </div>
                     <div class="col-xs-4">
-                        <a class="btn btn-default" id="item9" role="button" onclick="itemTotals()">
-                            <h4 id="name9"></h4>
-                            <p id="price9"></p>
-                            <p id="quantity9"></p>
+                        <a class="itemClass btn btn-default" id="item9" role="button">
+                            <h4 class= "nameClass" id="name9"></h4>
+                            <p class= "priceClass" id="price9"></p>
+                            <p class= "quantityClass" id="quantity9"></p>
                         </a>
                     </div>
                 </div>
@@ -103,20 +103,20 @@
         <div class=" jumbotron col-xs-4" id="sideButtons">
             <br>
             <h3 align="center">Total $ In</h3>
-            <div align="center"><input placeholder="Amount" type="text" id="totalForItem"></input>
+            <div align="center"><input readonly placeholder="Amount" value="0" id="totalForItem"></input>
             </div>
             <div class="list-group">
                 <div class="list-group" id="addMoney">
-                    <button type="button" id="addDollarButton" class="amountBox" onclick="addMoney()">
+                    <button type="button" id="addDollarButton" class="amountBox">
 				Add Dollar
 				        </button>
-                    <button type="button" id="addQuarterButton" class="amountBox" onclick="addMoney()">
+                    <button type="button" id="addQuarterButton" class="amountBox">
 				Add Quarter
 				        </button>
-                    <button type="button" id="addDimeButton" class="amountBox" onclick="addMoney()">
+                    <button type="button" id="addDimeButton" class="amountBox">
 				Add Dime
 				        </button>
-                    <button type="button" id="addNickelButton" class="amountBox" onclick="addMoney()">
+                    <button type="button" id="addNickelButton" class="amountBox">
 				Add Nickel
 				        </button>
                 </div>
@@ -127,16 +127,17 @@
 
             <div class="list-group">
                 <h3 align="center">Messages</h3>
-                <div align="center"><input placeholder="Messages" type="text" id="purchaseMessage"></input>
+                <div align="center"><input readonly placeholder="Messages" type="text" id="purchaseMessage"></input>
                 </div>
 
 
                 <h5 align="left">Item:</h5>
-                <div align="center"><input placeholder="Item" type="text" id="itemsCost"></input>
+                <div align="center"><input readonly placeholder="Item" type="text" id="itemsCost"></input>
                 </div>
                 <div class="col-xs-6">
                     <br>
-                    <button align="center" type="button" id="makePurchaseButton" class="col-md-12">
+                    
+                    <button align="center" type="button" id="purchaseButton" class="col-md-12">
 				Make Purchase
 				        </button>
                 </div>
@@ -147,11 +148,12 @@
             <div class="list-group">
                 <h3 align="center">Change</h3>
                 <div align="center">
+                    <input type="text" id="itemBox" class="text-center" readonly></input>
                     <p id="changeQuarters"></p>
                     <p id="changeDimes"></p>
                     <p id="changeNickels"></p>
                     <p id="changePennies"></p>
-                <button id="changeButton" type="button" name="button">Make Change</button>
+                <button id="makeChange" type="button" name="button">Make Change</button>
                 </div>
             </div>
             </hr>

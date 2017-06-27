@@ -1,67 +1,33 @@
 $(document).ready(function(){
+    
     loadTheItems();
-    addMoney();
 
-    $('#makePurchaseButton').click(function (event) {
-        console.log("Total: ", total);
-        console.log ("Selected Item Id: ", itemsId);
+    itemTotals();
+    var total = $('#')
 
-        $.ajax({
-            type: 'GET',
-            url: 'http://localhost:8080/money/'+ total + '/item/' +itemsId,
-            success: function(change){
-                $('#purchaseMessage').text("Thank You!");
+$('#addDollarButton').click(function(){
+        addDollar();
+    });
+    //adding dollar button
+$('#addQuarterButton').click(function(){
+        addQuarter();
+    });
+    //adding Quarter button
+$('#addDimeButton').click(function(){
+        addDime();
+    });
+    //adding Dime Button
+$('#addNickelButton').click(function(){
+        addNickel();
+    });
+    //adding Nickel Button
+    makePurchase();
+    makeChange();
+    makePurchaseMessage();
 
-                total = change.quarter * .25 +
-                change.dime * .10 +
-                change.nickel *.05 +
-                change.penny * .01;
-            $('#total').html(total);
 
-            $('#changeButton').click(function(event){
-                $('#changeQuarters').text("Quarters: " + change.quarter);
-               $('#changeDimes').text("Dimes: " + change.dime);
-               $('#changeNickels').text("Nickels: "+ change.nickel );
-               $('#changePennies').text("Pennies: " + change.penny);
-
-               total=0;
-               $('#total').html(total);
-
-               loadTheItems();
-
-            });
-            console.log("success", change);
-
-        },
-        error: function(response){
-            $('#purchaseMessage').empty();
-            $('#purchaseMessage').alert("an error has occured")
-            console.log("error", response);
-        }
-        })
-    })
+    
 });
-
-var itemsId = 0;
-
-
-var itemsCost = ('#itemsCost');
-
-
-var dollar = 1.00;
-var quarter = 0.25;
-var dime = 0.10;
-var nickel = 0.05;
-var penny = 0.01;
-var moneyIn = 0.00; 
-var total = 0.00;
-
-function amountBoxChange(){
-$('.amountBox').on('change', function(){
-    var value = $(this).val();
-    var price 
-})
-};
 
 function loadTheItems(){
     
@@ -91,52 +57,124 @@ function loadTheItems(){
         }
     });
 }
-function addMoney(){
-        $('#addDollarButton').on('click', function (){
-            moneyIn += dollar;
-            ('#total').html(moneyIn);
-        }),
-        $('#addQuarterButton').on('click', function (){
-            moneyIn += quarter;
-            ('#total').html(moneyIn);
-        }),
-        $('#addDimeButton').on('click', function (){
-            moneyIn += dime;
-            ('#total').html(moneyIn);
-        }),
-        $('#addNickelButton').on('click', function (){
-            moneyIn += nickel;
-            ('#total').html(moneyIn);
-        })
+
+
+function addDollar(){
+    var lastAmount = $("#totalForItem").val();
+    var newAmount = Number(lastAmount) + 1.00;
+    $("#totalForItem").val(newAmount.toFixed(2));
+};
+function addQuarter(){
+    var lastAmount = $('#totalForItem').val();
+    var newAmount = Number(lastAmount) + 0.25;
+    $('#totalForItem').val(newAmount.toFixed(2));
+};
+function addDime(){
+    var lastAmount = $('#totalForItem').val();
+    var newAmount = Number(lastAmount) + 0.1;
+    $('#totalForItem').val(newAmount.toFixed(2));
+};
+function addNickel(){
+    var lastAmount = $('#totalForItem').val();
+    var newAmount = Number(lastAmount) + 0.05;
+    $('#totalForItem').val(newAmount.toFixed(2));
 };
 
-
 function itemTotals(){
-   $('#item1').on('click', function(){
-       ('#totalForItem').val('#price1');
+$('#item1').on('click', function(){
+     var price = $(this).find('#price1').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item2').on('click', function(){
-       ('#totalForItem').val('#price2');
+$('#item2').on('click', function(){
+     var price = $(this).find('#price2').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item3').on('click', function(){
-       ('#totalForItem').val('#price3');
+$('#item3').on('click', function(){
+     var price = $(this).find('#price3').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item4').on('click', function(){
-       ('#totalForItem').val('#price4');
+$('#item4').on('click', function(){
+     var price = $(this).find('#price4').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item5').on('click', function(){
-       ('#totalForItem').val('#price5');
+$('#item5').on('click', function(){
+     var price = $(this).find('#price5').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item6').on('click', function(){
-       ('#totalForItem').val('#price6');
+$('#item6').on('click', function(){
+     var price = $(this).find('#price6').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item7').on('click', function(){
-       ('#totalForItem').val('#price7');
+$('#item7').on('click', function(){
+     var price = $(this).find('#price7').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item8').on('click', function(){
-       ('#totalForItem').val('#price8');
+$('#item8').on('click', function(){
+     var price = $(this).find('#price8').text();
+     $('#itemsCost').val(price);
    }),
-   $('#item9').on('click', function(){
-       ('#totalForItem').val('#price9');
-   })
+$('#item9').on('click', function(){
+     var price = $(this).find('#price9').text();
+     $('#itemsCost').val(price);
+   });
+};
+
+function makePurchase(item){
+    $('#purchaseButton').click(function () {
+       
+        var id = item.id;
+        var itemsPrice = $('.priceClass');
+        var moneyDeposited = $('#totalForItem').val();
+
+        $.ajax({
+            type: 'GET',
+            url: 'http://localhost:8080/money/'+  moneyDeposited + '/item/' +itemsId,
+            success: function(status, item){
+                $('#purchaseMessage').text("Thank You!");
+                var quarters = (item.quarters)* .25;
+                var dimes = (item.dimes)* .10;
+                var nickels = (item.nickels)* .05;
+                var pennies = (item.pennies)* .01;
+                $('#itemBox').val((quarters+dimes+nickels+pennies).toFixed(2));
+
+                $('#totalForItem').val(parseFloat(moneyDeposited - itemsPrice).toFixed(2));
+
+            },
+
+        error: function(response){
+            $('#purchaseMessage').empty();
+            $('#purchaseMessage').alert("an error has occured")
+            console.log("error", response);
+        }
+        })
+    });
+};
+
+function makePurchaseMessage(){
+$('.itemClass').click(function(){
+    var itemsPrice = $('.priceClass', this).text();
+    var itemsQuantity = $('.quantityClass', this).text();
+    var moneyDeposited = $('#totalForItem').val();
+    var moneyString  = (parseFloat(itemsPrice) - parseFloat(moneyDeposited)).toFixed(2);
+
+    if(parseInt(itemsQuantity) <= 0){
+        $('#purchaseMessage').val('SOLD OUT!');
+    }
+    else if(parseFloat(itemsPrice) > parseFloat(moneyDeposited)){
+        $('#purchaseMessage').val('Please insert' + '$' + moneyString);
+    }
+    else{
+        $('#purchaseMessage').val('Purchase item when ready!');
+    }
+});
+};
+
+function makeChange(){
+$('#makeChange').click(function(){
+    $('#purchaseMessage').val("0.00");
+    $('#changeQuarters').val('Q');
+    $('#changeDimes').val('D');
+    $('#changeNickels').val('N');
+    $('#changePennies').val('P');
+});
 };
