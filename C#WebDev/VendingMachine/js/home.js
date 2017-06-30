@@ -3,7 +3,6 @@ $(document).ready(function(){
     loadTheItems();
 
     itemTotals();
-    var total = $('#')
 
 $('#addDollarButton').click(function(){
         addDollar();
@@ -128,7 +127,7 @@ function makePurchase(item){
 
         $.ajax({
             type: 'GET',
-            url: 'http://localhost:8080/money/'+  moneyDeposited + '/item/' +itemsId,
+            url: 'http://localhost:8080/money/'+  moneyDeposited + '/item/' +id,
             success: function(status, item){
                 $('#purchaseMessage').text("Thank You!");
                 var quarters = (item.quarters)* .25;
