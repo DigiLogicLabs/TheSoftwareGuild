@@ -27,6 +27,7 @@
         <h1 align="center">Vending Machine</h1>
     </div>
     <ul class="list-group" id="errorMessages"></ul>
+    
     <div class="container" id="container">
         <div class="col-xs-8">
             <div class="jumbotron col-xs-12" id="mainButtons">
@@ -35,6 +36,7 @@
                 <div class="row">
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item1" role="button">
+                            <p class="idClass" id="id1"></p>
                             <h4 class= "nameClass" id="name1"></h4>
                             <p class= "priceClass" id="price1"></p>
                             <p class= "quantityClass" id="quantity1"></p>
@@ -42,6 +44,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item2" role="button">
+                            <p class="idClass" id="id2"></p>
                             <h4 class= "nameClass" id="name2"></h4>
                             <p class= "priceClass" id="price2"></p>
                             <p class= "quantityClass" id="quantity2"></p>
@@ -49,6 +52,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item3" role="button">
+                            <p class="idClass" id="id3"></p>
                             <h4 class= "nameClass" id="name3"></h4>
                             <p class= "priceClass" id="price3"></p>
                             <p class= "quantityClass" id="quantity3"></p>
@@ -56,6 +60,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item4" role="button">
+                            <p class="idClass" id="id4"></p>
                             <h4 class= "nameClass" id="name4"></h4>
                             <p class= "priceClass" id="price4"></p>
                             <p class= "quantityClass" id="quantity4"></p>
@@ -63,6 +68,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item5" role="button">
+                            <p class="idClass" id="id5"></p>
                             <h4 class= "nameClass" id="name5"></h4>
                             <p class= "priceClass" id="price5"></p>
                             <p class= "quantityClass" id="quantity5"></p>
@@ -70,6 +76,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item6" role="button">
+                            <p class="idClass" id="id6"></p>
                             <h4 class= "nameClass" id="name6"></h4>
                             <p class= "priceClass" id="price6"></p>
                             <p class= "quantityClass" id="quantity6"></p>
@@ -77,6 +84,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item7" role="button">
+                            <p class="idClass" id="id7"></p>
                             <h4 class= "nameClass" id="name7"></h4>
                             <p class= "priceClass" id="price7"></p>
                             <p class= "quantityClass" id="quantity7"></p>
@@ -84,6 +92,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item8" role="button">
+                            <p class="idClass" id="id8"></p>
                             <h4 class= "nameClass" id="name8"></h4>
                             <p class= "priceClass" id="price8"></p>
                             <p class= "quantityClass" id="quantity8"></p>
@@ -91,6 +100,7 @@
                     </div>
                     <div class="col-xs-4">
                         <a class="itemClass btn btn-default" id="item9" role="button">
+                            <p class="idClass" id="id9"></p>
                             <h4 class= "nameClass" id="name9"></h4>
                             <p class= "priceClass" id="price9"></p>
                             <p class= "quantityClass" id="quantity9"></p>
@@ -133,6 +143,7 @@
 
                 <h5 align="left">Item:</h5>
                 <div align="center"><input readonly placeholder="Item" type="text" id="itemsCost"></input>
+                <div align="center"><input readonly placeholder="Item" type="text" id="itemsID"></input>
                 </div>
                 <div class="col-xs-6">
                     <br>
@@ -149,10 +160,7 @@
                 <h3 align="center">Change</h3>
                 <div align="center">
                     <input type="text" id="itemBox" class="text-center" readonly></input>
-                    <p id="changeQuarters"></p>
-                    <p id="changeDimes"></p>
-                    <p id="changeNickels"></p>
-                    <p id="changePennies"></p>
+                    <div type="text" id="itemChange" class="text-center" readonly></div>
                 <button id="makeChange" type="button" name="button">Make Change</button>
                 </div>
             </div>
